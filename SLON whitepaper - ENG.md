@@ -24,6 +24,9 @@ The proposed system is resistant to Big brother survilence and any discriminatio
 
 ## SLON and recommendation letter markets
 
+<img alt="5 step" src="https://github.com/slonigiraf/slon-whitepaper/blob/main/img/SLON-market-ENG.jpg?raw=true" width="500">
+Fig. 1. SLON and recommendation letter markets connection
+
 - A refeeree buys SLON tokens to issue recommendations
 - The refeeree sell a recommendation letter to a trusted worker about the worker
 - The worker sell (or transfer for free) the right to slash the referee to an employer during interview to get a job
