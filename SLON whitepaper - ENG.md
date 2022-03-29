@@ -1,4 +1,4 @@
-# SLON - digital reputation to make responsible recomendations
+# SLON - digital reputation for responsible recomendation creation
 
 _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmail.com) _/ Telegram:_ [_@denisreshetov_](https://t.me/denisreshetov)
 
@@ -22,18 +22,45 @@ The proposed system is resistant to Big brother survilence and any discriminatio
 - All recommendation letters are stored privately on personal devices and showed only to organizations that the person trust
 - SLON token balance doesn't show if person is good or bad, accounts are anonymous and a person can have multiple accounts to store SLON tokens.
 
+## Recommendation letter as an insurance
+Insurances are needed to protect from financial loss. Recommendations backed by SLON are [insurances](https://en.wikipedia.org/wiki/Insurance) in fact.
+
+An organization which provides insurance known as an underwriter. A person who buys insurance is known as a policyholder, and a person covered under the policy is called an insured.
+In case of SLON recommendation letters the refeeree is the underwriter, the worker is the policyholder and the employer is the insured.
+
+The insurance creation requires a payment from the policyholder to the insurer known as premium in exchange for the insurer's obligartion to provide a reimbursement to the insured in the event of a covered loss. SLON recommendation letter creation also requires the premium which is paid by the worker to the referee.
+
+A contract provided to the policyholder is called the insurance policy, which explains in which case the insurer will compensate the insured. The recommendation letter is the the insurance policy.
+
+Note, that the worker can optionally charge money from the employer for the insurance policy (recommendation letter) usage.
+
+In a case of a loss the insured submits a claim to the insurer for processing by a [claims adjuster](https://www.investopedia.com/terms/c/claims-adjuster.asp). The claims adjuster determines the extent of the underwriter liability. In case of SLON recommendation letters the employer itself is a claims adjuster. However the employer can't do unfair decisions because it will ruin its public creditability and hiring process: no new workers will wish to provide recommendation letters to such employer.
+
+| Insurances | SLON recommendation letters |
+| ----------- | ----------- |
+| Underwriter | Refeeree |
+| Policyholder | Worker |
+| Insured | Employer |
+| Insurance policy | Recommendation letter |
+| Premium | A payment from a worker to the referee for a recommendation creation |
+| Covered loss | Employer's financial loss due to a lack of skills of the worker |
+| Claims Adjuster | The employer itself monitored by the worker and the refeeree |
+| Reimbursement | SLON token transfer from the referee to the employer |
+
+*Table 1. SLON recommendation letters in terms of insurances*
+
 ## SLON and recommendation letter markets
 
 <img alt="5 step" src="https://github.com/slonigiraf/slon-whitepaper/blob/main/img/SLON-market-ENG.jpg?raw=true" width="500">
-Fig. 1. SLON and recommendation letter markets connection
+
+*Fig. 1. SLON and recommendation letter markets connection*
 
 - A refeeree buys SLON tokens to issue recommendations
 - The refeeree sell a recommendation letter to a trusted worker about the worker
 - The worker sell (or transfer for free) the right to slash the referee to an employer during interview to get a job
 - In case of the fake recommendation the employer slashes the referee and sell SLON to compensate time of HR specialist lost for interviewing the worker that lacks skills mentioned in the recommendation letter
 
-The described scheme can by viewed from a traditional insurance market perspective. The recommendation letter is an insurance.
-The referee is an insurance issuer, the worker is a buyer of the insurance, the emploer is a party who gets a reimbursement. Thus, recommendation letter market is a insurance market for skills. Note, that the worker can optionally charge money from the employer for insurance usage.
+
 
 Paid interview is a known instrument to recruit a specialist when there is a deficit of qualified candidates. The recommendation letter market can save a budget for paid interviews because employers can get a reimbursement for a weak candidate.
 
