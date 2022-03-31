@@ -3,21 +3,28 @@
 _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmail.com) _/ Telegram:_ [_@denisreshetov_](https://t.me/denisreshetov)
 
 ## Annotation
-Reputation is the cornerstone of economic life and is essential for the fast growth. Recommendation letters is a well-known decentralized approach to manage reputation that has proven to be effective and stable for more than centuries.
+Reputation is the cornerstone of economic life and is essential for the fast growth. 
+Here I describe a novel approach to reputation digitalization that is discrimination resistant, simplifies hiring process and revolutionize education in schools, universities and at companies.
 
-A referee issues recommendation about a worker that can be shown to an employer during interview.
+Recommendation letters is a well-known decentralized approach to manage reputation that has proven to be effective and stable for more than centuries.
+
+A referee issues recommendation about a worker that can be shown to an employer during an interview.
 Unfortunately such traditional recommendation letter lacks responsibility of the referee. An evil referee can issue a fake recommendation that will damage the employer. This fact limits usage of recommendations during hiring and leads to an excess of time that workers and HR specialists spend on job interviews: the same skills are reexamined multiple times in different companies just because employers can't fully trust referees.
 
-I propose to split a person's reputation on two parts to solve this problem and make recommendations fake resistant. 
+I propose to split a person's reputation on two parts to solve this problem and make recommendations fake resistant.
 
 The reputation of a person should consist of two parts:
 
 - Electronic recommendations letters issued about the person, backed by referees SLON balance
 - SLON token balance of the person as a referee
 
-With such approach employer can slash SLON tokens of evil referee if a worker lacks skills mentioned in a recommendation letter. Employer can sell such SLON tokens on an open market to compensate HR specialist time lost for reexamining of fake recommendation.
+With such approach employer can slash SLON tokens of evil referee if a worker lacks skills mentioned in a recommendation letter. Employer can sell such SLON tokens on an open market to compensate HR specialist time lost for reexamining of fake recommendation. 
 
-The proposed system is resistant to Big brother surveillance and any discrimination:
+There is a probability that the good referee will be pennalized in case if the worker will forget skills mentioned at the recommendation. As in insurance business model the worker should pay a premium to the referee, otherwise the referee will always lose money in long term.
+
+The described scheme was initially developed at Slonigiraf private school to motivate teachers work well and eventually leaded to a p2p-learing model: every student can be mentor and issue a recommendation about his mentee, the mentee pays the mentor for teaching and issuing a recommendation. The senior teacher buys recommendation letters about mentees by providing them A-grades (or money). It seems that such approach can be a great option to rebuild all types of education.
+
+The proposed reputation system is resistant to Big brother surveillance and any discrimination:
 
 - All recommendation letters are stored privately on personal devices and showed only to organizations that the person trust
 - SLON token balance doesn't show if person is good or bad, accounts are anonymous and a person can have multiple accounts to store SLON tokens.
@@ -51,9 +58,9 @@ In a case of a loss the insured submits a claim to the insurer for processing by
 
 ## SLON and recommendation letter markets
 
-<img alt="5 step" src="https://github.com/slonigiraf/slon-whitepaper/blob/main/img/SLON-market-ENG.jpg?raw=true" width="500">
+<img alt="Image" src="https://github.com/slonigiraf/slon-whitepaper/blob/main/img/SLON-market-ENG.jpg?raw=true" width="500">
 
-*Fig. 1. SLON and recommendation letter markets connection*
+*Figure 1. SLON and recommendation letter markets connection*
 
 - A refeeree buys SLON tokens to issue recommendations
 - The refeeree sell a recommendation letter to a trusted worker about the worker
@@ -67,7 +74,7 @@ Paid interview is a known instrument to recruit a specialist when there is a def
 ## Corporate education
 TODO: write this section about mentors and mentees
 
-## Education
+## School and university education
 
 Education is lagging behind the changes in the world. Companies need new skills, and educational organizations don&#39;t have time to teach them. Often, education does not even know about their relevance.
 
@@ -91,9 +98,8 @@ Most often, teachers act as guarantors, and students buy guarantees in the hope 
 
 To issue a guarantee, the teacher must create an account within the Slonigiraf system and transfer the required amount of SLON there. The number of SLONs on this account is known to all Slonigiraf users. Thanks to this information, they know that the guarantee can be used and the amount of SLON specified in the guarantee can be debited from the teacher&#39;s account. SLONs on the teacher&#39;s account are not blocked in any way. You can, for example, put 100 SLON on your account and issue 5 guarantees, each of which will allow you to fine the teacher by 100 SLON. After the execution of the penalty on the first guarantee, the account will be reset to zero, and everyone will know that the other 4 guarantees are not valid yet. If the teacher refills his account with 100 SLON, these 4 guarantees will become invalid again. An example of the application of the Slonigiraf methodology in a public school can be seen in Fig. 1.
 
-![](RackMultipart20220329-4-1bbpg69_html_e0e8edf5a58ef0ef.png)
-
-Figure 1. An example of the application of the Slonigiraf methodology in a public school.
+<img alt="Image" src="https://github.com/slonigiraf/slon-whitepaper/blob/main/img/SLON-in-school-ENG.jpg?raw=true" width="500">
+*Figure 2. An example of the application of the Slonigiraf methodology in a public school*
 
 ## Adoption
 
