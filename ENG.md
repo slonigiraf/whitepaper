@@ -1,4 +1,4 @@
-# SLON - digital reputation for responsible recomendation creation
+# SLON - digital reputation for responsible recommendation creation
 
 _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmail.com) _/ Telegram:_ [_@denisreshetov_](https://t.me/denisreshetov)
 
@@ -6,7 +6,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 Reputation is the cornerstone of economic life and is essential for the fast growth. Recommendation letters is a well-known decentralized approach to manage reputation that has proven to be effective and stable for more than centuries.
 
 A referee issues recommendation about a worker that can be shown to an employer during interview.
-Unfortunately such traditional recommendation letter lacks responsibility of the referee. An evil referee can issue a fake recommendation that will damage the employer. This fact limits usage of recommendations during hiring and leads to an excess of time that workers and HR specialists spend on job interviews: the same skills are reexamined muliple times in different companies just because employers can't fully trust referees.
+Unfortunately such traditional recommendation letter lacks responsibility of the referee. An evil referee can issue a fake recommendation that will damage the employer. This fact limits usage of recommendations during hiring and leads to an excess of time that workers and HR specialists spend on job interviews: the same skills are reexamined multiple times in different companies just because employers can't fully trust referees.
 
 I propose to split a person's reputation on two parts to solve this problem and make recommendations fake resistant. 
 
@@ -17,7 +17,7 @@ The reputation of a person should consist of two parts:
 
 With such approach employer can slash SLON tokens of evil referee if a worker lacks skills mentioned in a recommendation letter. Employer can sell such SLON tokens on an open market to compensate HR specialist time lost for reexamining of fake recommendation.
 
-The proposed system is resistant to Big brother survilence and any discrimination:
+The proposed system is resistant to Big brother surveillance and any discrimination:
 
 - All recommendation letters are stored privately on personal devices and showed only to organizations that the person trust
 - SLON token balance doesn't show if person is good or bad, accounts are anonymous and a person can have multiple accounts to store SLON tokens.
@@ -63,6 +63,9 @@ In a case of a loss the insured submits a claim to the insurer for processing by
 
 
 Paid interview is a known instrument to recruit a specialist when there is a deficit of qualified candidates. The recommendation letter market can save a budget for paid interviews because employers can get a reimbursement for a weak candidate.
+
+## Corporate education
+TODO: write this section about mentors and mentees
 
 ## Education
 
