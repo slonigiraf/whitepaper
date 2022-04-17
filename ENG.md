@@ -18,13 +18,13 @@ The reputation of a person should consist of two parts:
 - Electronic recommendations letters issued about the person, backed by referees SLON balance
 - SLON token balance of the person as a referee
 
-With such approach employer can slash SLON tokens of evil referee if a worker lacks skills mentioned in a recommendation letter. Employer can sell such SLON tokens on an open market to compensate HR specialist time lost for reexamining of fake recommendation. 
+With such approach an employer can slash SLON tokens of an evil referee if a worker lacks skills mentioned in a recommendation letter. The employer can sell such SLON tokens on an open market to compensate HR specialist time lost for the reexamining of a fake recommendation. 
 
-There is a probability that the good referee will be pennalized in case if the worker will forget skills mentioned at the recommendation. As in insurance business model the worker should pay a premium to the referee, otherwise the referee will always lose money in long term.
+There is a probability that the good referee will be pennalized in a case if the worker will forget skills mentioned at the recommendation. As in insurance business model the worker should pay a premium to the referee, otherwise the referee will always lose money in long term.
 
-The described scheme was initially developed at Slonigiraf private school to motivate teachers work well and eventually leaded to a p2p-learing model: every student can be mentor and issue a recommendation about his mentee, the mentee pays the mentor for teaching and issuing a recommendation. The senior teacher buys recommendation letters about mentees by providing them A-grades (or money). It seems that such approach can be a great option to rebuild all types of education.
+The described scheme was initially developed at Slonigiraf private school to motivate teachers work well and eventually leaded to a p2p-learing model: every student can be a mentor and issue a recommendation about his mentee, the mentee pays the mentor for teaching and issuing a recommendation. The senior teacher buys recommendation letters about mentees by providing them A-grades (or money). It seems that such approach can be a great option to rebuild all types of education.
 
-The proposed reputation system is resistant to Big brother surveillance and any discrimination:
+The proposed reputation system is resistant to a Big brother surveillance and any discrimination:
 
 - All recommendation letters are stored privately on personal devices and showed only to organizations that the person trust
 - SLON token balance can't be transformed in a discriminative Social Credit System (ex. Chineese one) because anyone can buy SLON. If a criminal buys SLON and shows high SLON balance it doesn't make him good or socially acceptable. Moreover accounts are anonymous and a person can have multiple accounts to store SLON tokens.
