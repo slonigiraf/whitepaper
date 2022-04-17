@@ -27,7 +27,7 @@ The described scheme was initially developed at Slonigiraf private school to mot
 The proposed reputation system is resistant to Big brother surveillance and any discrimination:
 
 - All recommendation letters are stored privately on personal devices and showed only to organizations that the person trust
-- SLON token balance doesn't show if person is good or bad, accounts are anonymous and a person can have multiple accounts to store SLON tokens.
+- SLON token balance can't be transformed in a discriminative Social Credit System (ex. Chineese one) because anyone can buy SLON. If a criminal buys SLON and shows high SLON balance it doesn't make him good or socially acceptable. Moreover accounts are anonymous and a person can have multiple accounts to store SLON tokens.
 
 ## Recommendation letter as an insurance
 Insurances are needed to protect from financial loss. Recommendations backed by SLON are [insurances](https://en.wikipedia.org/wiki/Insurance) in fact.
