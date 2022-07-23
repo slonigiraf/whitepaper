@@ -13,7 +13,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ### Начало разговора с учеником
 
-⬇️ **Составьте вопросы типа: "Что я скажу, чтобы обучить сложению?", из следующих заготовок. Запишите на листочек и сверьте с нашим вариантом. Записывать обязательно!!!**
+⬇️ **Составьте вопросы типа: "Что я скажу, чтобы обучить сложению?", из следующих заготовок**
 
 ---
 
@@ -21,7 +21,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ✍️ Запишите свой вариант
 
-<details><summary>Нажмите, чтобы увидеть, как правильно</summary>
+<details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
 **Что я скажу, чтобы обучить** умножению **?**
 
@@ -37,7 +37,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ✍️ Запишите свой вариант
 
-<details><summary>Нажмите, чтобы увидеть, как правильно</summary>
+<details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
 **Что я скажу, чтобы обучить** складывать дроби **?**
 
@@ -53,7 +53,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ✍️ Запишите свой вариант
 
-<details><summary>Нажмите, чтобы увидеть, как правильно</summary>
+<details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
 **Что я скажу, чтобы обучить** технике "эхо" **?**
 
@@ -69,7 +69,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ✍️ Запишите свой вариант
 
-<details><summary>Нажмите, чтобы увидеть, как правильно</summary>
+<details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
 **Что я скажу, чтобы обучить** успокаиваться после новостей **?**
 
@@ -85,7 +85,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ✍️ Запишите свой вариант
 
-<details><summary>Нажмите, чтобы увидеть, как правильно</summary>
+<details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
 
 **Что я скажу, чтобы обучить** с чего начинать разговор с учеником **?**
@@ -98,7 +98,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ---
 
-⬇️ **Исправьте ответы на следующие вопросы. Запишите на листочек и сверьте с нашим вариантом. Записывать обязательно!!!**
+⬇️ **Исправьте ответы на следующие вопросы**
 
 ❓ Что я скажу, чтобы обучить умножению?
 
@@ -106,7 +106,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ✍️ Исправьте неправильный ответ, запишите свой вариант
 
-<details><summary>Нажмите, чтобы увидеть, как правильно</summary>
+<details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
 **Придумай задание типа** "Cколько будет 2 умножить на 3?"
 
@@ -124,7 +124,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ✍️ Исправьте неправильный ответ, запишите свой вариант
 
-<details><summary>Нажмите, чтобы увидеть, как правильно</summary>
+<details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
 **Придумай задание типа** "Cколько будет 1 плюс 3?"
 
@@ -142,7 +142,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ✍️ Исправьте неправильный ответ, запишите свой вариант
 
-<details><summary>Нажмите, чтобы увидеть, как правильно</summary>
+<details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
 **Придумай задание типа** "Cколько будет 6 минус 5?"
 
@@ -160,7 +160,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ✍️ Исправьте неправильный ответ, запишите свой вариант
 
-<details><summary>Нажмите, чтобы увидеть, как правильно</summary>
+<details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
 **Придумай задание типа** "Cколько будет 6 разделить на 2?"
 
@@ -178,7 +178,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ✍️ Исправьте неправильный ответ, запишите свой вариант
 
-<details><summary>Нажмите, чтобы увидеть, как правильно</summary>
+<details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
 **Придумай задание типа "Что я скажу, чтобы обучить** сложению **?"**
 
