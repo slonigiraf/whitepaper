@@ -769,7 +769,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ---
 
-ℹ️ Я говорю в ответ на задание Ивана, что 8 умножить на 2 равно 15. Иван раньше ошибался, но первый раз поправил меня.**
+ℹ️ Я говорю в ответ на задание Ивана, что 8 умножить на 2 равно 15. Иван раньше ошибался, но первый раз поправил меня.
 
 ✍️ Запишите свой вариант
 
@@ -829,7 +829,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
-Супер **. Давай еще раз. Придумай новое задание.**
+Супер! **Давай еще раз. Придумай новое задание.**
 
 </details>
 
@@ -847,7 +847,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
-Отлично **. Давай еще раз. Придумай новое задание.**
+Отлично! **Давай еще раз. Придумай новое задание.**
 
 </details>
 
@@ -865,7 +865,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
-Молодец **. Давай еще раз. Придумай новое задание.**
+Молодец! **Давай еще раз. Придумай новое задание.**
 
 </details>
 
@@ -883,7 +883,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
-Прекрасно **. Давай еще раз. Придумай новое задание.**
+Прекрасно! **Давай еще раз. Придумай новое задание.**
 
 </details>
 
@@ -901,7 +901,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
-Замечательно **. Давай еще раз. Придумай новое задание.**
+Замечательно! **Давай еще раз. Придумай новое задание.**
 
 </details>
 
@@ -1009,7 +1009,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
-Прекрасно **. Сегодня достаточно. В следующий раз повторим.**
+Прекрасно! **Сегодня достаточно. В следующий раз повторим.**
 
 </details>
 
@@ -1027,7 +1027,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
-Замечательно **. Сегодня достаточно. В следующий раз повторим.**
+Замечательно! **Сегодня достаточно. В следующий раз повторим.**
 
 </details>
 
@@ -1045,7 +1045,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
-Отлично **. Сегодня достаточно. В следующий раз повторим.**
+Отлично! **Сегодня достаточно. В следующий раз повторим.**
 
 </details>
 
@@ -1063,7 +1063,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
-Молодец **. Сегодня достаточно. В следующий раз повторим.**
+Молодец! **Сегодня достаточно. В следующий раз повторим.**
 
 </details>
 
@@ -1081,7 +1081,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
-Супер **. Сегодня достаточно. В следующий раз повторим.**
+Супер! **Сегодня достаточно. В следующий раз повторим.**
 
 </details>
 
