@@ -19,7 +19,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ Мне нужно обучить ученика умножению.
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -35,7 +35,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ Друг хочет научиться складывать дроби.
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -51,7 +51,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ Коллега по работе просит научить технике "эхо".
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -67,7 +67,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ Мама не умеет успокаиваться после новостей, поэтому поддерживает политиков, разжигающих войны.
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -83,7 +83,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ Хочу обучить друга, с чего начинать разговор с учеником.
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -199,7 +199,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ Я предложил ученику придумать задание на вычитание, а он ответил: "Сколько будет 6 плюс 3?"
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -215,7 +215,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ Ученик должен был придумать задание на деление, а придумал на вычитание.
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -231,7 +231,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ Иван изучает сложение, учитель попросил, чтобы он придумал задание. Иван ответил: "5 плюс 3 равно 8."
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -247,7 +247,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ Я обучаю Марию, как вычитать числа. Она придумала задание "Расскажи правила вычитания."
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -263,7 +263,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ Ученик придумал задание: "Сколько будет 5 разделить на 0?", а надо было на умножение чисел на 1.
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -379,7 +379,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ Ученик изучает умножение
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -395,7 +395,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ Я обучаю ученика вычитанию
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -411,7 +411,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ Ученик изучает деление
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -427,7 +427,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ Пытаюсь научить друга сложению
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -443,7 +443,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ Мария изучает умножение чисел на 1
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -559,7 +559,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ Ученик изучает сложение
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -575,7 +575,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ Я обучаю вычитанию
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -591,7 +591,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ Вероника изучает деление
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -607,7 +607,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ Николай пытается понять умножение
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -623,7 +623,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ Мой друг изучает деление на 0
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -739,7 +739,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ Ученик не замечал мои ошибки, но в первый раз верно исправил меня, когда я сказал, что 3 плюс 1 равно 13.
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -755,7 +755,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ Ученик придумывал несколько раз хорошие задания на вычитание, но не мог исправить, когда я специально ошибался. И тут впервые исправил, когда я сказал, что 5 минус 2 равно 7.
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -771,7 +771,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ Я говорю в ответ на задание Ивана, что 8 умножить на 2 равно 15. Иван раньше ошибался, но первый раз поправил меня.
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -787,7 +787,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ Марина исправила меня, когда я сказал, что 4 разделить на 2 равно 1. Это случилось в первый раз, раньше она не замечала мои ошибки.
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -803,7 +803,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ Я специально ошибся в ответе на вопрос ученика, и сказал, что 5 умножить на 0 равно 50. Ученик после ряда ошибок сегодня впервые меня исправил, сказал, что это будет 0.
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -919,7 +919,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ Сегодня в течение занятия по сложению Мария много раз ошибалась, но сейчас меня исправила, когда я сказал, что 3 плюс 3 равно 11. За сегодня это уже второй раз подряд.
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -935,7 +935,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ Ученик еще раз меня исправил, когда я сказал, что 5 минус 2 равно 1.
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -951,7 +951,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ Иван второй раз подряд меня за сегодня поправил. В этот раз он сказал, что 6 разделить на 3 равно 2, а не 1.
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -967,7 +967,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ Я слышу, что на мой неправильный ответ, что 10 умножить на 2 равно 100, ученик реагирует правильно и исправляет. В предыдущем задании на умножении ученик тоже поправил меня верно.
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -983,7 +983,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ Ученик поправил меня второй раз подряд про деление на 0, на этот раз он сказал, что 7 делить на 0 нельзя, хотя я говорил, что получится 70.
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -1099,7 +1099,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ Я занимался с Иваном вчера сложением, а сегодня, когда я сказал, что 3 плюс 3 равно 66, он меня сразу без тренировки исправил.
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -1115,7 +1115,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ Ученик во время второго занятия по вычитанию прямо сразу вначале занятия исправляет, что 5 минус 2 равно 3, а не 7.
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -1131,7 +1131,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ Иван сегодня без тренировки меня исправляет, что 5 умножить на 6, равно 30, а не 56.
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -1147,7 +1147,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ Я ответил 70 на вопрос своего ученика, сколько будет 7 минус 0, а он меня сразу исправил, хотя сегодня мы не тренировали этот навык.
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -1163,7 +1163,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ Разбираем деление чисел уже несколько дней подряд, и тут ученик сразу меня исправляет, когда я специально отвечаю с ошибкой, что 9 разделить на 3 равно 39.
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -1279,7 +1279,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ ситуация
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -1295,7 +1295,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ ситуация
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -1311,7 +1311,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ ситуация
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -1327,7 +1327,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ ситуация
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -1343,7 +1343,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ ситуация
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -1459,7 +1459,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ ситуация
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -1475,7 +1475,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ ситуация
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -1491,7 +1491,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ ситуация
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -1507,7 +1507,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ ситуация
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -1523,7 +1523,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ ситуация
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -1639,7 +1639,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ ситуация
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -1655,7 +1655,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ ситуация
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -1671,7 +1671,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ ситуация
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -1687,7 +1687,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ ситуация
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -1703,7 +1703,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ ситуация
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -1819,7 +1819,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ ситуация
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -1835,7 +1835,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ ситуация
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -1851,7 +1851,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ ситуация
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -1867,7 +1867,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ ситуация
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -1883,7 +1883,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ ситуация
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -1999,7 +1999,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ ситуация
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -2015,7 +2015,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ ситуация
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -2031,7 +2031,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ ситуация
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -2047,7 +2047,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ ситуация
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -2063,7 +2063,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ ситуация
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -2179,7 +2179,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ ситуация
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -2195,7 +2195,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ ситуация
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -2211,7 +2211,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ ситуация
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -2227,7 +2227,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ ситуация
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
@@ -2243,7 +2243,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ℹ️ ситуация
 
-✍️ Запишите свой вариант
+✍️ Придумайте задание и запишите
 
 <details><summary><ins>Нажмите</ins>, чтобы увидеть, как правильно</summary>
 
