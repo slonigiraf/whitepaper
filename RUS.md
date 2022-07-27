@@ -8,39 +8,39 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 [2. Правила эффективного обучения](https://github.com/slonigiraf/slon-whitepaper/blob/main/RUS.md#%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0-%D1%8D%D1%84%D1%84%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F)
 
-- [Друг придумывает задание, похожее на моё]()
+- [Друг придумывает задание, похожее на моё](https://github.com/slonigiraf/slon-whitepaper/blob/main/RUS.md#%D0%B4%D1%80%D1%83%D0%B3-%D0%BF%D1%80%D0%B8%D0%B4%D1%83%D0%BC%D1%8B%D0%B2%D0%B0%D0%B5%D1%82-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BF%D0%BE%D1%85%D0%BE%D0%B6%D0%B5%D0%B5-%D0%BD%D0%B0-%D0%BC%D0%BE%D1%91)
 
-- [Исправляю непохожие задания]()
+- [Исправляю непохожие задания](https://github.com/slonigiraf/slon-whitepaper/blob/main/RUS.md#%D0%B8%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%8F%D1%8E-%D0%BD%D0%B5%D0%BF%D0%BE%D1%85%D0%BE%D0%B6%D0%B8%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F)
 
-- [Специально придумываю неверные ответы]()
+- [Специально придумываю неверные ответы](https://github.com/slonigiraf/slon-whitepaper/blob/main/RUS.md#%D1%81%D0%BF%D0%B5%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE-%D0%BF%D1%80%D0%B8%D0%B4%D1%83%D0%BC%D1%8B%D0%B2%D0%B0%D1%8E-%D0%BD%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%B5-%D0%BE%D1%82%D0%B2%D0%B5%D1%82%D1%8B)
 
-- [Показываю, где я ошибся]()
+- [Показываю, где я ошибся](https://github.com/slonigiraf/slon-whitepaper/blob/main/RUS.md#%D0%BF%D0%BE%D0%BA%D0%B0%D0%B7%D1%8B%D0%B2%D0%B0%D1%8E-%D0%B3%D0%B4%D0%B5-%D1%8F-%D0%BE%D1%88%D0%B8%D0%B1%D1%81%D1%8F)
 
-- [Повторяем один раз, если друг меня поправил]()
+- [Повторяем один раз, если друг меня поправил](https://github.com/slonigiraf/slon-whitepaper/blob/main/RUS.md#%D0%BF%D0%BE%D0%B2%D1%82%D0%BE%D1%80%D1%8F%D0%B5%D0%BC-%D0%BE%D0%B4%D0%B8%D0%BD-%D1%80%D0%B0%D0%B7-%D0%B5%D1%81%D0%BB%D0%B8-%D0%B4%D1%80%D1%83%D0%B3-%D0%BC%D0%B5%D0%BD%D1%8F-%D0%BF%D0%BE%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB)
 
-- [Повторяем в другой день]()
+- [Повторяем в другой день](https://github.com/slonigiraf/slon-whitepaper/blob/main/RUS.md#%D0%BF%D0%BE%D0%B2%D1%82%D0%BE%D1%80%D1%8F%D0%B5%D0%BC-%D0%B2-%D0%B4%D1%80%D1%83%D0%B3%D0%BE%D0%B9-%D0%B4%D0%B5%D0%BD%D1%8C)
 
-- [Поручаюсь за друга - продаю ему гарантию на его навык]()
+- [Поручаюсь за друга - продаю ему гарантию на его навык](https://github.com/slonigiraf/slon-whitepaper/blob/main/RUS.md#%D0%BF%D0%BE%D1%80%D1%83%D1%87%D0%B0%D1%8E%D1%81%D1%8C-%D0%B7%D0%B0-%D0%B4%D1%80%D1%83%D0%B3%D0%B0---%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D1%8E-%D0%B5%D0%BC%D1%83-%D0%B3%D0%B0%D1%80%D0%B0%D0%BD%D1%82%D0%B8%D1%8E-%D0%BD%D0%B0-%D0%B5%D0%B3%D0%BE-%D0%BD%D0%B0%D0%B2%D1%8B%D0%BA)
 
-- [Друг продает гарантию работодателю дороже, чем купил]()
+- [Друг продает гарантию работодателю дороже, чем купил](https://github.com/slonigiraf/slon-whitepaper/blob/main/RUS.md#%D0%B4%D1%80%D1%83%D0%B3-%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B5%D1%82-%D0%B3%D0%B0%D1%80%D0%B0%D0%BD%D1%82%D0%B8%D1%8E-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BE%D0%B4%D0%B0%D1%82%D0%B5%D0%BB%D1%8E-%D0%B4%D0%BE%D1%80%D0%BE%D0%B6%D0%B5-%D1%87%D0%B5%D0%BC-%D0%BA%D1%83%D0%BF%D0%B8%D0%BB)
 
-- [Становлюсь богатым, распространяя эффективное обучение]()
+- [Становлюсь богатым, распространяя эффективное обучение](https://github.com/slonigiraf/slon-whitepaper/blob/main/RUS.md#%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D1%8E%D1%81%D1%8C-%D0%B1%D0%BE%D0%B3%D0%B0%D1%82%D1%8B%D0%BC-%D1%80%D0%B0%D1%81%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%8F%D1%8F-%D1%8D%D1%84%D1%84%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B5-%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)
 
-- [Заинтересовываю знакомого]()
+- [Заинтересовываю знакомого](https://github.com/slonigiraf/slon-whitepaper/blob/main/RUS.md#%D0%B7%D0%B0%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D0%BE%D0%B2%D1%8B%D0%B2%D0%B0%D1%8E-%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D0%BE%D0%B3%D0%BE)
 
-- [Рассказываю, какой бонус получит знакомый]()
+- [Рассказываю, какой бонус получит знакомый](https://github.com/slonigiraf/slon-whitepaper/blob/main/RUS.md#%D1%80%D0%B0%D1%81%D1%81%D0%BA%D0%B0%D0%B7%D1%8B%D0%B2%D0%B0%D1%8E-%D0%BA%D0%B0%D0%BA%D0%BE%D0%B9-%D0%B1%D0%BE%D0%BD%D1%83%D1%81-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%82-%D0%B7%D0%BD%D0%B0%D0%BA%D0%BE%D0%BC%D1%8B%D0%B9)
 
-- [Продаю, полученные жетоны SLON, чтобы разбогатеть]()
+- [Продаю, полученные жетоны SLON, чтобы разбогатеть](https://github.com/slonigiraf/slon-whitepaper/blob/main/RUS.md#%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D1%8E-%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5-%D0%B6%D0%B5%D1%82%D0%BE%D0%BD%D1%8B-slon-%D1%87%D1%82%D0%BE%D0%B1%D1%8B-%D1%80%D0%B0%D0%B7%D0%B1%D0%BE%D0%B3%D0%B0%D1%82%D0%B5%D1%82%D1%8C)
 
-- [Навык распространяется быстро как мем]()
+- [Навык распространяется быстро как мем](https://github.com/slonigiraf/slon-whitepaper/blob/main/RUS.md#%D0%BD%D0%B0%D0%B2%D1%8B%D0%BA-%D1%80%D0%B0%D1%81%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%8F%D0%B5%D1%82%D1%81%D1%8F-%D0%B1%D1%8B%D1%81%D1%82%D1%80%D0%BE-%D0%BA%D0%B0%D0%BA-%D0%BC%D0%B5%D0%BC)
 
-- [Помогаю решить мировые проблемы]()
+- [Помогаю решить мировые проблемы](https://github.com/slonigiraf/slon-whitepaper/blob/main/RUS.md#%D0%BF%D0%BE%D0%BC%D0%BE%D0%B3%D0%B0%D1%8E-%D1%80%D0%B5%D1%88%D0%B8%D1%82%D1%8C-%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D1%8B%D0%B5-%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D1%8B)
 
-- [Благотворители тоже платят моему другу]()
+- [Благотворители тоже платят моему другу](https://github.com/slonigiraf/slon-whitepaper/blob/main/RUS.md#%D0%B1%D0%BB%D0%B0%D0%B3%D0%BE%D1%82%D0%B2%D0%BE%D1%80%D0%B8%D1%82%D0%B5%D0%BB%D0%B8-%D1%82%D0%BE%D0%B6%D0%B5-%D0%BF%D0%BB%D0%B0%D1%82%D1%8F%D1%82-%D0%BC%D0%BE%D0%B5%D0%BC%D1%83-%D0%B4%D1%80%D1%83%D0%B3%D1%83)
 
-- [Становлюсь богатым, решая мировые проблемы]()
+- [Становлюсь богатым, решая мировые проблемы](https://github.com/slonigiraf/slon-whitepaper/blob/main/RUS.md#%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D1%8E%D1%81%D1%8C-%D0%B1%D0%BE%D0%B3%D0%B0%D1%82%D1%8B%D0%BC-%D1%80%D0%B5%D1%88%D0%B0%D1%8F-%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D1%8B%D0%B5-%D0%BF%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D1%8B)
 
-[3. Получить бонус]()
+[3. Получить бонус](https://github.com/slonigiraf/slon-whitepaper/blob/main/RUS.md#%D0%BF%D0%BE%D0%BB%D1%83%D1%87%D0%B8%D1%82%D1%8C-%D0%B1%D0%BE%D0%BD%D1%83%D1%81)
 
 </details>
 
@@ -2940,7 +2940,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ## Получить бонус
 
-1. Изучите [правила эффективного обучения]()
+1. Изучите [правила эффективного обучения](https://github.com/slonigiraf/slon-whitepaper/blob/main/RUS.md#%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0-%D1%8D%D1%84%D1%84%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F)
 
 2. Повторите их на следующий день
 
