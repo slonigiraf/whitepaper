@@ -1,6 +1,6 @@
 # SLON - эффективное обучение
 
-_Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmail.com) _/ Telegram:_ [_@denisreshetov_](https://t.me/denisreshetov)
+_Решетов Денис / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmail.com) _/ Telegram:_ [_@denisreshetov_](https://t.me/denisreshetov)
 
 <details><summary><ins>Содержание</ins></summary>
 
@@ -2959,9 +2959,9 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 5. Если у Вас нет друзей, кто может за Вас поручиться, напишите в [наш чат](https://t.me/slonigiraf_chat): "Кто может создать гарантии на мои навыки эффективного обучения?"
 
 6. Продайте гарантии организации Slonigiraf, обратившись к одному из благотворителей:
-    - [Denis Reshetov](https://t.me/denisreshetov)
+    - [Решетов Денис](https://t.me/denisreshetov)
     - список дополняется...
 
 7. Если Вы работодатель, купите услугу внедрения эффективного обучения у партнеров Slonigiraf:
-    - [Denis Reshetov](https://t.me/denisreshetov)
+    - [ИП Решетов Денис Александрович](https://t.me/denisreshetov)
     - список дополняется...
