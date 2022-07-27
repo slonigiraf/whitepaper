@@ -2940,6 +2940,8 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ## Получите бонус
 
+**Когда Ваша компания внедрит SLON, Вы не сможете получить бонус от нас. Торопитесь!**
+
 1. Изучите [правила эффективного обучения](https://github.com/slonigiraf/slon-whitepaper/blob/main/RUS.md#%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0-%D1%8D%D1%84%D1%84%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D1%8F)
 
 2. Повторите их на следующий день
@@ -2957,5 +2959,9 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 5. Если у Вас нет друзей, кто может за Вас поручиться, напишите в [наш чат](https://t.me/slonigiraf_chat): "Кто может создать гарантии на мои навыки эффективного обучения?"
 
 6. Продайте гарантии организации Slonigiraf, обратившись к одному из благотворителей:
+    - [Denis Reshetov](https://t.me/denisreshetov)
+    - список дополняется...
+
+7. Если Вы работодатель, купите услугу внедрения эффективного обучения у партнеров Slonigiraf:
     - [Denis Reshetov](https://t.me/denisreshetov)
     - список дополняется...
