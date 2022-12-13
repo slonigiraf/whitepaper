@@ -5,7 +5,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 ## Annotation
 This paper proposes an approach on how to use the established practice of writing laws to coordinate people in small groups so that they can jointly create documents whose content is economically beneficial to them.
 
-## Что такое "закон"
+## What is "law"
 The laws have been known since the beginning of human civilization. As the exact definition of the term "law" is debatable, we will use the following: a law is a set of instructions that people have agreed to follow, and also oblige to follow. Examples of what we understand by laws include: the Bill of Rights (USA); article on DNA on Wikipedia; history schoolbook; the balance of a specific bitcoin wallet.
 
 | Legislator | Law | Why is it the law | How to fix |
@@ -16,17 +16,10 @@ The laws have been known since the beginning of human civilization. As the exact
 | Bitcoin | balance of a specific bitcoin wallet | it is possible to pay with this balance | spend a lot of money (perform a 51% attack) |
 
 ## How laws are written
-Law writing is linked to economic activities, for example, US congressional campaigns for politicians are [funded by lobbyists](https://en.wikipedia.org/wiki/Lobbying_in_the_United_States) who push for legislation to improve their well-being; editors of Wikipedia articles either contribute their time, which is a valuable asset, or may receive funding from a group of individuals who are interested in advancing their point of view; and the miners of the Bitcoin network take money for changing the balances of wallets.
 
-There are cases when a foreign country changes the laws of another country, spending money on it.
+Law writing is linked to economic activities, for example, US congressional campaigns for politicians are [funded by lobbyists](https://en.wikipedia.org/wiki/Lobbying_in_the_United_States) who push for legislation to improve their well-being; editors of articles on Wikipedia spend their time, which is a valuable asset, [fighting for the content of the article](https://en.wikipedia.org/wiki/Wikipedia:Edit_warring); the author of the textbook and the publishing house can receive funding from a group of people who are interested in promoting [their point of view](https://meduza.io/feature/2019/10/21/ministerstvo-prosveschenie); and the miners of the Bitcoin network [take money](https://bitcoin.org/bitcoin.pdf) for changing the balances of wallets. There are even cases when a foreign country changes the laws of another country, [spending money on it](https://www.reuters.com/article/politicsNews/idUSN2450753720071024).
 
 It can be argued that the purchase of laws (lobbying) is a generally accepted global norm, and the law itself is a commodity that can be bought and sold. Lobbying is an important tool for creating consensus in society, and leads to economic well-being (see US lobbying practices).
-
-редакторы статей на Википедии либо тратят свое время, которое является ценным активом, либо могут получать финансирования от группы лиц, которая заинтересована в продвижении [своей точки зрения](https://en.wikipedia.org/wiki/Wikipedia:Edit_warring); а майнеры сети Bitcoin [берут деньги](https://bitcoin.org/bitcoin.pdf) за изменения балансов кошельков.
-
-Известны случаи, когда зарубежная страна изменяет законы другой страны, [тратя на это деньги](https://www.reuters.com/article/politicsNews/idUSN2450753720071024).
-
-Можно утверждать, что покупка законов (лоббирование) является общепринятой мировой нормой, а сам закон является товаром, который можно купить и продать. Лоббирование является важным инструментом создания консенсуса в обществе, и ведет к экономическому благополучию (см. практику лоббирования в США).
 
 ## Прямая демократия и законы
 Издание законов важно для координации людей, однако, в небольших проектах его использование проблематично: оно неповоротливо и требует наличия большого количества игроков: избирателей, законодателей и лоббистов.
