@@ -4,15 +4,17 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ## Annotation
 
-This paper proposes an approach on how to use the established practice of writing laws to coordinate people in small groups so that they can jointly create documents whose content is economically beneficial to them.
+The paper suggests using the process of lawmaking as a model for coordinating small groups of people to jointly create documents that would be economically beneficial to them.
 
 ## Acknowledgements
 
 Thanks to Aleksey Pastutsan for discussing the concepts of this document and suggesting the idea of "weaking of the law".
 
+The author of this paper would like to thank the creators of ChatGPT for providing a tool that was used to help polish the language in this paper.
+
 ## What is "law"
 
-The laws have been known since the beginning of human civilization. As the exact definition of the term "law" is debatable, we will use the following: a law is a set of instructions that people have agreed to follow, and also oblige to follow. Examples of what we understand by laws include: the Bill of Rights (USA); article on DNA on Wikipedia; history schoolbook; the balance of a specific bitcoin wallet.
+Laws are a fundamental part of human civilization and are generally understood to be a set of instructions or rules that people have agreed to follow. Examples of laws include the Bill of Rights in the United States, the Wikipedia article on DNA, history textbooks, and the balance of a specific bitcoin wallet. However, the exact definition of the term "law" is a matter of debate. In this document, we will use the above definition for the purposes of our discussion.
 
 | Legislator | Law | Why is it the law | How to fix |
 | ----------- | ----------- | ----------- | ----------- |
@@ -23,9 +25,9 @@ The laws have been known since the beginning of human civilization. As the exact
 
 ## How laws are written
 
-Law writing is linked to economic activities, for example, US congressional campaigns for politicians are [funded by lobbyists](https://en.wikipedia.org/wiki/Lobbying_in_the_United_States) who push for legislation to improve their well-being; editors of articles on Wikipedia spend their time, which is a valuable asset, [fighting for the content of the article](https://en.wikipedia.org/wiki/Wikipedia:Edit_warring); the author of the textbook and the publishing house can receive funding from a group of people who are interested in promoting [their point of view](https://meduza.io/feature/2019/10/21/ministerstvo-prosveschenie); and the miners of the Bitcoin network [take money](https://bitcoin.org/bitcoin.pdf) for changing the balances of wallets. There are even cases when a foreign country changes the laws of another country, [spending money on it](https://www.reuters.com/article/politicsNews/idUSN2450753720071024).
+The process of lawmaking is closely tied to economic activity. For example, politicians in the United States often rely on [funding from lobbyists](https://en.wikipedia.org/wiki/Lobbying_in_the_United_States) to run for office and push for legislation that benefits those lobbyists. Similarly, editors of Wikipedia articles may spend their valuable time and resources [fighting for the content](https://en.wikipedia.org/wiki/Wikipedia:Edit_warring) of an article, and the author of a textbook or a publishing house may receive funding from individuals or groups who wish to promote [their point of view](https://meduza.io/feature/2019/10/21/ministerstvo-prosveschenie). In the case of Bitcoin, miners [are paid](https://bitcoin.org/bitcoin.pdf) for their work in changing the balances of wallets. In some cases, foreign countries may even intervene in the lawmaking process of another country [with money](https://www.reuters.com/article/politicsNews/idUSN2450753720071024).
 
-It can be argued that the purchase of laws (lobbying) is a generally accepted global norm, and the law itself is a commodity that can be bought and sold. Lobbying is an important tool for creating consensus in society, and leads to economic well-being (see US lobbying practices).
+It can be argued that the practice of buying and selling laws, also known as lobbying, is a global norm that is generally accepted and serves as an important tool for creating consensus in society. This in turn can lead to economic well-being, as seen in the United States with its well-established lobbying practices.
 
 ## Direct democracy and laws
 
