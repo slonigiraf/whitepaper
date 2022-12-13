@@ -1,4 +1,4 @@
-# GIRAF - legislation for communities
+# GIRAF - Legislation for communities
 
 _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmail.com) _/ Telegram:_ [_@denisreshetov_](https://t.me/denisreshetov)
 
