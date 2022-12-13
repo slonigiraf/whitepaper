@@ -14,18 +14,18 @@ The author of this paper would like to thank the creators of ChatGPT for providi
 
 ## What is "law"
 
-Laws are a fundamental part of human civilization and are generally understood to be a set of instructions or rules that people have agreed to follow. Examples of laws include the Bill of Rights in the United States, the Wikipedia article on DNA, history textbooks, and the balance of a specific bitcoin wallet. However, the exact definition of the term "law" is a matter of debate. In this document, we will use the above definition for the purposes of our discussion.
+Laws are a fundamental part of human civilization and are generally understood to be a set of instructions or rules that people have agreed to follow. Examples of laws include the Bill of Rights in the United States, the Wikipedia article on DNA, history schoolbook, and the balance of a specific bitcoin wallet. However, the exact definition of the term "law" is a matter of debate. In this document, we will use the above definition for the purposes of our discussion.
 
 | Legislator | Law | Why is it the law | How to fix |
 | ----------- | ----------- | ----------- | ----------- |
 | US Congress | Bill of rights (USA) | can be achieved through the court of their rights | pay a lot of money to legislators (lobby) |
 | Wikipedia | article about DNA | is used as a standard of truthful information in society | make edits yourself and convince other editors |
-| Schoolbook author | history textbook | used in schools to teach children | bribe the author and publisher |
+| Schoolbook author | history schoolbook | used in schools to teach children | bribe the author and publisher |
 | Bitcoin | balance of a specific bitcoin wallet | it is possible to pay with this balance | spend a lot of money (perform a 51% attack) |
 
 ## How laws are written
 
-The process of lawmaking is closely tied to economic activity. For example, politicians in the United States often rely on [funding from lobbyists](https://en.wikipedia.org/wiki/Lobbying_in_the_United_States) to run for office and push for legislation that benefits those lobbyists. Similarly, editors of Wikipedia articles may spend their valuable time and resources [fighting for the content](https://en.wikipedia.org/wiki/Wikipedia:Edit_warring) of an article, and the author of a textbook or a publishing house may receive funding from individuals or groups who wish to promote [their point of view](https://meduza.io/feature/2019/10/21/ministerstvo-prosveschenie). In the case of Bitcoin, miners [are paid](https://bitcoin.org/bitcoin.pdf) for their work in changing the balances of wallets. In some cases, foreign countries may even intervene in the lawmaking process of another country [with money](https://www.reuters.com/article/politicsNews/idUSN2450753720071024).
+The process of lawmaking is closely tied to economic activity. For example, politicians in the United States often rely on [funding from lobbyists](https://en.wikipedia.org/wiki/Lobbying_in_the_United_States) to run for office and push for legislation that benefits those lobbyists. Similarly, editors of Wikipedia articles may spend their valuable time and resources [fighting for the content](https://en.wikipedia.org/wiki/Wikipedia:Edit_warring) of an article, and the author of a schoolbook or a publishing house may receive funding from individuals or groups who wish to promote [their point of view](https://meduza.io/feature/2019/10/21/ministerstvo-prosveschenie). In the case of Bitcoin, miners [are paid](https://bitcoin.org/bitcoin.pdf) for their work in changing the balances of wallets. In some cases, foreign countries may even intervene in the lawmaking process of another country [with money](https://www.reuters.com/article/politicsNews/idUSN2450753720071024).
 
 It can be argued that the practice of buying and selling laws, also known as lobbying, is a global norm that is generally accepted and serves as an important tool for creating consensus in society. This in turn can lead to economic well-being, as seen in the United States with its well-established lobbying practices.
 
