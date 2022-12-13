@@ -18,7 +18,7 @@ Laws are a fundamental part of human civilization and are generally understood t
 
 | Legislator | Law | Why is it the law | How to fix |
 | ----------- | ----------- | ----------- | ----------- |
-| US Congress | Bill of rights (USA) | can be achieved through the court of their rights | pay a lot of money to legislators (lobby) |
+| US Congress | Bill of rights (USA) | is used in courts | pay a lot of money to legislators (lobby) |
 | Wikipedia | article about DNA | is used as a standard of truthful information in society | make edits yourself and convince other editors |
 | Schoolbook author | history schoolbook | used in schools to teach children | bribe the author and publisher |
 | Bitcoin | balance of a specific bitcoin wallet | it is possible to pay with this balance | pay miners for a transaction |
