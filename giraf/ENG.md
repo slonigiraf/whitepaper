@@ -3,9 +3,15 @@
 _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmail.com) _/ Telegram:_ [_@denisreshetov_](https://t.me/denisreshetov)
 
 ## Annotation
+
 This paper proposes an approach on how to use the established practice of writing laws to coordinate people in small groups so that they can jointly create documents whose content is economically beneficial to them.
 
+## Acknowledgements
+
+Thanks to Aleksey Pastutsan for discussing the concepts of this document and suggesting the idea of "weaking of the law".
+
 ## What is "law"
+
 The laws have been known since the beginning of human civilization. As the exact definition of the term "law" is debatable, we will use the following: a law is a set of instructions that people have agreed to follow, and also oblige to follow. Examples of what we understand by laws include: the Bill of Rights (USA); article on DNA on Wikipedia; history schoolbook; the balance of a specific bitcoin wallet.
 
 | Legislator | Law | Why is it the law | How to fix |
@@ -21,29 +27,31 @@ Law writing is linked to economic activities, for example, US congressional camp
 
 It can be argued that the purchase of laws (lobbying) is a generally accepted global norm, and the law itself is a commodity that can be bought and sold. Lobbying is an important tool for creating consensus in society, and leads to economic well-being (see US lobbying practices).
 
-## Прямая демократия и законы
-Издание законов важно для координации людей, однако, в небольших проектах его использование проблематично: оно неповоротливо и требует наличия большого количества игроков: избирателей, законодателей и лоббистов.
+## Direct democracy and laws
 
-Я предлагаю решение, как использовать законодательство и лоббирование для координации людей в маленьких группах, чтобы они могли совместно создавать документы, содержание которых экономически выгодно для них:
+Legislation is important for coordinating people, however, in small projects its use is problematic: it is clumsy and requires a large number of players: voters, legislators and lobbyists.
 
-- любой человек может опубликовать новый закон, указав сколько денег он добровольно раздает остальным членам группы
-- любой человек может отменить опубликованный закон, раздавая столько же денег, сколько его создатель
-- раздача денег при создании закона происходит в пропорциональной схеме: член группы, у которого больше денег, получает больше, чем тот у которого денег мало.
+I propose a solution for how to use legislation and lobbying to coordinate people in small groups so that they can co-create documents whose content is cost-effective for them:
 
-Раздача денег - это лоббирование обращенное к группе людей. Когда человек раздает свои деньги, он "покупает закон", а, как мы выяснили, "покупка законов" - это устоявшаяся тысячелетями рабочая практика законодателства.
+- anyone can publish a new law by specifying the cost of the law: how much money the author will voluntarily distribute to the rest of the group
+- any person can weaken the law by reducing its value by the amount of money that he distributes to the rest of the group
+- anyone can repeal a published law by weakening the law to zero cost
+- the distribution of money during the creation of the law takes place in a proportional scheme: a member of the group who has more money receives more than the one who has little money.
 
-Пропорциональная схема раздачи денег нужна для поддержания рыночных стимулов. Если раздавать всем поровну, то неизбежно появятся люди, которые живут на деньги от раздачи, но сами при этом ничего не создают полезного для общества.
+Giving money is lobbying for a group of people. When a person distributes his money, he "buys the law", and, as we found out, "purchase of laws" is a working practice of legislation that has been established for thousands of years.
 
-Раздача денег и регистрация законов на данный момент удобно может быть реализована в виде блокчейн-приложения, потому что такой подход позволяет честно вести передачу денег, а также вести открытый реестр законов.
+A proportional scheme for distributing money is needed to maintain market incentives. If distributed equally to everyone, then inevitably there will be people who live on the money from the distribution, but at the same time they themselves do not create anything useful for society.
 
-## Архитектура приложения
+The distribution of money and registration of laws at the moment can be conveniently implemented as a blockchain application, because this approach allows you to honestly transfer money, as well as maintain a public register of laws.
 
-Я предлагаю общую архитектуру системы для создания и лоббирования законов. Каждая запись в базе данных должна содержать в себе:
+## Application architecture
 
-- уникальный идентификатор закона, например его порядковый номер
-- хэш текста закона, например, cid текста закона в [системе IPFS](https://ipfs.tech/)
-- количество денег, розданнных при создании закона
+I propose a general system architecture for the creation and lobbying of laws. Each entry in the database must contain:
 
-Хэш текста - это строчка длинной в несколько десятков букв, например хэш-[cid](https://docs.filebase.com/ipfs/ipfs-cids) имеет длинну 46 букв. Если в текст закона добавить хотя бы одну дополнительную точку, то хэш получится кардинально другим. Нам нужны хэши законов, чтобы в целях экономии места хранить текста закона не на блокчейне, а в [системе IPFS](https://ipfs.tech/), и при этом не подвергаться опасности, что текст кто-то незаметно перепишет.
+- a unique identifier of the law, for example, its serial number
+- hash of the text of the law, for example, cid of the text of the law in the [IPFS system](https://ipfs.tech/)
+- the amount of money distributed when the law was created
 
-Раздача денег может быть осуществлена путем уменьшения баланса кошелька создателя закона и пропорционального увеличения балансов кошельков остальных людей, либо путем "сжигания" названной суммы с баланса кошелька создателя закона. Эти подходы [эквиваленты с точки зрения экономики](https://www.coindesk.com/learn/what-does-it-mean-to-burn-crypto/), т.к. "сжигание" ведет к повышению ценности оставшихся денег, кроме того "сжигание" является более простой вычислительной операцией на блокчейне.
+The text hash is a string of several tens of letters long, for example hash-[cid](https://docs.filebase.com/ipfs/ipfs-cids) is 46 letters long. If at least one additional letter is added to the text of the law, then the hash will turn out to be radically different. We need hashes of laws so that, in order to save space, we store the text of the law not on the blockchain, but in the [IPFS system] (https://ipfs.tech/), and at the same time not be in danger of someone quietly rewriting the text.
+
+The distribution of money can be carried out by reducing the balance of the wallet of the creator of the law and proportionally increasing the balances of the wallets of other people, or by "burning" the named amount from the balance of the wallet of the creator of the law. These approaches are [economic equivalents](https://www.coindesk.com/learn/what-does-it-mean-to-burn-crypto/) as “burning” leads to an increase in the value of the remaining money, in addition, “burning” is a simpler computational operation on the blockchain.
