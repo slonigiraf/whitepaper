@@ -31,29 +31,25 @@ It can be argued that the practice of buying and selling laws, also known as lob
 
 ## Direct democracy and laws
 
-Legislation is important for coordinating people, however, in small projects its use is problematic: it is clumsy and requires a large number of players: voters, legislators and lobbyists.
+This paper proposes a solution for using legislation and lobbying to coordinate small groups of people in the creation of documents that are beneficial for them. The proposed approach involves several key steps:
 
-I propose a solution for how to use legislation and lobbying to coordinate people in small groups so that they can co-create documents whose content is cost-effective for them:
+- Any person can publish a new law by specifying the cost of the law, or the amount of money that the author is willing to distribute to the rest of the group.
+- Other members of the group can weaken the law by reducing its value through their own contributions of money to the group.
+- Any person can repeal a published law by weakening it to zero cost through the distribution of money to other members of the group.
+- The distribution of money during the lawmaking process takes place according to a proportional scheme, where individuals with more money receive a greater share of the funds than those with less money.
 
-- anyone can publish a new law by specifying the cost of the law: how much money the author will voluntarily distribute to the rest of the group
-- any person can weaken the law by reducing its value by the amount of money that he distributes to the rest of the group
-- anyone can repeal a published law by weakening the law to zero cost
-- the distribution of money during the creation of the law takes place in a proportional scheme: a member of the group who has more money receives more than the one who has little money.
+This approach to lawmaking uses the established practice of lobbying, or the buying and selling of laws, to coordinate people in small groups. The proportional distribution of funds is necessary to maintain market incentives and prevent individuals from simply living off the contributions of others without contributing anything useful to society.
 
-Giving money is lobbying for a group of people. When a person distributes his money, he "buys the law", and, as we found out, "purchase of laws" is a working practice of legislation that has been established for thousands of years.
-
-A proportional scheme for distributing money is needed to maintain market incentives. If distributed equally to everyone, then inevitably there will be people who live on the money from the distribution, but at the same time they themselves do not create anything useful for society.
-
-The distribution of money and registration of laws at the moment can be conveniently implemented as a blockchain application, because this approach allows you to honestly transfer money, as well as maintain a public register of laws.
+The distribution of money and the registration of laws can be conveniently implemented using a blockchain technology, as this would allow for transparent and honest transfers of funds, as well as the maintenance of a public record of laws.
 
 ## Application architecture
 
-I propose a general system architecture for the creation and lobbying of laws. Each entry in the database must contain:
+This paper proposes a general system architecture for the creation and lobbying of laws in small groups. The proposed system would involve the use of a database to store entries for each law, with each entry containing:
 
-- a unique identifier of the law, for example, its serial number
-- hash of the text of the law, for example, cid of the text of the law in the [IPFS system](https://ipfs.tech/)
-- the amount of money distributed when the law was created
+- A unique identifier for the law, such as a serial number.
+- A hash of the text of the law, which could be generated using a system such as the [IPFS](https://ipfs.tech/).
+- The amount of money that was distributed when the law was created.
 
-The text hash is a string of several tens of letters long, for example hash-[cid](https://docs.filebase.com/ipfs/ipfs-cids) is 46 letters long. If at least one additional letter is added to the text of the law, then the hash will turn out to be radically different. We need hashes of laws so that, in order to save space, we store the text of the law not on the blockchain, but in the [IPFS system] (https://ipfs.tech/), and at the same time not be in danger of someone quietly rewriting the text.
+The use of hashes for the text of laws would allow for the efficient storage of laws using a system like IPFS, while also providing protection against unauthorized changes to the text of the laws. 
 
-The distribution of money can be carried out by reducing the balance of the wallet of the creator of the law and proportionally increasing the balances of the wallets of other people, or by "burning" the named amount from the balance of the wallet of the creator of the law. These approaches are [economic equivalents](https://www.coindesk.com/learn/what-does-it-mean-to-burn-crypto/) as “burning” leads to an increase in the value of the remaining money, in addition, “burning” is a simpler computational operation on the blockchain.
+The distribution of funds could be accomplished by reducing the balance of the wallet of the law's creator and proportionally increasing the balances of other members' wallets, or by "burning" the specified amount from the creator's wallet balance. These approaches are [economically equivalent](https://www.coindesk.com/learn/what-does-it-mean-to-burn-crypto/), as "burning" money leads to an increase in the value of the remaining funds. Additionally, "burning" is a simpler computational operation on the blockchain.
