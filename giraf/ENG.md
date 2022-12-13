@@ -1,22 +1,30 @@
-# GIRAF - законодательство для сообществ
+# GIRAF - legislation for communities
 
-_Решетов Денис / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmail.com) _/ Telegram:_ [_@denisreshetov_](https://t.me/denisreshetov)
+_Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmail.com) _/ Telegram:_ [_@denisreshetov_](https://t.me/denisreshetov)
 
-## Аннотация
-В этом документе предлагается подход, как использовать сложившуюся практику написания законов для координации людей в маленьких группах, чтобы они могли совместно создавать документы, содержание которых экономически выгодно для них.
+## Annotation
+This paper proposes an approach on how to use the established practice of writing laws to coordinate people in small groups so that they can jointly create documents whose content is economically beneficial to them.
 
 ## Что такое "закон"
-Законы известны с начала человеческой цивилизации. Поскольку точное определение термина "закон" является спорным, мы будем использовать следующее: закон — это набор инструкций, которые люди согласились выполнять, а также обязывать выполнять. К примерам того, что мы понимаем под законами относятся: билль о правах (США); статья о ДНК в Википедии; учебник по истории; баланс конкретного биткоин-кошелька.
+The laws have been known since the beginning of human civilization. As the exact definition of the term "law" is debatable, we will use the following: a law is a set of instructions that people have agreed to follow, and also oblige to follow. Examples of what we understand by laws include: the Bill of Rights (USA); article on DNA on Wikipedia; history schoolbook; the balance of a specific bitcoin wallet.
 
-| Законодатель | Закон | Почему это закон | Как исправить |
+| Legislator | Law | Why is it the law | How to fix |
 | ----------- | ----------- | ----------- | ----------- |
-| Конгресс в США | билль о правах (США) | можно добиться через суд своих прав | заплатить много денег законодателям (пролоббировать) |
-| Википедия | статья о ДНК | используется, как стандарт правдивой информации в обществе | самостоятельно внести правки и убедить других редакторов |
-| Автор учебника | учебник по истории | используется в школах для обучения детей | подкупить автора и издательство |
-| Bitcoin | баланс конкретного биткоин-кошелька | возможно расплачиваться данным балансом | потратить много денег (совершить атаку 51%) |
+| US Congress | Bill of rights (USA) | can be achieved through the court of their rights | pay a lot of money to legislators (lobby) |
+| Wikipedia | article about DNA | is used as a standard of truthful information in society | make edits yourself and convince other editors |
+| Schoolbook author | history textbook | used in schools to teach children | bribe the author and publisher |
+| Bitcoin | balance of a specific bitcoin wallet | it is possible to pay with this balance | spend a lot of money (perform a 51% attack) |
 
-## Как пишутся законы
-Написание законов связано с экономической деятельностью, например, избирательные компании политиков в Конгресс США [финансируются лоббистами](https://en.wikipedia.org/wiki/Lobbying_in_the_United_States), которые добиваются принятия закона, улучшающего их благосостояние; редакторы статей на Википедии тратят свое время, которое является ценным активом, [борясь за содержание статьи](https://en.wikipedia.org/wiki/Wikipedia:Edit_warring); автор учебника и издательство могут получать финансирования от группы лиц, которая заинтересована в продвижении [своей точки зрения](https://meduza.io/feature/2019/10/21/ministerstvo-prosveschenie); а майнеры сети Bitcoin [берут деньги](https://bitcoin.org/bitcoin.pdf) за изменения балансов кошельков. Известны даже случаи, когда зарубежная страна изменяет законы другой страны, [тратя на это деньги](https://www.reuters.com/article/politicsNews/idUSN2450753720071024).
+## How laws are written
+Law writing is linked to economic activities, for example, US congressional campaigns for politicians are [funded by lobbyists](https://en.wikipedia.org/wiki/Lobbying_in_the_United_States) who push for legislation to improve their well-being; editors of Wikipedia articles either contribute their time, which is a valuable asset, or may receive funding from a group of individuals who are interested in advancing their point of view; and the miners of the Bitcoin network take money for changing the balances of wallets.
+
+There are cases when a foreign country changes the laws of another country, spending money on it.
+
+It can be argued that the purchase of laws (lobbying) is a generally accepted global norm, and the law itself is a commodity that can be bought and sold. Lobbying is an important tool for creating consensus in society, and leads to economic well-being (see US lobbying practices).
+
+редакторы статей на Википедии либо тратят свое время, которое является ценным активом, либо могут получать финансирования от группы лиц, которая заинтересована в продвижении [своей точки зрения](https://en.wikipedia.org/wiki/Wikipedia:Edit_warring); а майнеры сети Bitcoin [берут деньги](https://bitcoin.org/bitcoin.pdf) за изменения балансов кошельков.
+
+Известны случаи, когда зарубежная страна изменяет законы другой страны, [тратя на это деньги](https://www.reuters.com/article/politicsNews/idUSN2450753720071024).
 
 Можно утверждать, что покупка законов (лоббирование) является общепринятой мировой нормой, а сам закон является товаром, который можно купить и продать. Лоббирование является важным инструментом создания консенсуса в обществе, и ведет к экономическому благополучию (см. практику лоббирования в США).
 
