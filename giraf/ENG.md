@@ -44,7 +44,7 @@ The distribution of money and the registration of laws can be conveniently imple
 
 ## Application architecture
 
-This paper proposes a general system architecture for the creation and lobbying of laws in small groups. The proposed system would involve the use of a database to store entries for each law, with each entry containing:
+I propose a general system architecture for the creation and lobbying of laws in small groups. The proposed system would involve the use of a database to store entries for each law, with each entry containing:
 
 - A unique identifier for the law, such as a serial number.
 - A hash of the text of the law, which could be generated using a system such as the [IPFS](https://ipfs.tech/).
