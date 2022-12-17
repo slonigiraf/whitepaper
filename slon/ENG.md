@@ -4,31 +4,17 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ## Annotation
 
-Reputation is the cornerstone of economic life and is essential for the fast growth.
-Here I describe a novel approach to reputation digitalization that is discrimination resistant, simplifies hiring process and revolutionize education in schools, universities and at companies.
+Reputation is a crucial aspect of economic activity and is necessary for rapid growth. In this article, I propose a new approach to digitalizing reputation that is resistant to discrimination, simplifies the hiring process, and has the potential to revolutionize education in schools, universities, and businesses.
 
-Recommendation letters is a well-known decentralized approach to manage reputation that has proven to be effective and stable for more than centuries.
+Recommendation letters are a decentralized method of managing reputation that has been effective and reliable for centuries. In this system, a referee provides a recommendation about a worker that can be presented to an employer during an interview. However, traditional recommendation letters lack responsibility on the part of the referee, as an unscrupulous referee could issue a fake recommendation that would harm the employer. This limits the use of recommendations in hiring and leads to a waste of time as workers and HR specialists have to repeatedly re-examine the same skills in different companies due to the lack of trust in referees.
 
-A referee issues recommendation about a worker that can be shown to an employer during an interview.
-Unfortunately such traditional recommendation letter lacks responsibility of the referee. An evil referee can issue a fake recommendation that will damage the employer. This fact limits usage of recommendations during hiring and leads to an excess of time that workers and HR specialists spend on job interviews: the same skills are reexamined multiple times in different companies just because employers can't fully trust referees.
+To address this problem, I propose splitting a person's reputation into two parts: electronic recommendation letters issued about the person, backed by the referees' SLON balance, and the SLON token balance of the person as a referee. With this approach, an employer can reduce the SLON tokens of an unscrupulous referee if a worker lacks the skills mentioned in a recommendation letter. The employer can then sell these SLON tokens on the open market to compensate for the time lost by HR specialists in re-examining a fake recommendation.
 
-I propose to split a person's reputation on two parts to solve this problem and make recommendations fake resistant.
+There is a chance that a good referee may be penalized if a worker forgets the skills mentioned in the recommendation. To mitigate this risk, the worker should pay a premium to the referee, similar to an insurance model. In this way, the referee will not lose money in the long term.
 
-The reputation of a person should consist of two parts:
+This system was originally developed at the Slonigiraf private school to motivate teachers to perform well and eventually led to a peer-to-peer learning model: every student can act as a mentor and issue a recommendation about their mentee, and the mentee pays the mentor for teaching and issuing a recommendation. The senior teacher buys recommendation letters about mentees giving them with high grades (or money). This approach has the potential to transform all types of education.
 
-- Electronic recommendations letters issued about the person, backed by referees SLON balance
-- SLON token balance of the person as a referee
-
-With such approach an employer can slash SLON tokens of an evil referee if a worker lacks skills mentioned in a recommendation letter. The employer can sell such SLON tokens on an open market to compensate HR specialist time lost for the reexamining of a fake recommendation.
-
-There is a probability that the good referee will be pennalized in a case if the worker will forget skills mentioned at the recommendation. As in insurance business model the worker should pay a premium to the referee, otherwise the referee will always lose money in long term.
-
-The described scheme was initially developed at Slonigiraf private school to motivate teachers work well and eventually leaded to a p2p-learing model: every student can be a mentor and issue a recommendation about his mentee, the mentee pays the mentor for teaching and issuing a recommendation. The senior teacher buys recommendation letters about mentees by providing them A-grades (or money). It seems that such approach can be a great option to rebuild all types of education.
-
-The proposed reputation system is resistant to a Big brother surveillance and any discrimination:
-
-- All recommendation letters are stored privately on personal devices and showed only to organizations that the person trust
-- SLON token balance can't be transformed in a discriminative Social Credit System (ex. Chineese one) because anyone can buy SLON. If a criminal buys SLON and shows high SLON balance it doesn't make him good or socially acceptable. Moreover accounts are anonymous and a person can have multiple accounts to store SLON tokens.
+The proposed reputation system is resistant to Big Brother surveillance and any form of discrimination: all recommendation letters are stored privately on personal devices and are only shown to organizations that the person trusts; and the SLON token balance cannot be transformed into a discriminatory social credit system (e.g., the Chinese system) because anyone can buy SLON. If a criminal buys SLON and has a high SLON balance, it does not make them good or socially acceptable. Additionally, accounts are anonymous, and a person can have multiple accounts to store SLON tokens.
 
 ## Recommendation letter as an insurance
 
