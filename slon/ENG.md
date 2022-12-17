@@ -19,7 +19,7 @@ The reputation of a person should consist of two parts:
 - Electronic recommendations letters issued about the person, backed by referees SLON balance
 - SLON token balance of the person as a referee
 
-With such approach an employer can slash SLON tokens of an evil referee if a worker lacks skills mentioned in a recommendation letter. The employer can sell such SLON tokens on an open market to compensate HR specialist time lost for the reexamining of a fake recommendation. 
+With such approach an employer can slash SLON tokens of an evil referee if a worker lacks skills mentioned in a recommendation letter. The employer can sell such SLON tokens on an open market to compensate HR specialist time lost for the reexamining of a fake recommendation.
 
 There is a probability that the good referee will be pennalized in a case if the worker will forget skills mentioned at the recommendation. As in insurance business model the worker should pay a premium to the referee, otherwise the referee will always lose money in long term.
 
