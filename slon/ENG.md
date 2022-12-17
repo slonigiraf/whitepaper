@@ -55,21 +55,23 @@ In a case of a loss the insured submits a claim to the insurer for processing by
 - The worker sell (or transfer for free) the right to slash the referee to an employer during interview to get a job
 - In case of the fake recommendation the employer slashes the referee and sell SLON to compensate time of HR specialist lost for interviewing the worker that lacks skills mentioned in the recommendation letter
 
-
-
 Paid interview is a known instrument to recruit a specialist when there is a deficit of qualified candidates. The recommendation letter market can save a budget for paid interviews because employers can get a reimbursement for a weak candidate.
 
 ## Corporate education
 
-TODO: write this section about mentors and mentees
+In the proposed model, corporate education can be transformed by allowing employees to act as mentors and issue recommendations about their mentees, who would then pay the mentor for teaching and issuing a recommendation. This approach could replace traditional training programs and allow for a more personalized and tailored learning experience for employees.
+
+In this system, the HR manager or company director could buy recommendation letters about mentees. It would create a financial incentive for mentees to learn and perform well and a financial incentive for employees to share their knowledge and skills with their colleagues.
+
+Overall, this model has the potential to create a more efficient and effective corporate education system that is tailored to the needs and goals of individual employees. It could also foster a culture of continuous learning and development within the organization.
 
 ## School and university education
 
-Education is lagging behind the changes in the world. Companies need new skills, and educational organizations don&#39;t have time to teach them. Often, education does not even know about their relevance.
+Education is lagging behind the changes in the world. Companies need new skills, and educational organizations don't have time to teach them. Often, education does not even know about their relevance.
 
 We are solving this problem with the help of the market. The market always knows what skills are needed, how to teach them and for whom they are needed. In modern markets, the value is not the product itself, but the guarantee of its quality, thanks to which you can replace the product or get money.
 
-According to the Slonigiraf system, a student buys a skill guarantee from a teacher and resells it to the company they work for or to a philanthropist who finances the student&#39;s education. The guarantee allows them to take an asset from the teacher, SLON coins, in the amount that is recorded in the guarantee, if the student&#39;s skill disappeared. SLON coins play the role of a teacher&#39;s digital reputation that can be bought and sold.
+According to the Slonigiraf system, a student buys a skill guarantee from a teacher and resells it to the company they work for or to a philanthropist who finances the student's education. The guarantee allows them to take an asset from the teacher, SLON coins, in the amount that is recorded in the guarantee, if the student's skill disappeared. SLON coins play the role of a teacher's digital reputation that can be bought and sold.
 
 ## Reputation
 
@@ -81,11 +83,11 @@ The digital reputation of SLON is free from this drawback and does not lead to d
 
 ## Guarantees
 
-Anyone can use a SLON reputation to issue a guarantee for another person&#39;s skill. Because the issuance of a guarantee can lead to a decrease in reputation, the guarantor asks for a certain amount of money from the recipient of the guarantee in exchange for its issuance.
+Anyone can use a SLON reputation to issue a guarantee for another person's skill. Because the issuance of a guarantee can lead to a decrease in reputation, the guarantor asks for a certain amount of money from the recipient of the guarantee in exchange for its issuance.
 
 Most often, teachers act as guarantors, and students buy guarantees in the hope of reselling them to future employers or patrons.
 
-To issue a guarantee, the teacher must create an account within the Slonigiraf system and transfer the required amount of SLON there. The number of SLONs on this account is known to all Slonigiraf users. Thanks to this information, they know that the guarantee can be used and the amount of SLON specified in the guarantee can be debited from the teacher&#39;s account. SLONs on the teacher&#39;s account are not blocked in any way. You can, for example, put 100 SLON on your account and issue 5 guarantees, each of which will allow you to fine the teacher by 100 SLON. After the execution of the penalty on the first guarantee, the account will be reset to zero, and everyone will know that the other 4 guarantees are not valid yet. If the teacher refills his account with 100 SLON, these 4 guarantees will become invalid again. An example of the application of the Slonigiraf methodology in a public school can be seen in Fig. 2.
+To issue a guarantee, the teacher must create an account within the Slonigiraf system and transfer the required amount of SLON there. The number of SLONs on this account is known to all Slonigiraf users. Thanks to this information, they know that the guarantee can be used and the amount of SLON specified in the guarantee can be debited from the teacher's account. SLONs on the teacher's account are not blocked in any way. You can, for example, put 100 SLON on your account and issue 5 guarantees, each of which will allow you to fine the teacher by 100 SLON. After the execution of the penalty on the first guarantee, the account will be reset to zero, and everyone will know that the other 4 guarantees are not valid yet. If the teacher refills his account with 100 SLON, these 4 guarantees will become invalid again. An example of the application of the Slonigiraf methodology in a public school can be seen in Fig. 2.
 
 <img alt="Image" src="https://github.com/slonigiraf/slon-whitepaper/blob/main/img/SLON-in-school-ENG.jpg?raw=true" width="500">
 
@@ -117,7 +119,7 @@ Tutors issue guarantees for the skills they have taught their students. Pupils s
 
 **SLON value training**
 
-To make people learn how to use Slonigiraf in teaching, we buy guarantees for the &quot;SLON Value&quot; skill. Teachers who understand our format, teach their friends, issue them a guarantee, in exchange for the student&#39;s promise to pay off SLON. New users receive 600,000 SLON for this skill from the creators of Slonigiraf. Students give 200 thousand SLON to their teachers for writing a guarantee. You can get SLON in the [Telegram group of the project](https://t.me/slonigiraf)
+To make people learn how to use Slonigiraf in teaching, we buy guarantees for the &quot;SLON Value&quot; skill. Teachers who understand our format, teach their friends, issue them a guarantee, in exchange for the student's promise to pay off SLON. New users receive 600,000 SLON for this skill from the creators of Slonigiraf. Students give 200 thousand SLON to their teachers for writing a guarantee. You can get SLON in the [Telegram group of the project](https://t.me/slonigiraf)
 
 ## Data storage
 
@@ -147,7 +149,7 @@ The relay chain also protects the parachains from attacks.
 
 ## Appendix 1 - Protocol design
 
-1. A student finds a teacher - somewhere offline based on a knowledge field, personal considerations and amount of SLON at the teacher&#39;s escrow account.
+1. A student finds a teacher - somewhere offline based on a knowledge field, personal considerations and amount of SLON at the teacher's escrow account.
 2. The student and teacher trade with each other on the price of insurance issuing during this session and a number of insurances that the student gives to the teacher for revalidation.
 3. The student sends a list of insurances to revalidate - they should be linked to a teacher account with escrow that balance is more than possible fine.
 4. The teacher revalidates them and fines previous teachers for invalid insurances.
