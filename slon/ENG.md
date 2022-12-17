@@ -3,7 +3,8 @@
 _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmail.com) _/ Telegram:_ [_@denisreshetov_](https://t.me/denisreshetov)
 
 ## Annotation
-Reputation is the cornerstone of economic life and is essential for the fast growth. 
+
+Reputation is the cornerstone of economic life and is essential for the fast growth.
 Here I describe a novel approach to reputation digitalization that is discrimination resistant, simplifies hiring process and revolutionize education in schools, universities and at companies.
 
 Recommendation letters is a well-known decentralized approach to manage reputation that has proven to be effective and stable for more than centuries.
@@ -30,6 +31,7 @@ The proposed reputation system is resistant to a Big brother surveillance and an
 - SLON token balance can't be transformed in a discriminative Social Credit System (ex. Chineese one) because anyone can buy SLON. If a criminal buys SLON and shows high SLON balance it doesn't make him good or socially acceptable. Moreover accounts are anonymous and a person can have multiple accounts to store SLON tokens.
 
 ## Recommendation letter as an insurance
+
 Insurances are needed to protect from financial loss. Recommendations backed by SLON are [insurances](https://en.wikipedia.org/wiki/Insurance) in fact.
 
 An organization which provides insurance known as an underwriter. A person who buys insurance is known as a policyholder, and a person covered under the policy is called an insured.
@@ -72,6 +74,7 @@ In a case of a loss the insured submits a claim to the insurer for processing by
 Paid interview is a known instrument to recruit a specialist when there is a deficit of qualified candidates. The recommendation letter market can save a budget for paid interviews because employers can get a reimbursement for a weak candidate.
 
 ## Corporate education
+
 TODO: write this section about mentors and mentees
 
 ## School and university education

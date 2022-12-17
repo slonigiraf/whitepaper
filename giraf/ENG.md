@@ -29,9 +29,27 @@ The process of lawmaking is closely tied to economic activity. For example, poli
 
 It can be argued that the practice of buying and selling laws, also known as lobbying, is a global norm that is generally accepted and serves as an important tool for creating consensus in society. This in turn can lead to economic well-being, as seen in the United States with its well-established lobbying practices.
 
+## Is lobbying bad or good?
+
+Lobbying is the act of attempting to influence decisions made by government officials, typically by private interest groups, individual citizens, or organizations. Lobbying can take many forms, including contacting government officials directly, providing information to support a particular position, and participating in public campaigns to promote a particular cause.
+
+There are both potential positive and negative aspects to lobbying. Some of the potential benefits of lobbying include:
+
+- Advocating for causes that align with the values and interests of the group or individual doing the lobbying
+- Providing a way for individuals or groups to have a voice in the political process and shape public policy
+- Offering a way for groups to bring important issues to the attention of decision-makers
+
+However, there are also potential negative aspects to lobbying, including:
+
+- The potential for special interests to exert disproportionate influence on the political process, potentially at the expense of the general public
+- The potential for lobbying to be used to advance the interests of certain groups over others, leading to inequality and injustice
+- The potential for lobbying to create a sense of cynicism among the public, as people may feel that their voices are not being heard and that decisions are being influenced by powerful interests
+
+Overall, the effects of lobbying can be both positive and negative, depending on the specific circumstances and how it is conducted. It is important for lobbying to be transparent and accountable in order to ensure that it serves the public interest and does not undermine democracy.
+
 ## Direct democracy and laws
 
-This paper proposes a solution for using legislation and lobbying to coordinate small groups of people in the creation of documents that are beneficial for them. The proposed approach involves several key steps:
+This paper proposes a solution for using legislation and transparent lobbying to coordinate small groups of people in the creation of documents that are beneficial for them. The proposed approach involves several key steps:
 
 - Any person can publish a new law by specifying the cost of the law, or the amount of money that the author is willing to distribute to the rest of the group.
 - Other members of the group can weaken the law by reducing its value through their own contributions of money to the group.
