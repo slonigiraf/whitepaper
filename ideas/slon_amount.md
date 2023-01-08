@@ -2,7 +2,7 @@
 
 As SLON tokens are used both for recommendation letters creation and in law creation in GIRAF system we need to sumup need for SLON in both applications. Also it should be taken into account that SLON could eventually become a currency in groups of people that lack an access to the traditional money, for example in schools to make transactions bethween students.
 
-### SLON as a students' money
+### Ideas
 
 In a lesson using SLON, students are encouraged to teach each other and award diplomas to their peers for acquiring specific skills. However, the quality of teaching can vary greatly among students, so it makes sense to allow students to choose which of their peers they want to learn from. This can lead to some students becoming highly sought-after mentors, with long lines of students wanting to learn from them. In this case, it may be tempting to use market mechanisms, such as allowing these mentors to charge fees for their services, in order to regulate the quality of teaching.
 
@@ -26,9 +26,39 @@ Students can use SLON tokens to pay for the services of their mentors. In turn, 
 
 Среднее время, которое требуется для обучения одного человека навыку - 11 минут, что соотвествует примерно 0.5 USD при использовании труда репетитора из Индии.
 
-Стомость залога. Качество диплома можно проверить за 1.3 мин. Стоимость 1.3 мин работы в Индии: 0.065 доллара.
-Следовательно 1 SLON - это сумма минимального залога по диплому, значит 1 SLON = 1.3 мин работы дешевого репетитора в Индии. Таким образом минимальная стоимость диплома: 11/1.3 = 8.46 SLON ~ 8.5 SLON. Максимальная в Индии: 34 SLON.
-Минимальная в США: 36.5, Макс США: 146.5.
+Иными словами товар, который продается это 1 диплом. Стоимость его выражается в SLON.
+Значит 1 SLON - это самая дешевая стоимость 1 димлома. А если сравнивать с другими валютами - это стоимость 11 минут самого дешевого труда по обучению.
+Чтобы оценить стоимость труда по обучению обратимся к данным https://in.talent.com/salary?job=teacher
+
+Можно раздать одинаковое количество слонов каждому ребенку, а можно разное - по уровню зп учителей в каждой стране.
+Если раздать одинаково то возникнет момент когда нужно будет начинать продавать слоны и они будут слишком дешевыми в богатых странах если ставить одинаковую цену по миру
+если ставить разную цены возникнуть перепродажи между регионами, значит точно нужно ставить разную цену.
+Нужны данные по зп по странам
+
+GDP by country: https://www.worldometers.info/gdp/gdp-by-country/
+"On average across OECD countries, the salary cost of teachers per student represents 6.7% of gross domestic product (GDP) per capita at primary level and 8.2% at lower secondary level."
+https://www.oecd-ilibrary.org/sites/a032e93b-en/index.html?itemId=/content/component/a032e93b-en
+
+Then mean teacher salary in India should be 8.2*2321/100=162.36 USD
+
+### SLON as a students' money
+
+Let's calculate the target audience.
+We use population data from here:
+https://population.un.org/wpp/Download/Standard/MostUsed/
+Let's the data from biggest countries that comprise 5B people.
+Children count:
+https://www.theglobaleconomy.com/rankings/percent_children/
+
+Minimal wages:
+https://countryeconomy.com/national-minimum-wage
+
+Teacher minimal wages:
+http://www.salaryexplorer.com/?loc=23&loctype=1&job=123&jobtype=3#browsesalaries
+
+SLON используется как залог. Чтобы рассчитать величину залога, нужно оценить вероятность забывания и время на перепроверку навыка. Если время 1.5 минуты, а вероятность забывания 25%
+https://pubmed.ncbi.nlm.nih.gov/21574747/
+, то требуется потратить 6 минут на поиск забытого навыка. Значит стоимость залога должна быть равна 6 минутам времени эксперта, чтобы проверки осуществлялись. В среднем время эксперта в 3.16 раз дороже времени дешевого учителя. Таким образом стоимость залога должна быть 6*3.16 = 19 минутам времени работы дешевого учителя.
 
 ### SLON in recommendation letters creation
 
