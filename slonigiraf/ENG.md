@@ -14,25 +14,30 @@ Education plays a vital role in the world economy. On average, countries [spend 
 
 To calculate how much SLON we need for students we should take into account:
 
-- Wm - minute wage of a mentor
-- Wt - minute wage of an expert
-- Ts - mean time that a mentor spend to teach a skill
-- Te - mean time that an expert spend to revise a skill
-- F - skill forgetting rate after teaching
-- R - reimbursement that a mentor pays to an expert
-- M - mathematical expectation of mentor earnings for 1 skill:
+- Wm - a minute wage of a mentor
+- Wt - a minute wage of an expert
+- Ts - the mean time that a mentor spend to teach a skill
+- Te - the mean time that an expert spend to revise a skill
+- F - the skill forgetting rate after teaching
+- R - the reimbursement that a mentor pays to an expert
+- M - a mathematical expectation of mentor earnings for 1 skill:
 
-A good proxy for a Wm is a minimum teacher wage per country, and a good proxy for a Wt is a maximum teacher wage per country. We can see than mean Wt/Wm ration per country is a 3.16 thus we will use this estimation of Wt in a following calculations.
-As an expert should get his wage during diploma verification we can write that:
+A good proxy for a Wm is a minimum teacher wage per country, and a good proxy for a Wt is a maximum teacher wage per country. We can see the mean Wt/Wm ration per country is a 3.16 thus we will use this estimation of Wt in a following calculations.
+As an expert should get his wage during a diploma verification we can write that:
+
 R = Te * Wt / F
-During an erly implementation Slonigiraf in private school we got estimation of an expert time for revising a diploma as: Te = 1.5 min
+
+During an early implementation of Slonigiraf in a private school we got estimation of an expert time for revising a diploma as: Te = 1.5 min
 There is a published data that mean skill forgetting rate (F) [is about 0.25](https://link.springer.com/article/10.1007/s10643-022-01332-3), thus:
+
 R = 1.5 * 3.16 * Wm / 0.25 = 18.96 * Wm
 
 We should assume that a mentor should get enough payment for his work during teaching and also money to be able to pay premium to an expert in the case if student will forget the skill. Thus:
+
 M = Ts * Wm + F * R = Ts * Wm + F * Te * Wt / F = Ts * Wm + Te * Wt
 
-During an erly implementation Slonigiraf in private school we got estimation of a mentor time to teach a skill is 11 minutes. Thus:
+During an early implementation Slonigiraf in a private school we got the estimation of a mentor time to teach a skill is 11 minutes. Thus:
+
 M = 11 * Wm + 1.5 * Wt = 11 * Wm + 1.5 * 3.16 * Wm = (11 + 4.74) * Wm = 15.74 * Wm
 
 R/M = (18.96 * Wm) / (15.74 * Wm) ~ 1.2
@@ -42,20 +47,25 @@ Any currency should be comfortable to use. The minumum integers that are good fo
 As we plan to use Slonigiraf in big countries first we should select a country with minimal teacher wage and use R=6 and M=5 in it. We select Ethiopia as such country.
 
 As M = 5,
+
 5 = 15.74 * Wm
+
 Wm = 0.31766201 SLON in Ethiopia.
 
 Minimum teacher salary in Ethiopia is 30 USD.
+
 Wm = 30 USD / (168*60) = 0.00297619 USD
+
 0.00297619 USD = 0.31766201 SLON
+
 1 SLON = 0.009369048 USD, thus 1 SLON ~ 1 USD cent.
 
 Let's calculate the amount of SLON airdrop per person in Ethiopia.
 Let's say 1 out of 32 children knows the skill, then there must be 5 lessons in pairs so that all 32 master the skill. Those who got the skill in the last lesson (16 people) only spend 5 SLON, but do not earn anything.
 The probability of getting into these 16 people is 0.5.
 This means that it is necessary to minimize such cases when a student ends up in the last training group in a row.
-You need 32 * 5 SLON so that this situation does not happen to any student in the world (1.967 B * 0.5^32 < 1).
-Thus 32 * 5 SLON = 160 SLON is enough amount to perform such lessons in Ethiopia.
+
+You need 32 * 5 SLON so that this situation does not happen to any student in the world (1.967 B * 0.5^32 < 1). Thus 32 * 5 SLON = 160 SLON is enough amount to perform such lessons in Ethiopia.
 
 Other countries have different minimum teacher wage. Thus we need to adjust an airdrop for each country separately, see the table 1.
 We need total 4.32E+12 SLON for countries listed in the table 1, and 2.79E+12 SLON for others. Thus 7.11E+12 SLON in total just for an airdrop.
