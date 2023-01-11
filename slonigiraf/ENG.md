@@ -22,29 +22,28 @@ To calculate how much SLON we need for students we should take into account:
 - R - the reimbursement that a mentor pays to an expert
 - M - a mathematical expectation of mentor earnings for 1 skill:
 
-A good proxy for a Wm is a minimum teacher wage per country, and a good proxy for a Wt is a maximum teacher wage per country. We can see the mean Wt/Wm ration per country is a 3.16 thus we will use this estimation of Wt in a following calculations.
+A good proxy for a Wm is a minimum teacher wage per country, and a good proxy for a Wt is a maximum teacher wage per country. We can see the mean Wt/Wm ration per country is a 3.16 thus we will use this estimation of Wt in following calculations.
 As an expert should get his wage during a diploma verification we can write that:
 
 R = Te * Wt / F
 
-During an early implementation of Slonigiraf in a private school we got estimation of an expert time for revising a diploma as: Te = 1.5 min
-There is a published data that mean skill forgetting rate (F) [is about 0.25](https://link.springer.com/article/10.1007/s10643-022-01332-3), thus:
+During an early implementation of Slonigiraf in a private school we got the estimation of an expert time for revising a diploma as 1.5 min (Te). There is a published data that mean skill forgetting rate (F) [is about 0.25](https://link.springer.com/article/10.1007/s10643-022-01332-3), thus:
 
 R = 1.5 * 3.16 * Wm / 0.25 = 18.96 * Wm
 
-We should assume that a mentor should get enough payment for his work during teaching and also money to be able to pay premium to an expert in the case if student will forget the skill. Thus:
+Presumably, a mentor should get enough payment for his work during teaching as well as the money to be able to pay premium to an expert in case a student forgets the skill. Thus:
 
 M = Ts * Wm + F * R = Ts * Wm + F * Te * Wt / F = Ts * Wm + Te * Wt
 
-During an early implementation Slonigiraf in a private school we got the estimation of a mentor time to teach a skill is 11 minutes. Thus:
+During an early implementation of Slonigiraf in a private school we estimated thet the mentor time to teach a skill was 11 minutes. Thus:
 
 M = 11 * Wm + 1.5 * Wt = 11 * Wm + 1.5 * 3.16 * Wm = (11 + 4.74) * Wm = 15.74 * Wm
 
 R/M = (18.96 * Wm) / (15.74 * Wm) ~ 1.2
 
-Any currency should be comfortable to use. The minumum integers that are good for R and M are 6 and 5 respectively.
+Any currency should be comfortable to use. Minumum whole numbers that are good for R and M are 6 and 5 respectively.
 
-As we plan to use Slonigiraf in big countries first we should select a country with minimal teacher wage and use R=6 and M=5 in it. We select Ethiopia as such country.
+As part of our implementation strategy, we plan to prioritize the deployment of Slonigiraf in countries with high population density. Among these coutries we have identified a country with the lowest teacher wage - Ethiopia.
 
 As M = 5,
 
@@ -52,7 +51,7 @@ As M = 5,
 
 Wm = 0.31766201 SLON in Ethiopia.
 
-Minimum teacher salary in Ethiopia is 30 USD.
+A minimum teacher salary in Ethiopia is 30 USD.
 
 Wm = 30 USD / (168*60) = 0.00297619 USD
 
