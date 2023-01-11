@@ -111,3 +111,5 @@ The proposed system, Slonigiraf, is composed of two interconnected components: [
 | TOTAL       | 3,160,273,551         |                                                              |                          |                      |                             |                           | 7.11E+12                   |
 
 *Target audience (7-21 years old people) was estimated by multiplying [all people count](https://population.un.org/wpp/Download/Standard/MostUsed/) on a fraction of [0-14 yo people](https://www.theglobaleconomy.com/rankings/percent_children/) for 2021 year. We assume that in near future it's a good approximate of 7-21 yo group.*
+
+*Teacher wage data in was collected from [salaryexplorer.com](http://www.salaryexplorer.com/?loc=23&loctype=1&job=123&jobtype=3#browsesalaries) on 2023.01.08*
