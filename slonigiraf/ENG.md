@@ -4,18 +4,18 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ## Annotation
 
-We explore the correlation between education and economic growth, and introduce an education system that seeks to outperform existing systems by threefold. The system is intended to improve the retention of acquired skills, and has been implemented in several schools with a reported success. It aims to address challenges in peer learning, such as lack of qualified educators and lack of motivation to teach among students, by providing financial compensation for teaching efforts and requiring mentors to issue recommendation letters. The system is expected to have a positive impact on the world economy, potentially adding 8 trillion USD or 8.4% of the global GDP to the world economy each year.
+We explore the correlation between education and economic growth, and introduce an education system that seeks to outperform existing systems by threefold. The system is intended to reduce the forgetting of acquired skills, and has been implemented in several schools with a reported success. It aims to address challenges in peer learning, such as lack of qualified educators and lack of motivation to teach among students, by providing financial compensation for teaching efforts and requiring mentors to issue recommendation letters. The system is expected to have a positive impact on the world economy, potentially adding 8 trillion USD or 8.4% of the global GDP to the world economy each year.
 
 ## Education and GDP
 
-Education plays a vital role in the world economy. On average, countries [spend 4.2% of their GDP on education](https://data.worldbank.org/indicator/SE.XPD.TOTL.GD.ZS). If the quality of education were to be improved threefold, it could potentially add approximately 8 trillion USD, or 8.4% of the global GDP, to the world economy each year immediately. Traditional schooling typically has a retention rate of [25%](https://link.springer.com/article/10.1007/s10643-022-01332-3) for acquired skills, while using private tutoring can result in a retention rate of 75%. However, private tutoring can be costly and requires a large number of educators. Peer learning, where students mentor each other, [has been attempted in the past](https://en.wikipedia.org/wiki/Peer_learning) but faces two main challenges: the lack of qualified educators and lack of motivation to teach among students. To address these issues, we propose using money to incentivize students that act as mentors and require them to use recommendation letter system to ensure the quality of such lessons. By doing so, we can motivate students to act as educators while also maintaining educational standards. We have implemented this approach in several schools and have observed an increase in skill retention up to 75%, with students having an ample time for both learning and teaching within their existing secondary education programs.
+Education plays a vital role in the world economy. On average, countries [spend 4.2% of their GDP on education](https://data.worldbank.org/indicator/SE.XPD.TOTL.GD.ZS). If the quality of education were to be improved threefold, it could potentially add approximately 8 trillion USD, or 8.4% of the global GDP, to the world economy each year immediately. Traditional schooling typically has a forgetting rate of [75%](https://link.springer.com/article/10.1007/s10643-022-01332-3) for acquired skills, while using private tutoring can reduce the forgetting rate by up to 25%. However, private tutoring can be costly and requires a large number of educators. Peer learning, where students mentor each other, [has been attempted in the past](https://en.wikipedia.org/wiki/Peer_learning) but faces two main challenges: the lack of qualified educators and lack of motivation to teach among students. To address these issues, we propose using money to incentivize students that act as mentors and require them to use recommendation letter system to ensure the quality of such lessons. By doing so, we can motivate students to act as educators while also maintaining educational standards. We have implemented this approach in several schools and have observed a reduce of the forgetting rate by up to 25%, with students having an ample time for both learning and teaching within their existing secondary education programs.
 
-## SLON tokenomics
+## Financial model
 
-To calculate how much SLON we need for students we should take into account:
+To calculate how much money we need for students in such system we should take into account:
 
-- Wm - a minute wage of a mentor
-- Wt - a minute wage of an expert
+- Wm - a minute wage of a mentor, which teach mentee and issues diploma on each skill
+- Wt - a minute wage of an expert, who controls the quality of skills
 - Ts - the mean time that a mentor spend to teach a skill
 - Te - the mean time that an expert spend to revise a skill
 - F - the skill forgetting rate after teaching
