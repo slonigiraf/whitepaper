@@ -8,13 +8,19 @@ We explore how education influences on economic growth, and present an education
 
 ## Education and GDP
 
-Education plays a vital role in the world economy. On average, education comprise [4.2%](https://data.worldbank.org/indicator/SE.XPD.TOTL.GD.ZS) of GDP - final goods and services produced and sold in a specific time period by countries. If the quality of education were to be improved threefold, it could potentially add approximately 8 trillion USD, or 8.4% of the global GDP, to the world economy each year with such effect size from the first year of an educational reform. 
+Education plays a vital role in the world economy. On average, education comprise [4.2%](https://data.worldbank.org/indicator/SE.XPD.TOTL.GD.ZS) of GDP - final goods and services produced and sold in a specific time period by countries. If the quality of education were to be improved threefold, it could potentially add approximately 8 trillion USD, or 8.4% of the global GDP, to the world economy each year with such effect size from the first year of an educational reform.
 
-Traditional schooling typically has a forgetting rate of [75%](https://link.springer.com/article/10.1007/s10643-022-01332-3) for acquired skills, while using private tutoring can reduce the forgetting rate by up to [25%](https://pubmed.ncbi.nlm.nih.gov/21574747/). However, private tutoring can be costly and requires a large number of educators. Peer learning, where students mentor each other, [doesn't outperform](https://pubmed.ncbi.nlm.nih.gov/23691355/) the traditional schooling because of [two main challenges](https://www.tandfonline.com/doi/full/10.1080/01443410500345172): the lack of motivation to teach among students and quality erosion due to the broken telephone effect.
+One way to measure the efficiency of an education system is by determining the average number of skills acquired by a group of students, divided by the total number of skills they were expected to acquire.
 
-To address these issues, we propose using money to incentivize students that act as mentors and require them to use recommendation letter system to ensure the quality of such lessons. By doing so, we can motivate students to act as educators while also maintaining educational standards. We have implemented this approach in several schools and have observed a reduce of the forgetting rate by up to 25%, with students having an ample time for both learning and teaching within their existing secondary education programs.
+Traditional schooling typically has an efficiency about of [25%](https://link.springer.com/article/10.1007/s10643-022-01332-3), while using private tutoring the efficiency can be increased up to [75%](https://pubmed.ncbi.nlm.nih.gov/21574747/). However, private tutoring can be costly and requires a large number of educators. Peer learning, where students mentor each other, [doesn't outperform](https://pubmed.ncbi.nlm.nih.gov/23691355/) the traditional schooling because of [two main challenges](https://www.tandfonline.com/doi/full/10.1080/01443410500345172): the lack of motivation to teach among students and quality erosion due to the broken telephone effect.
+
+To address these issues, we propose using money to incentivize students that act as mentors and require them to use recommendation letter system to ensure the quality of such lessons. By doing so, we can motivate students to act as educators while also maintaining educational standards. We have implemented this approach in several schools and have observed an increase of the education efficiency up to 75%, with students having an ample time for both learning and teaching within their existing secondary education programs.
 
 ## Financial model
+
+Our educational approach forces a mentee to pay their mentor for skill-teaching and the issuance of a diploma, and requires the mentor to be responsible for the issued diploma by providing reimbursement when a mentee forgets the skill certified by the diploma.
+
+To make this happen we need to assure that students have enough money for such economic interaction.
 
 To calculate how much money we need for students in such system we should take into account:
 
