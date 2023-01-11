@@ -4,7 +4,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ## Annotation
 
-We explore how education influences on economic growth, and present an education system that seeks to outperform existing systems by threefold. The system is intended to reduce the forgetting of acquired skills, and has been implemented in several secondary schools with a reported success. It aims to address challenges in peer learning, such as lack of qualified educators and lack of motivation to teach among students, by providing financial compensation for teaching efforts and requiring mentors to issue recommendation letters. The system is expected to have a positive impact on the world economy, potentially adding 8 trillion USD to the world economy each year.
+We explore how education influences on economic growth, and present an education system that seeks to outperform existing systems by threefold. The system is intended to increase the number of acquired skills, and has been implemented in several secondary schools with a reported success. It aims to address challenges in peer learning, such as lack of qualified educators and lack of motivation to teach among students, by providing financial compensation for teaching efforts and requiring mentors to issue recommendation letters. The system is expected to have a positive impact on the world economy, potentially adding 8 trillion USD to the world economy each year.
 
 ## Education and GDP
 
