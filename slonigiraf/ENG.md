@@ -60,20 +60,19 @@ Wm = 30 USD / (168*60) = 0.00297619 USD
 1 SLON = 0.009369048 USD, thus 1 SLON ~ 1 USD cent.
 
 Let's calculate the amount of SLON airdrop per person in Ethiopia.
-Let's say 1 out of 32 children knows the skill, then there must be 5 lessons in pairs so that all 32 master the skill. Those who got the skill in the last lesson (16 people) only spend 5 SLON, but do not earn anything.
-The probability of getting into these 16 people is 0.5.
-This means that it is necessary to minimize such cases when a student ends up in the last training group in a row.
+Let's say that 1 out of 32 children knows the skill, then there must be 5 sessions during the lesson in pairs so that all 32 students master the skill. Those who gained the skill in the last session (16 people) spend 5 SLON each, but do not earn anything.
+The probability to be among these 16 students is 0.5.
 
-You need 32 * 5 SLON so that this situation does not happen to any student in the world (1.967 B * 0.5^32 < 1). Thus 32 * 5 SLON = 160 SLON is enough amount to perform such lessons in Ethiopia.
+It is necessary to minimize such cases when a student ends up in the last training group in a row. We need 32 * 5 SLON so that this situation does not happen to any student in the world (1.967 B * 0.5^32 < 1). Thus 32 * 5 SLON = 160 SLON is enough amount to perform such lessons in Ethiopia.
 
-Other countries have different minimum teacher wage. Thus we need to adjust an airdrop for each country separately, see the table 1.
-We need total 4.32E+12 SLON for countries listed in the table 1, and 2.79E+12 SLON for others. Thus 7.11E+12 SLON in total just for an airdrop.
+Other countries have different teacher wages. Thus we need to adjust an airdrop for each country separately, see the table 1.
+We need a total of 4.3 trln SLON for countries listed in the table 1, and 2.8 trln SLON for others. Thus 7.1 trln SLON is required in total just for an airdrop.
 
-In the proposed system, is the total demand for SLON estimated to be just 7 trillion? To calculate this, it is important to note that the supply of cryptocurrencies, such as Bitcoin, is typically compared to M1 supply or narrow money. However, the supply of stacking cryptocurrencies is more closely aligned with M2 supply. The M2 money supply is [roughly equivalent to the GDP](https://data.worldbank.org/indicator/FM.LBL.BMNY.GD.ZS). As the additional GDP is estimated to be 8 trillion USD, the M2 SLON supply should be approximately 8 trillion USD, or 800 trillion SLON.
+In the proposed system, is the total demand for SLON estimated to be just 7 trillion? To answer this question, it is important to note that the supply of cryptocurrencies, such as Bitcoin, is typically compared to M1 supply or narrow money. However, the supply of stacking cryptocurrencies is more closely aligned with M2 supply. The M2 money supply is [roughly equivalent to the GDP](https://data.worldbank.org/indicator/FM.LBL.BMNY.GD.ZS). As the additional GDP is estimated to be 8 trillion USD, the M2 SLON supply should be approximately 8 trillion USD or 800 trillion SLON.
 
 ## Long lasting effect of education improvement
 
-GDP is closely tied to the workforce. Using a conservative estimate that 1% of labor growth leads to a [0.36% increase in GDP](https://dergipark.org.tr/tr/download/article-file/364734), an improvement in education resulting in a 300% growth in the workforce would lead to a 108% increase in GDP, equivalent to approximately [96.51](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD) trillion USD in the long-term. Based on this calculation, our initial estimation for the total demand on SLON tokens at 8 trillion USD should be revised upwards to 96.51 trillion USD, or an increase of about 12 times that could potentially lead to the cryptocurrency price growth. In order to ensure price stability, we plan to implement an inflation rate of approximately 10%. This inflation is achieved by generating additional SLON through the process of "stacking" and is a common practice in the current cryptocurrency market as a reward for node maintenance.
+GDP is closely tied to the workforce. Using a conservative estimate that 1% of labor growth leads to a [0.36% increase in GDP](https://dergipark.org.tr/tr/download/article-file/364734), the improvement in education resulting in a 300% growth in the workforce would lead to a 108% increase in GDP, equivalent to approximately [96.51](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD) trillion USD in the long term. Based on this calculation, our initial estimation for the total demand for SLON tokens at 8 trillion USD should be revised upwards to 96.51 trillion USD (12X) that could potentially lead to the cryptocurrency price growth. In order to ensure the price stability, we plan to implement an inflation rate of approximately 10%. This inflation is achieved by generating additional SLON through the process of "stacking" and is a common practice in the current cryptocurrency market as a reward for the hardware maintenance.
 
 ## System software architecture
 
