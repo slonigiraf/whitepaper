@@ -42,7 +42,9 @@ A fact that a student got the diploma doesn't mean he has mastered the skill. It
 
 ### Diploma verification
 
-Why students do want to become experts? The expert status allows them to verify a lot of diplomas and eventually find bad ones and get reimbursement from bad mentors. A student can select which expert to deal with.
+Why students do want to become experts? The expert status allows them to verify a lot of diplomas and eventually find bad ones and get reimbursement from bad mentors. For sure an expert whant to name all diplomas coming to him as bad ones to get as much reward as possible. To prevent such situation we allow students to select which expert to deal with. This creates a competition between experts and makes them to behave honestly.
+
+The teacher is allowed to re-verify diplomas verified by an expert if he suspects that the expert is cheating: for example if the expert verified the diploma issued by himself. In the case of cheating the teacher can prohibit the student to be an expert for certain amount of time and also the teacher gets the reimbursement from the mentor who issued the diploma used in cheating.
 
 ## Financial model
 
