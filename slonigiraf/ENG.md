@@ -1,4 +1,4 @@
-# Slonigiraf - education through cooperation
+# Slonigiraf - education improvement using market instruments
 
 _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmail.com) _/ Telegram:_ [_@denisreshetov_](https://t.me/denisreshetov)
 
@@ -16,11 +16,31 @@ Traditional schooling typically has an efficiency about of [25%](https://link.sp
 
 To address these issues, we propose using money to incentivize students that act as mentors and require them to use recommendation letter system to ensure the quality of such lessons. By doing so, we can motivate students to act as educators while also maintaining educational standards. We have implemented this approach in several schools and observed an increase of the education efficiency up to 75%, with students having an ample time for both learning and teaching within their existing secondary education programs.
 
-## Educational model
+## Proposed educational model
 
 <img alt="Image" src="https://github.com/slonigiraf/slon-whitepaper/blob/main/img/lesson.png?raw=true" width="500">
 
-*Figure 1. Proposed educational model*
+*Figure 1. Proposed educational model named as "SLON"*
+
+### Tutoring and diploma issuing
+
+The "Slonigiraf" lesson doesn't contain any lecture part. Instead it begins with working in pairs. Each student can name himself as a tutor of the specific skill or be a tutee. A tutee selects his tutor based on his personal preference. Tutors are peers of students - they study the same class but somehow knew a skill before their tutee. A tutor charges his tutee money for the tuition. As a result of each tuition the tutor issues a diploma.
+
+Each **diploma** is a unique electronic document, that can be canceled in any time if a tutee will show it to an expert and the expert will say that the tutee doesn't posses the skill. The expert gets a **reimbursement** for identifing a fake diploma. The reimbursement is paid by the tutor who issued such diploma. The amount of reimbursement is defined at the stage of diploma issuing. Thus each diploma contains the information: which skill was trained, who was a tutor, who was a tutee and what is an amount of the possible reimbursement.
+
+Often at the beginning of the lesson there are several tutors of the skill, because they studied this skill by themselves or know it outside of the lesson from their parents or from previous tuition, thus the lesson starts with a number of tutor-tutee pairs.
+
+Let's see how lesson takes place when only one tutor exists. At the Fig. 1. such tutor is marked with letter "A" at the leftmost pane. The tutor selects a tutee who proposed him the maximum amount of money or based on any other criterion that he decides by himself. This tuition is marked as "session 1" in the Fig. 1. After such tuition his tutee can decide to be a tutor by himself. And then these 2 tutors can teach the skill two more students. This action is named "session 1" in the Fig. 1. Each session doubles number of tutors. After sessin 1 we have 2 students with diploma, after second - 4, after third - 16. This can be shortly written as following:
+
+$2^{sessions} = diplomas$
+
+For example: $2^{5} = 32$: after 5 sessions we expect to have 32 diplomas, meaning that 32 students aquired the skill. What if the lesson takes part not in school but in university and we need to teach 512 students that came to our course? How many sessions are need to spread a skill? Using formula **(1)** we can write: $2^{x} = 512$. By simple internet search or by using logarithm we can find that $x=9$. Thus we need only 9 sessions to teach 512 peoples a skill.
+
+
+### Expert selection
+
+### Diploma verification
+
 
 ## Financial model
 
