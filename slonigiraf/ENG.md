@@ -20,27 +20,29 @@ To address these issues, we propose using money to incentivize students that act
 
 <img alt="Image" src="https://github.com/slonigiraf/slon-whitepaper/blob/main/img/lesson.png?raw=true" width="500">
 
-*Figure 1. Proposed educational model named as "SLON"*
+*Figure 1. Proposed educational model named as "Slonigiraf"*
 
 ### Tutoring and diploma issuing
 
-The "Slonigiraf" lesson doesn't contain any lecture part. Instead it begins with working in pairs. Each student can name himself as a tutor of the specific skill or be a tutee. A tutee selects his tutor based on his personal preference. Tutors are peers of students - they study the same class but somehow knew a skill before their tutee. A tutor charges his tutee money for the tuition. As a result of each tuition the tutor issues a diploma.
+The **"Slonigiraf" lesson** doesn't contain any lecture part. Instead it begins with working in pairs. Each student can name himself as a **tutor** of the specific skill or be a tutee. A **tutee** selects his tutor based on the personal preference. Tutors are peers of students - they study the same class but somehow knew a **skill** before their tutee. A tutor charges his tutee money for the tuition. As a result of each tuition the tutor issues a diploma.
 
 Each **diploma** is a unique electronic document, that can be canceled in any time if a tutee will show it to an expert and the expert will say that the tutee doesn't posses the skill. The expert gets a **reimbursement** for identifing a fake diploma. The reimbursement is paid by the tutor who issued such diploma. The amount of reimbursement is defined at the stage of diploma issuing. Thus each diploma contains the information: which skill was trained, who was a tutor, who was a tutee and what is an amount of the possible reimbursement.
 
 Often at the beginning of the lesson there are several tutors of the skill, because they studied this skill by themselves or know it outside of the lesson from their parents or from previous tuition, thus the lesson starts with a number of tutor-tutee pairs.
 
-Let's see how lesson takes place when only one tutor exists. At the Fig. 1. such tutor is marked with letter "A" at the leftmost pane. The tutor selects a tutee who proposed him the maximum amount of money or based on any other criterion that he decides by himself. This tuition is marked as "session 1" in the Fig. 1. After such tuition his tutee can decide to be a tutor by himself. And then these 2 tutors can teach the skill two more students. This action is named "session 1" in the Fig. 1. Each session doubles number of tutors. After sessin 1 we have 2 students with diploma, after second - 4, after third - 16. This can be shortly written as following:
+Let's see how lesson takes place when only one tutor exists. At the Fig. 1. such tutor is marked with letter "A" at the leftmost pane. The tutor selects a tutee who proposed him the maximum amount of money or based on any other criterion that he decides by himself. This tuition is marked as "session 1" in the Fig. 1. After such tuition his tutee can decide to be a tutor by himself. And then these 2 tutors can teach the skill two more students. This action is named "session 2". Each session doubles number of tutors. After session 1 we have 2 students with diploma, after second - 4, after third - 16. This can be shortly written as following:
 
 $2^{sessions} = diplomas$
 
 For example: $2^{5} = 32$: after 5 sessions we expect to have 32 diplomas, meaning that 32 students aquired the skill. What if the lesson takes part not in school but in university and we need to teach 512 students that came to our course? How many sessions are need to spread a skill? Using formula **(1)** we can write: $2^{x} = 512$. By simple internet search or by using logarithm we can find that $x=9$. Thus we need only 9 sessions to teach 512 peoples a skill.
 
-
 ### Expert selection
+
+A fact that a student got the diploma doesn't mean he has mastered the skill. It just means that his tutor believes in it. Hoewever the tutor can be wrong. For example, the tutor himself doesn't posess such skill, or he didn't verified the skill proficiency of tutee by the adequete number of tasks, or the tutee can simply forget the skill. To maintain the good quality of education our system uses experts who verify diplomas and have a right to reward students with "A" grade or with any other type of reward. At the beginning of the lesson there is only one expert - the master teacher who runs and controls all the lesson. He is not able to verify all diplomas as it requires too much times. But he can delegate such position to few experts from students that got the diploma on the studied skill. The teacher verify that students that want to be experts posses the skill. If some of them fail the verification the teacher gets reimbursement from a mentor who issued the diploma.
 
 ### Diploma verification
 
+Why students do want to become experts? The expert status allows them to verify a lot of diplomas and eventually find bad ones and get reimbursement from bad mentors. A student can select which expert to deal with.
 
 ## Financial model
 
