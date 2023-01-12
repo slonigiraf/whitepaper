@@ -16,9 +16,11 @@ Traditional schooling typically has an efficiency about of [25%](https://link.sp
 
 To address these issues, we propose using money to incentivize students that act as mentors and require them to use recommendation letter system to ensure the quality of such lessons. By doing so, we can motivate students to act as educators while also maintaining educational standards. We have implemented this approach in several schools and observed an increase of the education efficiency up to 75%, with students having an ample time for both learning and teaching within their existing secondary education programs.
 
-## Education model
+## Educational model
 
 <img alt="Image" src="https://github.com/slonigiraf/slon-whitepaper/blob/main/img/lesson.png?raw=true" width="500">
+
+*Figure 1. Proposed educational model*
 
 ## Financial model
 
