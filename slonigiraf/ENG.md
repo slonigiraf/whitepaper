@@ -52,6 +52,26 @@ The teacher is allowed to re-verify diplomas verified by an expert if he suspect
 
 As we propose such system for an education in groups we need to estimate the world population of pupils and students. To be conservative let's speak that only **7 - 21 yo strata** will use our educational model. We've found a data about total population size of each country as of [2021.01.01](https://population.un.org/wpp/Download/Standard/MostUsed/), and the data of [percent of 0-14 yo people](https://www.theglobaleconomy.com/rankings/percent_children/) as of 2021. We think that a percent of 7 - 21 yo strata can be approximated by the 0 - 14 yo strata. Thus to calculate the target audience per country we should multiply a population size on a percent of 7 - 21 yo strata and divide by 100%. The resulting data is shown in the table 1. You can see that India has the biggest target audince of 361 million people, and the total world target audience is **2 billion people**.
 
+|             | Total Population | 7-21 years old % | 7-21 years old |
+| ----------- | ------------- | ------ | ------------- |
+| India       | 1,402,807,867 | 25.78% | 361,643,868   |
+| China       | 1,425,861,543 | 17.60% | 250,951,632   |
+| Nigeria     | 210,874,214   | 43.31% | 91,329,622    |
+| Pakistan    | 229,280,621   | 34.63% | 79,399,879    |
+| Indonesia   | 272,890,093   | 25.62% | 69,914,442    |
+| USA         | 336,495,769   | 18.24% | 61,376,828    |
+| Ethiopia    | 118,743,462   | 39.56% | 46,974,914    |
+| Bangladesh  | 168,414,908   | 26.31% | 44,309,962    |
+| Brazil      | 213,827,672   | 20.45% | 43,727,759    |
+| Egypt       | 108,391,549   | 33.83% | 36,668,861    |
+| Philippines | 113,094,332   | 29.53% | 33,396,756    |
+| Mexico      | 126,386,142   | 25.49% | 32,215,828    |
+| Russia      | 145,472,994   | 18.49% | 26,897,957    |
+| Japan       | 124,946,751   | 12.30% | 15,368,450    |
+| Rest world  | 2,911,807,000 | 26.51% | 771,920,036   |
+| TOTAL       | 7,909,294,917 |        | 1,966,096,793 |
+
+*Table 1. Target audience (7-21 years old people). The value of 7-21 strata percent for rest world was calculated as an average for countries from the list above.*
 
 ### $A$ - a student starting capital
 
@@ -151,23 +171,23 @@ The proposed system, Slonigiraf, is composed of two interconnected components: [
 
 |             | 7-21 years old people\* | Times min teacher wage  is larger than Ethiopian counterpart | Min money a student need | Diploma price (SLON) | Reimbursement amount (SLON) | Airdrop per person (SLON) | Airdrop per country (SLON) |
 | ----------- | ----------------------- | ------------------------------------------------------------ | ------------------------ | -------------------- | --------------------------- | ------------------------- | -------------------------- |
-| India       | 361,643,868             | 4.75                                                         | $7.59                    | 23                   | 28                          | 759                       | 275 B                      |
-| China       | 250,951,632             | 54.23                                                        | $81.30                   | 271                  | 325                         | 8677                      | 2178 B                     |
-| Nigeria     | 91,329,622              | 9.34                                                         | $14.00                   | 46                   | 56                          | 1494                      | 137 B                      |
-| Pakistan    | 79,399,879              | 4.72                                                         | $7.07                    | 23                   | 28                          | 755                       | 60 B                       |
-| Indonesia   | 69,914,442              | 10.37                                                        | $15.54                   | 51                   | 62                          | 1659                      | 116 B                      |
-| USA         | 61,376,828              | 100.66                                                       | $150.89                  | 503                  | 603                         | 16105                     | 989 B                      |
-| Ethiopia    | 46,974,914              | 1.00                                                         | $1.50                    | 5                    | 6                           | 160                       | 8 B                        |
-| Bangladesh  | 44,309,962              | 2.88                                                         | $4.31                    | 14                   | 17                          | 460                       | 21 B                       |
-| Brazil      | 43,727,759              | 20.02                                                        | $30.01                   | 100                  | 120                         | 3203                      | 141 B                      |
-| Egypt       | 36,668,861              | 4.19                                                         | $6.29                    | 20                   | 25                          | 671                       | 25 B                       |
-| Philippines | 33,396,756              | 8.89                                                         | $13.31                   | 44                   | 53                          | 1421                      | 48 B                       |
-| Mexico      | 32,215,828              | 22.50                                                        | $33.72                   | 112                  | 134                         | 3599                      | 116 B                      |
-| Russia      | 26,897,957              | 17.49                                                        | $26.21                   | 87                   | 104                         | 2798                      | 76 B                       |
-| Japan       | 15,368,450              | 53.65                                                        | $80.41                   | 268                  | 321                         | 8583                      | 132 B                      |
-| SUM         | 1,194,176,758           |                                                              |                          |                      |                             |                           | 4316 B                     |
-| Rest world  | 771,920,036             |                                                              |                          |                      |                             |                           | 2790 B                     |
-| TOTAL       | 3,160,273,551           |                                                              |                          |                      |                             |                           | 7106 B                     |
+| India       | 361,643,868             | 4.75      | $7.59                    | 23                   | 28                          | 759                       | 275 B                      |
+| China       | 250,951,632             | 54.23     | $81.30                   | 271                  | 325                         | 8677                      | 2178 B                     |
+| Nigeria     | 91,329,622              | 9.34      | $14.00                   | 46                   | 56                          | 1494                      | 137 B                      |
+| Pakistan    | 79,399,879              | 4.72      | $7.07                    | 23                   | 28                          | 755                       | 60 B                       |
+| Indonesia   | 69,914,442              | 10.37     | $15.54                   | 51                   | 62                          | 1659                      | 116 B                      |
+| USA         | 61,376,828              | 100.66    | $150.89                  | 503                  | 603                         | 16105                     | 989 B                      |
+| Ethiopia    | 46,974,914              | 1.00      | $1.50                    | 5                    | 6                           | 160                       | 8 B                        |
+| Bangladesh  | 44,309,962              | 2.88      | $4.31                    | 14                   | 17                          | 460                       | 21 B                       |
+| Brazil      | 43,727,759              | 20.02     | $30.01                   | 100                  | 120                         | 3203                      | 141 B                      |
+| Egypt       | 36,668,861              | 4.19      | $6.29                    | 20                   | 25                          | 671                       | 25 B                       |
+| Philippines | 33,396,756              | 8.89      | $13.31                   | 44                   | 53                          | 1421                      | 48 B                       |
+| Mexico      | 32,215,828              | 22.50     | $33.72                   | 112                  | 134                         | 3599                      | 116 B                      |
+| Russia      | 26,897,957              | 17.49     | $26.21                   | 87                   | 104                         | 2798                      | 76 B                       |
+| Japan       | 15,368,450              | 53.65     | $80.41                   | 268                  | 321                         | 8583                      | 132 B                      |
+| SUM         | 1,194,176,758           |           |                          |                      |                             |                           | 4316 B                     |
+| Rest world  | 771,920,036             |           |                          |                      |                             |                           | 2790 B                     |
+| TOTAL       | 3,160,273,551           |           |                          |                      |                             |                           | 7106 B                     |
 
 *Target audience (7-21 years old people) was estimated by multiplying [all people count](https://population.un.org/wpp/Download/Standard/MostUsed/) on a fraction of [0-14 yo people](https://www.theglobaleconomy.com/rankings/percent_children/) for 2021 year. We assume that in near future it's a good approximate of 7-21 yo group.*
 
