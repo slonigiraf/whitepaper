@@ -135,11 +135,45 @@ $0.05688/0.04722$
 
 As all issued diplomas go through the verification it's profitable to a mentor to cheat the system just issuing a lot of number of diplomas because he will lose 1.2 times more money than earning.
 
-### Run out of money probability
+### Bankruptcy probability
 
 If student constantly plays a role of a tutee and doesn't become a tutor he will run out of money. Students that gain a diploma in the last session (see fig. 1) have no option to teach the acquired skill. So if the student will constantly get diplomas in the last session he will run out of money even if he want to be a tutor. This situation is almost random and the student can't control it well. Let's calculate the probability to acquire the skill in the last session. From the Fig. 1. it seems that such probability is around of 0.5, as in last session 4 students participate as mentees from 8 students total. To be accurate it's **less or equal to 0.5** in a group of any size, because in last session each mentee gets a mentor, but not each mentor is guaranteed to get a mentee. Thus if student starting capital $A = 0$, then the probability that he can't pay for the lesson is less or equal to 0.5: $P{_b} ≤ 0.5$. When a mentee has a starting capital larger that 0, we need to know a diploma price to calculate the exact probability to run out of the capital.
 
 A mentee pays to his tutor not only to study a skill but also to get a diploma. Diploma is very similar to an insurance police because the tutor promises to pay a reimbursement to an expert if the mentee will forget the skill. As in insurance business bad things can happen by chance more often than expected and the mentor can run out of money due to reimbursements. The probability that a mentee forgets a skill is [0.25](https://pubmed.ncbi.nlm.nih.gov/21574747/).
+
+There is a probability that a teacher will allow a student be an expert for the skill. In such case he will only get money and doesn't risk to lose anything during such work.
+
+Let's examine the worst case when a student can't become an expert as the teacher is not fair and only teachers' pets become experts. In such case if he also fails to be a mentor several times, or when he become a mentor but his mentees constantly lose their skills the student can bancrupt. Let's say that in a class of size 32 people and only 4 posess a skill at the beginning of the lesson, then every 8 students can be described with a fig. 1.
+
+For the student "A" the only scenario when he loses money more than gets is that he teaches 4 mentees but all of them forget the skill. In such case he will lose 4 * 0.04722 USD due to reimbursement but earn 4 * 0.05688 USD due to mentees payments. Thus after such lesson he will lose 0.03864 USD:
+
+$4*0.05688-4*0.04722=0.03864$
+
+For the student B the only scenario when he loses money more than gets is paying two reimburses while also paying for his own diploma to a student A. In such case he will lose 0.03756 USD:
+
+$0.05688+2*0.04722-2*0.05688=0.03756$
+
+Student C and student D have the only scenario when they loses money more than get: pay to their mentors and pay for 1 reimburse, that leads to loosing 0.04722 USD:
+
+$0.05688+0.04722-0.05688=0.04722$
+
+Other students just loose 0.05688 USD for buying a diploma.
+
+Let's summarize:
+
+| Role | Money lost | Probability of the role | Probability to lose money | Resulting probability |
+| ---- | ---------- | ----------------------- | ------------------------- | --------------------- |
+| A mentor with 4 mentees | 0.03864 | $1/16$ | $0.25{4}$ | $0.25{5}$ |
+| A mentor with 2 mentees | 0.03864 | $1/16$ | $0.25{2}$ | $0.25{3}$ |
+| A mentor with 1 mentee | 0.04722 | $2/16$ | $0.25$ | $2*0.25{3}$ |
+
+So for any skill the student can:
+
+- spend money for being a mentee only
+- earn money as a mentor teaching 1 mentee but lose more while paying a reimbursement
+- earn money as an expert
+
+There are also options to be a mentor for the same skill for multiple mentees, but as 
 
 ### $A$ - a student starting capital
 
