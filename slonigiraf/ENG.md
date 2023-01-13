@@ -50,7 +50,7 @@ The teacher is allowed to re-verify diplomas verified by an expert if he suspect
 
 ### Target audience
 
-As we propose such system for an education in groups we need to estimate the world population of pupils and students. To be conservative let's speak that only **7 - 21 yo strata** will use our educational model. We've found a data about total population size of each country as of [2021.01.01](https://population.un.org/wpp/Download/Standard/MostUsed/), and the data of [percent of 0-14 yo people](https://www.theglobaleconomy.com/rankings/percent_children/) as of 2021. We think that a percent of 7 - 21 yo strata can be approximated by the 0 - 14 yo strata. Thus to calculate the target audience per country we should multiply a population size on a percent of 7 - 21 yo strata and divide by 100%. The resulting data is shown in the table 1. You can see that India has the biggest target audince of 361 million people, and the total world target audience is **2 billion people**.
+As we propose such system for an education in groups we need to estimate the world population of pupils and students. To be conservative let's speak that only **7 - 21 yo strata** will use our educational model. We've found a data about total population size of each country as of [2021.01.01](https://population.un.org/wpp/Download/Standard/MostUsed/), and the data of [percent of 0-14 yo people](https://www.theglobaleconomy.com/rankings/percent_children/) as of 2021. We think that a percent of 7 - 21 yo strata can be approximated by the 0 - 14 yo strata. Thus to calculate the target audience per country we should multiply a population size on a percent of 7 - 21 yo strata and divide by 100%. The resulting data is shown in the table 1. You can see that India has the biggest target audience of 361 million people, and the total world target audience is **2 billion people**.
 
 |             | Total Population | 7-21 years old % | 7-21 years old |
 | ----------- | ------------- | ------ | ------------- |
@@ -77,15 +77,39 @@ As we propose such system for an education in groups we need to estimate the wor
 
 Our educational approach forces a tutee  to pay their tutor for skill-teaching and the issuance of a diploma, and requires the tutor to be responsible for the issued diploma by providing reimbursement when a tutee  forgets the skill certified by the diploma. To make this happen we need to assure that students have enough money for such economic interaction. Let's denote how much money each student should have at the beginning of such approach implementation as $A$.
 
+### Work force price
+
+To discuss a work force price of mentors and experts we should remember that a student that understood how to be a mentor can potentially go to a educational market out of the school or university and get money for helping other students then his peers. Thus we can approximate the wage of a mentor with the lowest wage of teacher in the country that he lives.
+
+The expert wage should be larger than the mentor wage to motivate most qualified students to become experts. As qualified students can find a good position in an online tutoring we can assume that the maximum teacher wage in the country where the expert lives could be a good approximation of the market expert wage.
+
+We collected teacher wage data per country from [salaryexplorer.com](http://www.salaryexplorer.com/?loc=23&loctype=1&job=123&jobtype=3#browsesalaries) on 2023.01.08. From the Table 2 you can see that maximum teacher wage on average is 3.16 times higher that minimum teacher wage. Thus an expert should get 3.16 times more money per 1 minute of his work than a mentor. Teacher wage is minimal in Ethiopia so a mentor will get in Ethiopia the smallest wage in comparison to other countries listed in the table 2.
+
+|             | Min | Max | Max/Min |
+| ----------- | ------- | ------- | ------- |
+| India       | 143.42  | 458.21  | 3.19    |
+| China       | 1637.81 | 4796.44 | 2.93    |
+| Nigeria     | 282.07  | 831.02  | 2.95    |
+| Pakistan    | 142.57  | 419.79  | 2.94    |
+| Indonesia   | 313.31  | 922.63  | 2.94    |
+| USA         | 3040.00 | 9680.00 | 3.18    |
+| Ethiopia    | 30.20   | 104.50  | 3.46    |
+| Bangladesh  | 86.84   | 300.38  | 3.46    |
+| Brazil      | 604.68  | 2085.76 | 3.45    |
+| Egypt       | 126.68  | 401.40  | 3.17    |
+| Philippines | 268.36  | 929.35  | 3.46    |
+| Mexico      | 679.37  | 2168.76 | 3.19    |
+| Russia      | 528.28  | 1558.63 | 2.95    |
+| Japan       | 1620.17 | 4762.09 | 2.94    |
+| Average     |         |         | 3.16    |
+
+*Table 2. Teacher month wages in USD per country.*
+
 ### Run out of money probability
 
-If student is constantly plays a role of a tutee and doesn't become a tutor he will run out of money. Students that gain a diploma in the last session (see fig. 1) have no option to teach the acquired skill. So if the student will constantly get diplomas in the last session he will run out of money even if he want to be a tutor. This situation is almost random and the student can't control it well. Let's calculate the probability to acquire the skill in the last session. From the Fig. 1. it seems that such probability is around of 0.5, as in last session 4 students participate as mentees from 8 students total. To be accurate it's **less or equal to 0.5** in a group of any size, because in last session each mentee gets a mentor, but not each mentor is guaranteed to get a mentee. Thus if student starting capital $A = 0$, then the probability that he can't pay for the lesson is less or equal to 0.5: $P{_b} ≤ 0.5$.
+If student is constantly plays a role of a tutee and doesn't become a tutor he will run out of money. Students that gain a diploma in the last session (see fig. 1) have no option to teach the acquired skill. So if the student will constantly get diplomas in the last session he will run out of money even if he want to be a tutor. This situation is almost random and the student can't control it well. Let's calculate the probability to acquire the skill in the last session. From the Fig. 1. it seems that such probability is around of 0.5, as in last session 4 students participate as mentees from 8 students total. To be accurate it's **less or equal to 0.5** in a group of any size, because in last session each mentee gets a mentor, but not each mentor is guaranteed to get a mentee. Thus if student starting capital $A = 0$, then the probability that he can't pay for the lesson is less or equal to 0.5: $P{_b} ≤ 0.5$. When a mentee has a starting capital larger that 0, we need to know a diploma price to calculate the exact probability to run out of the capital.
 
-A mentee pays to his tutor not only to study a skill but also to get a diploma. Diploma is very similar to an insurance police because the tutor promises to pay a reimbursement to an expert if the mentee will forget the skill. As in insurance business bad things can happen by chance more often than expected and the mentor can run out of money due to reimbursements. The probability that a mentee forgets a skill is [0.25](https://pubmed.ncbi.nlm.nih.gov/21574747/).
-
-
-
-
+A mentee pays to his tutor not only to study a skill but also to get a diploma. Diploma is very similar to an insurance police because the tutor promises to pay a reimbursement to an expert if the mentee will forget the skill. As in insurance business bad things can happen by chance more often than expected and the mentor can run out of money due to reimbursements. The probability that a mentee forgets a skill is [0.25](https://pubmed.ncbi.nlm.nih.gov/21574747/). To calculate the probability that a student will run out of money as a mentor we need to know both diploma price and a reimburcement amount.
 
 ### $D$ - diploma price and $R$ - reimbursement amount
 
