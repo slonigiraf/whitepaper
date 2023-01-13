@@ -12,7 +12,7 @@ Education plays a vital role in the world economy. On average, education compris
 
 One way to measure the efficiency of an education system is by determining the average number of skills acquired by a group of students, divided by the total number of skills they were expected to acquire.
 
-Traditional schooling typically has an efficiency about of [25%](https://link.springer.com/article/10.1007/s10643-022-01332-3), while using private tutoring the efficiency can be increased up to [75%](https://pubmed.ncbi.nlm.nih.gov/21574747/). However, private tutoring can be costly and requires a large number of educators. Peer learning, where students mentor each other, [doesn't outperform](https://pubmed.ncbi.nlm.nih.gov/23691355/) the traditional schooling because of [two main challenges](https://www.tandfonline.com/doi/full/10.1080/01443410500345172): the lack of motivation to teach among students and quality erosion due to the broken telephone effect.
+Traditional schooling typically has an efficiency about of [25%](https://link.springer.com/article/10.1007/s10643-022-01332-3), while using private tutoring the efficiency can be increased up to [75%](https://pubmed.ncbi.nlm.nih.gov/21574747/). However, private tutoring can be costly and requires a large number of educators. Peer learning, where students tutor each other, [doesn't outperform](https://pubmed.ncbi.nlm.nih.gov/23691355/) the traditional schooling because of [two main challenges](https://www.tandfonline.com/doi/full/10.1080/01443410500345172): the lack of motivation to teach among students and quality erosion due to the broken telephone effect.
 
 To address these issues, we propose using money to incentivize students that act as mentors and require them to use recommendation letter system to ensure the quality of such lessons. By doing so, we can motivate students to act as educators while also maintaining educational standards. We have implemented this approach in several schools and observed an increase of the education efficiency up to 75%, with students having an ample time for both learning and teaching within their existing secondary education programs.
 
@@ -34,50 +34,100 @@ Let's see how lesson takes place when only one tutor exists. At the Fig. 1. such
 
 $2^{sessions} = diplomas$
 
-For example: $2^{5} = 32$: after 5 sessions we expect to have 32 diplomas, meaning that 32 students aquired the skill. What if the lesson takes part not in school but in university and we need to teach 512 students that came to our course? How many sessions are need to spread a skill? Using formula **(1)** we can write: $2^{x} = 512$. By simple internet search or by using logarithm we can find that $x=9$. Thus we need only 9 sessions to teach 512 peoples a skill.
+For example: $2^{5} = 32$: after 5 sessions we expect to have 32 diplomas, meaning that 32 students acquired the skill. What if the lesson takes part not in school but in university and we need to teach 512 students that came to our course? How many sessions are need to spread a skill? Using formula **(1)** we can write: $2^{x} = 512$. By simple internet search or by using logarithm we can find that $x=9$. Thus we need only 9 sessions to teach 512 peoples a skill.
 
 ### Expert selection
 
-A fact that a student got the diploma doesn't mean he has mastered the skill. It just means that his tutor believes in it. Hoewever the tutor can be wrong. For example, the tutor himself doesn't posess such skill, or he didn't verified the skill proficiency of tutee by the adequete number of tasks, or the tutee can simply forget the skill. To maintain the good quality of education our system uses experts who verify diplomas and have a right to reward students with "A" grade or with any other type of reward. At the beginning of the lesson there is only one expert - the master teacher who runs and controls all the lesson. He is not able to verify all diplomas as it requires too much times. But he can delegate such position to few experts from students that got the diploma on the studied skill. The teacher verify that students that want to be experts posses the skill. If some of them fail the verification the teacher gets reimbursement from a mentor who issued the diploma.
+A fact that a student got the diploma doesn't mean he has mastered the skill. It just means that his tutor believes in it. Hoewever the tutor can be wrong. For example, the tutor himself doesn't posess such skill, or he didn't verified the skill proficiency of tutee by the adequete number of tasks, or the tutee can simply forget the skill. To maintain the good quality of education our system uses experts who verify diplomas and have a right to reward students with "A" grade or with any other type of reward. At the beginning of the lesson there is only one expert - the master teacher who runs and controls all the lesson. He is not able to verify all diplomas as it requires too much times. But he can delegate such position to few experts from students that got the diploma on the studied skill. The teacher verify that students that want to be experts posses the skill. If some of them fail the verification the teacher gets reimbursement from a tutor who issued the diploma.
 
 ### Diploma verification
 
 Why students do want to become experts? The expert status allows them to verify a lot of diplomas and eventually find bad ones and get reimbursement from bad mentors. For sure an expert whant to name all diplomas coming to him as bad ones to get as much reward as possible. To prevent such situation we allow students to select which expert to deal with. This creates a competition between experts and makes them to behave honestly.
 
-The teacher is allowed to re-verify diplomas verified by an expert if he suspects that the expert is cheating: for example if the expert verified the diploma issued by himself. In the case of cheating the teacher can prohibit the student to be an expert for certain amount of time and also the teacher gets the reimbursement from the mentor who issued the diploma used in cheating.
+The teacher is allowed to re-verify diplomas verified by an expert if he suspects that the expert is cheating: for example if the expert verified the diploma issued by himself. In the case of cheating the teacher can prohibit the student to be an expert for certain amount of time and also the teacher gets the reimbursement from the tutor who issued the diploma used in cheating.
 
 ## Financial model
 
-Our educational approach forces a mentee to pay their mentor for skill-teaching and the issuance of a diploma, and requires the mentor to be responsible for the issued diploma by providing reimbursement when a mentee forgets the skill certified by the diploma.
+### Target audience
 
-To make this happen we need to assure that students have enough money for such economic interaction. To calculate how much money students need we should take into account:
+As we propose such system for an education in groups we need to estimate the world population of pupils and students. To be conservative let's speak that only **7 - 21 yo strata** will use our educational model. We've found a data about total population size of each country as of [2021.01.01](https://population.un.org/wpp/Download/Standard/MostUsed/), and the data of [percent of 0-14 yo people](https://www.theglobaleconomy.com/rankings/percent_children/) as of 2021. We think that a percent of 7 - 21 yo strata can be approximated by the 0 - 14 yo strata. Thus to calculate the target audience per country we should multiply a population size on a percent of 7 - 21 yo strata and divide by 100%. The resulting data is shown in the table 1. You can see that India has the biggest target audince of 361 million people, and the total world target audience is **2 billion people**.
 
-- Wm - a minute wage of a mentor, which teach mentee and issues diploma on each skill
-- Wt - a minute wage of an expert, who controls the quality of skills
-- Ts - the mean time that a mentor spend to teach a skill
+|             | Total Population | 7-21 years old % | 7-21 years old |
+| ----------- | ---------------------------------- | --------------------------------------------------------- | --------------------- |
+| India       | 1,402,807,867                      | 25.78%                                                    | 361,643,868           |
+| China       | 1,425,861,543                      | 17.60%                                                    | 250,951,632           |
+| Nigeria     | 210,874,214                        | 43.31%                                                    | 91,329,622            |
+| Pakistan    | 229,280,621                        | 34.63%                                                    | 79,399,879            |
+| Indonesia   | 272,890,093                        | 25.62%                                                    | 69,914,442            |
+| USA         | 336,495,769                        | 18.24%                                                    | 61,376,828            |
+| Ethiopia    | 118,743,462                        | 39.56%                                                    | 46,974,914            |
+| Bangladesh  | 168,414,908                        | 26.31%                                                    | 44,309,962            |
+| Brazil      | 213,827,672                        | 20.45%                                                    | 43,727,759            |
+| Egypt       | 108,391,549                        | 33.83%                                                    | 36,668,861            |
+| Philippines | 113,094,332                        | 29.53%                                                    | 33,396,756            |
+| Mexico      | 126,386,142                        | 25.49%                                                    | 32,215,828            |
+| Russia      | 145,472,994                        | 18.49%                                                    | 26,897,957            |
+| Japan       | 124,946,751                        | 12.30%                                                    | 15,368,450            |
+| Rest world  | 2,911,807,000                      | 26.51%*                                                    | 771,920,036           |
+| TOTAL       | 7,909,294,917                      |                                                           | 1,966,096,793         |
+
+*Table 1. Target audience (7-21 years old people). The value of 7-21 strata percent for rest world was calculated as an average for countries from the list above.*
+
+### $A$ - a student starting capital
+
+Our educational approach forces a tutee  to pay their tutor for skill-teaching and the issuance of a diploma, and requires the tutor to be responsible for the issued diploma by providing reimbursement when a tutee  forgets the skill certified by the diploma. To make this happen we need to assure that students have enough money for such economic interaction. Let's denote how much money each student should have at the beginning of such approach implementation as $A$.
+
+### Run out of money probability
+
+If student is constantly plays a role of a tutee and doesn't become a tutor he will run out of money. Students that gain a diploma in the last session (see fig. 1) have no option to teach the acquired skill. So if the student will constantly get diplomas in the last session he will run out of money even if he want to be a tutor. This situation is almost random and the student can't control it well. Let's calculate the probability to acquire the skill in the last session. From the Fig. 1. it seems that such probability is around of 0.5, as in last session 4 students participate as mentees from 8 students total. To be accurate it's **less or equal to 0.5** in a group of any size, because in last session each mentee gets a mentor, but not each mentor is guaranteed to get a mentee. Thus if student starting capital $A = 0$, then the probability that he can't pay for the lesson is less or equal to 0.5: $P{_b} ≤ 0.5$.
+
+A mentee pays to his tutor not only to study a skill but also to get a diploma. Diploma is very similar to an insurance police because the tutor promises to pay a reimbursement to an expert if the mentee will forget the skill. As in insurance business bad things can happen by chance more often than expected and the mentor can run out of money due to reimbursements. The probability that a mentee forgets a skill is [0.25](https://pubmed.ncbi.nlm.nih.gov/21574747/).
+
+
+
+
+
+### $D$ - diploma price and $R$ - reimbursement amount
+
+To calculate what amount of reimbursement is sufficient to motivate experts verify diplomas in search of bad ones we need an estimation of following values:
+
+- $W{_e}$ - a minute wage of an expert that he wants to achive
+- $T{_e}$ - the mean time that an expert spend to verify the diploma
+- $N{_d}$ - mean number of diplomas to verify to find a bad one
+
+$R = T{_e} * W{_e} * N{_d}$
+
+Let's denote the diploma price as $D$ - it's an amount of money that a student pays to his mentor to study a skill and get a diploma. 
+
+
+To calculate how much money students need we should take into account:
+
+- $W{_t}$ - a minute wage of a tutor, which teach tutee  and issues diploma on each skill
+- $W{_e}$ - a minute wage of an expert, who controls the quality of skills
+- Tt - the mean time that a tutor spend to teach a skill
 - Te - the mean time that an expert spend to revise a skill
 - F - the skill forgetting rate after teaching
-- R - the reimbursement that a mentor pays to an expert
-- M - a mathematical expectation of mentor earnings for 1 skill:
+- R - the reimbursement that a tutor pays to an expert
+- M - a mathematical expectation of tutor earnings for 1 skill:
 
-A good proxy for a Wm is a minimum teacher wage per country, and a good proxy for a Wt is a maximum teacher wage per country. We can see the mean Wt/Wm ration per country is a 3.16 thus we will use this estimation of Wt in following calculations.
+A good proxy for a $W{_t}$ is a minimum teacher wage per country, and a good proxy for a We is a maximum teacher wage per country. We can see the mean We/$W{_t}$ ration per country is a 3.16 thus we will use this estimation of We in following calculations.
 As an expert should get his wage during a diploma verification we can write that:
 
-R = Te * Wt / F
+R = Te * We / F
 
 During an early implementation of Slonigiraf in a private school we got the estimation of an expert time for revising a diploma as 1.5 min (Te). There is a published data that mean skill forgetting rate (F) [is about 0.25](https://link.springer.com/article/10.1007/s10643-022-01332-3), thus:
 
-R = 1.5 * 3.16 * Wm / 0.25 = 18.96 * Wm
+R = 1.5 * 3.16 * $W{_t}$ / 0.25 = 18.96 * $W{_t}$
 
-Presumably, a mentor should get enough payment for his work during teaching as well as the money to be able to pay premium to an expert in case a student forgets the skill. Thus:
+Presumably, a tutor should get enough payment for his work during teaching as well as the money to be able to pay premium to an expert in case a student forgets the skill. Thus:
 
-M = Ts * Wm + F * R = Ts * Wm + F * Te * Wt / F = Ts * Wm + Te * Wt
+M = Tt * $W{_t}$ + F * R = Tt * $W{_t}$ + F * Te * We / F = Tt * $W{_t}$ + Te * We
 
-During an early implementation of Slonigiraf in a private school we estimated thet the mentor time to teach a skill was 11 minutes. Thus:
+During an early implementation of Slonigiraf in a private school we estimated thet the tutor time to teach a skill was 11 minutes. Thus:
 
-M = 11 * Wm + 1.5 * Wt = 11 * Wm + 1.5 * 3.16 * Wm = (11 + 4.74) * Wm = 15.74 * Wm
+M = 11 * $W{_t}$ + 1.5 * We = 11 * $W{_t}$ + 1.5 * 3.16 * $W{_t}$ = (11 + 4.74) * $W{_t}$ = 15.74 * $W{_t}$
 
-R/M = (18.96 * Wm) / (15.74 * Wm) ~ 1.2
+R/M = (18.96 * $W{_t}$) / (15.74 * $W{_t}$) ~ 1.2
 
 Any currency should be comfortable to use. Minumum whole numbers that are good for R and M are 6 and 5 respectively.
 
@@ -85,13 +135,13 @@ As part of our implementation strategy, we plan to prioritize the deployment of 
 
 As M = 5,
 
-5 = 15.74 * Wm
+5 = 15.74 * $W{_t}$
 
-Wm = 0.31766201 SLON in Ethiopia.
+$W{_t}$ = 0.31766201 SLON in Ethiopia.
 
 A minimum teacher salary in Ethiopia is 30 USD.
 
-Wm = 30 USD / (168*60) = 0.00297619 USD
+$W{_t}$ = 30 USD / (168*60) = 0.00297619 USD
 
 0.00297619 USD = 0.31766201 SLON
 
