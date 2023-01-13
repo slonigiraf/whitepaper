@@ -73,10 +73,6 @@ As we propose such system for an education in groups we need to estimate the wor
 
 *Table 1. Target audience (7-21 years old people). The value of 7-21 strata percent for rest world was calculated as an average for countries from the list above.*
 
-### $A$ - a student starting capital
-
-Our educational approach forces a tutee  to pay their tutor for skill-teaching and the issuance of a diploma, and requires the tutor to be responsible for the issued diploma by providing reimbursement when a tutee  forgets the skill certified by the diploma. To make this happen we need to assure that students have enough money for such economic interaction. Let's denote how much money each student should have at the beginning of such approach implementation as $A$.
-
 ### Work force price
 
 To discuss a work force price of mentors and experts we should remember that a student that understood how to be a mentor can potentially go to a educational market out of the school or university and get money for helping other students then his peers. Thus we can approximate the wage of a mentor with the lowest wage of teacher in the country that he lives.
@@ -105,51 +101,49 @@ We collected teacher wage data per country from [salaryexplorer.com](http://www.
 
 *Table 2. Teacher month wages in USD per country.*
 
-### Run out of money probability
-
-If student is constantly plays a role of a tutee and doesn't become a tutor he will run out of money. Students that gain a diploma in the last session (see fig. 1) have no option to teach the acquired skill. So if the student will constantly get diplomas in the last session he will run out of money even if he want to be a tutor. This situation is almost random and the student can't control it well. Let's calculate the probability to acquire the skill in the last session. From the Fig. 1. it seems that such probability is around of 0.5, as in last session 4 students participate as mentees from 8 students total. To be accurate it's **less or equal to 0.5** in a group of any size, because in last session each mentee gets a mentor, but not each mentor is guaranteed to get a mentee. Thus if student starting capital $A = 0$, then the probability that he can't pay for the lesson is less or equal to 0.5: $P{_b} ≤ 0.5$. When a mentee has a starting capital larger that 0, we need to know a diploma price to calculate the exact probability to run out of the capital.
-
-A mentee pays to his tutor not only to study a skill but also to get a diploma. Diploma is very similar to an insurance police because the tutor promises to pay a reimbursement to an expert if the mentee will forget the skill. As in insurance business bad things can happen by chance more often than expected and the mentor can run out of money due to reimbursements. The probability that a mentee forgets a skill is [0.25](https://pubmed.ncbi.nlm.nih.gov/21574747/). To calculate the probability that a student will run out of money as a mentor we need to know both diploma price and a reimburcement amount.
-
 ### $D$ - diploma price and $R$ - reimbursement amount
 
-To calculate what amount of reimbursement is sufficient to motivate experts verify diplomas in search of bad ones we need an estimation of following values:
+Let's calculate a reimbursement amount size and a mean diploma price. We will use Ethiopia as a country with a minimal teacher wage to deal with small numbers during calculations.
 
-- $W{_e}$ - a minute wage of an expert that he wants to achive
-- $T{_e}$ - the mean time that an expert spend to verify the diploma
-- $N{_d}$ - mean number of diplomas to verify to find a bad one
+A reimbursement is a money amount that a mentor pays to an expert who found that a mentee doesn't posses a skill which was underwritten in the diploma. An expert verifies several dimplomas before he can find a one with forgotten skill thus we need to estimate such number of diplomas. It's known that mentees forget [1 skill from 4 studied](https://link.springer.com/article/10.1007/s10643-022-01332-3) thus an expert should spend a time to verify 4 dimplomas on everage to get 1 reimbursement. We identified experimentally that an expert need 1.5 minutes to verify 1 dimploma, thus an expert spend 6 minutes (4*1.5) to get 1 reimbursement. So we can say that a reimbursement is equal to a price of 6 minutes work of an expert. As we wrote previously an expert wage on average is 3.16 higher than minimum teacher wage.
 
-$R = T{_e} * W{_e} * N{_d}$
+Ethiopian minimum teacher wage is 30.20 USD per month. A minute of such work costs 0.003 USD:
 
-Let's denote the diploma price as $D$ - it's an amount of money that a student pays to his mentor to study a skill and get a diploma. 
+$30.20 / (21 * 8 * 60) = 0.003$
 
+Thus 1 minute of an expert work price should equal to 0.00948 USD:
 
-To calculate how much money students need we should take into account:
+$0.003 * 3.16 = 0.00948$
 
-- $W{_t}$ - a minute wage of a tutor, which teach tutee  and issues diploma on each skill
-- $W{_e}$ - a minute wage of an expert, who controls the quality of skills
-- Tt - the mean time that a tutor spend to teach a skill
-- Te - the mean time that an expert spend to revise a skill
-- F - the skill forgetting rate after teaching
-- R - the reimbursement that a tutor pays to an expert
-- M - a mathematical expectation of tutor earnings for 1 skill:
+And 6 minutes of an expert work is equal to 0.05688 USD:
 
-A good proxy for a $W{_t}$ is a minimum teacher wage per country, and a good proxy for a We is a maximum teacher wage per country. We can see the mean We/$W{_t}$ ration per country is a 3.16 thus we will use this estimation of We in following calculations.
-As an expert should get his wage during a diploma verification we can write that:
+$0.00948 * 6 = 0.05688$
 
-R = Te * We / F
+So, **the reimbursent amount should be around 0.05688 USD in Ethiopia** to motivate students perform an expert work.
 
-During an early implementation of Slonigiraf in a private school we got the estimation of an expert time for revising a diploma as 1.5 min (Te). There is a published data that mean skill forgetting rate (F) [is about 0.25](https://link.springer.com/article/10.1007/s10643-022-01332-3), thus:
+During 4 years of Slonigiraf educatinal model testing in different schools we have experimentally identified that a mentor needs on average 11 minutes to teach a mentee. Thus the mentor work as a teacher in Ethiopia should cost 0.033 USD per 1 skill:
 
-R = 1.5 * 3.16 * $W{_t}$ / 0.25 = 18.96 * $W{_t}$
+$0.003*11 = 0.033$
 
-Presumably, a tutor should get enough payment for his work during teaching as well as the money to be able to pay premium to an expert in case a student forgets the skill. Thus:
+The mentor gets money from mentee not only for his time but also for issuing a dimploma that can be canceled by an expert. As in case when a mentee will forget the skill the mentor will pay the reimburcement to an expert the mentor should get some premium for issuing the diploma. Otherwise a mentor will lose money as it's not possible to completely exclude the situtation when mentee will forget the skill. As we mentioned mentees forget 1 skill from 4 studied, thus a mentor should add a premium of 1 reimbursemnt amount to each 4 skills that he teaches, or simply 1/4 of such amount to each diploma issuing, thus **the total price of a diploma will be 0.04722 USD in Ethiopia**:
 
-M = Tt * $W{_t}$ + F * R = Tt * $W{_t}$ + F * Te * We / F = Tt * $W{_t}$ + Te * We
+$0.033+0.05688*1/4=0.04722$
 
-During an early implementation of Slonigiraf in a private school we estimated thet the tutor time to teach a skill was 11 minutes. Thus:
+The reimbursement amount is 1.2 times bigger than the diploma price:
 
-M = 11 * $W{_t}$ + 1.5 * We = 11 * $W{_t}$ + 1.5 * 3.16 * $W{_t}$ = (11 + 4.74) * $W{_t}$ = 15.74 * $W{_t}$
+$0.05688/0.04722$
+
+As all issued diplomas go through the verification it's profitable to a mentor to cheat the system just issuing a lot of number of diplomas because he will lose 1.2 times more money than earning.
+
+### Run out of money probability
+
+If student constantly plays a role of a tutee and doesn't become a tutor he will run out of money. Students that gain a diploma in the last session (see fig. 1) have no option to teach the acquired skill. So if the student will constantly get diplomas in the last session he will run out of money even if he want to be a tutor. This situation is almost random and the student can't control it well. Let's calculate the probability to acquire the skill in the last session. From the Fig. 1. it seems that such probability is around of 0.5, as in last session 4 students participate as mentees from 8 students total. To be accurate it's **less or equal to 0.5** in a group of any size, because in last session each mentee gets a mentor, but not each mentor is guaranteed to get a mentee. Thus if student starting capital $A = 0$, then the probability that he can't pay for the lesson is less or equal to 0.5: $P{_b} ≤ 0.5$. When a mentee has a starting capital larger that 0, we need to know a diploma price to calculate the exact probability to run out of the capital.
+
+A mentee pays to his tutor not only to study a skill but also to get a diploma. Diploma is very similar to an insurance police because the tutor promises to pay a reimbursement to an expert if the mentee will forget the skill. As in insurance business bad things can happen by chance more often than expected and the mentor can run out of money due to reimbursements. The probability that a mentee forgets a skill is [0.25](https://pubmed.ncbi.nlm.nih.gov/21574747/).
+
+### $A$ - a student starting capital
+
+Our educational approach forces a tutee  to pay their tutor for skill-teaching and the issuance of a diploma, and requires the tutor to be responsible for the issued diploma by providing reimbursement when a tutee  forgets the skill certified by the diploma. To make this happen we need to assure that students have enough money for such economic interaction. Let's denote how much money each student should have at the beginning of such approach implementation as $A$.
 
 R/M = (18.96 * $W{_t}$) / (15.74 * $W{_t}$) ~ 1.2
 
@@ -181,6 +175,7 @@ Other countries have different teacher wages. Thus we need to adjust an airdrop 
 We need a total of 4.3 trln SLON for countries listed in the Appendix 1, and 2.8 trln SLON for others. Thus 7.1 trln SLON is required in total just for an airdrop.
 
 In the proposed system, is the total demand for SLON estimated to be just 7 trillion? To answer this question, it is important to note that the supply of cryptocurrencies, such as Bitcoin, is typically compared to M1 supply or narrow money. However, the supply of stacking cryptocurrencies is more closely aligned with M2 supply. The M2 money supply is [roughly equivalent to the GDP](https://data.worldbank.org/indicator/FM.LBL.BMNY.GD.ZS). As the additional GDP is estimated to be 8 trillion USD, the M2 SLON supply should be approximately 8 trillion USD or 800 trillion SLON.
+
 
 
 ## Long lasting effect of education improvement
