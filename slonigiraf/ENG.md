@@ -46,15 +46,15 @@ To estimate what tutor roles student can play in the Slonigiraf educational mode
 
 **Tutor of 0 tutees role**: as shown on a fig. 2. a half of students gains a skill in a last session. That means they will pay for tutoring and geting a diploma but will not earn money by tutoring such skill as there will be no student left that need a skill. If the class consists of 32 students there will be 16 such students (depicted with a digit "0" on a fig. 2).
 
-**Tutor of 1 tutees role**: $1/4$ th of students (8 from 32) gain a skill in a preterminal session. These students have 1 tutor and 1 tutee each, which results in a 0 profit result as they compensate money paid to their tutors by money acquired by being a tutor.
+**Tutor of 1 tutees role**: $1/4$ of students (8 from 32) gain a skill in a preterminal session. These students have 1 tutor and 1 tutee each, which results in a 0 profit result as they compensate money paid to their tutors by money acquired by being a tutor.
 
-**Tutor of 2 tutees role**: $1/8$ th of students (4 from 32) have 2 tutees.
+**Tutor of 2 tutees role**: $1/8$ of students (4 from 32) have 2 tutees.
 
-**Tutor of 3 tutees role**: $1/16$ th of students (2 from 32) have 3 tutees.
+**Tutor of 3 tutees role**: $1/16$ of students (2 from 32) have 3 tutees.
 
-**Tutor of 4 tutees role**: $1/32$ th of students (1 from 32) have 4 tutees.
+**Tutor of 4 tutees role**: $1/32$ of students (1 from 32) have 4 tutees.
 
-**Tutor of 5 tutees role**: $1/32$ th of students (1 from 32) have 5 tutees.
+**Tutor of 5 tutees role**: $1/32$ of students (1 from 32) have 5 tutees.
 
 With growing number of mentees the probability of such role is decreasing sugnificantly. We will not discuss the probability of having  more than 5 tutees in larger classes, as probabilites of such roles are too small to generally affect calculations of our model economy.
 
@@ -181,7 +181,9 @@ Experts don't risk, they just earn. The teacher can lose some money if some of h
 
 Any tutor spend money to learn a skill, earns money teaching others, and spend money if any his tutees forgets the skill. Thus a tutor profit can be written in formula:
 
-$Profit = -D+D*N{_t}-R*N{_f}$, where:
+$Profit = -D+D*N{_t}-R*N{_f}$
+
+Where:
 
 - $D$ - diploma price
 - $R$ - reimbursement amount
