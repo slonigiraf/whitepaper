@@ -181,7 +181,9 @@ Experts don't risk, they just earn. The teacher can lose some money if some of h
 
 Any tutor spend money to learn a skill, earns money teaching others, and spend money if any his tutees forgets the skill. Thus a tutor profit can be written in formula:
 
-$P = -D+D*N{_t}-R*N{_f}$
+$2^{sessions} = diplomas$
+
+$Profit = -D+D*N{_t}-R*N{_f}$
 
 Where:
 
