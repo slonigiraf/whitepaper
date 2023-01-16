@@ -14,7 +14,7 @@ One way to measure the efficiency of an education system is by determining the a
 
 Traditional schooling typically has an efficiency about of [25%](https://link.springer.com/article/10.1007/s10643-022-01332-3), while using private tutoring the efficiency can be increased up to [75%](https://pubmed.ncbi.nlm.nih.gov/21574747/). However, private tutoring can be costly and requires a large number of educators. Peer learning, where students tutor each other, [doesn't outperform](https://pubmed.ncbi.nlm.nih.gov/23691355/) the traditional schooling because of [two main challenges](https://www.tandfonline.com/doi/full/10.1080/01443410500345172): the lack of motivation to teach among students and quality erosion due to the broken telephone effect.
 
-To address these issues, we propose using money to incentivize students that act as mentors and require them to use recommendation letter system to ensure the quality of such lessons. By doing so, we can motivate students to act as educators while also maintaining educational standards. We have implemented this approach in several schools and observed an increase of the education efficiency up to 75%, with students having an ample time for both learning and teaching within their existing secondary education programs.
+To address these issues, we propose using money to incentivize students that act as tutors and require them to use recommendation letter system to ensure the quality of such lessons. By doing so, we can motivate students to act as educators while also maintaining educational standards. We have implemented this approach in several schools and observed an increase of the education efficiency up to 75%, with students having an ample time for both learning and teaching within their existing secondary education programs.
 
 ## Proposed educational model
 
@@ -38,11 +38,19 @@ For example: $2^{5} = 32$: after 5 sessions we expect to have 32 diplomas, meani
 
 ### Probability to become a tutor
 
-<img alt="Image" src="https://github.com/slonigiraf/slon-whitepaper/blob/main/img/metnees_count.png?raw=true" width="500">
+<img alt="Image" src="https://github.com/slonigiraf/slon-whitepaper/blob/main/img/tutees_count.png?raw=true" width="500">
 
-*Figure 2. Mentees count*
+*Figure 2. Tutees count*
 
-As shown on a fig. 2. a half of students gains a skill in a last session. That means they will pay for tutoring and geting a diploma but will not earn money by tutoring such skill as there will be no student left that need a skill. If the class consists of 32 students there will be 16 such students (depicted with a number 0 on a fig. 2). 1/4 th of students gain a skill in a preterminal session (are marked with a numbe 1). These students have 1 tutor and 1 mentee each, which results in a 0 profit result as they compensate money paid to their tutors by money acquired by being a tutor. 1/8 th of students have 2 mentees and 1 mentor
+To estimate what roles student can play in the Slonigiraf educational model and what are probabilities of playing such roles let's examine a class consisting of 32 students. We will explain later why probabilities of different roles are more of less the same in any student group size.
+
+As shown on a fig. 2. a half of students gains a skill in a last session. That means they will pay for tutoring and geting a diploma but will not earn money by tutoring such skill as there will be no student left that need a skill. If the class consists of 32 students there will be 16 such students (depicted with a digit "0" on a fig. 2).
+
+$1/4$ th of students (8 from 32) gain a skill in a preterminal session. These students have 1 tutor and 1 tutee each, which results in a 0 profit result as they compensate money paid to their tutors by money acquired by being a tutor.
+
+$1/8$ th of students (4 from 32) have 2 tutees. $1/16$ th of students (2 from 32) have 3 tutees. $1/32$ th of students (1 from 32) have 4 tutees. $1/32$ th of students (1 from 32) have 5 tutees.
+
+All students have a tutor as all need to get a diploma. The student that have 5 tutees probably gets his diploma by communicating with a tutor outside the group. It can be the teacher of parent or any other type of the tutor. As we discussed before it's allowed to be a tutor while not having a diploma about the skill but for sure it rises the risk for the tutor to fail his work thus students tend to study the skill first, then get a diploma and only after this teach others.
 
 ### Expert selection
 
@@ -50,7 +58,7 @@ A fact that a student got the diploma doesn't mean he has mastered the skill. It
 
 ### Diploma verification
 
-Why students do want to become experts? The expert status allows them to verify a lot of diplomas and eventually find bad ones and get reimbursement from bad mentors. For sure an expert whant to name all diplomas coming to him as bad ones to get as much reward as possible. To prevent such situation we allow students to select which expert to deal with. This creates a competition between experts and makes them to behave honestly.
+Why students do want to become experts? The expert status allows them to verify a lot of diplomas and eventually find bad ones and get reimbursement from bad tutors. For sure an expert whant to name all diplomas coming to him as bad ones to get as much reward as possible. To prevent such situation we allow students to select which expert to deal with. This creates a competition between experts and makes them to behave honestly.
 
 The teacher is allowed to re-verify diplomas verified by an expert if he suspects that the expert is cheating: for example if the expert verified the diploma issued by himself. In the case of cheating the teacher can prohibit the student to be an expert for certain amount of time and also the teacher gets the reimbursement from the tutor who issued the diploma used in cheating.
 
@@ -83,11 +91,11 @@ As we propose such system for an education in groups we need to estimate the wor
 
 ### Work force price
 
-To discuss a work force price of mentors and experts we should remember that a student that understood how to be a mentor can potentially go to a educational market out of the school or university and get money for helping other students then his peers. Thus we can approximate the wage of a mentor with the lowest wage of teacher in the country that he lives.
+To discuss a work force price of tutors and experts we should remember that a student that understood how to be a tutor can potentially go to a educational market out of the school or university and get money for helping other students then his peers. Thus we can approximate the wage of a tutor with the lowest wage of teacher in the country that he lives.
 
-The expert wage should be larger than the mentor wage to motivate most qualified students to become experts. As qualified students can find a good position in an online tutoring we can assume that the maximum teacher wage in the country where the expert lives could be a good approximation of the market expert wage.
+The expert wage should be larger than the tutor wage to motivate most qualified students to become experts. As qualified students can find a good position in an online tutoring we can assume that the maximum teacher wage in the country where the expert lives could be a good approximation of the market expert wage.
 
-We collected teacher wage data per country from [salaryexplorer.com](http://www.salaryexplorer.com/?loc=23&loctype=1&job=123&jobtype=3#browsesalaries) on 2023.01.08. From the Table 2 you can see that maximum teacher wage on average is 3.16 times higher that minimum teacher wage. Thus an expert should get 3.16 times more money per 1 minute of his work than a mentor. Teacher wage is minimal in Ethiopia so a mentor will get in Ethiopia the smallest wage in comparison to other countries listed in the table 2.
+We collected teacher wage data per country from [salaryexplorer.com](http://www.salaryexplorer.com/?loc=23&loctype=1&job=123&jobtype=3#browsesalaries) on 2023.01.08. From the Table 2 you can see that maximum teacher wage on average is 3.16 times higher that minimum teacher wage. Thus an expert should get 3.16 times more money per 1 minute of his work than a tutor. Teacher wage is minimal in Ethiopia so a tutor will get in Ethiopia the smallest wage in comparison to other countries listed in the table 2.
 
 |             | Min | Max | Max/Min |
 | ----------- | ------- | ------- | ------- |
@@ -113,7 +121,7 @@ We collected teacher wage data per country from [salaryexplorer.com](http://www.
 
 Let's calculate a reimbursement amount size and a mean diploma price. We will use Ethiopia as a country with a minimal teacher wage to deal with small numbers during calculations.
 
-A reimbursement is a money amount that a mentor pays to an expert who found that a mentee doesn't posses a skill which was underwritten in the diploma. An expert verifies several dimplomas before he can find a one with forgotten skill thus we need to estimate such number of diplomas. It's known that mentees forget [1 skill from 4 studied](https://link.springer.com/article/10.1007/s10643-022-01332-3) thus an expert should spend a time to verify 4 dimplomas on everage to get 1 reimbursement. We identified experimentally that an expert need 1.5 minutes to verify 1 dimploma, thus an expert spend 6 minutes (4*1.5) to get 1 reimbursement. So we can say that a reimbursement is equal to a price of 6 minutes work of an expert. As we wrote previously an expert wage on average is 3.16 higher than minimum teacher wage.
+A reimbursement is a money amount that a tutor pays to an expert who found that a tutee doesn't posses a skill which was underwritten in the diploma. An expert verifies several dimplomas before he can find a one with forgotten skill thus we need to estimate such number of diplomas. It's known that tutees forget [1 skill from 4 studied](https://link.springer.com/article/10.1007/s10643-022-01332-3) thus an expert should spend a time to verify 4 dimplomas on everage to get 1 reimbursement. We identified experimentally that an expert need 1.5 minutes to verify 1 dimploma, thus an expert spend 6 minutes (4*1.5) to get 1 reimbursement. So we can say that a reimbursement is equal to a price of 6 minutes work of an expert. As we wrote previously an expert wage on average is 3.16 higher than minimum teacher wage.
 
 Ethiopian minimum teacher wage is 30.20 USD per month. A minute of such work costs 0.003 USD:
 
@@ -129,11 +137,11 @@ $0.00948 * 6 = 0.05688$
 
 So, **the reimbursent amount should be around 0.05688 USD in Ethiopia** to motivate students perform an expert work.
 
-During 4 years of Slonigiraf educatinal model testing in different schools we have experimentally identified that a mentor needs on average 11 minutes to teach a mentee. Thus the mentor work as a teacher in Ethiopia should cost 0.033 USD per 1 skill:
+During 4 years of Slonigiraf educatinal model testing in different schools we have experimentally identified that a tutor needs on average 11 minutes to teach a tutee. Thus the tutor work as a teacher in Ethiopia should cost 0.033 USD per 1 skill:
 
 $0.003*11 = 0.033$
 
-The mentor gets money from mentee not only for his time but also for issuing a dimploma that can be canceled by an expert. As in case when a mentee will forget the skill the mentor will pay the reimburcement to an expert the mentor should get some premium for issuing the diploma. Otherwise a mentor will lose money as it's not possible to completely exclude the situtation when mentee will forget the skill. As we mentioned mentees forget 1 skill from 4 studied, thus a mentor should add a premium of 1 reimbursemnt amount to each 4 skills that he teaches, or simply 1/4 of such amount to each diploma issuing, thus **the total price of a diploma will be 0.04722 USD in Ethiopia**:
+The tutor gets money from tutee not only for his time but also for issuing a dimploma that can be canceled by an expert. As in case when a tutee will forget the skill the tutor will pay the reimburcement to an expert the tutor should get some premium for issuing the diploma. Otherwise a tutor will lose money as it's not possible to completely exclude the situtation when tutee will forget the skill. As we mentioned tutees forget 1 skill from 4 studied, thus a tutor should add a premium of 1 reimbursemnt amount to each 4 skills that he teaches, or simply 1/4 of such amount to each diploma issuing, thus **the total price of a diploma will be 0.04722 USD in Ethiopia**:
 
 $0.033+0.05688*1/4=0.04722$
 
@@ -141,21 +149,21 @@ The reimbursement amount is 1.2 times bigger than the diploma price:
 
 $0.05688/0.04722$
 
-As all issued diplomas go through the verification it's profitable to a mentor to cheat the system just issuing a lot of number of diplomas because he will lose 1.2 times more money than earning.
+As all issued diplomas go through the verification it's profitable to a tutor to cheat the system just issuing a lot of number of diplomas because he will lose 1.2 times more money than earning.
 
 ### Bankruptcy probability
 
-If student constantly plays a role of a tutee and doesn't become a tutor he will run out of money. Students that gain a diploma in the last session (see fig. 2) have no option to teach the acquired skill. So if the student will constantly get diplomas in the last session he will run out of money even if he want to be a tutor. This situation is almost random and the student can't control it well. Let's calculate the probability to acquire the skill in the last session. From the Fig. 1. it seems that such probability is around of 0.5, as in last session 4 students participate as mentees from 8 students total. To be accurate it's **less or equal to 0.5** in a group of any size, because in last session each mentee gets a mentor, but not each mentor is guaranteed to get a mentee. Thus if student starting capital $A = 0$, then the probability that he can't pay for the lesson is less or equal to 0.5: $P{_b} ≤ 0.5$. When a mentee has a starting capital larger that 0, we need to know a diploma price to calculate the exact probability to run out of the capital.
+If student constantly plays a role of a tutee and doesn't become a tutor he will run out of money. Students that gain a diploma in the last session (see fig. 2) have no option to teach the acquired skill. So if the student will constantly get diplomas in the last session he will run out of money even if he want to be a tutor. This situation is almost random and the student can't control it well. Let's calculate the probability to acquire the skill in the last session. From the Fig. 1. it seems that such probability is around of 0.5, as in last session 4 students participate as tutees from 8 students total. To be accurate it's **less or equal to 0.5** in a group of any size, because in last session each tutee gets a tutor, but not each tutor is guaranteed to get a tutee. Thus if student starting capital $A = 0$, then the probability that he can't pay for the lesson is less or equal to 0.5: $P{_b} ≤ 0.5$. When a tutee has a starting capital larger that 0, we need to know a diploma price to calculate the exact probability to run out of the capital.
 
 
 
-A mentee pays to his tutor not only to study a skill but also to get a diploma. Diploma is very similar to an insurance police because the tutor promises to pay a reimbursement to an expert if the mentee will forget the skill. As in insurance business bad things can happen by chance more often than expected and the mentor can run out of money due to reimbursements. The probability that a mentee forgets a skill is [0.25](https://pubmed.ncbi.nlm.nih.gov/21574747/).
+A tutee pays to his tutor not only to study a skill but also to get a diploma. Diploma is very similar to an insurance police because the tutor promises to pay a reimbursement to an expert if the tutee will forget the skill. As in insurance business bad things can happen by chance more often than expected and the tutor can run out of money due to reimbursements. The probability that a tutee forgets a skill is [0.25](https://pubmed.ncbi.nlm.nih.gov/21574747/).
 
 There is a probability that a teacher will allow a student be an expert for the skill. In such case he will only get money and doesn't risk to lose anything during such work.
 
-Let's examine the worst case when a student can't become an expert as the teacher is not fair and only teachers' pets become experts. In such case if he also fails to be a mentor several times, or when he become a mentor but his mentees constantly lose their skills the student can bancrupt. Let's say that in a class of size 32 people and only 4 posess a skill at the beginning of the lesson, then every 8 students can be described with a fig. 1.
+Let's examine the worst case when a student can't become an expert as the teacher is not fair and only teachers' pets become experts. In such case if he also fails to be a tutor several times, or when he become a tutor but his tutees constantly lose their skills the student can bancrupt. Let's say that in a class of size 32 people and only 4 posess a skill at the beginning of the lesson, then every 8 students can be described with a fig. 1.
 
-For the student "A" the only scenario when he loses money more than gets is that he teaches 4 mentees but all of them forget the skill. In such case he will lose 4 * 0.04722 USD due to reimbursement but earn 4 * 0.05688 USD due to mentees payments. Thus after such lesson he will lose 0.03864 USD:
+For the student "A" the only scenario when he loses money more than gets is that he teaches 4 tutees but all of them forget the skill. In such case he will lose 4 * 0.04722 USD due to reimbursement but earn 4 * 0.05688 USD due to tutees payments. Thus after such lesson he will lose 0.03864 USD:
 
 $4*0.05688-4*0.04722=0.03864$
 
@@ -163,7 +171,7 @@ For the student B the only scenario when he loses money more than gets is paying
 
 $0.05688+2*0.04722-2*0.05688=0.03756$
 
-Student C and student D have the only scenario when they loses money more than get: pay to their mentors and pay for 1 reimburse, that leads to loosing 0.04722 USD:
+Student C and student D have the only scenario when they loses money more than get: pay to their tutors and pay for 1 reimburse, that leads to loosing 0.04722 USD:
 
 $0.05688+0.04722-0.05688=0.04722$
 
@@ -173,17 +181,17 @@ Let's summarize:
 
 | Role | Money lost | Probability of the role | Probability to lose money | Resulting probability |
 | ---- | ---------- | ----------------------- | ------------------------- | --------------------- |
-| A mentor with 4 mentees | 0.03864 | $1/16$ | $0.25{4}$ | $0.25{5}$ |
-| A mentor with 2 mentees | 0.03864 | $1/16$ | $0.25{2}$ | $0.25{3}$ |
-| A mentor with 1 mentee | 0.04722 | $2/16$ | $0.25$ | $2*0.25{3}$ |
+| A tutor with 4 tutees | 0.03864 | $1/16$ | $0.25{4}$ | $0.25{5}$ |
+| A tutor with 2 tutees | 0.03864 | $1/16$ | $0.25{2}$ | $0.25{3}$ |
+| A tutor with 1 tutee | 0.04722 | $2/16$ | $0.25$ | $2*0.25{3}$ |
 
 So for any skill the student can:
 
-- spend money for being a mentee only
-- earn money as a mentor teaching 1 mentee but lose more while paying a reimbursement
+- spend money for being a tutee only
+- earn money as a tutor teaching 1 tutee but lose more while paying a reimbursement
 - earn money as an expert
 
-There are also options to be a mentor for the same skill for multiple mentees, but as 
+There are also options to be a tutor for the same skill for multiple tutees, but as 
 
 ### $A$ - a student starting capital
 
