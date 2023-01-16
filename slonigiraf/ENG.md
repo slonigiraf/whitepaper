@@ -173,13 +173,69 @@ $0.05688/0.04722$
 
 As all issued diplomas go through the verification it's profitable to a tutor to cheat the system just issuing a lot of number of diplomas because he will lose 1.2 times more money than earning.
 
-### Bankruptcy probability
+### Situations leading to earning and spending money
 
 As we discussed above there are following roles in the Slonigiraf educational system: a teacher, an expert, a tutor of 0 tutees, a tutor of 1 tutees ...
 
-Expert can't bankrupt as they don't risk, they just earn. The teacher can lose some money if some of his mentees will forget the skill. But as the teacher teaches only 1 student per a skill and also can accumulate money as an expert he is not supposed to be bankrupt. Thus the bankruptcy probability can be calculated only for roles such as: a tutor of 0 tutees, a tutor of 1 tutees ... We will also omit roles with having more than 5 mentees as the probabilities of playing such roles are too small to affect our model.
+Experts don't risk, they just earn. The teacher can lose some money if some of his mentees will forget the skill. But as he teaches only 1 student per a skill and also works as an expert he is always makes more money than he loses.
 
-| Role              | Lost money per a skill (USD in Ethiopia) | Probability to lose money playing the role |
+Any tutor spend money to learn a skill, earns money teaching others, and spend money if any his tutees forgets the skill. Thus a tutor profit can be written in formula:
+
+$Profit = -D+D*N{_t}-R*N{_f}$, where:
+
+- $D$ - diploma price
+- $R$ - reimbursement amount
+- $N{_t}$ - tutees count of the tutor
+- $N{_f}$ - number of tutees who have forgetten the skill.
+
+If the a student doesn't have tutees then $N{_t}$ and $N{_f}$ are equal to $0$, and the formula gives us a profit value of these student equal to $-D$: they only pay for diploma to their tutors but don't earn anything.
+
+As we calculated above the $R$ is 1.2 times bigger than $D$, so we can substitute $R$ in the equation above with $1.2*D$:
+
+$Profit = -D+D*N{_t}-1.2*D*N{_f}$
+
+Then we will put the price of the diploma out of brackets:
+
+$Profit = D*(-1+N{_t}-1.2*N{_f})$
+
+You can see that $Profit < 0$ only if $(-1+N{_t}-1.2*N{_f}) < 0$, or when $N{_t}-1.2*N{_f} < 1$
+
+Table 4 summarizes in which situation students will lose money.
+
+| Role              | $N{_t}$ | $N{_f}$ | $N{_t}-1.2*N{_f}$ | Losing money |
+| ----------------- | -- | -- | ------------ | ------------ |
+| Tutor of 0 tutees | 0  | 0  | 0            | No           |
+| Tutor of 1 tutees | 1  | 0  | 1            | Yes          |
+| Tutor of 1 tutees | 1  | 1  | \-0.2        | No           |
+| Tutor of 2 tutees | 2  | 0  | 2            | Yes          |
+| Tutor of 2 tutees | 2  | 1  | 0.8          | No           |
+| Tutor of 2 tutees | 2  | 2  | \-0.4        | No           |
+| Tutor of 3 tutees | 3  | 0  | 3            | Yes          |
+| Tutor of 3 tutees | 3  | 1  | 1.8          | Yes          |
+| Tutor of 3 tutees | 3  | 2  | 0.6          | No           |
+| Tutor of 3 tutees | 3  | 3  | \-0.6        | No           |
+| Tutor of 4 tutees | 4  | 0  | 4            | Yes          |
+| Tutor of 4 tutees | 4  | 1  | 2.8          | Yes          |
+| Tutor of 4 tutees | 4  | 2  | 1.6          | Yes          |
+| Tutor of 4 tutees | 4  | 3  | 0.4          | No           |
+| Tutor of 4 tutees | 4  | 4  | \-0.8        | No           |
+| Tutor of 5 tutees | 5  | 0  | 5            | Yes          |
+| Tutor of 5 tutees | 5  | 1  | 3.8          | Yes          |
+| Tutor of 5 tutees | 5  | 2  | 2.6          | Yes          |
+| Tutor of 5 tutees | 5  | 3  | 1.4          | Yes          |
+| Tutor of 5 tutees | 5  | 4  | 0.2          | No           |
+| Tutor of 5 tutees | 5  | 5  | \-1          | No           |
+
+*Table 4. Cash flow outcomes of different roles*
+
+### Bankruptcy probability
+
+If the student constantly faces money losses he will be bankrupt. Table 4 gives us insights which roles in which situtations lead to money lost. Let's calculate the probability of playing each role, probability of the bad situation, and how much money the student will lose.
+
+
+
+
+| Role | Lost money per a skill in Ethiopia (USD) | Probability to lose money playing the role |
 | ----------------- | -------- | ----------- |
 | Tutor of 0 tutees | 0.04722  | 1           |
 | Tutor of 1 tutees | 0.05688  | 0.25        |
@@ -188,13 +244,19 @@ Expert can't bankrupt as they don't risk, they just earn. The teacher can lose s
 | Tutor of 4 tutees | 0.08586  | 0.00390625  |
 | Tutor of 5 tutees | 0.09552  | 0.000976563 |
 
-*Table 3. Probability to lose money playing a certain role*
+*Table 5. Probability to lose money playing a certain role*
 
-If student constantly plays a role of a tutee and doesn't become a tutor he will run out of money. Students that gain a diploma in the last session (see fig. 2) have no option to teach the acquired skill. So if the student will constantly get diplomas in the last session he will run out of money even if he want to be a tutor. This situation is almost random and the student can't control it well.
+If student plays a role of a tutee and doesn't become a tutor he will lose each time the price of a diploma, or 0.04722 USD if the tutoring takes place in Ethiopia, as was calculated before. The probability to lose money for a such role is 1, as there is not way to earn having no mentees.
 
 A tutee pays to his tutor not only to study a skill but also to get a diploma. Diploma is very similar to an insurance police because the tutor promises to pay a reimbursement to an expert if the tutee will forget the skill. As in insurance business bad things can happen by chance more often than expected and the tutor can run out of money due to reimbursements. The probability that a tutee forgets a skill is [0.25](https://pubmed.ncbi.nlm.nih.gov/21574747/).
 
+If a tutor has only 1 tutee he spends the same amount of money as earns but also has a 0.25 probability to pay a reimbursement, whis is 0.05688 in Ethiopia.
 
+Tutor of 2 tutees compensates his education with money from 1st tutee and gets additional 0.04722 USD from 2nd tutee. If things go bad and both of his tutees will forget the skill he will lose 2 times of reimbursement price, thus overal balance for him will be 0.06654 USD lost:
+
+$2*0.05688 - 0.04722 = 0.06654$
+
+The probability that 2 tutees will forget the skill is $0.25*0.25 = 0.0625$ as we know from the [probability theory](https://en.wikipedia.org/wiki/Independence_(probability_theory)).
 
 Let's examine the worst case when a student can't become an expert as the teacher is not fair and only teachers' pets become experts. In such case if he also fails to be a tutor several times, or when he become a tutor but his tutees constantly lose their skills the student can bancrupt. Let's say that in a class of size 32 people and only 4 posess a skill at the beginning of the lesson, then every 8 students can be described with a fig. 1.
 
