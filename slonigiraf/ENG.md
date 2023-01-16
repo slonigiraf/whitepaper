@@ -204,27 +204,27 @@ Table 4 summarizes in which situation students will lose money.
 
 | Role              | $N{_t}$ | $N{_f}$ | $N{_t}-1.2*N{_f}$ | Losing money |
 | ----------------- | -- | -- | ------------ | ------------ |
-| Tutor of 0 tutees | 0  | 0  | 0            | No           |
-| Tutor of 1 tutees | 1  | 0  | 1            | Yes          |
-| Tutor of 1 tutees | 1  | 1  | \-0.2        | No           |
-| Tutor of 2 tutees | 2  | 0  | 2            | Yes          |
-| Tutor of 2 tutees | 2  | 1  | 0.8          | No           |
-| Tutor of 2 tutees | 2  | 2  | \-0.4        | No           |
-| Tutor of 3 tutees | 3  | 0  | 3            | Yes          |
-| Tutor of 3 tutees | 3  | 1  | 1.8          | Yes          |
-| Tutor of 3 tutees | 3  | 2  | 0.6          | No           |
-| Tutor of 3 tutees | 3  | 3  | \-0.6        | No           |
-| Tutor of 4 tutees | 4  | 0  | 4            | Yes          |
-| Tutor of 4 tutees | 4  | 1  | 2.8          | Yes          |
-| Tutor of 4 tutees | 4  | 2  | 1.6          | Yes          |
-| Tutor of 4 tutees | 4  | 3  | 0.4          | No           |
-| Tutor of 4 tutees | 4  | 4  | \-0.8        | No           |
-| Tutor of 5 tutees | 5  | 0  | 5            | Yes          |
-| Tutor of 5 tutees | 5  | 1  | 3.8          | Yes          |
-| Tutor of 5 tutees | 5  | 2  | 2.6          | Yes          |
-| Tutor of 5 tutees | 5  | 3  | 1.4          | Yes          |
-| Tutor of 5 tutees | 5  | 4  | 0.2          | No           |
-| Tutor of 5 tutees | 5  | 5  | \-1          | No           |
+| Tutor of 0 tutees | 0  | 0  | 0            | Yes          |
+| Tutor of 1 tutees | 1  | 0  | 1            | No           |
+| Tutor of 1 tutees | 1  | 1  | \-0.2        | Yes          |
+| Tutor of 2 tutees | 2  | 0  | 2            | No           |
+| Tutor of 2 tutees | 2  | 1  | 0.8          | Yes          |
+| Tutor of 2 tutees | 2  | 2  | \-0.4        | Yes          |
+| Tutor of 3 tutees | 3  | 0  | 3            | No           |
+| Tutor of 3 tutees | 3  | 1  | 1.8          | No           |
+| Tutor of 3 tutees | 3  | 2  | 0.6          | Yes          |
+| Tutor of 3 tutees | 3  | 3  | \-0.6        | Yes          |
+| Tutor of 4 tutees | 4  | 0  | 4            | No           |
+| Tutor of 4 tutees | 4  | 1  | 2.8          | No           |
+| Tutor of 4 tutees | 4  | 2  | 1.6          | No           |
+| Tutor of 4 tutees | 4  | 3  | 0.4          | Yes          |
+| Tutor of 4 tutees | 4  | 4  | \-0.8        | Yes          |
+| Tutor of 5 tutees | 5  | 0  | 5            | No           |
+| Tutor of 5 tutees | 5  | 1  | 3.8          | No           |
+| Tutor of 5 tutees | 5  | 2  | 2.6          | No           |
+| Tutor of 5 tutees | 5  | 3  | 1.4          | No           |
+| Tutor of 5 tutees | 5  | 4  | 0.2          | Yes          |
+| Tutor of 5 tutees | 5  | 5  | \-1          | Yes          |
 
 *Table 4. Cash flow outcomes of different roles*
 
