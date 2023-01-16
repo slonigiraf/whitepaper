@@ -181,8 +181,6 @@ Experts don't risk, they just earn. The teacher can lose some money if some of h
 
 Any tutor spend money to learn a skill, earns money teaching others, and spend money if any his tutees forgets the skill. Thus a tutor profit can be written in formula:
 
-$Profit = diplomas$
-
 $Profit = -D + D * N{_t} - R * N{_f}$
 
 Where:
@@ -196,13 +194,13 @@ If the a student doesn't have tutees then $N{_t}$ and $N{_f}$ are equal to $0$, 
 
 As we calculated above the $R$ is 1.2 times bigger than $D$, so we can substitute $R$ in the equation above with $1.2*D$:
 
-$Profit = -D+D*N{_t}-1.2*D*N{_f}$
+$Profit = -D + D * N{_t} - 1.2 * D * N{_f}$
 
 Then we will put the price of the diploma out of brackets:
 
-$Profit = D*(-1+N{_t}-1.2*N{_f})$
+$Profit = D * (-1 + N{_t} - 1.2 * N{_f})$
 
-You can see that $Profit < 0$ only if $(-1+N{_t}-1.2*N{_f}) < 0$, or when $N{_t}-1.2*N{_f} < 1$
+You can see that $Profit < 0$ only if $(-1 + N{_t} - 1.2 * N{_f}) < 0$, or when $N{_t} - 1.2 * N{_f} < 1$
 
 Table 4 summarizes in which situation students will lose money.
 
@@ -235,9 +233,6 @@ Table 4 summarizes in which situation students will lose money.
 ### Bankruptcy probability
 
 If the student constantly faces money losses he will be bankrupt. Table 4 gives us insights which roles in which situtations lead to money lost. Let's calculate the probability of playing each role, probability of the bad situation, and how much money the student will lose.
-
-
-
 
 | Role | Lost money per a skill in Ethiopia (USD) | Probability to lose money playing the role |
 | ----------------- | -------- | ----------- |
