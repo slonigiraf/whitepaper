@@ -86,7 +86,7 @@ The second way of teacher salary calculation has more market spirit. It assumes 
 
 ## Financial model
 
-### Target audience
+### It targets 2 billions of people in the world
 
 As we propose such system for an education in groups we need to estimate the world population of pupils and students. To be conservative let's speak that only **7 - 21 yo strata** will use our educational model. We've found a data about total population size of each country as of [2021.01.01](https://population.un.org/wpp/Download/Standard/MostUsed/), and the data of [percent of 0-14 yo people](https://www.theglobaleconomy.com/rankings/percent_children/) as of 2021. We think that a percent of 7 - 21 yo strata can be approximated by the 0 - 14 yo strata. Thus to calculate the target audience per country we should multiply a population size on a percent of 7 - 21 yo strata and divide by 100%. The resulting data is shown in the table 1. You can see that India has the biggest target audience of 361 million people, and the total world target audience is **2 billion people**.
 
@@ -175,17 +175,20 @@ As all issued diplomas go through the verification it's profitable to a tutor to
 
 ### Bankruptcy probability
 
-There are 6 major roles that have different cash flow:
+As we discussed above there are following roles in the Slonigiraf educational system: a teacher, an expert, a tutor of 0 tutees, a tutor of 1 tutees ...
 
-- An expert only gets money and doesn't risk to lose anything during such work
-- A student with 0 mentees
-- A student with 1 mentees
-- A student with 2 mentees
-- A student with 3 mentees
-- A student with 4 mentees
-- A student with 5 mentees
+Expert can't bankrupt as they don't risk, they just earn. The teacher can lose some money if some of his mentees will forget the skill. But as the teacher teaches only 1 student per a skill and also can accumulate money as an expert he is not supposed to be bankrupt. Thus the bankruptcy probability can be calculated only for roles such as: a tutor of 0 tutees, a tutor of 1 tutees ... We will also omit roles with having more than 5 mentees as the probabilities of playing such roles are too small to affect our model.
 
-As experts can't lead to a bankruptcy we will not discuss in in this chapter. We also omitting roles with having more than 5 mentees as the probabilities of playing such roles are too small to affect our model.
+| Role              | Lost money per a skill (USD in Ethiopia) | Probability to lose money playing the role |
+| ----------------- | -------- | ----------- |
+| Tutor of 0 tutees | 0.04722  | 1           |
+| Tutor of 1 tutees | 0.05688  | 0.25        |
+| Tutor of 2 tutees | 0.06654  | 0.0625      |
+| Tutor of 3 tutees | 0.0762   | 0.015625    |
+| Tutor of 4 tutees | 0.08586  | 0.00390625  |
+| Tutor of 5 tutees | 0.09552  | 0.000976563 |
+
+*Table 3. Probability to lose money playing a certain role*
 
 If student constantly plays a role of a tutee and doesn't become a tutor he will run out of money. Students that gain a diploma in the last session (see fig. 2) have no option to teach the acquired skill. So if the student will constantly get diplomas in the last session he will run out of money even if he want to be a tutor. This situation is almost random and the student can't control it well.
 
