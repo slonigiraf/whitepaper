@@ -36,6 +36,14 @@ $2^{sessions} = diplomas$
 
 For example: $2^{5} = 32$: after 5 sessions we expect to have 32 diplomas, meaning that 32 students acquired the skill. What if the lesson takes part not in school but in university and we need to teach 512 students that came to our course? How many sessions are need to spread a skill? Using formula **(1)** we can write: $2^{x} = 512$. By simple internet search or by using logarithm we can find that $x=9$. Thus we need only 9 sessions to teach 512 peoples a skill.
 
+### Probability to become a tutor
+
+<img alt="Image" src="https://github.com/slonigiraf/slon-whitepaper/blob/main/img/metnees_count.png?raw=true" width="500">
+
+*Figure 2. Mentees count*
+
+As shown on a fig. 2. a half of students gains a skill in a last session. That means they will pay for tutoring and geting a diploma but will not earn money by tutoring such skill as there will be no student left that need a skill. If the class consists of 32 students there will be 16 such students (depicted with a number 0 on a fig. 2). 1/4 th of students gain a skill in a preterminal session (are marked with a numbe 1). These students have 1 tutor and 1 mentee each, which results in a 0 profit result as they compensate money paid to their tutors by money acquired by being a tutor. 1/8 th of students have 2 mentees and 1 mentor
+
 ### Expert selection
 
 A fact that a student got the diploma doesn't mean he has mastered the skill. It just means that his tutor believes in it. Hoewever the tutor can be wrong. For example, the tutor himself doesn't posess such skill, or he didn't verified the skill proficiency of tutee by the adequete number of tasks, or the tutee can simply forget the skill. To maintain the good quality of education our system uses experts who verify diplomas and have a right to reward students with "A" grade or with any other type of reward. At the beginning of the lesson there is only one expert - the master teacher who runs and controls all the lesson. He is not able to verify all diplomas as it requires too much times. But he can delegate such position to few experts from students that got the diploma on the studied skill. The teacher verify that students that want to be experts posses the skill. If some of them fail the verification the teacher gets reimbursement from a tutor who issued the diploma.
@@ -139,9 +147,7 @@ As all issued diplomas go through the verification it's profitable to a mentor t
 
 If student constantly plays a role of a tutee and doesn't become a tutor he will run out of money. Students that gain a diploma in the last session (see fig. 2) have no option to teach the acquired skill. So if the student will constantly get diplomas in the last session he will run out of money even if he want to be a tutor. This situation is almost random and the student can't control it well. Let's calculate the probability to acquire the skill in the last session. From the Fig. 1. it seems that such probability is around of 0.5, as in last session 4 students participate as mentees from 8 students total. To be accurate it's **less or equal to 0.5** in a group of any size, because in last session each mentee gets a mentor, but not each mentor is guaranteed to get a mentee. Thus if student starting capital $A = 0$, then the probability that he can't pay for the lesson is less or equal to 0.5: $P{_b} ≤ 0.5$. When a mentee has a starting capital larger that 0, we need to know a diploma price to calculate the exact probability to run out of the capital.
 
-<img alt="Image" src="https://github.com/slonigiraf/slon-whitepaper/blob/main/img/metnees_count.png?raw=true" width="500">
 
-*Figure 2. Mentees count*
 
 A mentee pays to his tutor not only to study a skill but also to get a diploma. Diploma is very similar to an insurance police because the tutor promises to pay a reimbursement to an expert if the mentee will forget the skill. As in insurance business bad things can happen by chance more often than expected and the mentor can run out of money due to reimbursements. The probability that a mentee forgets a skill is [0.25](https://pubmed.ncbi.nlm.nih.gov/21574747/).
 
