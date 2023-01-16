@@ -50,6 +50,10 @@ $1/4$ th of students (8 from 32) gain a skill in a preterminal session. These st
 
 $1/8$ th of students (4 from 32) have 2 tutees. $1/16$ th of students (2 from 32) have 3 tutees. $1/32$ th of students (1 from 32) have 4 tutees. $1/32$ th of students (1 from 32) have 5 tutees.
 
+With growing number of mentees the probability of such role is decreasing sugnificantly. We will not discuss the probability of having  more than 5 tutees in larger classes, as probabilites of such roles are too small to generally affect calculations of our model economy.
+
+As every session produces 2x more tutors the probability of having 1 tutee, 2 tutee, 3 tutee is the same in classes with different student count: 16, 32, 64 ... Thus we can assume that our estimations of role probabilities are good in general.
+
 All students have a tutor as all need to get a diploma. The student that have 5 tutees probably gets his diploma by communicating with a tutor outside the group. It can be the teacher of parent or any other type of the tutor. As we discussed before it's allowed to be a tutor while not having a diploma about the skill but for sure it rises the risk for the tutor to fail his work thus students tend to study the skill first, then get a diploma and only after this teach others.
 
 ### Expert selection
