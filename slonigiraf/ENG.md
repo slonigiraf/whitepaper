@@ -230,7 +230,7 @@ Table 4 summarizes in which situation students will lose money.
 
 *Table 4. Cash flow outcomes of different roles*
 
-### Bankruptcy probability
+### Losing money probability
 
 If the student constantly faces money losses he will be bankrupt. Table 4 gives us insights which roles in which situtations lead to money lost. Let's bring together the probability of playing each role, probability of losing money at each role, and how much money the student will lose.
 
@@ -269,47 +269,23 @@ To calculate the probability that a student learning a skill will face a money l
 | Tutor of 4 tutees | 4  | \-0.084996 | 0.03125 | 0.00390625 | 0.00012207  |
 | Tutor of 5 tutees | 4  | \-0.037776 | 0.03125 | 0.01464844 | 0.000457764 |
 | Tutor of 5 tutees | 5  | \-0.09444  | 0.03125 | 0.00097656 | 3.05176E-05 |
-|Total              |    |            |         |            | 0.62902832  |
+|Total              |    |            |         |            | **0.62902832**  |
 
 *Table 5. Probability to lose money playing a certain role*
 
-
-
-Let's examine the worst case when a student can't become an expert as the teacher is not fair and only teachers' pets become experts. In such case if he also fails to be a tutor several times, or when he become a tutor but his tutees constantly lose their skills the student can bancrupt. Let's say that in a class of size 32 people and only 4 posess a skill at the beginning of the lesson, then every 8 students can be described with a fig. 1.
-
-For the student "A" the only scenario when he loses money more than gets is that he teaches 4 tutees but all of them forget the skill. In such case he will lose 4 * 0.04722 USD due to reimbursement but earn 4 * 0.05688 USD due to tutees payments. Thus after such lesson he will lose 0.03864 USD:
-
-$4*0.05688-4*0.04722=0.03864$
-
-For the student B the only scenario when he loses money more than gets is paying two reimburses while also paying for his own diploma to a student A. In such case he will lose 0.03756 USD:
-
-$0.05688+2*0.04722-2*0.05688=0.03756$
-
-Student C and student D have the only scenario when they loses money more than get: pay to their tutors and pay for 1 reimburse, that leads to loosing 0.04722 USD:
-
-$0.05688+0.04722-0.05688=0.04722$
-
-Other students just loose 0.05688 USD for buying a diploma.
-
-Let's summarize:
-
-| Role | Money lost | Probability of the role | Probability to lose money | Resulting probability |
-| ---- | ---------- | ----------------------- | ------------------------- | --------------------- |
-| A tutor with 4 tutees | 0.03864 | $1/16$ | $0.25{4}$ | $0.25{5}$ |
-| A tutor with 2 tutees | 0.03864 | $1/16$ | $0.25{2}$ | $0.25{3}$ |
-| A tutor with 1 tutee | 0.04722 | $2/16$ | $0.25$ | $2*0.25{3}$ |
-
-So for any skill the student can:
-
-- spend money for being a tutee only
-- earn money as a tutor teaching 1 tutee but lose more while paying a reimbursement
-- earn money as an expert
-
-There are also options to be a tutor for the same skill for multiple tutees, but as 
-
 ### $A$ - a student starting capital
 
-Our educational approach forces a tutee  to pay their tutor for skill-teaching and the issuance of a diploma, and requires the tutor to be responsible for the issued diploma by providing reimbursement when a tutee  forgets the skill certified by the diploma. To make this happen we need to assure that students have enough money for such economic interaction. Let's denote how much money each student should have at the beginning of such approach implementation as $A$.
+Our educational approach forces a tutee  to pay their tutor for skill-teaching and the issuance of a diploma, and requires the tutor to be responsible for the issued diploma by providing reimbursement when a tutee  forgets the skill certified by the diploma. To make this happen we need to assure that students have enough money for such economic interaction. As we discussed above there is a 62.9% chance that a student will spend more money during learning a skill that earn. For sure in rest 37.1% cases the student gets in sum the same profit as he losing in 62.9% cases, so his profit during years of learning should be near 0. But what if the student has a bad luck and all skills that he studies he is playing roles that lead to losing money? In such case he will start to pay for an education while we still suppose that the education should be a free resource for any person in on the Earth. To solve this problem we need to provide each each student at the beginning of such approach enough money to prevent bankruptcy happening at all. Let's calculate how many person in the world will get any of bad luck sequences.
+
+The probability to get back luck studying the first skill is a 0.629. Thus if our target audience is 1,966,096,793 people than $0.629 * 1,966,096,793 = 1,236,730,563$ of them will face it. The sequence of 2 bad luck cases will affect 0.629 part of 1,236,730,563 that is $0.629 * 1,236,730,563 = 777,938,548$ people and so on (see the Appendix 2, for all values calculations). About 19 million people will face with a sequence of 10 bad luck cases.
+
+Only 1 person in the world is expected to face a sequence of 48 bad luck cases, and nobody is supposed to face 49 bad luck cases.
+
+As we mentioned we think that the education should be free so amount of money that we give to each student should be enough to wait out a sequence of 49 bad luck cases.
+
+
+
+
 
 R/M = (18.96 * $W{_t}$) / (15.74 * $W{_t}$) ~ 1.2
 
