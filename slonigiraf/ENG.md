@@ -36,35 +36,53 @@ $2^{sessions} = diplomas$
 
 For example: $2^{5} = 32$: after 5 sessions we expect to have 32 diplomas, meaning that 32 students acquired the skill. What if the lesson takes part not in school but in university and we need to teach 512 students that came to our course? How many sessions are need to spread a skill? Using formula **(1)** we can write: $2^{x} = 512$. By simple internet search or by using logarithm we can find that $x=9$. Thus we need only 9 sessions to teach 512 peoples a skill.
 
-### Probability to become a tutor
+### Tutors have different number of tutees
 
 <img alt="Image" src="https://github.com/slonigiraf/slon-whitepaper/blob/main/img/tutees_count.png?raw=true" width="500">
 
 *Figure 2. Tutees count*
 
-To estimate what roles student can play in the Slonigiraf educational model and what are probabilities of playing such roles let's examine a class consisting of 32 students. We will explain later why probabilities of different roles are more of less the same in any student group size.
+To estimate what tutor roles student can play in the Slonigiraf educational model and what are probabilities of playing such roles let's examine a class consisting of 32 students. We will explain later why probabilities of different roles are more of less the same in any student group size.
 
-As shown on a fig. 2. a half of students gains a skill in a last session. That means they will pay for tutoring and geting a diploma but will not earn money by tutoring such skill as there will be no student left that need a skill. If the class consists of 32 students there will be 16 such students (depicted with a digit "0" on a fig. 2).
+**Tutor of 0 tutees role**: as shown on a fig. 2. a half of students gains a skill in a last session. That means they will pay for tutoring and geting a diploma but will not earn money by tutoring such skill as there will be no student left that need a skill. If the class consists of 32 students there will be 16 such students (depicted with a digit "0" on a fig. 2).
 
-$1/4$ th of students (8 from 32) gain a skill in a preterminal session. These students have 1 tutor and 1 tutee each, which results in a 0 profit result as they compensate money paid to their tutors by money acquired by being a tutor.
+**Tutor of 1 tutees role**: $1/4$ th of students (8 from 32) gain a skill in a preterminal session. These students have 1 tutor and 1 tutee each, which results in a 0 profit result as they compensate money paid to their tutors by money acquired by being a tutor.
 
-$1/8$ th of students (4 from 32) have 2 tutees. $1/16$ th of students (2 from 32) have 3 tutees. $1/32$ th of students (1 from 32) have 4 tutees. $1/32$ th of students (1 from 32) have 5 tutees.
+**Tutor of 2 tutees role**: $1/8$ th of students (4 from 32) have 2 tutees.
+
+**Tutor of 3 tutees role**: $1/16$ th of students (2 from 32) have 3 tutees.
+
+**Tutor of 4 tutees role**: $1/32$ th of students (1 from 32) have 4 tutees.
+
+**Tutor of 5 tutees role**: $1/32$ th of students (1 from 32) have 5 tutees.
 
 With growing number of mentees the probability of such role is decreasing sugnificantly. We will not discuss the probability of having  more than 5 tutees in larger classes, as probabilites of such roles are too small to generally affect calculations of our model economy.
 
-As every session produces 2x more tutors the probability of having 1 tutee, 2 tutee, 3 tutee is the same in classes with different student count: 16, 32, 64 ... Thus we can assume that our estimations of role probabilities are good in general.
+Growing class number doesn't much affect probabilites of different roles. For example 32 from 64 students class will play "tutor of 0 tutees" role. It's the same 0.5 probability of the role in class of 32 students. We can assume that our estimations of role probabilities are good in general.
 
 All students have a tutor as all need to get a diploma. The student that have 5 tutees probably gets his diploma by communicating with a tutor outside the group. It can be the teacher of parent or any other type of the tutor. As we discussed before it's allowed to be a tutor while not having a diploma about the skill but for sure it rises the risk for the tutor to fail his work thus students tend to study the skill first, then get a diploma and only after this teach others.
 
-### Expert selection
+### Students are allowed to become experts
 
-A fact that a student got the diploma doesn't mean he has mastered the skill. It just means that his tutor believes in it. Hoewever the tutor can be wrong. For example, the tutor himself doesn't posess such skill, or he didn't verified the skill proficiency of tutee by the adequete number of tasks, or the tutee can simply forget the skill. To maintain the good quality of education our system uses experts who verify diplomas and have a right to reward students with "A" grade or with any other type of reward. At the beginning of the lesson there is only one expert - the master teacher who runs and controls all the lesson. He is not able to verify all diplomas as it requires too much times. But he can delegate such position to few experts from students that got the diploma on the studied skill. The teacher verify that students that want to be experts posses the skill. If some of them fail the verification the teacher gets reimbursement from a tutor who issued the diploma.
+A fact that a student got the diploma doesn't mean he has mastered the skill. It just means that his tutor believes in it. However the tutor can be wrong. For example, the tutor himself doesn't posess such skill, or he didn't verified the skill proficiency of tutee by the adequete number of tasks, or the tutee can simply forget the skill. To maintain the good quality of education our system uses experts who verify diplomas and have a right to reward students with "A" grade or with any other type of reward. At the beginning of the lesson there is only one expert - the master teacher who runs and controls all the lesson. He is not able to verify all diplomas as it requires too much times. But he can delegate such position to few experts from students that got the diploma on the studied skill. The teacher verify that students that want to be experts posses the skill. If some of them fail the verification the teacher gets reimbursement from a tutor who issued the diploma. Those who passed such verification start to play **an expert role**.
 
-### Diploma verification
+### Experts earn money via searching for low quality skills
 
 Why students do want to become experts? The expert status allows them to verify a lot of diplomas and eventually find bad ones and get reimbursement from bad tutors. For sure an expert whant to name all diplomas coming to him as bad ones to get as much reward as possible. To prevent such situation we allow students to select which expert to deal with. This creates a competition between experts and makes them to behave honestly.
 
 The teacher is allowed to re-verify diplomas verified by an expert if he suspects that the expert is cheating: for example if the expert verified the diploma issued by himself. In the case of cheating the teacher can prohibit the student to be an expert for certain amount of time and also the teacher gets the reimbursement from the tutor who issued the diploma used in cheating.
+
+### Teacher salary can be adjusted to the quality of teaching
+
+**The teacher role** differs in three ways from students:
+
+- he is an adult with pedagogical education
+- the teacher plays an expert role by default
+- he can allow students to become experts
+
+This allows us to propose two diffent models of teacher salary calculation. The first is conservative and doesn't change how things are done in classic way: the teacher just gets salary from the school budget. We think that such way will prevalent during a transition from traditional educational model to the Slonigiraf. When this option is applyed the teacher doesn't get money from students for tutoring and diploma issuing. He just teaches 1 - 2 students for free and they spread the skill to other students for money. However the teacher is allowed to get reimbursement from bad mentors in a way as any expert is allowed but the money he got in such a way than are collected to the school budget and are returned back to all students on an equal basis monthly.
+
+The second way of teacher salary calculation has more market spirit. It assumes that the teacher will not get any salary from the school budget. In such way he is allowed to earn money both as a mentor and as an expert. The school budget money that were intended to be addressed to teacher are spread instead of it to students on an equal basis each month.
 
 ## Financial model
 
@@ -157,13 +175,23 @@ As all issued diplomas go through the verification it's profitable to a tutor to
 
 ### Bankruptcy probability
 
-If student constantly plays a role of a tutee and doesn't become a tutor he will run out of money. Students that gain a diploma in the last session (see fig. 2) have no option to teach the acquired skill. So if the student will constantly get diplomas in the last session he will run out of money even if he want to be a tutor. This situation is almost random and the student can't control it well. Let's calculate the probability to acquire the skill in the last session. From the Fig. 1. it seems that such probability is around of 0.5, as in last session 4 students participate as tutees from 8 students total. To be accurate it's **less or equal to 0.5** in a group of any size, because in last session each tutee gets a tutor, but not each tutor is guaranteed to get a tutee. Thus if student starting capital $A = 0$, then the probability that he can't pay for the lesson is less or equal to 0.5: $P{_b} ≤ 0.5$. When a tutee has a starting capital larger that 0, we need to know a diploma price to calculate the exact probability to run out of the capital.
+There are 6 major roles that have different cash flow:
 
+- An expert only gets money and doesn't risk to lose anything during such work
+- A student with 0 mentees
+- A student with 1 mentees
+- A student with 2 mentees
+- A student with 3 mentees
+- A student with 4 mentees
+- A student with 5 mentees
 
+As experts can't lead to a bankruptcy we will not discuss in in this chapter. We also omitting roles with having more than 5 mentees as the probabilities of playing such roles are too small to affect our model.
+
+If student constantly plays a role of a tutee and doesn't become a tutor he will run out of money. Students that gain a diploma in the last session (see fig. 2) have no option to teach the acquired skill. So if the student will constantly get diplomas in the last session he will run out of money even if he want to be a tutor. This situation is almost random and the student can't control it well.
 
 A tutee pays to his tutor not only to study a skill but also to get a diploma. Diploma is very similar to an insurance police because the tutor promises to pay a reimbursement to an expert if the tutee will forget the skill. As in insurance business bad things can happen by chance more often than expected and the tutor can run out of money due to reimbursements. The probability that a tutee forgets a skill is [0.25](https://pubmed.ncbi.nlm.nih.gov/21574747/).
 
-There is a probability that a teacher will allow a student be an expert for the skill. In such case he will only get money and doesn't risk to lose anything during such work.
+
 
 Let's examine the worst case when a student can't become an expert as the teacher is not fair and only teachers' pets become experts. In such case if he also fails to be a tutor several times, or when he become a tutor but his tutees constantly lose their skills the student can bancrupt. Let's say that in a class of size 32 people and only 4 posess a skill at the beginning of the lesson, then every 8 students can be described with a fig. 1.
 
