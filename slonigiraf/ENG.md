@@ -183,7 +183,7 @@ Any tutor spend money to learn a skill, earns money teaching others, and spend m
 
 $Profit = diplomas$
 
-$Profit = -D+D*N{_t}-R*N{_f}$
+$Profit = -D + D * N{_t} - R * N{_f}$
 
 Where:
 
