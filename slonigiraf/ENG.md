@@ -257,19 +257,19 @@ Other values in the column "Probability to face such $N{_f}$ in the role" of tab
 
 To calculate the probability that a student learning a skill will face a money loss getting a specific role we need to multiply the probability of playing such a role on a probability to lose money for the role, for example for "tutor of 2 tutees" that pays 1 reimbursements it is: $0.125 * 0.375 = 0.046875$. If we will sum all such bad luck variants we will get that a student with a **probability of 0.629** will lose some money during any skill learning.
 
-| Role              | $N{_t}$ | $N{_f}$ | Profit in Ethiopia (USD) | Probability of the role | Probability to face such $N{_f}$ in the role | Probability of such situation |
-| ----------------- | -- | -- | ---------- | ------- | ---------- | ----------- |
-| Tutor of 0 tutees | 0  | 0  | \-0.04722  | 0.5     | 1          | 0.5         |
-| Tutor of 1 tutees | 1  | 1  | \-0.056664 | 0.25    | 0.25       | 0.0625      |
-| Tutor of 2 tutees | 2  | 1  | \-0.009444 | 0.125   | 0.375      | 0.046875    |
-| Tutor of 2 tutees | 2  | 2  | \-0.066108 | 0.125   | 0.0625     | 0.0078125   |
-| Tutor of 3 tutees | 3  | 2  | \-0.018888 | 0.0625  | 0.140625   | 0.008789063 |
-| Tutor of 3 tutees | 3  | 3  | \-0.075552 | 0.0625  | 0.015625   | 0.000976563 |
-| Tutor of 4 tutees | 4  | 3  | \-0.028332 | 0.03125 | 0.046875   | 0.001464844 |
-| Tutor of 4 tutees | 4  | 4  | \-0.084996 | 0.03125 | 0.00390625 | 0.00012207  |
-| Tutor of 5 tutees | 5  | 4  | \-0.037776 | 0.03125 | 0.01464844 | 0.000457764 |
-| Tutor of 5 tutees | 5  | 5  | \-0.09444  | 0.03125 | 0.00097656 | 3.05176E-05 |
-|Total              |    |    |            |         |            | 0.62902832  |
+| Role              | $N{_f}$ | Profit in Ethiopia (USD) | Probability of the role | Probability to face such $N{_f}$ in the role | Probability of such situation |
+| ----------------- | -- | ---------- | ------- | ---------- | ----------- |
+| Tutor of 0 tutees | 0  | \-0.04722  | 0.5     | 1          | 0.5         |
+| Tutor of 1 tutees | 1  | \-0.056664 | 0.25    | 0.25       | 0.0625      |
+| Tutor of 2 tutees | 1  | \-0.009444 | 0.125   | 0.375      | 0.046875    |
+| Tutor of 2 tutees | 2  | \-0.066108 | 0.125   | 0.0625     | 0.0078125   |
+| Tutor of 3 tutees | 2  | \-0.018888 | 0.0625  | 0.140625   | 0.008789063 |
+| Tutor of 3 tutees | 3  | \-0.075552 | 0.0625  | 0.015625   | 0.000976563 |
+| Tutor of 4 tutees | 3  | \-0.028332 | 0.03125 | 0.046875   | 0.001464844 |
+| Tutor of 4 tutees | 4  | \-0.084996 | 0.03125 | 0.00390625 | 0.00012207  |
+| Tutor of 5 tutees | 4  | \-0.037776 | 0.03125 | 0.01464844 | 0.000457764 |
+| Tutor of 5 tutees | 5  | \-0.09444  | 0.03125 | 0.00097656 | 3.05176E-05 |
+|Total              |    |            |         |            | 0.62902832  |
 
 *Table 5. Probability to lose money playing a certain role*
 
