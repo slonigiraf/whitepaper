@@ -4,7 +4,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ## Annotation
 
-We explore how education influences on economic growth, and present an education system that seeks to outperform existing systems by threefold. The system is intended to increase the number of acquired skills, and has been implemented in several secondary schools with a reported success. It aims to address challenges in peer learning, such as lack of qualified educators and lack of motivation to teach among students, using market instruments. The system is expected to have a positive impact on the world economy, potentially adding 8 trillion USD to the world economy each year.
+We explore how education influences on economic growth, and present an education system that seeks to outperform existing systems by threefold. The system is intended to increase the number of acquired skills, and has been implemented in several secondary schools with a reported success. It aims to address challenges in peer learning, such as lack of qualified educators and lack of motivation to teach among students. The system is expected to have a positive impact on the world economy, potentially adding 8 trillion USD to the world economy each year.
 
 ## Education and GDP
 
@@ -12,9 +12,9 @@ Education plays a vital role in the world economy. On average, education compris
 
 One way to measure the efficiency of an education system is by determining the average number of skills acquired by a group of students, divided by the total number of skills they were expected to acquire.
 
-Traditional schooling typically has an efficiency about of [25%](https://link.springer.com/article/10.1007/s10643-022-01332-3), while using private tutoring the efficiency can be increased up to [75%](https://pubmed.ncbi.nlm.nih.gov/21574747/). However, private tutoring can be costly and requires a large number of educators. Peer learning, where students tutor each other, [doesn't outperform](https://pubmed.ncbi.nlm.nih.gov/23691355/) the traditional schooling because of [two main challenges](https://www.tandfonline.com/doi/full/10.1080/01443410500345172): the lack of motivation to teach among students and quality erosion due to the broken telephone effect.
+Traditional schooling typically has an efficiency about of [25%](https://link.springer.com/article/10.1007/s10643-022-01332-3), while using private tutoring the efficiency can be increased up to [75%](https://pubmed.ncbi.nlm.nih.gov/21574747/). However, private tutoring can be costly and requires a large number of educators. Peer learning, where students tutor each other, [doesn't outperform](https://pubmed.ncbi.nlm.nih.gov/23691355/) the traditional schooling because of [two main challenges](https://www.tandfonline.com/doi/full/10.1080/01443410500345172): the lack of motivation to teach among students and quality erosion due to "the broken telephone effect".
 
-To address these issues, we propose using money to incentivize students that act as tutors and require them to use recommendation letter system to ensure the quality of such lessons. By doing so, we can motivate students to act as educators while also maintaining educational standards. We have implemented this approach in several schools and observed an increase of the education efficiency up to 75%, with students having an ample time for both learning and teaching within their existing secondary education programs.
+To address these issues, we propose using money to incentivize students to act as tutors and require them to use recommendation letter system to ensure the quality of such lessons. By doing so, we can motivate students to act as educators while also maintaining educational standards. We have implemented this approach in several schools and observed an increase of the education efficiency up to 75%, with students having an ample time for both learning and teaching within their existing secondary education programs.
 
 ## Proposed educational model
 
@@ -30,11 +30,11 @@ Each **diploma** is a unique electronic document, that can be canceled in any ti
 
 Often at the beginning of the lesson there are several tutors of the skill, because they studied this skill by themselves or know it outside of the lesson from their parents or from previous tuition, thus the lesson starts with a number of tutor-tutee pairs.
 
-Let's see how lesson takes place when only one tutor exists. At the Fig. 1. such tutor is marked with letter "A" at the leftmost pane. The tutor selects a tutee who proposed him the maximum amount of money or based on any other criterion that he decides by himself. This tuition is marked as "session 1" in the Fig. 1. After such tuition his tutee can decide to be a tutor by himself. And then these 2 tutors can teach the skill two more students. This action is named "session 2". Each session doubles number of tutors. After session 1 we have 2 students with diploma, after second - 4, after third - 16. This can be shortly written as following:
+Let's see how lesson takes place when only one tutor exists. At the fig. 1. such tutor is marked with letter "A" at the leftmost pane. The tutor selects a tutee who proposed him the maximum amount of money or based on any other criterion that he decides by himself. This tuition is marked as "session 1" in the Fig. 1. After such tuition his tutee can decide to be a tutor by himself. And then these 2 tutors can teach the skill two more students. This action is named "session 2". Each session doubles number of tutors. After session 1 we have 2 students with diploma, after second - 4, after third - 16. This can be shortly written as following:
 
 $2^{sessions} = diplomas$
 
-For example: $2^{5} = 32$: after 5 sessions we expect to have 32 diplomas, meaning that 32 students acquired the skill. What if the lesson takes part not in school but in university and we need to teach 512 students that came to our course? How many sessions are need to spread a skill? Using formula **(1)** we can write: $2^{x} = 512$. By simple internet search or by using logarithm we can find that $x=9$. Thus we need only 9 sessions to teach 512 peoples a skill.
+For example: $2^{5} = 32$: after 5 sessions we expect to have 32 diplomas, meaning that 32 students acquired the skill. What if the lesson takes part not in a school but in an university and we need to teach 512 students that came to our course? How many sessions are needed to spread a skill? Using the formula above we can write: $2^{x} = 512$. By simple internet search or by using logarithm we can find that $x=9$. Thus we need only 9 sessions to teach 512 peoples a skill.
 
 ### Tutors have different number of tutees
 
@@ -44,7 +44,7 @@ For example: $2^{5} = 32$: after 5 sessions we expect to have 32 diplomas, meani
 
 To estimate what tutor roles student can play in the Slonigiraf educational model and what are probabilities of playing such roles let's examine a class consisting of 32 students. We will explain later why probabilities of different roles are more of less the same in any student group size.
 
-**Tutor of 0 tutees role**: as shown on a fig. 2. a half of students gains a skill in a last session. That means they will pay for tutoring and geting a diploma but will not earn money by tutoring such skill as there will be no student left that need a skill. If the class consists of 32 students there will be 16 such students (depicted with a digit "0" on a fig. 2).
+**Tutor of 0 tutees role**: as shown on a fig. 2. a half of students (16 from 32) gains a skill in a last session. That means they will pay for tutoring and geting a diploma but will not earn money by tutoring such skill as there will be no student left that need a skill. If the class consists of 32 students there will be 16 such students (depicted with a digit "0" on a fig. 2).
 
 **Tutor of 1 tutees role**: $1/4$ of students (8 from 32) gain a skill in a preterminal session. These students have 1 tutor and 1 tutee each, which results in a 0 profit result as they compensate money paid to their tutors by money acquired by being a tutor.
 
@@ -64,11 +64,11 @@ All students have a tutor as all need to get a diploma. The student that have 5 
 
 ### Students are allowed to become experts
 
-A fact that a student got the diploma doesn't mean he has mastered the skill. It just means that his tutor believes in it. However the tutor can be wrong. For example, the tutor himself doesn't posess such skill, or he didn't verified the skill proficiency of tutee by the adequete number of tasks, or the tutee can simply forget the skill. To maintain the good quality of education our system uses experts who verify diplomas and have a right to reward students with "A" grade or with any other type of reward. At the beginning of the lesson there is only one expert - the master teacher who runs and controls all the lesson. He is not able to verify all diplomas as it requires too much times. But he can delegate such position to few experts from students that got the diploma on the studied skill. The teacher verify that students that want to be experts posses the skill. If some of them fail the verification the teacher gets reimbursement from a tutor who issued the diploma. Those who passed such verification start to play **an expert role**.
+A fact that a student got the diploma doesn't mean he has mastered the skill. It just means that his tutor believes in it. However the tutor can be wrong. For example, if the tutor himself doesn't posess such skill, or he didn't verified the skill proficiency of tutee by the adequete number of tasks, or the tutee can simply forget the skill. To maintain the good quality of education our system uses experts who verify diplomas and have a right to reward students with "A" grade or with any other type of reward. At the beginning of the lesson there is only one expert - the master teacher who runs and controls all the lesson. He is not able to verify all diplomas as it requires too much times. But he can delegate such position to few experts from students that got the diploma on the studied skill. The teacher verify that students that want to be experts posses the skill. If some of them fail the verification the teacher gets reimbursement from a tutor who issued the diploma. Those who passed such verification start to play **an expert role**.
 
 ### Experts earn money via searching for low quality skills
 
-Why students do want to become experts? The expert status allows them to verify a lot of diplomas and eventually find bad ones and get reimbursement from bad tutors. For sure an expert whant to name all diplomas coming to him as bad ones to get as much reward as possible. To prevent such situation we allow students to select which expert to deal with. This creates a competition between experts and makes them to behave honestly.
+Why students do want to become experts? The expert status allows them to verify a lot of diplomas and eventually find bad ones and get reimbursement from tutors who issued such dimplomas. For sure an expert want to name all diplomas coming to him as bad ones to get as much reward as possible. To prevent such situation we allow students to select which expert to deal with. This creates a competition between experts and makes them to behave honestly.
 
 The teacher is allowed to re-verify diplomas verified by an expert if he suspects that the expert is cheating: for example if the expert verified the diploma issued by himself. In the case of cheating the teacher can prohibit the student to be an expert for certain amount of time and also the teacher gets the reimbursement from the tutor who issued the diploma used in cheating.
 
@@ -80,7 +80,7 @@ The teacher is allowed to re-verify diplomas verified by an expert if he suspect
 - the teacher plays an expert role by default
 - he can allow students to become experts
 
-This allows us to propose two diffent models of teacher salary calculation. The first is conservative and doesn't change how things are done in classic way: the teacher just gets salary from the school budget. We think that such way will prevalent during a transition from traditional educational model to the Slonigiraf. When this option is applyed the teacher doesn't get money from students for tutoring and diploma issuing. He just teaches 1 - 2 students for free and they spread the skill to other students for money. However the teacher is allowed to get reimbursement from bad mentors in a way as any expert is allowed but the money he got in such a way than are collected to the school budget and are returned back to all students on an equal basis monthly.
+This allows us to propose two diffent models of teacher salary calculation. The first is conservative and doesn't change how things are done in classic way: the teacher just gets salary from the school budget. We think that such way will prevale during a transition from traditional educational model to the Slonigiraf. When this option is applyed the teacher doesn't get money from students for tutoring and diploma issuing. He just teaches 1 - 2 students for free and they spread the skill to other students for money. However the teacher is allowed to get reimbursement from bad mentors in a way as any expert is allowed but the money he got in such a way then are collected to the school budget and are returned back to all students on an equal basis monthly.
 
 The second way of teacher salary calculation has more market spirit. It assumes that the teacher will not get any salary from the school budget. In such way he is allowed to earn money both as a mentor and as an expert. The school budget money that were intended to be addressed to teacher are spread instead of it to students on an equal basis each month.
 
@@ -88,7 +88,7 @@ The second way of teacher salary calculation has more market spirit. It assumes 
 
 ### It targets 2 billions of people in the world
 
-As we propose such system for an education in groups we need to estimate the world population of pupils and students. To be conservative let's speak that only **7 - 21 yo strata** will use our educational model. We've found a data about total population size of each country as of [2021.01.01](https://population.un.org/wpp/Download/Standard/MostUsed/), and the data of [percent of 0-14 yo people](https://www.theglobaleconomy.com/rankings/percent_children/) as of 2021. We think that a percent of 7 - 21 yo strata can be approximated by the 0 - 14 yo strata. Thus to calculate the target audience per country we should multiply a population size on a percent of 7 - 21 yo strata and divide by 100%. The resulting data is shown in the table 1. You can see that India has the biggest target audience of 361 million people, and the total world target audience is **2 billion people**.
+As we propose such system for an education in groups we need to estimate the world population of students. To be conservative let's speak that only **7 - 21 yo strata** will use our educational model. We've found a data about total population size of each country as of [2021.01.01](https://population.un.org/wpp/Download/Standard/MostUsed/), and the data of [percent of 0-14 yo people](https://www.theglobaleconomy.com/rankings/percent_children/) as of 2021. We think that a percent of 7 - 21 yo strata can be approximated by the 0 - 14 yo strata. Thus to calculate the target audience per country we should multiply a population size on a percent of 7 - 21 yo strata and divide by 100%. The resulting data is shown in the table 1. You can see that India has the biggest target audience of 361 million people, and the total world target audience is **2 billion people**.
 
 |             | Total Population | 7-21 years old % | 7-21 years old |
 | ----------- | ------------- | ------ | ------------- |
@@ -113,11 +113,11 @@ As we propose such system for an education in groups we need to estimate the wor
 
 ### Work force price
 
-To discuss a work force price of tutors and experts we should remember that a student that understood how to be a tutor can potentially go to a educational market out of the school or university and get money for helping other students then his peers. Thus we can approximate the wage of a tutor with the lowest wage of teacher in the country that he lives.
+To discuss a work force price of tutors and experts we should remember that a student that understood how to be a tutor can potentially go to a educational market out of the school or university and get money for helping other students than his peers. Thus we can approximate the wage of a tutor with the lowest wage of teacher in the country that he lives.
 
 The expert wage should be larger than the tutor wage to motivate most qualified students to become experts. As qualified students can find a good position in an online tutoring we can assume that the maximum teacher wage in the country where the expert lives could be a good approximation of the market expert wage.
 
-We collected teacher wage data per country from [salaryexplorer.com](http://www.salaryexplorer.com/?loc=23&loctype=1&job=123&jobtype=3#browsesalaries) on 2023.01.08. From the Table 2 you can see that maximum teacher wage on average is 3.16 times higher that minimum teacher wage. Thus an expert should get 3.16 times more money per 1 minute of his work than a tutor. Teacher wage is minimal in Ethiopia so a tutor will get in Ethiopia the smallest wage in comparison to other countries listed in the table 2.
+We collected teacher wage data per country from [salaryexplorer.com](http://www.salaryexplorer.com/?loc=23&loctype=1&job=123&jobtype=3#browsesalaries) on 2023.01.08. From the Table 2 you can see that maximum teacher wage on average is 3.16 times higher that minimum teacher wage. Thus **an expert should get 3.16 times more money per 1 minute of his work than a tutor**. Teacher wage is minimal in Ethiopia so a tutor will get in Ethiopia the smallest wage in comparison to other countries listed in the table 2.
 
 |             | Min | Max | Max/Min |
 | ----------- | ------- | ------- | ------- |
@@ -137,13 +137,13 @@ We collected teacher wage data per country from [salaryexplorer.com](http://www.
 | Japan       | 1620.17 | 4762.09 | 2.94    |
 | Average     |         |         | 3.16    |
 
-*Table 2. Teacher month wages in USD per country.*
+*Table 2. Teacher monthly wages in USD per country.*
 
 ### $D$ - diploma price and $R$ - reimbursement amount
 
-Let's calculate a reimbursement amount size and a mean diploma price. We will use Ethiopia as a country with a minimal teacher wage to deal with small numbers during calculations.
+Let's calculate a reimbursement amount and a mean diploma price. We will use Ethiopia as a country with a minimal teacher wage to deal with small numbers during calculations.
 
-A reimbursement is a money amount that a tutor pays to an expert who found that a tutee doesn't posses a skill which was underwritten in the diploma. An expert verifies several dimplomas before he can find a one with forgotten skill thus we need to estimate such number of diplomas. It's known that tutees forget [1 skill from 4 studied](https://link.springer.com/article/10.1007/s10643-022-01332-3) thus an expert should spend a time to verify 4 dimplomas on everage to get 1 reimbursement. We identified experimentally that an expert need 1.5 minutes to verify 1 dimploma, thus an expert spend 6 minutes (4*1.5) to get 1 reimbursement. So we can say that a reimbursement is equal to a price of 6 minutes work of an expert. As we wrote previously an expert wage on average is 3.16 higher than minimum teacher wage.
+A reimbursement is a money amount that a tutor pays to an expert who found that a tutee doesn't posses a skill which was underwritten in the diploma. An expert verifies several dimplomas before he can find one with forgotten skill thus we need to estimate such number of diplomas. It's known that tutees forget [1 skill from 4 studied](https://link.springer.com/article/10.1007/s10643-022-01332-3) thus an expert should spend a time to verify 4 dimplomas on average to get 1 reimbursement. We identified experimentally that an expert need 1.5 minutes to verify 1 diploma, thus an expert spend 6 minutes (4*1.5) to get 1 reimbursement. So we can say that a reimbursement is equal to a price of 6 minutes work of an expert. As we wrote previously an expert wage on average is 3.16 higher than minimum teacher wage.
 
 Ethiopian minimum teacher wage is 30.20 USD per month. A minute of such work costs 0.003 USD:
 
@@ -157,21 +157,21 @@ And 6 minutes of an expert work is equal to 0.05688 USD:
 
 $0.00948 * 6 = 0.05688$
 
-So, **the reimbursent amount should be around 0.05688 USD in Ethiopia** to motivate students perform an expert work.
+So, **the reimbursent amount should be around 0.05688 USD in Ethiopia** to motivate students to perform an expert work.
 
-During 4 years of Slonigiraf educatinal model testing in different schools we have experimentally identified that a tutor needs on average 11 minutes to teach a tutee. Thus the tutor work as a teacher in Ethiopia should cost 0.033 USD per 1 skill:
+During 4 years of Slonigiraf educatinal model testing in different schools we have experimentally identified that a tutor needs on average 11 minutes to teach a tutee. As a minute of the tutor work costs 0.003 USD in Ethiopia than the tutor work per 1 skill should cost 0.033 USD:
 
 $0.003*11 = 0.033$
 
-The tutor gets money from tutee not only for his time but also for issuing a dimploma that can be canceled by an expert. As in case when a tutee will forget the skill the tutor will pay the reimburcement to an expert the tutor should get some premium for issuing the diploma. Otherwise a tutor will lose money as it's not possible to completely exclude the situtation when tutee will forget the skill. As we mentioned tutees forget 1 skill from 4 studied, thus a tutor should add a premium of 1 reimbursemnt amount to each 4 skills that he teaches, or simply 1/4 of such amount to each diploma issuing, thus **the total price of a diploma will be 0.04722 USD in Ethiopia**:
+The tutor gets money from tutee not only for his time but also for issuing a diploma that can be canceled by an expert. If the tutor will not get some premium for issuing the diploma he will lose money as it's not possible to completely exclude the situtation when tutee will forget the skill. As we mentioned tutees forget 1 skill from 4 studied, thus a tutor should add a premium of 1 reimbursement amount to each 4 skills that he teaches, or simply $1/4$ of such amount to each diploma issuing, thus **the total price of a diploma will be 0.04722 USD in Ethiopia**:
 
 $0.033+0.05688*1/4=0.04722$
 
-The reimbursement amount is 1.2 times bigger than the diploma price:
+If we will divide the calculated reimbursement amount by a diploma price than we can conclude that the reimbursement is 1.2 times bigger than the diploma price:
 
 $0.05688/0.04722$
 
-As all issued diplomas go through the verification it's profitable to a tutor to cheat the system just issuing a lot of number of diplomas because he will lose 1.2 times more money than earning.
+As all issued diplomas go through the verification it's NOT profitable to a tutor to cheat the system just issuing a lot of number of diplomas because he will lose 1.2 times more money than earning.
 
 ### Situations leading to earning and spending money
 
@@ -190,7 +190,7 @@ Where:
 - $N{_t}$ - tutees count of the tutor
 - $N{_f}$ - number of tutees who have forgetten the skill.
 
-If the a student doesn't have tutees then $N{_t}$ and $N{_f}$ are equal to $0$, and the formula gives us a profit value of these student equal to $-D$: they only pay for diploma to their tutors but don't earn anything.
+If the a student doesn't have tutees then $N{_t}$ and $N{_f}$ are equal to $0$, and the formula gives us a profit value for these student equal to $-D$: they only pay for diploma to their tutors but don't earn anything.
 
 As we calculated above the $R$ is 1.2 times bigger than $D$, so we can substitute $R$ in the equation above with $1.2*D$:
 
@@ -202,7 +202,7 @@ $Profit = D * (-1 + N{_t} - 1.2 * N{_f})$
 
 You can see that $Profit < 0$ only if $(-1 + N{_t} - 1.2 * N{_f}) < 0$, or simply when $N{_t} - 1.2 * N{_f} < 1$
 
-Table 4 summarizes in which situation students will lose money.
+Table 4 summarizes when it can happen.
 
 | Role              | $N{_t}$ | $N{_f}$ | $N{_t}-1.2*N{_f}$ | Losing money |
 | ----------------- | -- | -- | ------------ | ------------ |
