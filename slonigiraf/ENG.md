@@ -290,7 +290,7 @@ All such shares are calculated and represented in a table 6.
 | Tutor of 5 tutees | 4 | 0.00045776 | 0.00072773 |
 | Tutor of 5 tutees | 5 | 3.0518E-05 | 4.8515E-05 |
 
-*Table 5. Probability that a specific situation leaded to the money loss*
+*Table 6. Probability that a specific situation leaded to the money loss*
 
 ### $A$ - a student starting capital
 
