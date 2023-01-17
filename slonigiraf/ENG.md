@@ -342,7 +342,7 @@ $222.87 * 61,376,828 = 13,679,152,692$
 
 Calculations for other countries in the world is presented in the table 8.
 
-|   | 7-21 years old people	| Times min teacher wage is larger than Ethiopian counterpart | Min money a student need, USD | The country need, USD |
+|   | 7-21 years old people | Times min teacher wage is larger than Ethiopian counterpart | Min money a student need, USD | The country need, USD |
 | ----------- | ------------- | ------ | ------ | ------------------------- |
 | India       | 361,643,868   | 4.75   | 10.51  |            3,802,524,280  |
 | China       | 250,951,632   | 54.23  | 120.07 |          30,132,468,687   |
@@ -363,6 +363,10 @@ Calculations for other countries in the world is presented in the table 8.
 | TOTAL       | 3,160,273,551 |        |        |          98,343,946,528   |
 
 *Table 8. Money needed to drive the Slonigiraf system*
+
+## Inflation effect of giving money out to students
+
+
 
 ## Long lasting effect of education improvement
 
