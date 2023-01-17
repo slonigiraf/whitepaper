@@ -271,15 +271,26 @@ To calculate the probability that a student learning a skill will face a money l
 
 ### If we know that student lost money - what happened?
 
-We have calculated the probability to lose money for a student while learning a skill. What if we know he already lost money, can we identify the reason of it? To say certainly not but we can describe the probability of different scenarios. It's evident that more likely the student was a tutor of 0 mentees, because the probability to play such a role and lose money is 0.5 (see the last column of table 5). And the 0.5 takes the most share of total 0.629 probability to lose money. For this situation the share is 0.794876771:
+We have calculated the probability to lose money for a student while learning a skill. What if we know he already lost money, can we identify the reason of it? The answer is "No" but we can describe the probability of different scenarios. It's more likely the student was a tutor of 0 mentees, because the probability to play such a role and lose money is 0.5 (see the last column of table 5). And the 0.5 takes the most [share](https://calcworkshop.com/probability/bayes-theorem/) of total 0.629 probability to lose money. This situation is happen in 0.794876771 part of bad cases:
 
 $0.5 / 0.62902832 = 0.794876771$
 
-We can interpret this calculations of shares as calculating the probabilities of such bad luck situations via [applying the Bayes’ Theorem](https://calcworkshop.com/probability/bayes-theorem/).
+All such shares are calculated and represented in a table 6.
 
-The resulting probabilities are represented in a table 6.
+| Role | Count of reimbursements | Probability of such situation | Part that such situtation takes in all bad luck cases |
+| ----------------- | - | ---------- | ---------- |
+| Tutor of 0 tutees | 0 | 0.5        | 0.79487677 |
+| Tutor of 1 tutees | 1 | 0.0625     | 0.0993596  |
+| Tutor of 2 tutees | 1 | 0.046875   | 0.0745197  |
+| Tutor of 2 tutees | 2 | 0.0078125  | 0.01241995 |
+| Tutor of 3 tutees | 2 | 0.00878906 | 0.01397244 |
+| Tutor of 3 tutees | 3 | 0.00097656 | 0.00155249 |
+| Tutor of 4 tutees | 3 | 0.00146484 | 0.00232874 |
+| Tutor of 4 tutees | 4 | 0.00012207 | 0.00019406 |
+| Tutor of 5 tutees | 4 | 0.00045776 | 0.00072773 |
+| Tutor of 5 tutees | 5 | 3.0518E-05 | 4.8515E-05 |
 
-
+*Table 5. Probability that a specific situation leaded to the money loss*
 
 ### $A$ - a student starting capital
 
