@@ -269,6 +269,18 @@ To calculate the probability that a student learning a skill will face a money l
 
 *Table 5. Probability to lose money playing a certain role*
 
+### If we know that student lost money - what happened?
+
+We have calculated the probability to lose money for a student while learning a skill. What if we know he already lost money, can we identify the reason of it? To say certainly not but we can describe the probability of different scenarios. It's evident that more likely the student was a tutor of 0 mentees, because the probability to play such a role and lose money is 0.5 (see the last column of table 5). And the 0.5 takes the most share of total 0.629 probability to lose money. For this situation the share is 0.794876771:
+
+$0.5 / 0.62902832 = 0.794876771$
+
+We can interpret this calculations of shares as calculating the probabilities of such bad luck situations via [applying the Bayes’ Theorem](https://calcworkshop.com/probability/bayes-theorem/).
+
+The resulting probabilities are represented in a table 6.
+
+
+
 ### $A$ - a student starting capital
 
 Our educational approach forces a tutee  to pay their tutor for skill-teaching and the issuance of a diploma, and requires the tutor to be responsible for the issued diploma by providing reimbursement when a tutee  forgets the skill certified by the diploma. To make this happen we need to assure that students have enough money for such economic interaction. As we discussed above there is a 62.9% chance that a student will spend more money during learning a skill that earn. For sure in rest 37.1% cases the student gets in sum the same profit as he losing in 62.9% cases, so his profit during years of learning should be near 0. But what if the student has a bad luck and all skills that he studies he is playing roles that lead to losing money? In such case he will start to pay for an education while we still suppose that the education should be a free resource for any person in on the Earth. To solve this problem we need to provide each each student at the beginning of such approach enough money to prevent bankruptcy happening at all. Let's calculate how many person in the world will get any of bad luck sequences.
