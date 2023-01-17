@@ -294,13 +294,85 @@ All such shares are calculated and represented in a table 6.
 
 ### $A$ - a student starting capital
 
-Our educational approach forces a tutee  to pay their tutor for skill-teaching and the issuance of a diploma, and requires the tutor to be responsible for the issued diploma by providing reimbursement when a tutee  forgets the skill certified by the diploma. To make this happen we need to assure that students have enough money for such economic interaction. As we discussed above there is a 62.9% chance that a student will spend more money during learning a skill that earn. For sure in rest 37.1% cases the student gets in sum the same profit as he losing in 62.9% cases, so his profit during years of learning should be near 0. But what if the student has a bad luck and all skills that he studies he is playing roles that lead to losing money? In such case he will start to pay for an education while we still suppose that the education should be a free resource for any person in on the Earth. To solve this problem we need to provide each each student at the beginning of such approach enough money to prevent bankruptcy happening at all. Let's calculate how many person in the world will get any of bad luck sequences.
+Our educational approach forces a tutee  to pay their tutor for skill-teaching and the issuance of a diploma, and requires the tutor to be responsible for the issued diploma by providing reimbursement when a tutee  forgets the skill certified by the diploma. To make this happen we need to assure that students have enough money for such economic interaction. As we discussed above there is a 62.9% chance that a student will spend more money during learning a skill that earn. For sure in rest 37.1% cases the student gets in sum the same profit as he losing in 62.9% cases, so his profit during years of learning should be near 0. But what if the student has a bad luck and all skills that he studies he is playing roles that lead to losing money? In such case he will start to pay for an education while we still suppose that the education should be a free resource for any person in on the Earth. To solve this problem we need to provide each student at the beginning of such approach enough money to prevent bankruptcy happening at all.
 
-The probability to get back luck studying the first skill is a 0.629. Thus if our target audience is 1,966,096,793 people than $0.629 * 1,966,096,793 = 1,236,730,563$ of them will face it. The sequence of 2 bad luck cases will affect 0.629 part of 1,236,730,563 that is $0.629 * 1,236,730,563 = 777,938,548$ people and so on (see the Appendix 2, for all values calculations). About 19 million people will face with a sequence of 10 bad luck cases.
+The probability to get back luck studying the first skill is a 0.629. Thus if our target audience is 1,966,096,793 people than $0.629 * 1,966,096,793 = 1,236,730,563$ of them will face it. The sequence of 2 bad luck cases starting at the beginning of our approach implementation will affect 0.629 part of 1,236,730,563 that is $0.629 * 1,236,730,563 = 777,938,548$ people and so on (see appendix 2, for all values calculations). About 19 million people will face with a sequence of 10 bad lucks learning first 10 skills.
 
-Only 1 person in the world is expected to face a sequence of 48 bad luck cases, and nobody is supposed to face 49 bad luck cases.
+Only 1 person in the world is expected to face a sequence of 48 bad luck cases from the very beginning, and nobody is supposed to face 49 bad luck cases during learning of 49 first skills.
 
 As we mentioned we think that the education should be free so amount of money that we give to each student should be enough to wait out a sequence of 49 bad luck cases.
+
+Some of such 49 cases will be happen due to that a student will not having a mentee, some - due to reimbursements. We known exactly what is share of each situtation in these 49 cases (see the last column of table 6), also we know how much money student is expected to lose in any such situation. So all what we need to calculate a total money loss in a sequence of 49 bad luck cases is:
+
+- calculate count of each situation by multiplying 49 on the share of such situation in bad luck cases.
+- multiply count of each bad situation on an amount of money loss in one such situation
+- sum up values that we get in a previous step
+
+This is done in a table 7 for Ethiopia. We can see that that maximum money that a student from Ethiopia can lose is about 2.214 USD.
+
+| Role | Count of reimbursements | Part that such situtation takes in all bad luck cases | Number of such situations | Money lost per situation, Ethiopia (USD) | Sum money lost, Ethiopia (USD) |
+| ----------------- | - | ---------- | ---------- | -------- | ---------- |
+| Tutor of 0 tutees | 0 | 0.79487677 | 38.9489618 | 0.04722  | 1.83916998 |
+| Tutor of 1 tutees | 1 | 0.0993596  | 4.86862022 | 0.056664 | 0.2758755  |
+| Tutor of 2 tutees | 1 | 0.0745197  | 3.65146517 | 0.009444 | 0.03448444 |
+| Tutor of 2 tutees | 2 | 0.01241995 | 0.60857753 | 0.066108 | 0.04023184 |
+| Tutor of 3 tutees | 2 | 0.01397244 | 0.68464972 | 0.018888 | 0.01293166 |
+| Tutor of 3 tutees | 3 | 0.00155249 | 0.07607219 | 0.075552 | 0.00574741 |
+| Tutor of 4 tutees | 3 | 0.00232874 | 0.11410829 | 0.028332 | 0.00323292 |
+| Tutor of 4 tutees | 4 | 0.00019406 | 0.00950902 | 0.084996 | 0.00080823 |
+| Tutor of 5 tutees | 4 | 0.00072773 | 0.03565884 | 0.037776 | 0.00134705 |
+| Tutor of 5 tutees | 5 | 4.8515E-05 | 0.00237726 | 0.09444  | 0.00022451 |
+| Total             |   | 1          | 49         |          | 2.21405352 |
+
+*Table 7. Maximum probable money loss, calculated per a student from Ethiopia*
+
+### Total money amount needed to run the Slonigiraf system in a specific country
+
+As 2.214 USD is needed for a one student from Ethiopia, and the total number of possible students Ethiopia is 46,974,914 we need 104 million USD for the whole country.
+
+$2.214 * 46,974,914 = 104,004,973 $
+
+Countries that have bigger teacher salaries than in Ethiopia should give more money to students at the beginning of Slonigiraf system integration. For example, in USA where the minimum teacher salary is 100.66 X higher than in Ethiopia, the student should get 222.87 USD:
+
+$2.214 * 100.66 = 222.87$
+
+The total number of money needed to drive the Slonigiraf system in USA for 61,376,828 students is 13.7 billions USD:
+
+$222.87 * 61,376,828 = 13,679,152,692$
+
+Calculations for other countries in the world is presented in the table 8.
+
+|   | 7-21 years old people	| Times min teacher wage is larger than Ethiopian counterpart | Min money a student need, USD | The country need, USD |
+| ----------- | ------------- | ------ | ------ | ------------------------- |
+| India       | 361,643,868   | 4.75   | 10.51  |            3,802,524,280  |
+| China       | 250,951,632   | 54.23  | 120.07 |          30,132,468,687   |
+| Nigeria     | 91,329,622    | 9.34   | 20.68  |            1,888,642,381  |
+| Pakistan    | 79,399,879    | 4.72   | 10.45  |               829,906,493 |
+| Indonesia   | 69,914,442    | 10.37  | 22.97  |            1,605,914,144  |
+| USA         | 61,376,828    | 100.66 | 222.87 |          13,679,152,692   |
+| Ethiopia    | 46,974,914    | 1.00   | 2.21   |               104,004,973 |
+| Bangladesh  | 44,309,962    | 2.88   | 6.37   |               282,099,533 |
+| Brazil      | 43,727,759    | 20.02  | 44.33  |            1,938,491,925  |
+| Egypt       | 36,668,861    | 4.19   | 9.29   |               340,554,519 |
+| Philippines | 33,396,756    | 8.89   | 19.67  |               657,057,295 |
+| Mexico      | 32,215,828    | 22.50  | 49.81  |            1,604,563,207  |
+| Russia      | 26,897,957    | 17.49  | 38.73  |            1,041,752,687  |
+| Japan       | 15,368,450    | 53.65  | 118.78 |            1,825,457,966  |
+| SUM         | 1,194,176,758 |        |        |          59,732,590,782   |
+| Rest world  | 771,920,036   |        |        |          38,611,355,747   |
+| TOTAL       | 3,160,273,551 |        |        |          98,343,946,528   |
+
+*Table 8. Money needed to drive the Slonigiraf system*
+
+## Long lasting effect of education improvement
+
+GDP is closely tied to the workforce. Using a conservative estimate that 1% of labor growth leads to a [0.36% increase in GDP](https://dergipark.org.tr/tr/download/article-file/364734), the improvement in education resulting in a 3Х (or 200%) growth in the workforce would lead to a 72% increase in GDP, equivalent to approximately [69.5](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD) trillion USD in the long term. Based on this calculation, our initial estimation for the total demand for SLON tokens at 8 trillion USD should be revised upwards to 77.5 (69.5+8) trillion USD that could potentially lead to the cryptocurrency 10X price growth (77.5/8). Additionally the demand for SLON tokens could rise due to usage the system for corporate education and HR processes. In order to ensure the price stability, we plan to implement an inflation rate of approximately 10%. This inflation is achieved by generating additional SLON through the process of "stacking" and is a common practice in the current cryptocurrency market as a reward for the hardware maintenance.
+
+## System software architecture
+
+The proposed system, Slonigiraf, is composed of two interconnected components: [SLON](https://github.com/slonigiraf/whitepaper/blob/main/slon/ENG.md), which functions as a reputation system, and [GIRAF](https://github.com/slonigiraf/whitepaper/blob/main/giraf/ENG.md), which serves as a lobbying and legislation system. Both systems are implemented as distinct blockchains that are linked together through a relay chain. This design allows for the deployment of multiple SLON and GIRAF modules, enabling the system to handle a large scale of users and meet the diverse needs of the population. The GIRAF component is used to facilitate consensus on the types of skills that are necessary for education and the methods for teaching them. The term "SLON" is used both as the name of a Slonigiraf cryptocurrency and as the name of the module that stores information about recommendation letters.
+
+## TMP
 
 For now we know the probability of each event for skill, we know which events lead to money loss. Also we know the total probability to face a money loss learning a skill. As we are going to discuss sequences of bad luck cases let's calculate an additional probability that shows if we know that bad luck case happen what is a probability that a specific event happen? For example, if the student lost money during a skill learning what is a probability that he is "a tutor of 2 tutees" that pays 1 reimbursement? That can be calculated using [Bayes' theorem](https://en.wikipedia.org/wiki/Bayes%27_theorem) by multipling the probability to become "a tutor of 2 tutees" on probability that such tutor pays 1 reimbursent and dividing it on total bad luck probability: $0.125 * 0.375 / 0.62902832 = 0.074519697$
 
@@ -337,20 +409,11 @@ The probability to be among these 16 students is 0.5.
 
 It is necessary to minimize such cases when a student ends up in the last training group in a row. We need 32 * 5 SLON so that this situation does not happen to any student in the world (1.967 B * 0.5^32 < 1). Thus 32 * 5 SLON = 160 SLON is enough amount to perform such lessons in Ethiopia.
 
+
 Other countries have different teacher wages. Thus we need to adjust an airdrop for each country separately, see the Appendix 1.
 We need a total of 4.3 trln SLON for countries listed in the Appendix 1, and 2.8 trln SLON for others. Thus 7.1 trln SLON is required in total just for an airdrop.
 
 In the proposed system, is the total demand for SLON estimated to be just 7 trillion? To answer this question, it is important to note that the supply of cryptocurrencies, such as Bitcoin, is typically compared to M1 supply or narrow money. However, the supply of stacking cryptocurrencies is more closely aligned with M2 supply. The M2 money supply is [roughly equivalent to the GDP](https://data.worldbank.org/indicator/FM.LBL.BMNY.GD.ZS). As the additional GDP is estimated to be 8 trillion USD, the M2 SLON supply should be approximately 8 trillion USD or 800 trillion SLON.
-
-
-
-## Long lasting effect of education improvement
-
-GDP is closely tied to the workforce. Using a conservative estimate that 1% of labor growth leads to a [0.36% increase in GDP](https://dergipark.org.tr/tr/download/article-file/364734), the improvement in education resulting in a 3Х (or 200%) growth in the workforce would lead to a 72% increase in GDP, equivalent to approximately [69.5](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD) trillion USD in the long term. Based on this calculation, our initial estimation for the total demand for SLON tokens at 8 trillion USD should be revised upwards to 77.5 (69.5+8) trillion USD that could potentially lead to the cryptocurrency 10X price growth (77.5/8). Additionally the demand for SLON tokens could rise due to usage the system for corporate education and HR processes. In order to ensure the price stability, we plan to implement an inflation rate of approximately 10%. This inflation is achieved by generating additional SLON through the process of "stacking" and is a common practice in the current cryptocurrency market as a reward for the hardware maintenance.
-
-## System software architecture
-
-The proposed system, Slonigiraf, is composed of two interconnected components: [SLON](https://github.com/slonigiraf/whitepaper/blob/main/slon/ENG.md), which functions as a reputation system, and [GIRAF](https://github.com/slonigiraf/whitepaper/blob/main/giraf/ENG.md), which serves as a lobbying and legislation system. Both systems are implemented as distinct blockchains that are linked together through a relay chain. This design allows for the deployment of multiple SLON and GIRAF modules, enabling the system to handle a large scale of users and meet the diverse needs of the population. The GIRAF component is used to facilitate consensus on the types of skills that are necessary for education and the methods for teaching them. The term "SLON" is used both as the name of a Slonigiraf cryptocurrency and as the name of the module that stores information about recommendation letters.
 
 ## Appendix 1. Global economy indicators
 
@@ -377,3 +440,56 @@ The proposed system, Slonigiraf, is composed of two interconnected components: [
 *Target audience (7-21 years old people) was estimated by multiplying [all people count](https://population.un.org/wpp/Download/Standard/MostUsed/) on a fraction of [0-14 yo people](https://www.theglobaleconomy.com/rankings/percent_children/) for 2021 year. We assume that in near future it's a good approximate of 7-21 yo group.*
 
 *Teacher wage data in was collected from [salaryexplorer.com](http://www.salaryexplorer.com/?loc=23&loctype=1&job=123&jobtype=3#browsesalaries) on 2023.01.08*
+
+## Appendix 1. Global economy indicators
+
+| Number of skills in a row that result in spending money  | Probability of such event | % of people who are expected to face it | Affected people in world |
+| -- | ---------- | ------ | ------------- |
+| 1  | 0.62902832 | 62.90% | 1,236,730,563 |
+| 2  | 0.39567663 | 39.57% | 777,938,548   |
+| 3  | 0.2488918  | 24.89% | 489,345,378   |
+| 4  | 0.15655999 | 15.66% | 307,812,101   |
+| 5  | 0.09848067 | 9.85%  | 193,622,529   |
+| 6  | 0.06194713 | 6.19%  | 121,794,054   |
+| 7  | 0.0389665  | 3.90%  | 76,611,909    |
+| 8  | 0.02451103 | 2.45%  | 48,191,061    |
+| 9  | 0.01541813 | 1.54%  | 30,313,542    |
+| 10 | 0.00969844 | 0.97%  | 19,068,076    |
+| 11 | 0.00610059 | 0.61%  | 11,994,360    |
+| 12 | 0.00383745 | 0.38%  | 7,544,792     |
+| 13 | 0.00241386 | 0.24%  | 4,745,888     |
+| 14 | 0.00151839 | 0.15%  | 2,985,298     |
+| 15 | 0.00095511 | 0.10%  | 1,877,837     |
+| 16 | 0.00060079 | 0.06%  | 1,181,213     |
+| 17 | 0.00037791 | 0.04%  | 743,016       |
+| 18 | 0.00023772 | 0.02%  | 467,378       |
+| 19 | 0.00014953 | 0.01%  | 293,994       |
+| 20 | 9.406E-05  | 0.01%  | 184,931       |
+| 21 | 5.9166E-05 | 0.01%  | 116,327       |
+| 22 | 3.7217E-05 | <0.01% | 73,173        |
+| 23 | 2.3411E-05 | <0.01% | 46,028        |
+| 24 | 1.4726E-05 | <0.01% | 28,953        |
+| 25 | 9.2631E-06 | <0.01% | 18,212        |
+| 26 | 5.8267E-06 | <0.01% | 11,456        |
+| 27 | 3.6652E-06 | <0.01% | 7,206         |
+| 28 | 2.3055E-06 | <0.01% | 4,533         |
+| 29 | 1.4502E-06 | <0.01% | 2,851         |
+| 30 | 9.1223E-07 | <0.01% | 1,794         |
+| 31 | 5.7382E-07 | <0.01% | 1,128         |
+| 32 | 3.6095E-07 | <0.01% | 710           |
+| 33 | 2.2705E-07 | <0.01% | 446           |
+| 34 | 1.4282E-07 | <0.01% | 281           |
+| 35 | 8.9837E-08 | <0.01% | 177           |
+| 36 | 5.651E-08  | <0.01% | 111           |
+| 37 | 3.5547E-08 | <0.01% | 70            |
+| 38 | 2.236E-08  | <0.01% | 44            |
+| 39 | 1.4065E-08 | <0.01% | 28            |
+| 40 | 8.8472E-09 | <0.01% | 17            |
+| 41 | 5.5652E-09 | <0.01% | 11            |
+| 42 | 3.5006E-09 | <0.01% | 7             |
+| 43 | 2.202E-09  | <0.01% | 4             |
+| 44 | 1.3851E-09 | <0.01% | 3             |
+| 45 | 8.7128E-10 | <0.01% | 2             |
+| 46 | 5.4806E-10 | <0.01% | 1             |
+| 47 | 3.4475E-10 | <0.01% | 1             |
+| 48 | 2.1686E-10 | 0.00%  | 0             |
