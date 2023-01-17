@@ -232,13 +232,9 @@ Table 4 summarizes in which situation students will lose money.
 
 ### Losing money probability
 
-If the student constantly faces money losses he will be bankrupt. Table 4 gives us insights which roles in which situtations lead to money lost. Let's bring together the probability of playing each role, probability of losing money at each role, and how much money the student will lose.
+If the student constantly faces money losses he will be bankrupt. Table 4 gives us insights which roles in which situtations lead to money lost. Let's bring together the probability of playing each role and probability of losing money at each role.
 
 The probability of playing each role can be taken from fig. 2.
-
-The amount of lost money can be calculated with the formula already discussed:
-
-$Profit = D * (-1 + N{_t} - 1.2 * N{_f})$
 
 Thus all we need is to undertand how to calculate the probability of losing money at each role. If student plays a role of a tutee and doesn't become a tutor he will lose each time so the probability to lose money for a such role is 1.
 
@@ -257,19 +253,19 @@ Other values in the column "Probability to face such $N{_f}$ in the role" of tab
 
 To calculate the probability that a student learning a skill will face a money loss getting a specific role we need to multiply the probability of playing such a role on a probability to lose money for the role, for example for "tutor of 2 tutees" that pays 1 reimbursements it is: $0.125 * 0.375 = 0.046875$. If we will sum all such bad luck variants we will get that a student with a **probability of 0.629** will lose some money during any skill learning.
 
-| Role              | $N{_f}$ | Profit in Ethiopia (USD) | Probability of the role | Probability to face such $N{_f}$ in the role | Probability of such situation |
-| ----------------- | -- | ---------- | ------- | ---------- | ----------- |
-| Tutor of 0 tutees | 0  | \-0.04722  | 0.5     | 1          | 0.5         |
-| Tutor of 1 tutees | 1  | \-0.056664 | 0.25    | 0.25       | 0.0625      |
-| Tutor of 2 tutees | 1  | \-0.009444 | 0.125   | 0.375      | 0.046875    |
-| Tutor of 2 tutees | 2  | \-0.066108 | 0.125   | 0.0625     | 0.0078125   |
-| Tutor of 3 tutees | 2  | \-0.018888 | 0.0625  | 0.140625   | 0.008789063 |
-| Tutor of 3 tutees | 3  | \-0.075552 | 0.0625  | 0.015625   | 0.000976563 |
-| Tutor of 4 tutees | 3  | \-0.028332 | 0.03125 | 0.046875   | 0.001464844 |
-| Tutor of 4 tutees | 4  | \-0.084996 | 0.03125 | 0.00390625 | 0.00012207  |
-| Tutor of 5 tutees | 4  | \-0.037776 | 0.03125 | 0.01464844 | 0.000457764 |
-| Tutor of 5 tutees | 5  | \-0.09444  | 0.03125 | 0.00097656 | 3.05176E-05 |
-|Total              |    |            |         |            | **0.62902832**  |
+| Event: role; reimburses | Probability | Probability to lose money if event happened | Probability of such situation |
+| ----------------------- | ------- | ---------- | ----------- |
+| Tutor of 0 tutees; 0    | 0.5     | 1          | 0.5         |
+| Tutor of 1 tutees; 1    | 0.25    | 0.25       | 0.0625      |
+| Tutor of 2 tutees; 1    | 0.125   | 0.375      | 0.046875    |
+| Tutor of 2 tutees; 2    | 0.125   | 0.0625     | 0.0078125   |
+| Tutor of 3 tutees; 2    | 0.0625  | 0.140625   | 0.008789063 |
+| Tutor of 3 tutees; 3    | 0.0625  | 0.015625   | 0.000976563 |
+| Tutor of 4 tutees; 3    | 0.03125 | 0.046875   | 0.001464844 |
+| Tutor of 4 tutees; 4    | 0.03125 | 0.00390625 | 0.00012207  |
+| Tutor of 5 tutees; 4    | 0.03125 | 0.01464844 | 0.000457764 |
+| Tutor of 5 tutees; 5    | 0.03125 | 0.00097656 | 3.05176E-05 |
+|Total                    |         |            | **0.62902832**  |
 
 *Table 5. Probability to lose money playing a certain role*
 
@@ -283,6 +279,11 @@ Only 1 person in the world is expected to face a sequence of 48 bad luck cases, 
 
 As we mentioned we think that the education should be free so amount of money that we give to each student should be enough to wait out a sequence of 49 bad luck cases.
 
+For now we know the probability of each event for skill, we know which events lead to money loss. Also we know the total probability to face a money loss learning a skill. As we are going to discuss sequences of bad luck cases let's calculate an additional probability that shows if we know that bad luck case happen what is a probability that a specific event happen? For example, if the student lost money during a skill learning what is a probability that he is "a tutor of 2 tutees" that pays 1 reimbursement? That can be calculated using [Bayes' theorem](https://en.wikipedia.org/wiki/Bayes%27_theorem) by multipling the probability to become "a tutor of 2 tutees" on probability that such tutor pays 1 reimbursent and dividing it on total bad luck probability: $0.125 * 0.375 / 0.62902832 = 0.074519697$
+
+The amount of lost money can be calculated with the formula already discussed:
+
+$Profit = D * (-1 + N{_t} - 1.2 * N{_f})$
 
 
 
