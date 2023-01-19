@@ -370,7 +370,25 @@ Giving out money to students is not expected to largely affect inflation as the 
 
 Another problem to which this approach can face is student behavior. The temptation to spend it immediately is strong for students when they receive free money. It's highly likely that students will spend all money before they will understood the necessity of having money reserve.
 
-We think that a good solution for both these problems is an issuing tokens that are used only inside the Slonigiraf educational model. In such way students will get tokens instead of real money. This cost almost zero from a financial view, and prevents educational money spending before student understanding the value of tokens. Let's note that it's important to ensure that students can't exchange tokens for money at the beginning of the educational reform otherwise we will face the same problem.
+We think that a good solution for both these problems is an issuing tokens that are used only inside the Slonigiraf educational model. In such way students will get tokens instead of real money. This cost almost zero from a financial view, and prevents educational money spending before student understanding the value of tokens. Let's note that it's important to ensure students can't exchange tokens for money at the beginning of the educational reform otherwise we will face the same problem.
+
+There are two ways of such token issuing. The fist one is to wait when a government will do so. In such way there will be know players in a private sector who can drive such a reform as all the profit will go straight to the budget. Thus it's possible that will not happen ever as there are other things that governments should do that are more lobbied. The second way is to issue such token and spread the emission between companies who want to make money on driving the educational reform. Let's name such token as SLON.
+
+## SLON token price
+
+As we discussed above SLON is a token that intended to be used in the Slonigiraf educational model by students instead of real money. We defined before that the diploma price and reimbursements vary between countries. From the most populated ones the minimum price of diploma is in Ethiopia. Let's define how much the diploma should cost in Ethiopia in SLON and what amount of reimbursement will be in SLON nominal.
+
+The calculated diploma in Ethiopia is 0.04722 USD, the reimbursement amount is 0.05688 USD (1.2 x bigger than the diploma price). While selecting nominal for SLON token we should be sure that students will be happy using such nominal in transactions. The diploma price in SLON should have as low zeros as possible and it would be nice if the diploma price and the reimbursement would be whole numbers. Number 6 is minimal that is integer and get's an integer after division by 1.2. Thus we propose to use 6 SLON as a reimbursement amount and 5 SLON as a diploma price in Ethiopia. So at the same moment the diploma price in Ethiopia is 0.04722 USD or 5 SLON. This calculation gives us a price of 1 SLON to be around 0.01 USD:
+
+$0.04722 / 5 = 0.009444$
+
+## SLON token monetary base
+
+Previously we have calculated an amount of money that is needed to be give out to students at the beginning of the Slonigiraf educational model implementation. It's 98,343,946,528 USD. As the nominal value of 1 SLON is 0.009444 USD, then we need 10.4 trillion of SLON to give out to students:
+
+$98,343,946,528 / 0.009444 = 1.04134E+13$
+
+10.4 trillion of SLON cost nothing at the moment of issuing, but cost 98.B USD after giving out to students, as they start to use them to exchange for tutoring work, and also for issuing diplomas.
 
 ## Long lasting effect of education improvement
 
