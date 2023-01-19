@@ -364,9 +364,13 @@ Calculations for other countries in the world is presented in the table 8.
 
 *Table 8. Money needed to drive the Slonigiraf system*
 
-## Inflation effect of giving money out to students
+## How to give money out to students
 
+Giving out money to students is not expected to largely affect inflation as the amount is very tiny in comparison to monetary base. For example we need to give out 13.68B USD to USA students. This amount comprise only 0.25% of [country monetary base as of November 2022](https://www.federalreserve.gov/releases/h6/current/). However this amount of money for sure needs to be approved by national governments that is unlikely to happen in easy way.
 
+Another problem to which this approach can face is student behavior. The temptation to spend it immediately is strong for students when they receive free money. It's highly likely that students will spend all money before they will understood the necessity of having money reserve.
+
+We think that a good solution for both these problems is an issuing tokens that are used only inside the Slonigiraf educational model. In such way students will get tokens instead of real money. This cost almost zero from a financial view, and prevents educational money spending before student understanding the value of tokens. Let's note that it's important to ensure that students can't exchange tokens for money at the beginning of the educational reform otherwise we will face the same problem.
 
 ## Long lasting effect of education improvement
 
