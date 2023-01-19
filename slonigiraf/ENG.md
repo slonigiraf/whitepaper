@@ -390,6 +390,10 @@ $98,343,946,528 / 0.009444 = 1.04134E+13$
 
 10.4 trillion of SLON cost nothing at the moment of issuing, but cost 98.B USD after giving out to students, as they start to use them to exchange for tutoring work, and also for issuing diplomas.
 
+In the proposed system, is the total demand for SLON estimated to be just 10.4 trillion? To answer this question, it is important to note that the supply of cryptocurrencies, such as Bitcoin, is typically compared to M1 supply or narrow money. However, the supply of stacking cryptocurrencies is more closely aligned with M2 supply. The M2 money supply is [roughly equivalent to the GDP](https://data.worldbank.org/indicator/FM.LBL.BMNY.GD.ZS). As the additional GDP is estimated to be 8 trillion USD, the M2 SLON supply should be approximately **8 trillion USD** or **847 trillion SLON**:
+
+$8 / 0.009444 = 847$
+
 ## Long lasting effect of education improvement
 
 GDP is closely tied to the workforce. Using a conservative estimate that 1% of labor growth leads to a [0.36% increase in GDP](https://dergipark.org.tr/tr/download/article-file/364734), the improvement in education resulting in a 3Х (or 200%) growth in the workforce would lead to a 72% increase in GDP, equivalent to approximately [69.5](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD) trillion USD in the long term. Based on this calculation, our initial estimation for the total demand for SLON tokens at 8 trillion USD should be revised upwards to 77.5 (69.5+8) trillion USD that could potentially lead to the cryptocurrency 10X price growth (77.5/8). Additionally the demand for SLON tokens could rise due to usage the system for corporate education and HR processes. In order to ensure the price stability, we plan to implement an inflation rate of approximately 10%. This inflation is achieved by generating additional SLON through the process of "stacking" and is a common practice in the current cryptocurrency market as a reward for the hardware maintenance.
@@ -397,49 +401,6 @@ GDP is closely tied to the workforce. Using a conservative estimate that 1% of l
 ## System software architecture
 
 The proposed system, Slonigiraf, is composed of two interconnected components: [SLON](https://github.com/slonigiraf/whitepaper/blob/main/slon/ENG.md), which functions as a reputation system, and [GIRAF](https://github.com/slonigiraf/whitepaper/blob/main/giraf/ENG.md), which serves as a lobbying and legislation system. Both systems are implemented as distinct blockchains that are linked together through a relay chain. This design allows for the deployment of multiple SLON and GIRAF modules, enabling the system to handle a large scale of users and meet the diverse needs of the population. The GIRAF component is used to facilitate consensus on the types of skills that are necessary for education and the methods for teaching them. The term "SLON" is used both as the name of a Slonigiraf cryptocurrency and as the name of the module that stores information about recommendation letters.
-
-## TMP
-
-For now we know the probability of each event for skill, we know which events lead to money loss. Also we know the total probability to face a money loss learning a skill. As we are going to discuss sequences of bad luck cases let's calculate an additional probability that shows if we know that bad luck case happen what is a probability that a specific event happen? For example, if the student lost money during a skill learning what is a probability that he is "a tutor of 2 tutees" that pays 1 reimbursement? That can be calculated using [Bayes' theorem](https://en.wikipedia.org/wiki/Bayes%27_theorem) by multipling the probability to become "a tutor of 2 tutees" on probability that such tutor pays 1 reimbursent and dividing it on total bad luck probability: $0.125 * 0.375 / 0.62902832 = 0.074519697$
-
-The amount of lost money can be calculated with the formula already discussed:
-
-$Profit = D * (-1 + N{_t} - 1.2 * N{_f})$
-
-
-
-
-R/M = (18.96 * $W{_t}$) / (15.74 * $W{_t}$) ~ 1.2
-
-Any currency should be comfortable to use. Minumum whole numbers that are good for R and M are 6 and 5 respectively.
-
-As part of our implementation strategy, we plan to prioritize the deployment of Slonigiraf in countries with high population density. Among these coutries we have identified a country with the lowest teacher wage - Ethiopia.
-
-As M = 5,
-
-5 = 15.74 * $W{_t}$
-
-$W{_t}$ = 0.31766201 SLON in Ethiopia.
-
-A minimum teacher salary in Ethiopia is 30 USD.
-
-$W{_t}$ = 30 USD / (168*60) = 0.00297619 USD
-
-0.00297619 USD = 0.31766201 SLON
-
-1 SLON = 0.009369048 USD, thus 1 SLON ~ 1 USD cent.
-
-Let's calculate the amount of SLON airdrop per person in Ethiopia.
-Let's say that 1 out of 32 children knows the skill, then there must be 5 sessions during the lesson in pairs so that all 32 students master the skill. Those who gained the skill in the last session (16 people) spend 5 SLON each, but do not earn anything.
-The probability to be among these 16 students is 0.5.
-
-It is necessary to minimize such cases when a student ends up in the last training group in a row. We need 32 * 5 SLON so that this situation does not happen to any student in the world (1.967 B * 0.5^32 < 1). Thus 32 * 5 SLON = 160 SLON is enough amount to perform such lessons in Ethiopia.
-
-
-Other countries have different teacher wages. Thus we need to adjust an airdrop for each country separately, see the Appendix 1.
-We need a total of 4.3 trln SLON for countries listed in the Appendix 1, and 2.8 trln SLON for others. Thus 7.1 trln SLON is required in total just for an airdrop.
-
-In the proposed system, is the total demand for SLON estimated to be just 7 trillion? To answer this question, it is important to note that the supply of cryptocurrencies, such as Bitcoin, is typically compared to M1 supply or narrow money. However, the supply of stacking cryptocurrencies is more closely aligned with M2 supply. The M2 money supply is [roughly equivalent to the GDP](https://data.worldbank.org/indicator/FM.LBL.BMNY.GD.ZS). As the additional GDP is estimated to be 8 trillion USD, the M2 SLON supply should be approximately 8 trillion USD or 800 trillion SLON.
 
 ## Appendix 1. Global economy indicators
 
