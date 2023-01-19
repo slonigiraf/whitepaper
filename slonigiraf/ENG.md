@@ -296,7 +296,7 @@ All such shares are calculated and represented in a table 6.
 
 Our educational approach forces a tutee  to pay their tutor for skill-teaching and the issuance of a diploma, and requires the tutor to be responsible for the issued diploma by providing reimbursement when a tutee  forgets the skill certified by the diploma. To make this happen we need to assure that students have enough money for such economic interaction. As we discussed above there is a 62.9% chance that a student will spend more money during learning a skill that earn. For sure in rest 37.1% cases the student gets in sum the same profit as he losing in 62.9% cases, so his profit during years of learning should be near 0. But what if the student has a bad luck and all skills that he studies he is playing roles that lead to losing money? In such case he will start to pay for an education while we still suppose that the education should be a free resource for any person in on the Earth. To solve this problem we need to provide each student at the beginning of such approach enough money to prevent bankruptcy happening at all.
 
-The probability to get back luck studying the first skill is a 0.629. Thus if our target audience is 1,966,096,793 people than $0.629 * 1,966,096,793 = 1,236,730,563$ of them will face it. The sequence of 2 bad luck cases starting at the beginning of our approach implementation will affect 0.629 part of 1,236,730,563 that is $0.629 * 1,236,730,563 = 777,938,548$ people and so on (see appendix 2, for all values calculations). About 19 million people will face with a sequence of 10 bad lucks learning first 10 skills.
+The probability to get back luck studying the first skill is a 0.629. Thus if our target audience is 1,966,096,793 people than $0.629 * 1,966,096,793 = 1,236,730,563$ of them will face it. The sequence of 2 bad luck cases starting at the beginning of our approach implementation will affect 0.629 part of 1,236,730,563 that is $0.629 * 1,236,730,563 = 777,938,548$ people and so on (see appendix 1, for all values calculations). About 19 million people will face with a sequence of 10 bad lucks learning first 10 skills.
 
 Only 1 person in the world is expected to face a sequence of 48 bad luck cases from the very beginning, and nobody is supposed to face 49 bad luck cases during learning of 49 first skills.
 
@@ -382,9 +382,32 @@ The calculated diploma in Ethiopia is 0.04722 USD, the reimbursement amount is 0
 
 $0.04722 / 5 = 0.009444$
 
+## Diploma price and reimbursement amount in SLON nominal
+
+As different countries have different teacher salaries, the diploma price and how many SLON should get each student will vary also. The table 8 contains such indicators calculated in USD. Let's present them in SLON by using the SLON price calculated above - see the table 9 below.
+
+|  | Times min teacher wage  is larger than Ethiopian counterpart | Free tokens given to each student, SLON | Diploma price, SLON | Reimbursement amount, SLON |
+| ----------- | ------ | ----- | --- | --- |
+| India       | 4.75   | 1114  | 24  | 29  |
+| China       | 54.23  | 12715 | 272 | 326 |
+| Nigeria     | 9.34   | 2190  | 47  | 57  |
+| Pakistan    | 4.72   | 1107  | 24  | 29  |
+| Indonesia   | 10.37  | 2433  | 52  | 63  |
+| USA         | 100.66 | 23600 | 504 | 604 |
+| Ethiopia    | 1.00   | 235   | 5   | 6   |
+| Bangladesh  | 2.88   | 675   | 15  | 18  |
+| Brazil      | 20.02  | 4695  | 101 | 121 |
+| Egypt       | 4.19   | 984   | 21  | 26  |
+| Philippines | 8.89   | 2084  | 45  | 54  |
+| Mexico      | 22.50  | 5274  | 113 | 135 |
+| Russia      | 17.49  | 4101  | 88  | 105 |
+| Japan       | 53.65  | 12578 | 269 | 322 |
+
+*Table 9. SLON token needed to drive the Slonigiraf system. All values are rounded up to the nearest integer.*
+
 ## SLON token monetary base
 
-Previously we have calculated an amount of money that is needed to be give out to students at the beginning of the Slonigiraf educational model implementation. It's 98,343,946,528 USD. As the nominal value of 1 SLON is 0.009444 USD, then we need 10.4 trillion of SLON to give out to students:
+Previously we have calculated an amount of money that is needed to be give out to students at the beginning of the Slonigiraf educational model implementation. It's 98,343,946,528 USD. As the nominal value of 1 SLON is 0.009444 USD, then we need **10.4 trillion of SLON to give out to students**:
 
 $98,343,946,528 / 0.009444 = 1.04134E+13$
 
@@ -402,33 +425,7 @@ GDP is closely tied to the workforce. Using a conservative estimate that 1% of l
 
 The proposed system, Slonigiraf, is composed of two interconnected components: [SLON](https://github.com/slonigiraf/whitepaper/blob/main/slon/ENG.md), which functions as a reputation system, and [GIRAF](https://github.com/slonigiraf/whitepaper/blob/main/giraf/ENG.md), which serves as a lobbying and legislation system. Both systems are implemented as distinct blockchains that are linked together through a relay chain. This design allows for the deployment of multiple SLON and GIRAF modules, enabling the system to handle a large scale of users and meet the diverse needs of the population. The GIRAF component is used to facilitate consensus on the types of skills that are necessary for education and the methods for teaching them. The term "SLON" is used both as the name of a Slonigiraf cryptocurrency and as the name of the module that stores information about recommendation letters.
 
-## Appendix 1. Global economy indicators
-
-|             | 7-21 years old people\* | Times min teacher wage  is larger than Ethiopian counterpart | Min money a student need | Diploma price (SLON) | Reimbursement amount (SLON) | Airdrop per person (SLON) | Airdrop per country (SLON) |
-| ----------- | ----------------------- | ------------------------------------------------------------ | ------------------------ | -------------------- | --------------------------- | ------------------------- | -------------------------- |
-| India       | 361,643,868             | 4.75      | $7.59                    | 23                   | 28                          | 759                       | 275 B                      |
-| China       | 250,951,632             | 54.23     | $81.30                   | 271                  | 325                         | 8677                      | 2178 B                     |
-| Nigeria     | 91,329,622              | 9.34      | $14.00                   | 46                   | 56                          | 1494                      | 137 B                      |
-| Pakistan    | 79,399,879              | 4.72      | $7.07                    | 23                   | 28                          | 755                       | 60 B                       |
-| Indonesia   | 69,914,442              | 10.37     | $15.54                   | 51                   | 62                          | 1659                      | 116 B                      |
-| USA         | 61,376,828              | 100.66    | $150.89                  | 503                  | 603                         | 16105                     | 989 B                      |
-| Ethiopia    | 46,974,914              | 1.00      | $1.50                    | 5                    | 6                           | 160                       | 8 B                        |
-| Bangladesh  | 44,309,962              | 2.88      | $4.31                    | 14                   | 17                          | 460                       | 21 B                       |
-| Brazil      | 43,727,759              | 20.02     | $30.01                   | 100                  | 120                         | 3203                      | 141 B                      |
-| Egypt       | 36,668,861              | 4.19      | $6.29                    | 20                   | 25                          | 671                       | 25 B                       |
-| Philippines | 33,396,756              | 8.89      | $13.31                   | 44                   | 53                          | 1421                      | 48 B                       |
-| Mexico      | 32,215,828              | 22.50     | $33.72                   | 112                  | 134                         | 3599                      | 116 B                      |
-| Russia      | 26,897,957              | 17.49     | $26.21                   | 87                   | 104                         | 2798                      | 76 B                       |
-| Japan       | 15,368,450              | 53.65     | $80.41                   | 268                  | 321                         | 8583                      | 132 B                      |
-| SUM         | 1,194,176,758           |           |                          |                      |                             |                           | 4316 B                     |
-| Rest world  | 771,920,036             |           |                          |                      |                             |                           | 2790 B                     |
-| TOTAL       | 3,160,273,551           |           |                          |                      |                             |                           | 7106 B                     |
-
-*Target audience (7-21 years old people) was estimated by multiplying [all people count](https://population.un.org/wpp/Download/Standard/MostUsed/) on a fraction of [0-14 yo people](https://www.theglobaleconomy.com/rankings/percent_children/) for 2021 year. We assume that in near future it's a good approximate of 7-21 yo group.*
-
-*Teacher wage data in was collected from [salaryexplorer.com](http://www.salaryexplorer.com/?loc=23&loctype=1&job=123&jobtype=3#browsesalaries) on 2023.01.08*
-
-## Appendix 1. Global economy indicators
+## Appendix 1. Probability to face a sequence of bad lucks
 
 | Number of skills in a row that result in spending money  | Probability of such event | % of people who are expected to face it | Affected people in world |
 | -- | ---------- | ------ | ------------- |
