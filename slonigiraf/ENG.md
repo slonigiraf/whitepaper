@@ -66,9 +66,15 @@ A fact that a student got the diploma doesn't mean he has mastered the skill. It
 
 ### Experts earn money via searching for low quality skills
 
-Why students do want to become experts? The expert status allows them to verify a lot of diplomas and eventually find bad ones and get reimbursement from tutors who issued such dimplomas. For sure an expert want to name all diplomas coming to him as bad ones to get as much reward as possible. To prevent such situation we allow students to select which expert to deal with. This creates a competition between experts and makes them to behave honestly.
+Why students do want to become experts? The expert status allows them to verify a lot of diplomas and eventually find bad ones and get reimbursement from tutors who issued such diplomas. For sure an expert want to name all diplomas coming to him as bad ones to get as much reward as possible. To prevent such situation we allow students to select which expert to deal with. This creates a competition between experts and makes them to behave honestly.
 
 The teacher is allowed to re-verify diplomas verified by an expert if he suspects that the expert is cheating: for example if the expert verified the diploma issued by himself. In the case of cheating the teacher can prohibit the student to be an expert for certain amount of time and also the teacher gets the reimbursement from the tutor who issued the diploma used in cheating.
+
+### A tutee can allow a tutor to review a diploma issued by another tutor
+
+Skills that are acquired but not used are prone to be forgotten. To combat this, many educational systems rely on repetition. The Slonigiraf educational model utilizes repetition in three ways. Firstly, by allowing students who have acquired a skill to teach it to other students. In this way, the student reinforces their understanding of the skill by teaching it to others. Secondly, our system uses repetition through expert verification of diplomas. And thirdly, tutors can work with their students to verify previous diplomas issued by other tutors. If a skill has been forgotten, the tutor who identifies the problem receives reimbursement from the tutor who issued the diploma, in the same way as an expert. This process is beneficial for both the current tutor, as they potentially receive reimbursement, and for the student, as they receive information about their current educational problems.
+
+It is possible that a student and a tutor may conspire against a previous tutor to receive reimbursement while the student has not actually forgotten the skill. This type of deception is not prohibited in any administrative way, but it is almost impossible in the long term - such a student would be banned from the community of tutors as dishonest and would lose the ability to receive new diplomas.
 
 ### Teacher salary can be adjusted to the quality of teaching
 
@@ -78,7 +84,7 @@ The teacher is allowed to re-verify diplomas verified by an expert if he suspect
 - the teacher plays an expert role by default
 - he can allow students to become experts
 
-This allows us to propose two diffent models of teacher salary calculation. The first is conservative and doesn't change how things are done in classic way: the teacher just gets salary from the school budget. We think that such way will prevale during a transition from traditional educational model to the Slonigiraf. When this option is applyed the teacher doesn't get money from students for tutoring and diploma issuing. He just teaches 1 - 2 students for free and they spread the skill to other students for money. However the teacher is allowed to get reimbursement from bad mentors in a way as any expert is allowed but the money he got in such a way then are collected to the school budget and are returned back to all students on an equal basis monthly.
+This allows us to propose two different models of teacher salary calculation. The first is conservative and doesn't change how things are done in classic way: the teacher just gets salary from the school budget. We think that such way will prevail during a transition from traditional educational model to the Slonigiraf. When this option is applied the teacher doesn't get money from students for tutoring and diploma issuing. He just teaches 1 - 2 students for free and they spread the skill to other students for money. However the teacher is allowed to get reimbursement from bad mentors in a way as any expert is allowed but the money he got in such a way then are collected to the school budget and are returned back to all students on an equal basis monthly.
 
 The second way of teacher salary calculation has more market spirit. It assumes that the teacher will not get any salary from the school budget. In such way he is allowed to earn money both as a mentor and as an expert. The school budget money that were intended to be addressed to teacher are spread instead of it to students on an equal basis each month.
 
