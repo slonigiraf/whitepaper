@@ -20,7 +20,7 @@ To address these issues, we propose using money to incentivize students to serve
 
 *Figure 1. Proposed educational model named as "Slonigiraf"*
 
-### Tutoring and diploma issuing
+### Students pay each other for diplomas issuance after successful tutoring
 
 **The Slonigiraf lesson** does not include a traditional lecture component. Instead, it begins with students working in pairs. Students have the option to act as a tutor for a specific skill or as a tutee. Tutees have the freedom to choose their own tutors based on personal preference. **Tutors are typically peers of the tutees**, who have previously acquired the same knowledge through self-study or other means. A tutor, in the case that his tutee masters the skill, charges him **tuition fees** and **provide a diploma** certifying the acquired skill. If the student does not acquire the skill, the tutor receives nothing.
 
