@@ -14,7 +14,7 @@ One way to measure the efficiency of an education system is by determining the a
 
 To address these issues, we propose using money to incentivize students to serve as tutors and require them to use a recommendation letter system to ensure the quality of such lessons. We have implemented this approach in several schools and observed an increase in education efficiency up to 75%, with students having ample time for both learning and teaching within their existing secondary education programs.
 
-## The proposed educational model
+## Proposed educational model
 
 <img alt="Image" src="https://github.com/slonigiraf/slon-whitepaper/blob/main/img/lesson.png?raw=true" width="500">
 
