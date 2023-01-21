@@ -8,8 +8,8 @@ We explore how education affects economic growth and present an education system
 
 ## Table of contents <!-- omit from toc -->
 
-- [Education efficiency](#education-efficiency)
-- [Proposed educational model](#proposed-educational-model)
+- [Measuring education efficiency](#measuring-education-efficiency)
+- [Slonigiraf - the proposed educational model](#slonigiraf---the-proposed-educational-model)
   - [Students pay each other for diplomas issuance after successful tutoring](#students-pay-each-other-for-diplomas-issuance-after-successful-tutoring)
   - [Tutors have different number of tutees](#tutors-have-different-number-of-tutees)
   - [Students are allowed to become experts](#students-are-allowed-to-become-experts)
@@ -34,7 +34,7 @@ We explore how education affects economic growth and present an education system
 - [System software architecture](#system-software-architecture)
 - [Appendix 1. Probability to face a sequence of bad lucks](#appendix-1-probability-to-face-a-sequence-of-bad-lucks)
 
-## Education efficiency
+## Measuring education efficiency
 
 Education plays a vital role in the world economy. On average, education comprises [$4.2$%](https://data.worldbank.org/indicator/SE.XPD.TOTL.GD.ZS) of GDP - final goods and services produced and sold in a specific time period by countries. If the quality of education were to be improved threefold, it could potentially add approximately $8$ trillion USD, or $8.4$% of the global GDP, to the world economy each year with such effect size from the first year of an educational reform.
 
@@ -42,11 +42,11 @@ One way to measure the efficiency of an education system is by determining the a
 
 To address these issues, we propose using money to incentivize students to serve as tutors and require them to use a recommendation letter system to ensure the quality of such lessons. We have implemented this approach in several schools and observed an increase in education efficiency up to $75$%, with students having ample time for both learning and teaching within their existing secondary education programs.
 
-## Proposed educational model
+## Slonigiraf - the proposed educational model
 
 <img alt="Image" src="https://github.com/slonigiraf/slon-whitepaper/blob/main/img/lesson.png?raw=true" width="500">
 
-*Figure 1. The proposed educational model named as "Slonigiraf"*
+*Figure 1. The proposed educational model is named "Slonigiraf". It consists of peer-to-peer tutoring (leftmost pane), expert selection (middle pane) and diplomas verification (last pane).*
 
 ### Students pay each other for diplomas issuance after successful tutoring
 
