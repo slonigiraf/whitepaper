@@ -16,6 +16,7 @@ We explore how education affects economic growth and present an education system
   - [Experts earn money via searching for low quality skills](#experts-earn-money-via-searching-for-low-quality-skills)
   - [A tutee can allow a tutor to review a diploma issued by another tutor](#a-tutee-can-allow-a-tutor-to-review-a-diploma-issued-by-another-tutor)
   - [Teacher salary can be adjusted to the quality of teaching](#teacher-salary-can-be-adjusted-to-the-quality-of-teaching)
+  - [Linking education to the real world through paying students for learning](#linking-education-to-the-real-world-through-paying-students-for-learning)
 - [Financial model](#financial-model)
   - [It targets 2 billions of people in the world](#it-targets-2-billions-of-people-in-the-world)
   - [Work force price](#work-force-price)
@@ -114,6 +115,14 @@ It is possible that a student and a tutor may conspire against a previous tutor 
 This allows us to propose two different models of teacher salary calculation. The first is conservative and doesn't change how things are done in classic way: the teacher just gets salary from the school budget. We think that such way will prevail during a transition from traditional educational model to the Slonigiraf. When this option is applied the teacher doesn't get money from students for tutoring and diploma issuing. He just teaches 1 - 2 students for free and they spread the skill to other students for money. However the teacher is allowed to get reimbursement from bad mentors in a way as any expert is allowed but the money he got in such a way then are collected to the school budget and are returned back to all students on an equal basis monthly.
 
 The second way of teacher salary calculation has more market spirit. It assumes that the teacher will not get any salary from the school budget. In such way he is allowed to earn money both as a mentor and as an expert. The school budget money that were intended to be addressed to teacher are spread instead of it to students on an equal basis each month.
+
+### Linking education to the real world through paying students for learning
+
+The initial phase of transitioning to the new educational system involves replacing traditional lectures with peer-to-peer tutoring and the issuance of diplomas. This change can be implemented smoothly as it does not affect the salary of teachers and reduces their workload. As the reward, students will get "A" grades as in the usual educational system. These grades can be viewed as a form of payment for the opportunity to review their diplomas.
+
+However, like any other educational approach, this system faces the challenge of not being directly linked to the real economy and job market. To address this issue, the next step is to pay students not with grades, but with actual money. This would involve educational organizations purchasing the option to review students' diplomas. This approach aims to regulate educational content through the market mechanism of supply and demand. This stage also results in dividing the teacher's salary into two parts: the fixed salary they receive from the educational organization and the payment they receive from students for serving as tutors and experts.
+
+The idea of paying students for their education may raise ethical concerns, as the traditional view is that education is valuable in and of itself. However, it is essential to acknowledge that all nations invest in education because it ultimately leads to greater economic growth in the long term. Therefore, students who are actively engaged in their studies are contributing to this process and should be compensated for their efforts.
 
 ## Financial model
 
