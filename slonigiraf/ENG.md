@@ -1,10 +1,37 @@
-# Slonigiraf - education improvement using market instruments
+# Slonigiraf - education improvement using market instruments <!-- omit from toc -->
 
 _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmail.com) _/ Telegram:_ [_@denisreshetov_](https://t.me/denisreshetov)
 
-## Annotation
+## Annotation <!-- omit from toc -->
 
 We explore how education affects economic growth and present an education system that aims to outperform current systems by threefold. The system seeks to increase the number of acquired skills and has been implemented in several secondary schools with reported success. Our educational approach emphasizes peer-to-peer learning and addresses issues commonly encountered in this method. The system is expected to have a positive impact on the world economy, potentially adding $8$ trillion USD to the world economy each year. We also explore how private enterprises can expand the proposed educational system globally while earning a significant profit from this reform.
+
+## Table of contents <!-- omit from toc -->
+
+- [Education efficiency](#education-efficiency)
+- [Proposed educational model](#proposed-educational-model)
+  - [Students pay each other for diplomas issuance after successful tutoring](#students-pay-each-other-for-diplomas-issuance-after-successful-tutoring)
+  - [Tutors have different number of tutees](#tutors-have-different-number-of-tutees)
+  - [Students are allowed to become experts](#students-are-allowed-to-become-experts)
+  - [Experts earn money via searching for low quality skills](#experts-earn-money-via-searching-for-low-quality-skills)
+  - [A tutee can allow a tutor to review a diploma issued by another tutor](#a-tutee-can-allow-a-tutor-to-review-a-diploma-issued-by-another-tutor)
+  - [Teacher salary can be adjusted to the quality of teaching](#teacher-salary-can-be-adjusted-to-the-quality-of-teaching)
+- [Financial model](#financial-model)
+  - [It targets 2 billions of people in the world](#it-targets-2-billions-of-people-in-the-world)
+  - [Work force price](#work-force-price)
+  - [$D$ - diploma price and $R$ - reimbursement amount](#d---diploma-price-and-r---reimbursement-amount)
+  - [Situations leading to earning and spending money](#situations-leading-to-earning-and-spending-money)
+  - [Losing money probability](#losing-money-probability)
+  - [If we know that student lost money - what happened?](#if-we-know-that-student-lost-money---what-happened)
+  - [$A$ - a student starting capital](#a---a-student-starting-capital)
+  - [Total money amount needed to run the Slonigiraf system in a specific country](#total-money-amount-needed-to-run-the-slonigiraf-system-in-a-specific-country)
+- [How to give money out to students](#how-to-give-money-out-to-students)
+- [SLON token price](#slon-token-price)
+- [Diploma price and reimbursement amount in SLON nominal](#diploma-price-and-reimbursement-amount-in-slon-nominal)
+- [SLON token monetary base](#slon-token-monetary-base)
+- [Long lasting effect of education improvement](#long-lasting-effect-of-education-improvement)
+- [System software architecture](#system-software-architecture)
+- [Appendix 1. Probability to face a sequence of bad lucks](#appendix-1-probability-to-face-a-sequence-of-bad-lucks)
 
 ## Education efficiency
 
