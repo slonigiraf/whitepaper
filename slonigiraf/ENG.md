@@ -8,8 +8,9 @@ We explore how education affects economic growth and present an education system
 
 ## Table of contents <!-- omit from toc -->
 
+- [Overview of existing educational models](#overview-of-existing-educational-models)
 - [Measuring education efficiency](#measuring-education-efficiency)
-- [Slonigiraf - the proposed educational model](#slonigiraf---the-proposed-educational-model)
+- [Slonigiraf - the new educational model](#slonigiraf---the-new-educational-model)
   - [Students pay each other for diplomas issuance after successful tutoring](#students-pay-each-other-for-diplomas-issuance-after-successful-tutoring)
   - [Tutors have different number of tutees](#tutors-have-different-number-of-tutees)
   - [Students are allowed to become experts](#students-are-allowed-to-become-experts)
@@ -34,15 +35,51 @@ We explore how education affects economic growth and present an education system
 - [System software architecture](#system-software-architecture)
 - [Appendix 1. Probability to face a sequence of bad lucks](#appendix-1-probability-to-face-a-sequence-of-bad-lucks)
 
+## Overview of existing educational models
+
+The most widely used educational model in the world is the **traditional model**, also known as "didactic" approach. This model is characterized by a teacher-centered approach, where the teacher is the primary source of information and the focus is on rote learning and memorization. It is the oldest and most prevalent model of education, and is still used in many schools around the world.
+
+In this model, the teacher is responsible for delivering information to the students, and students are expected to memorize and regurgitate that information on exams and assessments. The curriculum is based on textbooks, lectures, and direct instruction, and there is a strong emphasis on standardized testing and assessments.
+
+This model is still widely used in many countries, particularly in developing countries and in some parts of the developed world, but it has been criticized for not providing students with the critical thinking and problem-solving skills they need to be successful in the modern world. As a result, there have been increasing calls for the adoption of more student-centered, interactive and creative educational models that help to develop the whole person.
+
+There are many other education models that have been developed and implemented over time, some of the most well-known include:
+
+**Montessori**: Developed by Maria Montessori, this model emphasizes a child-centered approach, with an emphasis on self-directed learning and hands-on activities.
+
+**Waldorf**: This model, developed by Rudolf Steiner, emphasizes a holistic approach to education, with a strong emphasis on the arts, practical skills, and a strong connection to nature.
+
+**Reggio Emilia**: This Italian model is characterized by a project-based approach, where children learn through exploration, discovery and collaboration.
+
+**Homeschooling**: This model of education is when the parents or guardians provide the education to the child at home.
+
+**Online learning**: This model of education is when the students learn through internet-based platforms, it can be synchronous or asynchronous.
+
+**Peer-to-peer learning**, also known as P2P learning, is an educational model in which students learn from and with each other, rather than from a teacher or instructor. In a peer-to-peer learning environment, students take on active roles as both learners and teachers, working together to share knowledge, skills, and resources.
+
+**Private tutoring** is an educational model in which a student receives one-on-one instruction from a tutor outside of a traditional classroom setting. The tutor can be a certified teacher, a retired teacher or a subject matter expert. The tutor and student typically meet on a regular basis, either in person or online, to work on specific subjects or skills. Private tutoring can be costly and not accessible to everyone. It also requires a high level of commitment and responsibility from both the student and the tutor in order to be successful.
+
+Each model has its own strengths and weaknesses, and the effectiveness of a model can depend on factors such as the context in which it is implemented and the specific implementation of the model.
+
 ## Measuring education efficiency
 
 Education plays a vital role in the world economy. On average, education comprises [$4.2$%](https://data.worldbank.org/indicator/SE.XPD.TOTL.GD.ZS) of GDP - final goods and services produced and sold in a specific time period by countries. If the quality of education were to be improved threefold, it could potentially add approximately $8$ trillion USD, or $8.4$% of the global GDP, to the world economy each year with such effect size from the first year of an educational reform.
 
-One way to measure the efficiency of an education system is by determining the average number of skills acquired by a group of students, divided by the total number of skills they were expected to acquire. Traditional education typically has an efficiency of about [$25$%](https://link.springer.com/article/10.1007/s10643-022-01332-3), while using private tutoring the efficiency can be increased up to [$75$%](https://pubmed.ncbi.nlm.nih.gov/21574747/). However, private tutoring can be costly and requires a large number of educators. Peer learning, where students tutor each other, [does not outperform](https://pubmed.ncbi.nlm.nih.gov/23691355/) the traditional education because of [two main challenges](https://www.tandfonline.com/doi/full/10.1080/01443410500345172): the lack of motivation to teach among students and quality erosion due to "the broken telephone effect."
+PISA (Programme for International Student Assessment) is a standardized test that measures the performance of 15-year-old students in reading, mathematics, and science in countries around the world. The test is administered by the Organization for Economic Cooperation and Development (OECD) and is widely considered to be a benchmark for evaluating the quality of education systems. Countries that consistently score high on PISA tests are often considered to have strong education models.
+
+The most recent PISA results, from 2018, indicate that Chinese students had the highest scores in all three subjects tested: mathematics, science, and reading.
+
+The educational system in China can be characterized as traditional or didactic, which is a teaching method that is teacher-centered and emphasizes the transmission of information from the teacher to the student. In this method, the teacher is the primary source of knowledge and students are expected to listen, take notes, and memorize the information presented to them.
+
+Therefore, it can be inferred that any proposed educational model that aims to be widely adopted should be more efficient and cost-effective per student than the traditional model.
+
+While PISA test is useful for comparing educational systems between countries and identifying the most successful models, it is not intended for regular use in determining a model that outperforms the traditional one.
+
+Another way to measure the efficiency of an education model on daily basis is by determining the average number of skills acquired by a group of students, divided by the total number of skills they were expected to acquire. Traditional education typically has an efficiency of about [$25$%](https://link.springer.com/article/10.1007/s10643-022-01332-3), while using private tutoring the efficiency can be increased up to [$75$%](https://pubmed.ncbi.nlm.nih.gov/21574747/). However, private tutoring can be costly and requires a large number of educators. Peer learning, where students tutor each other, [does not outperform](https://pubmed.ncbi.nlm.nih.gov/23691355/) the traditional education because of [two main challenges](https://www.tandfonline.com/doi/full/10.1080/01443410500345172): the lack of motivation to teach among students and quality erosion due to "the broken telephone effect."
 
 To address these issues, we propose using money to incentivize students to serve as tutors and require them to use a recommendation letter system to ensure the quality of such lessons. We have implemented this approach in several schools and observed an increase in education efficiency up to $75$%, with students having ample time for both learning and teaching within their existing secondary education programs.
 
-## Slonigiraf - the proposed educational model
+## Slonigiraf - the new educational model
 
 <img alt="Image" src="https://github.com/slonigiraf/slon-whitepaper/blob/main/img/lesson.png?raw=true" width="500">
 
