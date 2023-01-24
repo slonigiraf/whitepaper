@@ -64,7 +64,7 @@ Each model has its own strengths and weaknesses, and the effectiveness of a mode
 
 ## Measuring education efficiency
 
-Education plays a vital role in the world economy. [On average, education comprises](https://data.worldbank.org/indicator/SE.XPD.TOTL.GD.ZS) $4.2$% of GDP - final goods and services produced and sold in a specific time period by countries. If the quality of education were to be improved threefold, it could potentially add approximately $8$&nbsp;trillion USD, or $8.4$% of the global GDP, to the world economy each year with such effect size from the first year of an educational reform.
+Education plays a vital role in the world economy. [On average, education comprises](https://data.worldbank.org/indicator/SE.XPD.TOTL.GD.ZS) $4.2$% of GDP - final goods and services produced and sold in a specific time period by countries. If the quality of education were to be improved threefold, it could potentially add approximately $8$ trillion USD, or $8.4$% of the global GDP, to the world economy each year with such effect size from the first year of an educational reform.
 
 [PISA](https://www.oecd.org/pisa/test/) (Programme for International Student Assessment) is a standardized test that measures the performance of 15-year-old students in reading, mathematics, and science in countries around the world. The test is administered by the Organization for Economic Cooperation and Development (OECD) and is widely considered to be a benchmark for evaluating the quality of education systems. Countries that consistently score high on PISA tests are often considered to have strong education models.
 
