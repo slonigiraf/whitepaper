@@ -22,11 +22,11 @@ We explore how education affects economic growth and present an education model 
 - [Financial model](#financial-model)
   - [It targets 2 billions of people in the world](#it-targets-2-billions-of-people-in-the-world)
   - [Work force price](#work-force-price)
-  - [$D$ - diploma price and $R$ - reimbursement amount](#d---diploma-price-and-r---reimbursement-amount)
+  - [D - diploma price and R - reimbursement amount](#d---diploma-price-and-r---reimbursement-amount)
   - [Situations leading to earning and spending money](#situations-leading-to-earning-and-spending-money)
   - [Losing money probability](#losing-money-probability)
   - [If we know that student lost money - what happened?](#if-we-know-that-student-lost-money---what-happened)
-  - [$A$ - a student starting capital](#a---a-student-starting-capital)
+  - [Student starting capital](#student-starting-capital)
   - [Total money amount needed to run the Slonigiraf system in a specific country](#total-money-amount-needed-to-run-the-slonigiraf-system-in-a-specific-country)
 - [How to give money out to students](#how-to-give-money-out-to-students)
 - [SLON token price](#slon-token-price)
@@ -76,7 +76,7 @@ Therefore, it can be inferred that any proposed educational model that aims to b
 
 While PISA test is useful for comparing educational systems between countries and identifying the most successful models, it is not intended for regular use in determining a model that outperforms the traditional one.
 
-Another way to measure the efficiency of an education model on daily basis is by determining the average number of skills acquired by a group of students, divided by the total number of skills they were expected to acquire. Traditional education typically has an efficiency of about [$25$%](https://link.springer.com/article/10.1007/s10643-022-01332-3), while using private tutoring the efficiency can be increased up to [$75$%](https://pubmed.ncbi.nlm.nih.gov/21574747/). However, private tutoring can be costly and requires a large number of educators. Peer learning, where students tutor each other, [does not outperform](https://pubmed.ncbi.nlm.nih.gov/23691355/) the traditional education because of [two main challenges](https://www.tandfonline.com/doi/full/10.1080/01443410500345172): the lack of motivation to teach among students and quality erosion due to "the broken telephone effect."
+Another way to measure the efficiency of an education model on daily basis is by determining the average number of skills acquired by a group of students, divided by the total number of skills they were expected to acquire. [Traditional education typically has an efficiency](https://link.springer.com/article/10.1007/s10643-022-01332-3) of about $25$%, while using [private tutoring the efficiency](https://pubmed.ncbi.nlm.nih.gov/21574747/) can be increased up to $75$%. However, private tutoring can be costly and requires a large number of educators. Peer learning, where students tutor each other, [does not outperform](https://pubmed.ncbi.nlm.nih.gov/23691355/) the traditional education because of [two main challenges](https://www.tandfonline.com/doi/full/10.1080/01443410500345172): the lack of motivation to teach among students and quality erosion due to "the broken telephone effect."
 
 To address these issues, we propose using money to incentivize students to serve as tutors and require them to use a recommendation letter system to ensure the quality of such lessons. We have implemented this approach in several schools and observed an increase in education efficiency up to $75$%, with students having ample time for both learning and teaching within their existing secondary education programs.
 
@@ -225,7 +225,7 @@ We collected teacher wage data per country from [salaryexplorer.com](http://www.
 
 *Table 2. Teacher monthly wages in USD per country.*
 
-### $D$ - diploma price and $R$ - reimbursement amount
+### D - diploma price and R - reimbursement amount
 
 Let's calculate a reimbursement amount and a mean diploma price. We will use Ethiopia as a country with a minimal teacher wage to deal with small numbers during calculations.
 
@@ -378,7 +378,7 @@ All such shares are calculated and represented in a table 6.
 
 *Table 6. Probability that a specific situation leaded to the money loss*
 
-### $A$ - a student starting capital
+### Student starting capital
 
 Our educational approach forces a tutee  to pay their tutor for skill-teaching and the issuance of a diploma, and requires the tutor to be responsible for the issued diploma by providing reimbursement when a tutee  forgets the skill certified by the diploma. To make this happen we need to assure that students have enough money for such economic interaction. As we discussed above there is a 62.9% chance that a student will spend more money during learning a skill that earn. For sure in rest 37.1% cases the student gets in sum the same profit as he losing in 62.9% cases, so their profit during years of learning should be near 0. But what if the student has a bad luck and all skills that he studies he is playing roles that lead to losing money? In such case he will start to pay for an education while we still suppose that the education should be a free resource for any person in on the Earth. To solve this problem we need to provide each student at the beginning of such approach enough money to prevent bankruptcy happening at all.
 
