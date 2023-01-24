@@ -14,7 +14,7 @@ We explore how education affects economic growth and present an education model 
   - [Students pay each other for diplomas issuance after successful tutoring](#students-pay-each-other-for-diplomas-issuance-after-successful-tutoring)
   - [Tutors have different number of tutees](#tutors-have-different-number-of-tutees)
   - [Students are allowed to become experts](#students-are-allowed-to-become-experts)
-  - [Experts earn money via searching for low quality skills](#experts-earn-money-via-searching-for-low-quality-skills)
+  - [Experts earn money via identifying low quality skills](#experts-earn-money-via-identifying-low-quality-skills)
   - [A tutee can allow a tutor to review a diploma issued by another tutor](#a-tutee-can-allow-a-tutor-to-review-a-diploma-issued-by-another-tutor)
   - [Teacher salary can be adjusted to the quality of teaching](#teacher-salary-can-be-adjusted-to-the-quality-of-teaching)
   - [Linking education to the real world through paying students for learning](#linking-education-to-the-real-world-through-paying-students-for-learning)
@@ -130,11 +130,11 @@ All students have a tutor as all are required to obtain a diploma. The student w
 
 Holding a diploma does not necessarily mean that a student has fully mastered the skill in question. It simply indicates that the tutor believes they have. However, there are several reasons why this belief may be misguided. For example, the tutor may not possess the skill themselves, may not have adequately assessed the student's proficiency, or the student may have forgotten the skill. To ensure the quality of education, our model employs experts who verify diplomas and have the authority to award students with "A" grades or other types of reward. The primary expert at the start of a lesson is the master teacher who leads and manages the lesson. However, due to time constraints, they may not be able to verify all diplomas. The teacher can delegate this responsibility to select students who have already obtained a diploma in the skill being taught. The teacher will first verify that these students possess the skill. If they fail the verification, the teacher will hold the original tutor accountable. Those who pass the verification will take on the role of experts and get a reward from the teacher.
 
-### Experts earn money via searching for low quality skills
+### Experts earn money via identifying low quality skills
 
-Why students do want to become experts? The expert status allows them to verify a lot of diplomas and eventually find bad ones and get reimbursement from tutors who issued such diplomas. For sure an expert want to name all diplomas coming to him as bad ones to get as much reward as possible. To prevent such situation we allow students to select which expert to deal with. This creates a competition between experts and makes them to behave honestly.
+Why do students want to become experts? The expert status enables them to verify a large number of diplomas and potentially identify ones that are not of high quality, resulting in reimbursement from the instructors who issued such diplomas. However, to prevent experts from falsely identifying all diplomas as low-quality in order to receive more rewards, students are allowed to choose which expert they want to work with. This creates competition among experts and promotes honesty.
 
-The teacher is allowed to re-verify diplomas verified by an expert if he suspects that the expert is cheating: for example if the expert verified the diploma issued by himself. In the case of cheating the teacher can prohibit the student to be an expert for certain amount of time and also the teacher gets the reimbursement from the tutor who issued the diploma used in cheating.
+The teacher is also able to re-verify diplomas that have already been verified by an expert if they suspect any cheating, such as the expert verifying a diploma that they themselves issued. In the event of cheating, the teacher can prohibit the student from being an expert for a certain period of time, and also receive reimbursement from the instructor who issued the diploma used in the cheating.
 
 ### A tutee can allow a tutor to review a diploma issued by another tutor
 
