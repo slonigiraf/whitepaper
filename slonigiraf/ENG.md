@@ -128,7 +128,7 @@ All students have a tutor as all are required to obtain a diploma. The student w
 
 ### Students are allowed to become experts
 
-A fact that a student got the diploma doesn't mean he has mastered the skill. It just means that his tutor believes in it. However the tutor can be wrong. For example, if the tutor himself doesn't posess such skill, or he didn't verified the skill proficiency of tutee by the adequete number of tasks, or the tutee can simply forget the skill. To maintain the good quality of education our system uses experts who verify diplomas and have a right to reward students with "A" grade or with any other type of reward. At the beginning of the lesson there is only one expert - the master teacher who runs and controls all the lesson. He is not able to verify all diplomas as it requires too much times. But he can delegate such position to few experts from students that got the diploma on the studied skill. The teacher verify that students that want to be experts posses the skill. If some of them fail the verification the teacher gets reimbursement from a tutor who issued the diploma. Those who passed such verification start to play **an expert role**.
+A fact that a student got the diploma doesn't mean he has mastered the skill. It just means that their tutor believes in it. However the tutor can be wrong. For example, if the tutor himself doesn't posess such skill, or he didn't verified the skill proficiency of tutee by the adequete number of tasks, or the tutee can simply forget the skill. To maintain the good quality of education our system uses experts who verify diplomas and have a right to reward students with "A" grade or with any other type of reward. At the beginning of the lesson there is only one expert - the master teacher who runs and controls all the lesson. He is not able to verify all diplomas as it requires too much times. But he can delegate such position to few experts from students that got the diploma on the studied skill. The teacher verify that students that want to be experts posses the skill. If some of them fail the verification the teacher gets reimbursement from a tutor who issued the diploma. Those who passed such verification start to play **an expert role**.
 
 ### Experts earn money via searching for low quality skills
 
@@ -199,11 +199,11 @@ As we propose such system for an education in groups we need to estimate the wor
 
 ### Work force price
 
-To discuss a work force price of tutors and experts we should remember that a student that understood how to be a tutor can potentially go to a educational market out of the school or university and get money for helping other students than his peers. Thus we can approximate the wage of a tutor with the lowest wage of teacher in the country that he lives.
+To discuss a work force price of tutors and experts we should remember that a student that understood how to be a tutor can potentially go to a educational market out of the school or university and get money for helping other students than their peers. Thus we can approximate the wage of a tutor with the lowest wage of teacher in the country that he lives.
 
 The expert wage should be larger than the tutor wage to motivate most qualified students to become experts. As qualified students can find a good position in an online tutoring we can assume that the maximum teacher wage in the country where the expert lives could be a good approximation of the market expert wage.
 
-We collected teacher wage data per country from [salaryexplorer.com](http://www.salaryexplorer.com/?loc=23&loctype=1&job=123&jobtype=3#browsesalaries) on 2023.01.08. From the Table 2 you can see that maximum teacher wage on average is 3.16 times higher that minimum teacher wage. Thus **an expert should get 3.16 times more money per 1 minute of his work than a tutor**. Teacher wage is minimal in Ethiopia so a tutor will get in Ethiopia the smallest wage in comparison to other countries listed in the table 2.
+We collected teacher wage data per country from [salaryexplorer.com](http://www.salaryexplorer.com/?loc=23&loctype=1&job=123&jobtype=3#browsesalaries) on 2023.01.08. From the Table 2 you can see that maximum teacher wage on average is 3.16 times higher that minimum teacher wage. Thus **an expert should get 3.16 times more money per 1 minute of their work than a tutor**. Teacher wage is minimal in Ethiopia so a tutor will get in Ethiopia the smallest wage in comparison to other countries listed in the table 2.
 
 |             | Min | Max | Max/Min |
 | ----------- | ------- | ------- | ------- |
@@ -249,7 +249,7 @@ During 4 years of Slonigiraf educatinal model testing in different schools we ha
 
 $0.003*11 = 0.033$
 
-The tutor gets money from tutee not only for his time but also for issuing a diploma that can be canceled by an expert. If the tutor will not get some premium for issuing the diploma he will lose money as it's not possible to completely exclude the situtation when tutee will forget the skill. As we mentioned tutees forget 1 skill from 4 studied, thus a tutor should add a premium of 1 reimbursement amount to each 4 skills that he teaches, or simply $1/4$ of such amount to each diploma issuing, thus **the total price of a diploma will be 0.04722 USD in Ethiopia**:
+The tutor gets money from tutee not only for the time but also for issuing a diploma that can be canceled by an expert. If the tutor will not get some premium for issuing the diploma he will lose money as it's not possible to completely exclude the situation when tutee will forget the skill. As we mentioned tutees forget 1 skill from 4 studied, thus a tutor should add a premium of 1 reimbursement amount to each 4 skills that he teaches, or simply $1/4$ of such amount to each diploma issuing, thus **the total price of a diploma will be 0.04722 USD in Ethiopia**:
 
 $0.033+0.05688*1/4=0.04722$
 
@@ -263,9 +263,9 @@ As all issued diplomas go through the verification it's NOT profitable to a tuto
 
 As we discussed above there are following roles in the Slonigiraf educational system: a teacher, an expert, a tutor of 0 tutees, a tutor of 1 tutees ...
 
-Experts don't risk, they just earn. The teacher can lose some money if some of his mentees will forget the skill. But as he teaches only 1 student per a skill and also works as an expert he is always makes more money than he loses.
+Experts don't risk, they just earn. The teacher can lose some money if some of their mentees will forget the skill. But as he teaches only 1 student per a skill and also works as an expert he is always makes more money than he loses.
 
-Any tutor spend money to learn a skill, earns money teaching others, and spend money if any his tutees forgets the skill. Thus a tutor profit can be written in formula:
+Any tutor spend money to learn a skill, earns money teaching others, and spend money if any their tutees forgets the skill. Thus a tutor profit can be written in formula:
 
 $Profit = -D + D * N{_t} - R * N{_f}$
 
@@ -324,7 +324,7 @@ The probability of playing each role can be taken from fig. 2 and was calculated
 
 If student plays a role of a tutee and doesn't become a tutor he will lose money each time so the probability to lose money while playing a role of "a tutor with 0 tutee" is 1.
 
-A tutee pays to his tutor not only to study a skill but also to get a diploma. Diploma is very similar to an insurance police because the tutor promises to pay a reimbursement to an expert if the tutee will forget the skill. As in insurance business bad things can happen by chance more often than expected and the tutor can run out of money due to reimbursements. The probability that a tutee forgets a skill is [0.25](https://pubmed.ncbi.nlm.nih.gov/21574747/). Thus if a tutor has only 1 tutee he he faces 0.25 probability to pay a reimbursement.
+A tutee pays to their tutor not only to study a skill but also to get a diploma. Diploma is very similar to an insurance police because the tutor promises to pay a reimbursement to an expert if the tutee will forget the skill. As in insurance business bad things can happen by chance more often than expected and the tutor can run out of money due to reimbursements. The probability that a tutee forgets a skill is [0.25](https://pubmed.ncbi.nlm.nih.gov/21574747/). Thus if a tutor has only 1 tutee he he faces 0.25 probability to pay a reimbursement.
 
 The tutor having 2 tutees has 2 outcomes when he will lose money:
 
