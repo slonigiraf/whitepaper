@@ -88,7 +88,7 @@ To address these issues, we propose using money to incentivize students to serve
 
 ### Students pay each other for diplomas issuance after successful tutoring
 
-**The Slonigiraf lesson** does not include a traditional lecture component. Instead, it begins with students working in pairs. Students have the option to act as a tutor for a specific skill or as a tutee. Tutees have the freedom to choose their own tutors based on personal preference. **Tutors are typically peers of the tutees**, who have previously acquired the same knowledge through self-study or other means. A tutor, in the case that his tutee masters the skill, charges him **tuition fees** and **provide a diploma** certifying the acquired skill. If the student does not acquire the skill, the tutor receives nothing.
+**The Slonigiraf lesson** does not include a traditional lecture component. Instead, it begins with students working in pairs. Students have the option to act as a tutor for a specific skill or as a tutee. Tutees have the freedom to choose their own tutors based on personal preference. **Tutors are typically peers of the tutees**, who have previously acquired the same knowledge through self-study or other means. A tutor, in the case that their tutee masters the skill, charges him **tuition fees** and **provide a diploma** certifying the acquired skill. If the student does not acquire the skill, the tutor receives nothing.
 
 Each diploma is a unique electronic document that can be invalidated at any time if **an expert** determines that the holder does not possess the skill. The expert will be reimbursed for identifying a fake diploma, with the reimbursement paid by the tutor who issued the diploma. The amount of reimbursement is specified at the time of diploma issuance. As such, each diploma includes information on the trained skill, the tutor, the holder, and the potential **reimbursement** amount.
 
@@ -108,9 +108,9 @@ As an example: $2^{5} = 32$, meaning that after $5$ sessions, $32$ students will
 
 To estimate what tutor roles student can play in the Slonigiraf educational model and what are probabilities of playing such roles let's examine a class consisting of 32 students. We will explain later why probabilities of different roles are more of less the same in any student group size.
 
-**Tutor of 0 tutees role**: as shown on a fig. 2. a half of students (16 from 32) gains a skill in a last session. That means they will pay for tutoring and geting a diploma but will not earn money by tutoring such skill as there will be no student left that need a skill. If the class consists of 32 students there will be 16 such students (depicted with a digit "0" on a fig. 2).
+**Tutor of 0 tutees role**: as shown on a Fig. 2. a half of students (16 from 32) gains a skill in a last session. That means they will pay for tutoring and getting a diploma but will not earn money by tutoring such skill as there will be no students left who need the skill. If the class consists of 32 students there will be 16 such students (depicted with a digit "0" on a fig. 2).
 
-**Tutor of 1 tutees role**: $1/4$ of students (8 from 32) gain a skill in a preterminal session. These students have 1 tutor and 1 tutee each, which results in a 0 profit result as they compensate money paid to their tutors by money acquired by being a tutor.
+**Tutor of 1 tutees role**: $1/4$ of students (8 from 32) gain a skill in a preterminal session. These students have 1 tutor and 1 tutee each, resulting in a net profit of zero as the money earned from being a tutor compensates for the money spent on being tutored.
 
 **Tutor of 2 tutees role**: $1/8$ of students (4 from 32) have 2 tutees.
 
@@ -120,11 +120,11 @@ To estimate what tutor roles student can play in the Slonigiraf educational mode
 
 **Tutor of 5 tutees role**: $1/32$ of students (1 from 32) have 5 tutees.
 
-With growing number of mentees the probability of such role is decreasing sugnificantly. We will not discuss the probability of having  more than 5 tutees in larger classes, as probabilites of such roles are too small to generally affect calculations of our model economy.
+As the number of mentees increases, the probability of taking on such a role decreases significantly. We will not delve into the probability of having more than 5 mentees in larger classes, as the chances of such roles are minimal and would not significantly impact the calculations of our model economy.
 
-Growing class number doesn't much affect probabilites of different roles. For example 32 from 64 students class will play "tutor of 0 tutees" role. It's the same 0.5 probability of the role in class of 32 students. We can assume that our estimations of role probabilities are good in general.
+Increasing class size has little effect on the probabilities of different roles. For instance, in a class of 64 students, half of the students will take on the role of "tutor of 0 tutees", which is the same probability as in a class of 32 students. This suggests that our estimations of role probabilities are generally accurate.
 
-All students have a tutor as all need to get a diploma. The student that have 5 tutees probably gets his diploma by communicating with a tutor outside the group. It can be the teacher of parent or any other type of the tutor. As we discussed before it's allowed to be a tutor while not having a diploma about the skill but for sure it rises the risk for the tutor to fail his work thus students tend to study the skill first, then get a diploma and only after this teach others.
+All students have a tutor as all are required to obtain a diploma. The student with 5 tutees may receive their diploma by communicating with a tutor outside the group, such as a teacher or parent. As previously discussed, it is permitted to be a tutor without a diploma in the relevant skill, however, this increases the risk of failure, so students typically choose to first study the skill, obtain the diploma, and then teach others.
 
 ### Students are allowed to become experts
 
@@ -380,7 +380,7 @@ All such shares are calculated and represented in a table 6.
 
 ### $A$ - a student starting capital
 
-Our educational approach forces a tutee  to pay their tutor for skill-teaching and the issuance of a diploma, and requires the tutor to be responsible for the issued diploma by providing reimbursement when a tutee  forgets the skill certified by the diploma. To make this happen we need to assure that students have enough money for such economic interaction. As we discussed above there is a 62.9% chance that a student will spend more money during learning a skill that earn. For sure in rest 37.1% cases the student gets in sum the same profit as he losing in 62.9% cases, so his profit during years of learning should be near 0. But what if the student has a bad luck and all skills that he studies he is playing roles that lead to losing money? In such case he will start to pay for an education while we still suppose that the education should be a free resource for any person in on the Earth. To solve this problem we need to provide each student at the beginning of such approach enough money to prevent bankruptcy happening at all.
+Our educational approach forces a tutee  to pay their tutor for skill-teaching and the issuance of a diploma, and requires the tutor to be responsible for the issued diploma by providing reimbursement when a tutee  forgets the skill certified by the diploma. To make this happen we need to assure that students have enough money for such economic interaction. As we discussed above there is a 62.9% chance that a student will spend more money during learning a skill that earn. For sure in rest 37.1% cases the student gets in sum the same profit as he losing in 62.9% cases, so their profit during years of learning should be near 0. But what if the student has a bad luck and all skills that he studies he is playing roles that lead to losing money? In such case he will start to pay for an education while we still suppose that the education should be a free resource for any person in on the Earth. To solve this problem we need to provide each student at the beginning of such approach enough money to prevent bankruptcy happening at all.
 
 The probability to get back luck studying the first skill is a 0.629. Thus if our target audience is 1,966,096,793 people than $0.629 * 1,966,096,793 = 1,236,730,563$ of them will face it. The sequence of 2 bad luck cases starting at the beginning of our approach implementation will affect 0.629 part of 1,236,730,563 that is $0.629 * 1,236,730,563 = 777,938,548$ people and so on (see appendix 1, for all values calculations). About 19 million people will face with a sequence of 10 bad lucks learning first 10 skills.
 
