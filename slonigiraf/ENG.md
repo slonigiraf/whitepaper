@@ -18,6 +18,7 @@ We explore how education affects economic growth and present an education model 
   - [A tutee can allow a tutor to review a diploma issued by another tutor](#a-tutee-can-allow-a-tutor-to-review-a-diploma-issued-by-another-tutor)
   - [Teacher salary can be adjusted to the quality of teaching](#teacher-salary-can-be-adjusted-to-the-quality-of-teaching)
   - [Linking education to the real world through paying students for learning](#linking-education-to-the-real-world-through-paying-students-for-learning)
+  - [Comparing the speed of skill acquisition in the Slonigiraf model to the traditional model](#comparing-the-speed-of-skill-acquisition-in-the-slonigiraf-model-to-the-traditional-model)
 - [Financial model](#financial-model)
   - [It targets 2 billions of people in the world](#it-targets-2-billions-of-people-in-the-world)
   - [Work force price](#work-force-price)
@@ -160,6 +161,14 @@ The initial phase of transitioning to the new educational system involves replac
 However, like any other educational approach, this system faces the challenge of not being directly linked to the real economy and job market. To address this issue, the next step is to pay students not with grades, but with actual money. This would involve educational organizations purchasing the option to review students' diplomas. This approach aims to regulate educational content through the market mechanism of supply and demand. This stage also results in dividing the teacher's salary into two parts: the fixed salary they receive from the educational organization and the payment they receive from students for serving as tutors and experts.
 
 The idea of paying students for their education may raise ethical concerns, as the traditional view is that education is valuable in and of itself. However, it is essential to acknowledge that all nations invest in education because it ultimately leads to greater economic growth in the long term. Therefore, students who are actively engaged in their studies are contributing to this process and should be compensated for their efforts.
+
+### Comparing the speed of skill acquisition in the Slonigiraf model to the traditional model
+
+In the traditional model, a teacher teaches a group of students all at once, typically spending 22 minutes of their time to teach a skill to the group. The outcome of this method is that only one out of four students will have learned the skill. For example, if a teacher is working with a group of 32 students, this approach will result in 8 students having learned the skill.
+
+In contrast, the Slonigiraf model utilizes individualized instruction, where a teacher works with students one-on-one. At first glance, it may appear that the traditional model results in more skills being acquired in the same amount of time. However, in 22 minutes, a teacher using the Slonigiraf model will be able to teach 2 students (11 minutes per student) and the first student taught by the teacher will then teach another student. This results in a total of 3 students acquiring the skill, whereas another teacher using a traditional model in the same amount of time would have taught 8 students.
+
+But why are we arguing that the Slonigiraf model is more efficient than the traditional? The answer is because of other skills and other students. It's true that during 22 minutes only 3 students will get the skill that the teacher has started to introduce to the group. But during the time these 3 students acquire such skill other students will spread the skills that were introduced before. As any student in the Slonigiraf model has the 0.5 probability to get a new skill per session, during 2 sessions of 11 minutes each student is supposed to learn some new skill. Therefore, it is important to compare not just the number of students who acquire a specific skill in the traditional model (8) versus the Slonigiraf model (3), but also the total number of students who acquire any new skill in the Slonigiraf model (32). This shows that the Slonigiraf model is 4 times more efficient than the traditional one. Actually the performance of the Slonigiraf model is only 3 times better than the traditional because some students forget some skills.
 
 ## Financial model
 
