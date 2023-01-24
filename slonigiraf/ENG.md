@@ -104,7 +104,7 @@ As an example: $2^{5} = 32$, meaning that after $5$ sessions, $32$ students will
 
 <img alt="Image" src="https://github.com/slonigiraf/slon-whitepaper/blob/main/img/tutees_count.png?raw=true" width="500">
 
-*Figure 2. Tutees count*
+*Figure 2. A student may have varying amounts of mentees. For instance, in a class of 32 students, the maximum number of mentees per student would likely not exceed 5, given that the number of mentors doubles in each session.*
 
 To estimate what tutor roles student can play in the Slonigiraf educational model and what are probabilities of playing such roles let's examine a class consisting of 32 students. We will explain later why probabilities of different roles are more of less the same in any student group size.
 
@@ -318,7 +318,7 @@ Table 4 summarizes when it can happen.
 
 ### Losing money probability
 
-If the student constantly faces money losses he will be bankrupt. Table 4 gives us insights which situtations lead to money lost. Let's bring together the probability of playing each role and probability of losing money in each role. We will focuse on the situtations that lead to money loss. For example a "tutor of 5 tutees" paying 3 reimburses has a positive profit and we will not discuss that probability of such events in this section.
+If the student constantly faces money losses he will be bankrupt. Table 4 gives us insights which situations lead to money lost. Let's bring together the probability of playing each role and probability of losing money in each role. We will focus on the situations that lead to money loss. For example a "tutor of 5 tutees" paying 3 reimburses has a positive profit and we will not discuss that probability of such events in this section.
 
 The probability of playing each role can be taken from fig. 2 and was calculated as number of students in each role divided by total number of students.
 
