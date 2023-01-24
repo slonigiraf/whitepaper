@@ -144,15 +144,15 @@ It is possible that a student and a tutor may conspire against a previous tutor 
 
 ### Teacher salary can be adjusted to the quality of teaching
 
-**The teacher role** differs in three ways from students:
+**The role of a teacher** differs from that of a student in three ways:
 
-- he is an adult with pedagogical education
-- the teacher plays an expert role by default
-- he can allow students to become experts
+- They are adults with pedagogical education
+- They automatically play the role of an expert
+- They have the authority to allow students to become experts
 
-This allows us to propose two different models of teacher salary calculation. The first is conservative and doesn't change how things are done in classic way: the teacher just gets salary from the school budget. We think that such way will prevail during a transition from traditional educational model to the Slonigiraf. When this option is applied the teacher doesn't get money from students for tutoring and diploma issuing. He just teaches 1 - 2 students for free and they spread the skill to other students for money. However the teacher is allowed to get reimbursement from bad mentors in a way as any expert is allowed but the money he got in such a way then are collected to the school budget and are returned back to all students on an equal basis monthly.
+This allows for two different models of teacher salary calculation. The first is a more traditional approach, where the teacher receives a salary from the school budget. This model is likely to be more prevalent during the transition from traditional education to the Slonigiraf model. Under this option, the teacher does not receive any additional pay for tutoring or issuing diplomas. They teach 1-2 students for free and these students then spread the skill to other students for a fee. However, the teacher is still able to receive reimbursement from mentors in the same way as any expert, but the money received is added to the school budget and distributed among all students on an equal basis every month.
 
-The second way of teacher salary calculation has more market spirit. It assumes that the teacher will not get any salary from the school budget. In such way he is allowed to earn money both as a mentor and as an expert. The school budget money that were intended to be addressed to teacher are spread instead of it to students on an equal basis each month.
+The second approach is more market-oriented, where the teacher does not receive any salary from the school budget. Instead, they are allowed to earn money both as a mentor and as an expert. The money that was allocated in the school budget for the teacher's salary is instead distributed among students on an equal basis every month.
 
 ### Linking education to the real world through paying students for learning
 
