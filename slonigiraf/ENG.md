@@ -20,7 +20,7 @@ We explore how education affects economic growth and present an education model 
   - [Linking education to the real world through paying students for learning](#linking-education-to-the-real-world-through-paying-students-for-learning)
   - [Comparing the speed of skill acquisition in the Slonigiraf model to the traditional model](#comparing-the-speed-of-skill-acquisition-in-the-slonigiraf-model-to-the-traditional-model)
 - [Financial model of the proposed educational reform](#financial-model-of-the-proposed-educational-reform)
-  - [It targets 2 billions of people in the world](#it-targets-2-billions-of-people-in-the-world)
+  - [We target 2 billion people in the world](#we-target-2-billion-people-in-the-world)
   - [Work force price](#work-force-price)
   - [D - diploma price and R - reimbursement amount](#d---diploma-price-and-r---reimbursement-amount)
   - [Situations leading to earning and spending money](#situations-leading-to-earning-and-spending-money)
@@ -172,11 +172,11 @@ But why are we arguing that the Slonigiraf model is more efficient than the trad
 
 ## Financial model of the proposed educational reform
 
-### It targets 2 billions of people in the world
+### We target 2 billion people in the world
 
-As we propose such system for an education in groups we need to estimate the world population of students. To be conservative let's speak that only **7 - 21 yo strata** will use our educational model. We've found a data about total population size of each country as of [2021.01.01](https://population.un.org/wpp/Download/Standard/MostUsed/), and the data of [percent of 0-14 yo people](https://www.theglobaleconomy.com/rankings/percent_children/) as of 2021. We think that a percent of 7 - 21 yo strata can be approximated by the 0 - 14 yo strata. Thus to calculate the target audience per country we should multiply a population size on a percent of 7 - 21 yo strata and divide by 100%. The resulting data is shown in the table 1. You can see that India has the biggest target audience of 361 million people, and the total world target audience is **2 billion people**.
+To estimate the world population of students who will use our educational model, let's assume that only the $7$-$21$ years old strata will use it. The percent of individuals **between the ages of 7 and 21** can be approximated by the [percent of individuals](https://www.theglobaleconomy.com/rankings/percent_children/) between the ages of $0$ and $14$. To calculate the target audience per country, we will multiply the [population size](https://population.un.org/wpp/Download/Standard/MostUsed/) as of January 1st, 2021 by the percentage of individuals between the ages of $7$ and $21$ and divide by $100$%. The resulting data is shown in Table 1. As you can see, India has the largest target audience of $361$ million people, and the total world target audience is $2$ billion people.
 
-|             | Total Population | 7-21 years old % | 7-21 years old |
+|             | Total Population | 7-21 years old, % | 7-21 years old |
 | ----------- | ------------- | ------ | ------------- |
 | India       | 1,402,807,867 | 25.78% | 361,643,868   |
 | China       | 1,425,861,543 | 17.60% | 250,951,632   |
@@ -195,7 +195,7 @@ As we propose such system for an education in groups we need to estimate the wor
 | Rest world  | 2,911,807,000 | 26.51% | 771,920,036   |
 | TOTAL       | 7,909,294,917 |        | 1,966,096,793 |
 
-*Table 1. Target audience (7-21 years old people). The value of 7-21 strata percent for rest world was calculated as an average for countries from the list above.*
+*Table 1. Target audience (7-21 years old people). The value of 7-21 strata percent for the rest world was calculated as an average for the countries from the list above.*
 
 ### Work force price
 
