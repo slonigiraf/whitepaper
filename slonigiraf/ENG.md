@@ -19,7 +19,7 @@ We explore how education affects economic growth and present an education model 
   - [Teacher salary can be adjusted to the quality of teaching](#teacher-salary-can-be-adjusted-to-the-quality-of-teaching)
   - [Linking education to the real world through paying students for learning](#linking-education-to-the-real-world-through-paying-students-for-learning)
   - [Comparing the speed of skill acquisition in the Slonigiraf model to the traditional model](#comparing-the-speed-of-skill-acquisition-in-the-slonigiraf-model-to-the-traditional-model)
-- [Financial model](#financial-model)
+- [Financial model of the proposed educational reform](#financial-model-of-the-proposed-educational-reform)
   - [It targets 2 billions of people in the world](#it-targets-2-billions-of-people-in-the-world)
   - [Work force price](#work-force-price)
   - [D - diploma price and R - reimbursement amount](#d---diploma-price-and-r---reimbursement-amount)
@@ -170,7 +170,7 @@ In contrast, the Slonigiraf model utilizes individualized instruction, where a t
 
 But why are we arguing that the Slonigiraf model is more efficient than the traditional? The answer is because of other skills and other students. It's true that during 22 minutes only 3 students will get the skill that the teacher has started to introduce to the group. But during the time these 3 students acquire such skill other students will spread the skills that were introduced before. As any student in the Slonigiraf model has the 0.5 probability to get a new skill per session, during 2 sessions of 11 minutes each student is supposed to learn some new skill. Therefore, it is important to compare not just the number of students who acquire a specific skill in the traditional model (8) versus the Slonigiraf model (3), but also the total number of students who acquire any new skill in the Slonigiraf model (32). This shows that the Slonigiraf model is 4 times more efficient than the traditional one. Actually the performance of the Slonigiraf model is only 3 times better than the traditional because some students forget some skills.
 
-## Financial model
+## Financial model of the proposed educational reform
 
 ### It targets 2 billions of people in the world
 
