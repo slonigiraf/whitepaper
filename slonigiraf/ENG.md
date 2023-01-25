@@ -21,7 +21,7 @@ We explore how education affects economic growth and present an education model 
   - [Comparing the speed of skill acquisition in the Slonigiraf model to the traditional model](#comparing-the-speed-of-skill-acquisition-in-the-slonigiraf-model-to-the-traditional-model)
 - [Financial model of the proposed educational reform](#financial-model-of-the-proposed-educational-reform)
   - [We target 2 billion people in the world](#we-target-2-billion-people-in-the-world)
-  - [Work force price](#work-force-price)
+  - [Wages of tutors and experts](#wages-of-tutors-and-experts)
   - [D - diploma price and R - reimbursement amount](#d---diploma-price-and-r---reimbursement-amount)
   - [Situations leading to earning and spending money](#situations-leading-to-earning-and-spending-money)
   - [Losing money probability](#losing-money-probability)
@@ -197,13 +197,9 @@ To estimate the world population of students who will use our educational model,
 
 *Table 1. Target audience (7-21 years old people). The value of 7-21 strata percent for the rest world was calculated as an average for the countries from the list above.*
 
-### Work force price
+### Wages of tutors and experts
 
-To discuss a work force price of tutors and experts we should remember that a student that understood how to be a tutor can potentially go to a educational market out of the school or university and get money for helping other students than their peers. Thus we can approximate the wage of a tutor with the lowest wage of teacher in the country that he lives.
-
-The expert wage should be larger than the tutor wage to motivate most qualified students to become experts. As qualified students can find a good position in an online tutoring we can assume that the maximum teacher wage in the country where the expert lives could be a good approximation of the market expert wage.
-
-We collected teacher wage data per country from [salaryexplorer.com](http://www.salaryexplorer.com/?loc=23&loctype=1&job=123&jobtype=3#browsesalaries) on 2023.01.08. From the Table 2 you can see that maximum teacher wage on average is 3.16 times higher that minimum teacher wage. Thus **an expert should get 3.16 times more money per 1 minute of their work than a tutor**. Teacher wage is minimal in Ethiopia so a tutor will get in Ethiopia the smallest wage in comparison to other countries listed in the table 2.
+When considering the wages of tutors and experts, it's important to note that a student who is skilled at tutoring can earn money by helping other students outside of school or university. Therefore, the wage of a tutor can be approximated by the lowest wage of a teacher in the country where they live. The wage of an expert should be higher than that of a tutor to incentivize highly qualified students to become experts. Since qualified students can find well-paying online tutoring jobs, the maximum teacher wage in the country where the expert lives can be used as an approximation of the market wage for experts. According to data from [salaryexplorer.com](http://www.salaryexplorer.com/?loc=23&loctype=1&job=123&jobtype=3#browsesalaries) as of January 8th, 2022, the maximum teacher wage on average is 3.16 times higher than the minimum teacher wage. Therefore, **an expert should be paid 3.16 times more per minute of work than a tutor**. In Ethiopia, teacher wages are the lowest among the countries listed in the Table 2, so a tutor in Ethiopia will have the lowest wage in comparison to other countries from the table.
 
 |             | Min | Max | Max/Min |
 | ----------- | ------- | ------- | ------- |
