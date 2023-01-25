@@ -225,7 +225,7 @@ When considering the wages of tutors and experts, it's important to note that a 
 
 Let's calculate a reimbursement amount and a mean diploma price. We will use Ethiopia as a country with a minimal teacher wage to deal with small numbers during calculations.
 
-A reimbursement is a money amount that a tutor pays to an expert who found that a tutee doesn't posses a skill which was underwritten in the diploma. An expert verifies several dimplomas before he can find one with forgotten skill thus we need to estimate such number of diplomas. It's known that tutees forget [1 skill from 4 studied](https://link.springer.com/article/10.1007/s10643-022-01332-3) thus an expert should spend a time to verify 4 dimplomas on average to get 1 reimbursement. We identified experimentally that an expert need 1.5 minutes to verify 1 diploma, thus an expert spend 6 minutes (4*1.5) to get 1 reimbursement. So we can say that a reimbursement is equal to a price of 6 minutes work of an expert. As we wrote previously an expert wage on average is 3.16 higher than minimum teacher wage.
+A reimbursement is a money amount that a tutor pays to an expert who found that a tutee doesn't posses a skill which was underwritten in the diploma. An expert verifies several diplomas before he can find one with forgotten skill thus we need to estimate such number of diplomas. It's known that tutees forget [1 skill from 4 studied](https://link.springer.com/article/10.1007/s10643-022-01332-3) thus an expert should spend a time to verify 4 dimplomas on average to get 1 reimbursement. We identified experimentally that an expert need 1.5 minutes to verify 1 diploma, thus an expert spend 6 minutes (4*1.5) to get 1 reimbursement. So we can say that a reimbursement is equal to a price of 6 minutes work of an expert. As we wrote previously an expert wage on average is 3.16 higher than minimum teacher wage.
 
 Ethiopian minimum teacher wage is 30.20 USD per month. A minute of such work costs 0.003 USD:
 
@@ -241,7 +241,7 @@ $0.00948 * 6 = 0.05688$
 
 So, **the reimbursent amount should be around 0.05688 USD in Ethiopia** to motivate students to perform an expert work.
 
-During 4 years of Slonigiraf educatinal model testing in different schools we have experimentally identified that a tutor needs on average 11 minutes to teach a tutee. As a minute of the tutor work costs 0.003 USD in Ethiopia than the tutor work per 1 skill should cost 0.033 USD:
+During 4 years of Slonigiraf educational model testing in different schools we have experimentally identified that a tutor needs on average 11 minutes to teach a tutee. As a minute of the tutor work costs 0.003 USD in Ethiopia than the tutor work per 1 skill should cost 0.033 USD:
 
 $0.003*11 = 0.033$
 
