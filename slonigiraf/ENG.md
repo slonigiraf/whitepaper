@@ -4,16 +4,16 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ## Annotation <!-- omit from toc -->
 
-We explore how education affects economic growth and present an education model that aims to outperform current models by threefold. The model seeks to increase the number of acquired skills and has been implemented in several secondary schools with reported success. Our educational approach emphasizes peer-to-peer learning and addresses issues commonly encountered in this method. The model is expected to have a positive impact on the world economy, potentially adding $8$ trillion USD to the world economy each year. We also explore how private enterprises can expand the proposed educational model globally while earning a significant profit from this reform.
+We explore how education affects economic growth and present an education model that aims to outperform current models by threefold. The model seeks to increase the number of acquired skills and has been implemented in several secondary schools with reported success. Our educational approach emphasizes peer-to-peer learning and addresses issues commonly encountered in this method. The model is expected to have a positive impact on the world economy, potentially adding 8 trillion USD to the world economy each year. We also explore how private enterprises can expand the proposed educational model globally while earning a significant profit from this reform.
 
-## Table of contents <!-- omit from toc -->
+## Table of Contents <!-- omit from toc -->
 
-- [Overview of existing educational models](#overview-of-existing-educational-models)
-- [Measuring education efficiency](#measuring-education-efficiency)
-- [Slonigiraf - the new educational model](#slonigiraf---the-new-educational-model)
-  - [Students pay each other for diplomas issuance after successful tutoring](#students-pay-each-other-for-diplomas-issuance-after-successful-tutoring)
-  - [Tutors have different number of tutees](#tutors-have-different-number-of-tutees)
-  - [Students are allowed to become experts](#students-are-allowed-to-become-experts)
+- [Overview of Existing Educational Models](#overview-of-existing-educational-models)
+- [Measuring Education Efficiency](#measuring-education-efficiency)
+- [Slonigiraf Educational Model](#slonigiraf-educational-model)
+  - [Students Paying Each Other for Diploma Issuance After Successful Tutoring](#students-paying-each-other-for-diploma-issuance-after-successful-tutoring)
+  - [Tutors Having Different Numbers of Tutees](#tutors-having-different-numbers-of-tutees)
+  - [Students Being Allowed to Become Experts](#students-being-allowed-to-become-experts)
   - [Experts earn money via identifying low quality skills](#experts-earn-money-via-identifying-low-quality-skills)
   - [A tutee can allow a tutor to review a diploma issued by another tutor](#a-tutee-can-allow-a-tutor-to-review-a-diploma-issued-by-another-tutor)
   - [Teacher salary can be adjusted to the quality of teaching](#teacher-salary-can-be-adjusted-to-the-quality-of-teaching)
@@ -22,7 +22,7 @@ We explore how education affects economic growth and present an education model 
 - [Financial model of the proposed educational reform](#financial-model-of-the-proposed-educational-reform)
   - [We target 2 billion people in the world](#we-target-2-billion-people-in-the-world)
   - [Wages of tutors and experts](#wages-of-tutors-and-experts)
-  - [D - diploma price and R - reimbursement amount](#d---diploma-price-and-r---reimbursement-amount)
+  - [Diploma price and reimbursement amount](#diploma-price-and-reimbursement-amount)
   - [Situations leading to earning and spending money](#situations-leading-to-earning-and-spending-money)
   - [Losing money probability](#losing-money-probability)
   - [If we know that student lost money - what happened?](#if-we-know-that-student-lost-money---what-happened)
@@ -36,7 +36,7 @@ We explore how education affects economic growth and present an education model 
 - [System software architecture](#system-software-architecture)
 - [Appendix 1. Probability to face a sequence of bad lucks](#appendix-1-probability-to-face-a-sequence-of-bad-lucks)
 
-## Overview of existing educational models
+## Overview of Existing Educational Models
 
 The most widely used educational model in the world is the **traditional model**, also known as "didactic" approach. This model is characterized by a teacher-centered approach, where the teacher is the primary source of information and the focus is on rote learning and memorization. It is the oldest and most prevalent model of education, and is still used in many schools around the world.
 
@@ -62,9 +62,9 @@ There are many other education models that have been developed and implemented o
 
 Each model has its own strengths and weaknesses, and the effectiveness of a model can depend on factors such as the context in which it is implemented and the specific implementation of the model.
 
-## Measuring education efficiency
+## Measuring Education Efficiency
 
-Education plays a vital role in the world economy. [On average, education comprises](https://data.worldbank.org/indicator/SE.XPD.TOTL.GD.ZS) $4.2$% of GDP - final goods and services produced and sold in a specific time period by countries. If the quality of education were to be improved threefold, it could potentially add approximately $8$ (eight) trillion USD, or $8.4$% of the global GDP, to the world economy each year with such effect size from the first year of an educational reform.
+Education plays a vital role in the world economy. [On average, education comprises](https://data.worldbank.org/indicator/SE.XPD.TOTL.GD.ZS) 4.2% of GDP - final goods and services produced and sold in a specific time period by countries. If the quality of education were to be improved threefold, it could potentially add approximately 8 (eight) trillion USD, or 8.4% of the global GDP, to the world economy each year with such effect size from the first year of an educational reform.
 
 [PISA](https://www.oecd.org/pisa/test/) (Programme for International Student Assessment) is a standardized test that measures the performance of 15-year-old students in reading, mathematics, and science in countries around the world. The test is administered by the Organization for Economic Cooperation and Development (OECD) and is widely considered to be a benchmark for evaluating the quality of education systems. Countries that consistently score high on PISA tests are often considered to have strong education models.
 
@@ -76,17 +76,17 @@ Therefore, it can be inferred that any proposed educational model that aims to b
 
 While PISA test is useful for comparing educational systems between countries and identifying the most successful models, it is not intended for regular use in determining a model that outperforms the traditional one.
 
-Another way to measure the efficiency of an education model on daily basis is by determining the average number of skills acquired by a group of students, divided by the total number of skills they were expected to acquire. [Traditional education typically has an efficiency](https://link.springer.com/article/10.1007/s10643-022-01332-3) of about $25$%, while using [private tutoring the efficiency](https://pubmed.ncbi.nlm.nih.gov/21574747/) can be increased up to $75$%. However, private tutoring can be costly and requires a large number of educators. Peer learning, where students tutor each other, [does not outperform](https://pubmed.ncbi.nlm.nih.gov/23691355/) the traditional education because of [two main challenges](https://www.tandfonline.com/doi/full/10.1080/01443410500345172): the lack of motivation to teach among students and quality erosion due to "the broken telephone effect."
+Another way to measure the efficiency of an education model on daily basis is by determining the average number of skills acquired by a group of students, divided by the total number of skills they were expected to acquire. [Traditional education typically has an efficiency](https://link.springer.com/article/10.1007/s10643-022-01332-3) of about 25%, while using [private tutoring the efficiency](https://pubmed.ncbi.nlm.nih.gov/21574747/) can be increased up to 75%. However, private tutoring can be costly and requires a large number of educators. Peer learning, where students tutor each other, [does not outperform](https://pubmed.ncbi.nlm.nih.gov/23691355/) the traditional education because of [two main challenges](https://www.tandfonline.com/doi/full/10.1080/01443410500345172): the lack of motivation to teach among students and quality erosion due to "the broken telephone effect."
 
-To address these issues, we propose using money to incentivize students to serve as tutors and require them to use a recommendation letter system to ensure the quality of such lessons. We have implemented this approach in several schools and observed an increase in education efficiency up to $75$%, with students having ample time for both learning and teaching within their existing secondary education programs.
+To address these issues, we propose using money to incentivize students to serve as tutors and require them to use a recommendation letter system to ensure the quality of such lessons. We have implemented this approach in several schools and observed an increase in education efficiency up to 75%, with students having ample time for both learning and teaching within their existing secondary education programs.
 
-## Slonigiraf - the new educational model
+## Slonigiraf Educational Model
 
 <img alt="Image" src="https://github.com/slonigiraf/slon-whitepaper/blob/main/img/lesson.png?raw=true" width="500">
 
 *Figure 1. The proposed educational model is named "Slonigiraf". It consists of peer-to-peer tutoring (leftmost pane), expert selection (middle pane) and diplomas verification (last pane).*
 
-### Students pay each other for diplomas issuance after successful tutoring
+### Students Paying Each Other for Diploma Issuance After Successful Tutoring
 
 **The Slonigiraf lesson** does not include a traditional lecture component. Instead, it begins with students working in pairs. Students have the option to act as a tutor for a specific skill or as a tutee. Tutees have the freedom to choose their own tutors based on personal preference. **Tutors are typically peers of the tutees**, who have previously acquired the same knowledge through self-study or other means. A tutor, in the case that their tutee masters the skill, charges him **tuition fees** and **provide a diploma** certifying the acquired skill. If the student does not acquire the skill, the tutor receives nothing.
 
@@ -94,13 +94,13 @@ Each diploma is a unique electronic document that can be invalidated at any time
 
 At the start of a lesson, there are frequently multiple tutors for a skill as they may have self-studied or learned it from their parents or prior tutelage. As a result, the lesson begins with multiple tutor-student pairs.
 
-Let's examine how a lesson proceeds when there is only one tutor present. In Figure 1, the tutor is denoted as "A" in the leftmost panel. The tutor chooses a student who offered the highest amount of money or based on any other criteria of their choosing. This session is marked as "session 1" in Figure 1. After this session, the student may then become a tutor themselves. Then, these two tutors can teach the skill to two more students. This process is called "session 2." Each session doubles the number of tutors. After session 1, there are $2$ students with diplomas, after session 2, there are $4$, and after session 3, there are $16$. This can be succinctly stated as follows:
+Let's examine how a lesson proceeds when there is only one tutor present. In Figure 1, the tutor is denoted as "A" in the leftmost panel. The tutor chooses a student who offered the highest amount of money or based on any other criteria of their choosing. This session is marked as "session 1" in Figure 1. After this session, the student may then become a tutor themselves. Then, these two tutors can teach the skill to two more students. This process is called "session 2." Each session doubles the number of tutors. After session 1, there are 2 students with diplomas, after session 2, there are 4, and after session 3, there are 16. This can be succinctly stated as follows:
 
 $2^{sessions} = diplomas$
 
-As an example: $2^{5} = 32$, meaning that after $5$ sessions, $32$ students will have acquired the skill. But, what if the lesson takes place in a university setting and the goal is to teach $512$ students? Using the formula above, we can determine the number of sessions required by solving for $x$ in the equation: $2^{x} = 512$. By using a simple internet search or logarithm, we can find that $x=9$. Therefore, only $9$ sessions are needed to teach $512$ individuals the skill.
+As an example: $2^{5} = 32$, meaning that after 5 sessions, 32 students will have acquired the skill. But, what if the lesson takes place in a university setting and the goal is to teach 512 students? Using the formula above, we can determine the number of sessions required by solving for $x$ in the equation: $2^{x} = 512$. By using a simple internet search or logarithm, we can find that $x=9$. Therefore, only 9 sessions are needed to teach 512 individuals the skill.
 
-### Tutors have different number of tutees
+### Tutors Having Different Numbers of Tutees
 
 <img alt="Image" src="https://github.com/slonigiraf/slon-whitepaper/blob/main/img/tutees_count.png?raw=true" width="500">
 
@@ -126,7 +126,7 @@ Increasing class size has little effect on the probabilities of different roles.
 
 All students have a tutor as all are required to obtain a diploma. The student with 5 tutees may receive their diploma by communicating with a tutor outside the group, such as a teacher or parent. As previously discussed, it is permitted to be a tutor without a diploma in the relevant skill, however, this increases the risk of failure, so students typically choose to first study the skill, obtain the diploma, and then teach others.
 
-### Students are allowed to become experts
+### Students Being Allowed to Become Experts
 
 Holding a diploma does not necessarily mean that a student has fully mastered the skill in question. It simply indicates that the tutor believes they have. However, there are several reasons why this belief may be misguided. For example, the tutor may not possess the skill themselves, may not have adequately assessed the student's proficiency, or the student may have forgotten the skill. To ensure the quality of education, our model employs experts who verify diplomas and have the authority to award students with "A" grades or other types of reward. The primary expert at the start of a lesson is the master teacher who leads and manages the lesson. However, due to time constraints, they may not be able to verify all diplomas. The teacher can delegate this responsibility to select students who have already obtained a diploma in the skill being taught. The teacher will first verify that these students possess the skill. If they fail the verification, the teacher will hold the original tutor accountable. Those who pass the verification will take on **the role of experts** and get a reward from the teacher.
 
@@ -174,7 +174,7 @@ But why are we arguing that the Slonigiraf model is more efficient than the trad
 
 ### We target 2 billion people in the world
 
-To estimate the world population of students who will use our educational model, let's assume that only the 7-21 years old strata will use it. The percent of individuals **between the ages of 7 and 21** can be approximated by the [percent of individuals](https://www.theglobaleconomy.com/rankings/percent_children/) between the ages of 0 and 14. To calculate the target audience per country, we will multiply the [population size](https://population.un.org/wpp/Download/Standard/MostUsed/) as of January 1st, 2021 by the percentage of individuals between the ages of 7 and 21 and divide by 100%. The resulting data is shown in Table 1. As you can see, India has the largest target audience of $361$ million people, and the total world target audience is $2$ billion people.
+To estimate the world population of students who will use our educational model, let's assume that only the 7-21 years old strata will use it. The percent of individuals **between the ages of 7 and 21** can be approximated by the [percent of individuals](https://www.theglobaleconomy.com/rankings/percent_children/) between the ages of 0 and 14. To calculate the target audience per country, we will multiply the [population size](https://population.un.org/wpp/Download/Standard/MostUsed/) as of January 1st, 2021 by the percentage of individuals between the ages of 7 and 21 and divide by 100%. The resulting data is shown in Table 1. As you can see, India has the largest target audience of 361 million people, and the total world target audience is 2 billion people.
 
 |             | Total Population | 7-21 years old, % | 7-21 years old |
 | ----------- | ------------- | ------ | ------------- |
@@ -221,17 +221,17 @@ When considering the wages of tutors and experts, it's important to note that a 
 
 *Table 2. Teacher monthly wages in USD per country.*
 
-### D - diploma price and R - reimbursement amount
+### Diploma price and reimbursement amount
 
-Let's calculate a reimbursement amount and a mean diploma price. We will use Ethiopia as a country with a minimal teacher wage to deal with small numbers during calculations.
+Let's calculate the reimbursement amount and mean diploma price by utilizing Ethiopia as an example, as its minimal teacher wages make it easier to work with small numbers in the calculations.
 
-A reimbursement is a money amount that a tutor pays to an expert who found that a tutee doesn't posses a skill which was underwritten in the diploma. An expert verifies several diplomas before he can find one with forgotten skill thus we need to estimate such number of diplomas. It's known that tutees forget [1 skill from 4 studied](https://link.springer.com/article/10.1007/s10643-022-01332-3) thus an expert should spend a time to verify 4 dimplomas on average to get 1 reimbursement. We identified experimentally that an expert need 1.5 minutes to verify 1 diploma, thus an expert spend 6 minutes (4*1.5) to get 1 reimbursement. So we can say that a reimbursement is equal to a price of 6 minutes work of an expert. As we wrote previously an expert wage on average is 3.16 higher than minimum teacher wage.
-
-Ethiopian minimum teacher wage is 30.20 USD per month. A minute of such work costs 0.003 USD:
+The minimum teacher wage in Ethiopia is 30.20 USD per month. To calculate the cost per minute of work, we must consider that a teacher works 21 days per month, 8 hours per day, and each hour is 60 minutes. Using these figures, we can determine that each minute of a teacher's work in Ethiopia costs 0.003 USD:
 
 $30.20 / (21 * 8 * 60) = 0.003$
 
-Thus 1 minute of an expert work price should equal to 0.00948 USD:
+As previously discussed, we use the minimum teacher wage of a country as a approximation for the cost of tutor work. Therefore, in Ethiopia, a minute of tutor work costs 0.003 USD.
+
+A reimbursement is a financial compensation paid by a tutor to an expert who discovers that a student does not possess a skill listed on their diploma. Experts must verify multiple diplomas to find one that is missing a skill, so we need to estimate how many diplomas are necessary. It is known that students [forget one skill out of four studied](https://link.springer.com/article/10.1007/s10643-022-01332-3), so an expert typically needs to verify four diplomas on average to get one reimbursement. Our experiments have shown that it takes an expert 1.5 minutes to verify one diploma, thus they spend 6 minutes (4*1.5) to get one reimbursement. Therefore, we can say that a reimbursement is equivalent to the cost of six minutes of an expert's work. As previously mentioned, an expert's salary is on average 3.16 times higher than the minimum teacher wage. Thus 1 minute of an expert work price should equal to 0.00948 USD in Ethiopia:
 
 $0.003 * 3.16 = 0.00948$
 
@@ -239,21 +239,21 @@ And 6 minutes of an expert work is equal to 0.05688 USD:
 
 $0.00948 * 6 = 0.05688$
 
-So, **the reimbursent amount should be around 0.05688 USD in Ethiopia** to motivate students to perform an expert work.
+Therefore, to incentivize students to engage in expert work, **the reimbursement amount in Ethiopia should be approximately 0.05688 USD**.
 
-During 4 years of Slonigiraf educational model testing in different schools we have experimentally identified that a tutor needs on average 11 minutes to teach a tutee. As a minute of the tutor work costs 0.003 USD in Ethiopia than the tutor work per 1 skill should cost 0.033 USD:
+During a 4-year testing of the Slonigiraf educational model in different schools, we have identified experimentally that a tutor needs on average 11 minutes to teach a tutee one skill. Since a minute of the tutor's work costs 0.003 USD in Ethiopia, the tutor's work per skill costs 0.033 USD:
 
 $0.003*11 = 0.033$
 
-The tutor gets money from tutee not only for the time but also for issuing a diploma that can be canceled by an expert. If the tutor will not get some premium for issuing the diploma he will lose money as it's not possible to completely exclude the situation when tutee will forget the skill. As we mentioned tutees forget 1 skill from 4 studied, thus a tutor should add a premium of 1 reimbursement amount to each 4 skills that he teaches, or simply $1/4$ of such amount to each diploma issuing, thus **the total price of a diploma will be 0.04722 USD in Ethiopia**:
+The tutor receives compensation from the tutee not only for their time, but also for issuing a diploma that can be verified by an expert. Without a premium for issuing the diploma, the tutor would incur a loss, as it is not possible to completely eliminate the possibility of the tutee forgetting the skill. As previously stated, tutees tend to forget 1 skill out of every 4 studied. Therefore, the tutor should add a premium of 1 reimbursement amount for every 4 skills taught, or $1/4$ of that amount for each diploma issued. As a result, the **total cost of a diploma in Ethiopia would be 0.04722 USD**:
 
 $0.033+0.05688*1/4=0.04722$
 
-If we will divide the calculated reimbursement amount by a diploma price than we can conclude that the reimbursement is 1.2 times bigger than the diploma price:
+If we divide the calculated reimbursement amount by the diploma price, we can conclude that the reimbursement is 1.2 times greater than the diploma price:
 
-$0.05688/0.04722$
+$0.05688/0.04722 = 1.2$
 
-As all issued diplomas go through the verification it's NOT profitable to a tutor to cheat the system just issuing a lot of number of diplomas because he will lose 1.2 times more money than earning.
+Because all issued diplomas go through verification, it is NOT profitable for a tutor to cheat the system by issuing a large number of fraudulent diplomas. Doing so would result in them losing 1.2 times more money than they would earn.
 
 ### Situations leading to earning and spending money
 
