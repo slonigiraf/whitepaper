@@ -4,21 +4,22 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ## Annotation <!-- omit from toc -->
 
-We explore how education affects economic growth and present an education model that aims to outperform current models by threefold. The model seeks to increase the number of acquired skills and has been implemented in several secondary schools with reported success. Our educational approach emphasizes peer-to-peer learning and addresses issues commonly encountered in this method. The model is expected to have a positive impact on the world economy, potentially adding 8 trillion USD to the world economy each year. We also explore how private enterprises can expand the proposed educational model globally while earning a significant profit from this reform.
+We explore how education affects economic growth and present an education model that aims to outperform current models threefold. The model seeks to increase the number of acquired skills and has been implemented in several secondary schools with reported success. Our educational approach emphasizes peer-to-peer learning and addresses issues commonly encountered in this method. The model is expected to positively impact the world economy, potentially adding 8 trillion USD to the world economy each year. We also explore how private enterprises can expand the proposed educational model globally while profitably benefiting from this reform.
 
 ## Table of Contents <!-- omit from toc -->
 
-- [Overview of Existing Educational Models](#overview-of-existing-educational-models)
-- [Measuring Education Efficiency](#measuring-education-efficiency)
-- [Slonigiraf Educational Model](#slonigiraf-educational-model)
-  - [Students Paying Each Other for Diploma Issuance After Successful Tutoring](#students-paying-each-other-for-diploma-issuance-after-successful-tutoring)
-  - [Tutors Having Different Numbers of Tutees](#tutors-having-different-numbers-of-tutees)
-  - [Students Being Allowed to Become Experts](#students-being-allowed-to-become-experts)
-  - [Experts earn money via identifying low quality skills](#experts-earn-money-via-identifying-low-quality-skills)
-  - [A tutee can allow a tutor to review a diploma issued by another tutor](#a-tutee-can-allow-a-tutor-to-review-a-diploma-issued-by-another-tutor)
-  - [Teacher salary can be adjusted to the quality of teaching](#teacher-salary-can-be-adjusted-to-the-quality-of-teaching)
-  - [Linking education to the real world through paying students for learning](#linking-education-to-the-real-world-through-paying-students-for-learning)
-  - [Comparing the speed of skill acquisition in the Slonigiraf model to the traditional model](#comparing-the-speed-of-skill-acquisition-in-the-slonigiraf-model-to-the-traditional-model)
+- [Several Educational Models Are Known to Date](#several-educational-models-are-known-to-date)
+- [The Traditional Model Is the Most Efficient Among the Known Alternatives](#the-traditional-model-is-the-most-efficient-among-the-known-alternatives)
+- [Slonigiraf Is a New Educational Model More Efficient Than the Traditional](#slonigiraf-is-a-new-educational-model-more-efficient-than-the-traditional)
+  - [Students Pay Each Other for Issuance of Diplomas After Successful Tutoring](#students-pay-each-other-for-issuance-of-diplomas-after-successful-tutoring)
+  - [Tutors Have Different Numbers of Tutees](#tutors-have-different-numbers-of-tutees)
+  - [Each Tutoring Session Is Targeted for a Specific Skill](#each-tutoring-session-is-targeted-for-a-specific-skill)
+  - [Some Students Become Experts](#some-students-become-experts)
+  - [Experts Earn Money Through Identification of Low-Quality Skills](#experts-earn-money-through-identification-of-low-quality-skills)
+  - [A Tutee Can Allow a Tutor to Review a Diploma Issued by Another Tutor](#a-tutee-can-allow-a-tutor-to-review-a-diploma-issued-by-another-tutor)
+  - [Teacher Salary Can Be Adjusted to the Quality of Teaching](#teacher-salary-can-be-adjusted-to-the-quality-of-teaching)
+  - [Linking Education to the Real World by Paying Students for Learning](#linking-education-to-the-real-world-by-paying-students-for-learning)
+  - [Comparing the speed of skill acquisition of the Slonigiraf model to the traditional model](#comparing-the-speed-of-skill-acquisition-of-the-slonigiraf-model-to-the-traditional-model)
 - [Financial model of the proposed educational reform](#financial-model-of-the-proposed-educational-reform)
   - [We target 2 billion people in the world](#we-target-2-billion-people-in-the-world)
   - [Wages of tutors and experts](#wages-of-tutors-and-experts)
@@ -36,7 +37,7 @@ We explore how education affects economic growth and present an education model 
 - [System software architecture](#system-software-architecture)
 - [Appendix 1. Probability to face a sequence of bad lucks](#appendix-1-probability-to-face-a-sequence-of-bad-lucks)
 
-## Overview of Existing Educational Models
+## Several Educational Models Are Known to Date
 
 The most widely used educational model in the world is the **traditional model**, also known as "didactic" approach. This model is characterized by a teacher-centered approach, where the teacher is the primary source of information and the focus is on rote learning and memorization. It is the oldest and most prevalent model of education, and is still used in many schools around the world.
 
@@ -62,7 +63,7 @@ There are many other education models that have been developed and implemented o
 
 Each model has its own strengths and weaknesses, and the effectiveness of a model can depend on factors such as the context in which it is implemented and the specific implementation of the model.
 
-## Measuring Education Efficiency
+## The Traditional Model Is the Most Efficient Among the Known Alternatives
 
 Education plays a vital role in the world economy. [On average, education comprises](https://data.worldbank.org/indicator/SE.XPD.TOTL.GD.ZS) 4.2% of GDP - final goods and services produced and sold in a specific time period by countries. If the quality of education were to be improved threefold, it could potentially add approximately 8 (eight) trillion USD, or 8.4% of the global GDP, to the world economy each year with such effect size from the first year of an educational reform.
 
@@ -80,13 +81,13 @@ Another way to measure the efficiency of an education model on daily basis is by
 
 To address these issues, we propose using money to incentivize students to serve as tutors and require them to use a recommendation letter system to ensure the quality of such lessons. We have implemented this approach in several schools and observed an increase in education efficiency up to 75%, with students having ample time for both learning and teaching within their existing secondary education programs.
 
-## Slonigiraf Educational Model
+## Slonigiraf Is a New Educational Model More Efficient Than the Traditional
 
 <img alt="Image" src="https://github.com/slonigiraf/slon-whitepaper/blob/main/img/lesson.png?raw=true" width="500">
 
 *Figure 1. The proposed educational model is named "Slonigiraf". It consists of peer-to-peer tutoring (leftmost pane), expert selection (middle pane) and diplomas verification (last pane).*
 
-### Students Paying Each Other for Diploma Issuance After Successful Tutoring
+### Students Pay Each Other for Issuance of Diplomas After Successful Tutoring
 
 **The Slonigiraf lesson** does not include a traditional lecture component. Instead, it begins with students working in pairs. Students have the option to act as a tutor for a specific skill or as a tutee. Tutees have the freedom to choose their own tutors based on personal preference. **Tutors are typically peers of the tutees**, who have previously acquired the same knowledge through self-study or other means. A tutor, in the case that their tutee masters the skill, charges him **tuition fees** and **provide a diploma** certifying the acquired skill. If the student does not acquire the skill, the tutor receives nothing.
 
@@ -100,7 +101,7 @@ $2^{sessions} = diplomas$
 
 As an example: $2^{5} = 32$, meaning that after 5 sessions, 32 students will have acquired the skill. But, what if the lesson takes place in a university setting and the goal is to teach 512 students? Using the formula above, we can determine the number of sessions required by solving for $x$ in the equation: $2^{x} = 512$. By using a simple internet search or logarithm, we can find that $x=9$. Therefore, only 9 sessions are needed to teach 512 individuals the skill.
 
-### Tutors Having Different Numbers of Tutees
+### Tutors Have Different Numbers of Tutees
 
 <img alt="Image" src="https://github.com/slonigiraf/slon-whitepaper/blob/main/img/tutees_count.png?raw=true" width="500">
 
@@ -126,23 +127,29 @@ Increasing class size has little effect on the probabilities of different roles.
 
 All students have a tutor as all are required to obtain a diploma. The student with 5 tutees may receive their diploma by communicating with a tutor outside the group, such as a teacher or parent. As previously discussed, it is permitted to be a tutor without a diploma in the relevant skill, however, this increases the risk of failure, so students typically choose to first study the skill, obtain the diploma, and then teach others.
 
-### Students Being Allowed to Become Experts
+### Each Tutoring Session Is Targeted for a Specific Skill
+
+A big part of pedagogical education is focused on how the lesson should be structured, what are objectives of different activities of students and what is a supposed result of the lesson. Nevertheless in traditional model there is no guarantee that any low skilled teacher will work with students without a plan and even don't trying to formulate what a learning objectives.
+
+Once we letting students to provide tutoring to their peers when need to be sure that they can structure the interaction and are aware of the aim of such tutoring. We have chosen a very straightforward solution of such a problem. Every tutoring interaction is limited to a one skill. The tutor can easily get a methodic of teaching the skill from the skill database that teacher recommends to use. And if the tutor decides that his tutee have acquired the skill they issue a diploma that is limited to just 1 skill that was studied.
+
+### Some Students Become Experts
 
 Holding a diploma does not necessarily mean that a student has fully mastered the skill in question. It simply indicates that the tutor believes they have. However, there are several reasons why this belief may be misguided. For example, the tutor may not possess the skill themselves, may not have adequately assessed the student's proficiency, or the student may have forgotten the skill. To ensure the quality of education, our model employs experts who verify diplomas and have the authority to award students with "A" grades or other types of reward. The primary expert at the start of a lesson is the master teacher who leads and manages the lesson. However, due to time constraints, they may not be able to verify all diplomas. The teacher can delegate this responsibility to select students who have already obtained a diploma in the skill being taught. The teacher will first verify that these students possess the skill. If they fail the verification, the teacher will hold the original tutor accountable. Those who pass the verification will take on **the role of experts** and get a reward from the teacher.
 
-### Experts earn money via identifying low quality skills
+### Experts Earn Money Through Identification of Low-Quality Skills
 
 Why do students want to become experts? The expert status enables them to verify a large number of diplomas and potentially identify ones that are not of high quality, resulting in reimbursement from the instructors who issued such diplomas. However, to prevent experts from falsely identifying all diplomas as low-quality in order to receive more rewards, students are allowed to choose which expert they want to work with. This creates competition among experts and promotes honesty.
 
 The teacher is also able to re-verify diplomas that have already been verified by an expert if they suspect any cheating, such as the expert verifying a diploma that they themselves issued. In the event of cheating, the teacher can prohibit the student from being an expert for a certain period of time, and also receive reimbursement from the instructor who issued the diploma used in the cheating.
 
-### A tutee can allow a tutor to review a diploma issued by another tutor
+### A Tutee Can Allow a Tutor to Review a Diploma Issued by Another Tutor
 
 Skills that are acquired but not used are prone to be forgotten. To combat this, many educational systems rely on repetition. The Slonigiraf educational model utilizes repetition in three ways. Firstly, by allowing students who have acquired a skill to teach it to other students. In this way, the student reinforces their understanding of the skill by teaching it to others. Secondly, our system uses repetition through expert verification of diplomas. And thirdly, tutors can work with their students to verify previous diplomas issued by other tutors. If a skill has been forgotten, the tutor who identifies the problem receives reimbursement from the tutor who issued the diploma, in the same way as an expert. This process is beneficial for both the current tutor, as they potentially receive reimbursement, and for the student, as they receive information about their current educational problems.
 
 It is possible that a student and a tutor may conspire against a previous tutor to receive reimbursement while the student has not actually forgotten the skill. This type of deception is not prohibited in any administrative way, but it is almost impossible in the long term - such a student would be banned from the community of tutors as dishonest and would lose the ability to receive new diplomas.
 
-### Teacher salary can be adjusted to the quality of teaching
+### Teacher Salary Can Be Adjusted to the Quality of Teaching
 
 **The role of a teacher** differs from that of a student in three ways:
 
@@ -154,7 +161,7 @@ This allows for two different models of teacher salary calculation. The first is
 
 The second approach is more market-oriented, where the teacher does not receive any salary from the school budget. Instead, they are allowed to earn money both as a mentor and as an expert. The money that was allocated in the school budget for the teacher's salary is instead distributed among students on an equal basis every month.
 
-### Linking education to the real world through paying students for learning
+### Linking Education to the Real World by Paying Students for Learning
 
 The initial phase of transitioning to the new educational system involves replacing traditional lectures with peer-to-peer tutoring and the issuance of diplomas. This change can be implemented smoothly as it does not affect the salary of teachers and reduces their workload. As the reward, students will get "A" grades as in the usual educational system. These grades can be viewed as a form of payment for the opportunity to review their diplomas.
 
@@ -162,7 +169,7 @@ However, like any other educational approach, this system faces the challenge of
 
 The idea of paying students for their education may raise ethical concerns, as the traditional view is that education is valuable in and of itself. However, it is essential to acknowledge that all nations invest in education because it ultimately leads to greater economic growth in the long term. Therefore, students who are actively engaged in their studies are contributing to this process and should be compensated for their efforts.
 
-### Comparing the speed of skill acquisition in the Slonigiraf model to the traditional model
+### Comparing the speed of skill acquisition of the Slonigiraf model to the traditional model
 
 In the traditional model, a teacher teaches a group of students all at once, typically spending 22 minutes of their time to teach a skill to the group. The outcome of this method is that only one out of four students will have learned the skill. For example, if a teacher is working with a group of 32 students, this approach will result in 8 students having learned the skill.
 
