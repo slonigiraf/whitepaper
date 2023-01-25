@@ -13,7 +13,8 @@ We explore how education affects economic growth and present an education model 
 - [Slonigiraf Is a New Educational Model More Efficient Than the Traditional](#slonigiraf-is-a-new-educational-model-more-efficient-than-the-traditional)
   - [Students Pay Each Other for Issuance of Diplomas After Successful Tutoring](#students-pay-each-other-for-issuance-of-diplomas-after-successful-tutoring)
   - [Tutors Have Different Numbers of Tutees](#tutors-have-different-numbers-of-tutees)
-  - [Each Tutoring Session Is Targeted for a Specific Skill](#each-tutoring-session-is-targeted-for-a-specific-skill)
+  - [Each Tutoring Interaction Is Focused on a Specific Skill](#each-tutoring-interaction-is-focused-on-a-specific-skill)
+  - [Tutors Use a Simple Teaching Algorithm](#tutors-use-a-simple-teaching-algorithm)
   - [Some Students Become Experts](#some-students-become-experts)
   - [Experts Earn Money Through Identification of Low-Quality Skills](#experts-earn-money-through-identification-of-low-quality-skills)
   - [A Tutee Can Allow a Tutor to Review a Diploma Issued by Another Tutor](#a-tutee-can-allow-a-tutor-to-review-a-diploma-issued-by-another-tutor)
@@ -127,11 +128,15 @@ Increasing class size has little effect on the probabilities of different roles.
 
 All students have a tutor as all are required to obtain a diploma. The student with 5 tutees may receive their diploma by communicating with a tutor outside the group, such as a teacher or parent. As previously discussed, it is permitted to be a tutor without a diploma in the relevant skill, however, this increases the risk of failure, so students typically choose to first study the skill, obtain the diploma, and then teach others.
 
-### Each Tutoring Session Is Targeted for a Specific Skill
+### Each Tutoring Interaction Is Focused on a Specific Skill
 
-A big part of pedagogical education is focused on how the lesson should be structured, what are objectives of different activities of students and what is a supposed result of the lesson. Nevertheless in traditional model there is no guarantee that any low skilled teacher will work with students without a plan and even don't trying to formulate what a learning objectives.
+An important aspect of pedagogy is the structure and objectives of lessons, as well as the expected outcome. However, in traditional education, there is no guarantee that teachers will have a well-defined plan or clear learning objectives for their students. Allowing students to provide tutoring to their peers may exacerbate the problem as none of these student-mentors have received formal training in pedagogy.
 
-Once we letting students to provide tutoring to their peers when need to be sure that they can structure the interaction and are aware of the aim of such tutoring. We have chosen a very straightforward solution of such a problem. Every tutoring interaction is limited to a one skill. The tutor can easily get a methodic of teaching the skill from the skill database that teacher recommends to use. And if the tutor decides that his tutee have acquired the skill they issue a diploma that is limited to just 1 skill that was studied.
+We have implemented a simple solution for this problem. In this approach, every tutoring session focuses on only one skill. Tutors can easily access a method for teaching the skill from a database recommended by the teacher. Once the tutor determines that the student has mastered the skill, they can award a diploma that is specific to that skill. By using this approach, we can ensure that each tutoring interaction is focused on a specific skill and that the tutor understands the objectives of the interaction.
+
+### Tutors Use a Simple Teaching Algorithm
+
+TODO: Describe
 
 ### Some Students Become Experts
 
