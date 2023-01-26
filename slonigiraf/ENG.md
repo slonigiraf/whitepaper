@@ -158,10 +158,10 @@ Finally, the algorithm is based on the principle of spaced repetition, which is 
 
 In summary, the algorithm is based on pedagogical principles such as mastery learning, formative assessment, and spaced repetition, which are known to be effective in promoting skill acquisition and retention.
 
-<table style="width:100%">
+<table width="100%">
     <tr>
-        <th style="width:50%">Math skill: "Add numbers"</th>
-        <th style="width:50%">Physical skill: "Show Thumbs Up"</th>
+        <th width="50%">Math skill: "Add numbers"</th>
+        <th width="50%">Physical skill: "Show Thumbs Up"</th>
     </tr>
     <tr>
         <td>Tutor</td>
