@@ -162,7 +162,7 @@ This algorithm can be utilized to train a wide range of skills, regardless of wh
 
 *Table 1. How tutors use the teaching algorithm.*
 
-<table width="100%">
+<table width="100%" border="1">
     <tr>
         <th width="50%">Math skill: "Add numbers"</th>
         <th width="50%">Physical skill: "Show Thumbs Up"</th>
