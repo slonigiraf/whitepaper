@@ -138,15 +138,15 @@ We have implemented a simple solution for this problem. In this approach, every 
 
 As previously stated, teachers recommend tutors to use a database containing records on how to teach each skill. To make the work of tutors easier, we recommend that the teaching algorithm used is always the same. Only the skill being taught varies, but the teaching algorithm remains consistent, as shown in Figure 3.
 
-<img alt="Image" src="https://github.com/slonigiraf/slon-whitepaper/blob/main/img/algorithm.png?raw=true" width="500">
-
-*Figure 3. A simple pedagogical algorithm that can be used by tutors to ensure the quality of the skill training.*
-
-The first step in the algorithm is to formulate a problem that the skill is meant to solve. For example, if we want to teach a student to add numbers, the problem can be formulated as: "What is the result of adding 2 and 3?" To ensure that the tutee understands the problem correctly, the tutor asks him/her to rephrase the problem and waits until the tutee responds with something like: "What is the result of adding 4 and 2?"
+The first step in the algorithm is to formulate a problem which the skill is meant to solve. For example, if we want to teach a student to add numbers, the problem can be formulated as: "What is the result of adding 2 and 3?" To ensure that the tutee understands the problem correctly, the tutor asks him/her to rephrase the problem and waits until the tutee responds with something like: "What is the result of adding 4 and 2?"
 
 The next step is to determine if the tutee can identify and correct errors in problem-solving. The tutor answers a problem formulated by the tutee incorrectly. For example: "The result of adding 4 and 2 is 3. Am I right?" If the tutee fails to detect and correct the error, the tutor provides the correct answer: "The result of adding 4 and 2 is 6. Repeat." After the tutee repeats the answer, the tutor asks him/her to formulate another similar problem.
 
 When the tutee starts to identify and correct errors in the tutor's answers, the tutor asks him/her to come back the next day to work on this skill to ensure that the skill is ingrained in long-term memory. On the next day, the tutor starts from the beginning of the algorithm. If the student immediately corrects the tutor's error, the tutor awards the tutee a diploma for the skill studied and receives payment for teaching and issuing the diploma. If the tutee is not able to correct the error immediately, the tutor continues working through the algorithm until the tutee is able to identify and correct errors and asks the tutee to come back the next day.
+
+<img alt="Image" src="https://github.com/slonigiraf/slon-whitepaper/blob/main/img/algorithm.png?raw=true" width="500">
+
+*Figure 3. A simple pedagogical algorithm that can be used by tutors to ensure the quality of the skill training.*
 
 The pedagogical roots of such an algorithm can be traced back to the concept of error correction and feedback in learning. The algorithm is based on the idea that students learn best when they are actively engaged in the learning process and when they receive immediate feedback on their performance.
 
