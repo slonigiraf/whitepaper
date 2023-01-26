@@ -160,7 +160,7 @@ In summary, the algorithm is based on pedagogical principles such as mastery lea
 
 | Math skill: "Add numbers"  | Physical skill: "Show Thumbs Up" |
 | -------------------------- | -------------------------- |
-| Tutor   |
+| Tutor   |||
 | Create a similar task: "What is the result of adding 2 and 3?"     | Create a similar task: "Which gesture should you use to indicate agreement or approval of an idea or suggestion?"  |
 | Tutee                                                              |
 | I don't understand                                                 | I don't understand                                                                                                 |
