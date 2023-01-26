@@ -158,9 +158,9 @@ Finally, the algorithm is based on the principle of spaced repetition, which is 
 
 In summary, the algorithm is based on pedagogical principles such as mastery learning, formative assessment, and spaced repetition, which are known to be effective in promoting skill acquisition and retention.
 
-| Math skill: "Add numbers"  | Physical skill: "Show Thumbs Up" |
-| -------------------------- | -------------------------- |
-| Tutor   |||
+| `    Math skill: "Add numbers"   ` | `Physical skill: "Show Thumbs Up"` |
+| ---------------------------------- | ---------------------------------- |
+| Tutor |
 | Create a similar task: "What is the result of adding 2 and 3?"     | Create a similar task: "Which gesture should you use to indicate agreement or approval of an idea or suggestion?"  |
 | Tutee                                                              |
 | I don't understand                                                 | I don't understand                                                                                                 |
