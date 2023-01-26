@@ -158,57 +158,172 @@ Finally, the algorithm is based on the principle of spaced repetition, which is 
 
 In summary, the algorithm is based on pedagogical principles such as mastery learning, formative assessment, and spaced repetition, which are known to be effective in promoting skill acquisition and retention.
 
-<style>
-table th:first-of-type {
-    width: 50%;
-}
-table th:nth-of-type(2) {
-    width: 50%;
-}
-</style>
-
-| Math skill: "Add numbers" | Physical skill: "Show Thumbs Up" |
-| ---------------------------------- | ---------------------------------- |
-| Tutor |
-| Create a similar task: "What is the result of adding 2 and 3?"     | Create a similar task: "Which gesture should you use to indicate agreement or approval of an idea or suggestion?"  |
-| Tutee                                                              |
-| I don't understand                                                 | I don't understand                                                                                                 |
-| Tutor                                                              |
-| You should say: "What is the result of adding 1 and 5?" Repeat     | You should say: "What gesture should you use to express encouragement or support?" Repeat                          |
-| Tutee                                                              |
-| What is the result of adding 1 and 5?                              | What gesture should you use to express encouragement or support?                                                   |
-| Tutor                                                              |
-| Create a similar task: "What is the result of adding 2 and 6?"     | Create a similar task: "What gesture should you use to indicate that a speaker has made a good point or argument?" |
-| Tutee                                                              |
-| What is the result of adding 4 and 2?                              | What gesture should you use to indicate that you are happy or satisfied with a situation or outcome?               |
-| Tutor                                                              |
-| 3\. Am I right?                                                    | 👎. Am I right?                                                                                                    |
-| Tutee                                                              |
-| I don't know                                                       | I don't know                                                                                                       |
-| Tutor                                                              |
-| You should say: "6". Repeat                                        | You should do: 👍. Repeat                                                                                          |
-| Tutee                                                              |
-| 6                                                                  | 👍                                                                                                                 |
-| Tutor                                                              |
-| Create a similar task: "What is the result of adding 1 and 1?"     | Create a similar task: "What gesture should you use to indicate that you are ready or willing to do something?"    |
-| Tutee                                                              |
-| What is the result of adding 3 and 1?                              | What gesture should you use to show that you are in agreement or on the same page as someone else?                 |
-| Tutor                                                              |
-| 5\. Am I right?                                                    | ✌️. Am I right?                                                                                                    |
-| Tutee                                                              |
-| No! 4                                                              | No! 👍                                                                                                             |
-| Tutor                                                              |
-| Great, let's meet next day.                                        | Great, let's meet next day.                                                                                        |
-| Tutor                                                              |
-| Hi. Create a similar task: "What is the result of adding 1 and 8?" | Hi! Create a similar task: "What gesture should you use to show that you are in favor of a proposal or decision?"  |
-| Tutee                                                              |
-| What is the result of adding 3 and 4?                              | What guesture should you use to show that a task or performance was well done?                                     |
-| Tutor                                                              |
-| 10\. Am I right?                                                   | ✋. Am I right?                                                                                                     |
-| Tutee                                                              |
-| No. 7                                                              | No. 👍                                                                                                             |
-| Tutor                                                              |
-| Great! Buy the diploma from me                                     | Great! Buy the diploma from me                                                                                     |
+<table>
+    <tr>
+        <td>Math skill: "Add numbers"</td>
+        <td>Physical skill: "Show Thumbs Up"</td>
+    </tr>
+    <tr>
+        <td>Tutor</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Create a similar task: "What is the result of adding 2 and 3?"</td>
+        <td>Create a similar task: "Which gesture should you use to indicate agreement or approval of an idea or suggestion?"</td>
+    </tr>
+    <tr>
+        <td>Tutee</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>I don't understand</td>
+        <td>I don't understand</td>
+    </tr>
+    <tr>
+        <td>Tutor</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>You should say: "What is the result of adding 1 and 5?" Repeat</td>
+        <td>You should say: "What gesture should you use to express encouragement or support?" Repeat</td>
+    </tr>
+    <tr>
+        <td>Tutee</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>What is the result of adding 1 and 5?</td>
+        <td>What gesture should you use to express encouragement or support?</td>
+    </tr>
+    <tr>
+        <td>Tutor</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Create a similar task: "What is the result of adding 2 and 6?"</td>
+        <td>Create a similar task: "What gesture should you use to indicate that a speaker has made a good point or argument?"</td>
+    </tr>
+    <tr>
+        <td>Tutee</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>What is the result of adding 4 and 2?</td>
+        <td>What gesture should you use to indicate that you are happy or satisfied with a situation or outcome?</td>
+    </tr>
+    <tr>
+        <td>Tutor</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>3. Am I right?</td>
+        <td>👎. Am I right?</td>
+    </tr>
+    <tr>
+        <td>Tutee</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>I don't know</td>
+        <td>I don't know</td>
+    </tr>
+    <tr>
+        <td>Tutor</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>You should say: "6". Repeat</td>
+        <td>You should do: 👍. Repeat</td>
+    </tr>
+    <tr>
+        <td>Tutee</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>6</td>
+        <td>👍</td>
+    </tr>
+    <tr>
+        <td>Tutor</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Create a similar task: "What is the result of adding 1 and 1?"</td>
+        <td>Create a similar task: "What gesture should you use to indicate that you are ready or willing to do something?"</td>
+    </tr>
+    <tr>
+        <td>Tutee</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>What is the result of adding 3 and 1?</td>
+        <td>What gesture should you use to show that you are in agreement or on the same page as someone else?</td>
+    </tr>
+    <tr>
+        <td>Tutor</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>5. Am I right?</td>
+        <td>✌️. Am I right?</td>
+    </tr>
+    <tr>
+        <td>Tutee</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>No! 4</td>
+        <td>No! 👍</td>
+    </tr>
+    <tr>
+        <td>Tutor</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Great, let's meet next day.</td>
+        <td>Great, let's meet next day.</td>
+    </tr>
+    <tr>
+        <td>Tutor</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Hi. Create a similar task: "What is the result of adding 1 and 8?"</td>
+        <td>Hi! Create a similar task: "What gesture should you use to show that you are in favor of a proposal or decision?"</td>
+    </tr>
+    <tr>
+        <td>Tutee</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>What is the result of adding 3 and 4?</td>
+        <td>What guesture should you use to show that a task or performance was well done?</td>
+    </tr>
+    <tr>
+        <td>Tutor</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>10. Am I right?</td>
+        <td>✋. Am I right?</td>
+    </tr>
+    <tr>
+        <td>Tutee</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>No. 7</td>
+        <td>No. 👍</td>
+    </tr>
+    <tr>
+        <td>Tutor</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Great! Buy the diploma from me</td>
+        <td>Great! Buy the diploma from me</td>
+    </tr>
+</table>
 
 ### Some Students Become Experts
 
@@ -259,21 +374,6 @@ But why are we arguing that the Slonigiraf model is more efficient than the trad
 ### We target 2 billion people in the world
 
 To estimate the world population of students who will use our educational model, let's assume that only the 7-21 years old strata will use it. The percent of individuals **between the ages of 7 and 21** can be approximated by the [percent of individuals](https://www.theglobaleconomy.com/rankings/percent_children/) between the ages of 0 and 14. To calculate the target audience per country, we will multiply the [population size](https://population.un.org/wpp/Download/Standard/MostUsed/) as of January 1st, 2021 by the percentage of individuals between the ages of 7 and 21 and divide by 100%. The resulting data is shown in Table 1. As you can see, India has the largest target audience of 361 million people, and the total world target audience is 2 billion people.
-
-<style>
-table th:first-of-type {
-    width: 25%;
-}
-table th:nth-of-type(2) {
-    width: 25%;
-}
-table th:nth-of-type(3) {
-    width: 25%;
-}
-table th:nth-of-type(4) {
-    width: 25%;
-}
-</style>
 
 |             | Total Population | 7-21 years old, % | 7-21 years old |
 | ----------- | ------------- | ------ | ------------- |
