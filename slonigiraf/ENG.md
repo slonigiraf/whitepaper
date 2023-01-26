@@ -164,7 +164,7 @@ In summary, the algorithm is based on pedagogical principles such as mastery lea
         <th width="50%">Physical skill: "Show Thumbs Up"</th>
     </tr>
     <tr>
-        <td>Tutor</td>
+        <td colspan="2">Tutor</td>
         <td></td>
     </tr>
     <tr>
@@ -172,7 +172,7 @@ In summary, the algorithm is based on pedagogical principles such as mastery lea
         <td>Create a similar task: "Which gesture should you use to indicate agreement or approval of an idea or suggestion?"</td>
     </tr>
     <tr>
-        <td>Tutee</td>
+        <td colspan="2">Tutee</td>
         <td></td>
     </tr>
     <tr>
@@ -180,7 +180,7 @@ In summary, the algorithm is based on pedagogical principles such as mastery lea
         <td>I don't understand</td>
     </tr>
     <tr>
-        <td>Tutor</td>
+        <td colspan="2">Tutor</td>
         <td></td>
     </tr>
     <tr>
@@ -188,7 +188,7 @@ In summary, the algorithm is based on pedagogical principles such as mastery lea
         <td>You should say: "What gesture should you use to express encouragement or support?" Repeat</td>
     </tr>
     <tr>
-        <td>Tutee</td>
+        <td colspan="2">Tutee</td>
         <td></td>
     </tr>
     <tr>
@@ -196,7 +196,7 @@ In summary, the algorithm is based on pedagogical principles such as mastery lea
         <td>What gesture should you use to express encouragement or support?</td>
     </tr>
     <tr>
-        <td>Tutor</td>
+        <td colspan="2">Tutor</td>
         <td></td>
     </tr>
     <tr>
@@ -204,7 +204,7 @@ In summary, the algorithm is based on pedagogical principles such as mastery lea
         <td>Create a similar task: "What gesture should you use to indicate that a speaker has made a good point or argument?"</td>
     </tr>
     <tr>
-        <td>Tutee</td>
+        <td colspan="2">Tutee</td>
         <td></td>
     </tr>
     <tr>
@@ -212,7 +212,7 @@ In summary, the algorithm is based on pedagogical principles such as mastery lea
         <td>What gesture should you use to indicate that you are happy or satisfied with a situation or outcome?</td>
     </tr>
     <tr>
-        <td>Tutor</td>
+        <td colspan="2">Tutor</td>
         <td></td>
     </tr>
     <tr>
@@ -220,7 +220,7 @@ In summary, the algorithm is based on pedagogical principles such as mastery lea
         <td>👎. Am I right?</td>
     </tr>
     <tr>
-        <td>Tutee</td>
+        <td colspan="2">Tutee</td>
         <td></td>
     </tr>
     <tr>
@@ -228,7 +228,7 @@ In summary, the algorithm is based on pedagogical principles such as mastery lea
         <td>I don't know</td>
     </tr>
     <tr>
-        <td>Tutor</td>
+        <td colspan="2">Tutor</td>
         <td></td>
     </tr>
     <tr>
@@ -236,7 +236,7 @@ In summary, the algorithm is based on pedagogical principles such as mastery lea
         <td>You should do: 👍. Repeat</td>
     </tr>
     <tr>
-        <td>Tutee</td>
+        <td colspan="2">Tutee</td>
         <td></td>
     </tr>
     <tr>
@@ -244,7 +244,7 @@ In summary, the algorithm is based on pedagogical principles such as mastery lea
         <td>👍</td>
     </tr>
     <tr>
-        <td>Tutor</td>
+        <td colspan="2">Tutor</td>
         <td></td>
     </tr>
     <tr>
@@ -252,7 +252,7 @@ In summary, the algorithm is based on pedagogical principles such as mastery lea
         <td>Create a similar task: "What gesture should you use to indicate that you are ready or willing to do something?"</td>
     </tr>
     <tr>
-        <td>Tutee</td>
+        <td colspan="2">Tutee</td>
         <td></td>
     </tr>
     <tr>
@@ -260,7 +260,7 @@ In summary, the algorithm is based on pedagogical principles such as mastery lea
         <td>What gesture should you use to show that you are in agreement or on the same page as someone else?</td>
     </tr>
     <tr>
-        <td>Tutor</td>
+        <td colspan="2">Tutor</td>
         <td></td>
     </tr>
     <tr>
@@ -268,7 +268,7 @@ In summary, the algorithm is based on pedagogical principles such as mastery lea
         <td>✌️. Am I right?</td>
     </tr>
     <tr>
-        <td>Tutee</td>
+        <td colspan="2">Tutee</td>
         <td></td>
     </tr>
     <tr>
@@ -276,7 +276,7 @@ In summary, the algorithm is based on pedagogical principles such as mastery lea
         <td>No! 👍</td>
     </tr>
     <tr>
-        <td>Tutor</td>
+        <td colspan="2">Tutor</td>
         <td></td>
     </tr>
     <tr>
@@ -284,7 +284,7 @@ In summary, the algorithm is based on pedagogical principles such as mastery lea
         <td>Great, let's meet next day.</td>
     </tr>
     <tr>
-        <td>Tutor</td>
+        <td colspan="2">Tutor</td>
         <td></td>
     </tr>
     <tr>
@@ -292,7 +292,7 @@ In summary, the algorithm is based on pedagogical principles such as mastery lea
         <td>Hi! Create a similar task: "What gesture should you use to show that you are in favor of a proposal or decision?"</td>
     </tr>
     <tr>
-        <td>Tutee</td>
+        <td colspan="2">Tutee</td>
         <td></td>
     </tr>
     <tr>
@@ -300,7 +300,7 @@ In summary, the algorithm is based on pedagogical principles such as mastery lea
         <td>What guesture should you use to show that a task or performance was well done?</td>
     </tr>
     <tr>
-        <td>Tutor</td>
+        <td colspan="2">Tutor</td>
         <td></td>
     </tr>
     <tr>
@@ -308,7 +308,7 @@ In summary, the algorithm is based on pedagogical principles such as mastery lea
         <td>✋. Am I right?</td>
     </tr>
     <tr>
-        <td>Tutee</td>
+        <td colspan="2">Tutee</td>
         <td></td>
     </tr>
     <tr>
@@ -316,7 +316,7 @@ In summary, the algorithm is based on pedagogical principles such as mastery lea
         <td>No. 👍</td>
     </tr>
     <tr>
-        <td>Tutor</td>
+        <td colspan="2">Tutor</td>
         <td></td>
     </tr>
     <tr>
