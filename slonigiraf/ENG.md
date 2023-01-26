@@ -158,7 +158,16 @@ Finally, the algorithm is based on the principle of spaced repetition, which is 
 
 In summary, the algorithm is based on pedagogical principles such as mastery learning, formative assessment, and spaced repetition, which are known to be effective in promoting skill acquisition and retention.
 
-| `    Math skill: "Add numbers"   ` | `Physical skill: "Show Thumbs Up"` |
+<style>
+table th:first-of-type {
+    width: 50%;
+}
+table th:nth-of-type(2) {
+    width: 50%;
+}
+</style>
+
+| Math skill: "Add numbers" | Physical skill: "Show Thumbs Up" |
 | ---------------------------------- | ---------------------------------- |
 | Tutor |
 | Create a similar task: "What is the result of adding 2 and 3?"     | Create a similar task: "Which gesture should you use to indicate agreement or approval of an idea or suggestion?"  |
@@ -250,6 +259,21 @@ But why are we arguing that the Slonigiraf model is more efficient than the trad
 ### We target 2 billion people in the world
 
 To estimate the world population of students who will use our educational model, let's assume that only the 7-21 years old strata will use it. The percent of individuals **between the ages of 7 and 21** can be approximated by the [percent of individuals](https://www.theglobaleconomy.com/rankings/percent_children/) between the ages of 0 and 14. To calculate the target audience per country, we will multiply the [population size](https://population.un.org/wpp/Download/Standard/MostUsed/) as of January 1st, 2021 by the percentage of individuals between the ages of 7 and 21 and divide by 100%. The resulting data is shown in Table 1. As you can see, India has the largest target audience of 361 million people, and the total world target audience is 2 billion people.
+
+<style>
+table th:first-of-type {
+    width: 25%;
+}
+table th:nth-of-type(2) {
+    width: 25%;
+}
+table th:nth-of-type(3) {
+    width: 25%;
+}
+table th:nth-of-type(4) {
+    width: 25%;
+}
+</style>
 
 |             | Total Population | 7-21 years old, % | 7-21 years old |
 | ----------- | ------------- | ------ | ------------- |
