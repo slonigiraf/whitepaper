@@ -20,23 +20,23 @@ We explore how education affects economic growth and present an education model 
   - [A Tutee Can Allow a Tutor to Review a Diploma Issued by Another Tutor](#a-tutee-can-allow-a-tutor-to-review-a-diploma-issued-by-another-tutor)
   - [Teacher Salary Can Be Adjusted to the Quality of Teaching](#teacher-salary-can-be-adjusted-to-the-quality-of-teaching)
   - [Linking Education to the Real World by Paying Students for Learning](#linking-education-to-the-real-world-by-paying-students-for-learning)
-  - [Comparing the speed of skill acquisition of the Slonigiraf model to the traditional model](#comparing-the-speed-of-skill-acquisition-of-the-slonigiraf-model-to-the-traditional-model)
-- [Financial model of the proposed educational reform](#financial-model-of-the-proposed-educational-reform)
-  - [We target 2 billion people in the world](#we-target-2-billion-people-in-the-world)
-  - [Wages of tutors and experts](#wages-of-tutors-and-experts)
-  - [Diploma price and reimbursement amount](#diploma-price-and-reimbursement-amount)
-  - [Situations leading to earning and spending money](#situations-leading-to-earning-and-spending-money)
-  - [Losing money probability](#losing-money-probability)
-  - [If we know that student lost money - what happened?](#if-we-know-that-student-lost-money---what-happened)
-  - [Student starting capital](#student-starting-capital)
-  - [Total money amount needed to run the Slonigiraf system in a specific country](#total-money-amount-needed-to-run-the-slonigiraf-system-in-a-specific-country)
-- [How to give money out to students](#how-to-give-money-out-to-students)
-- [SLON token price](#slon-token-price)
-- [Diploma price and reimbursement amount in SLON nominal](#diploma-price-and-reimbursement-amount-in-slon-nominal)
-- [SLON token monetary base](#slon-token-monetary-base)
-- [Long lasting effect of education improvement](#long-lasting-effect-of-education-improvement)
-- [System software architecture](#system-software-architecture)
-- [Appendix 1. Probability to face a sequence of bad lucks](#appendix-1-probability-to-face-a-sequence-of-bad-lucks)
+  - [Comparing the Speed of Skill Acquisition of the Slonigiraf Model to the Traditional Model](#comparing-the-speed-of-skill-acquisition-of-the-slonigiraf-model-to-the-traditional-model)
+- [Financial Model of the Proposed Educational Reform](#financial-model-of-the-proposed-educational-reform)
+  - [We Target 2 Billion People in the World](#we-target-2-billion-people-in-the-world)
+  - [Wages of Tutors and Experts](#wages-of-tutors-and-experts)
+  - [Diploma Price and Reimbursement Amount](#diploma-price-and-reimbursement-amount)
+  - [Situations Leading To Earning and Spending Money](#situations-leading-to-earning-and-spending-money)
+  - [Losing Money Probability](#losing-money-probability)
+  - [If We Know That Student Lost Money - What Happened?](#if-we-know-that-student-lost-money---what-happened)
+  - [Student Starting Capital](#student-starting-capital)
+  - [Total Money Amount Needed To Run the Slonigiraf System in a Specific Country](#total-money-amount-needed-to-run-the-slonigiraf-system-in-a-specific-country)
+- [How To Give Money Out to Students](#how-to-give-money-out-to-students)
+- [SLON Token Price](#slon-token-price)
+- [Diploma Price and Reimbursement Amount in SLON Nominal](#diploma-price-and-reimbursement-amount-in-slon-nominal)
+- [SLON Token Monetary Base](#slon-token-monetary-base)
+- [Long Lasting Effect of Education Improvement](#long-lasting-effect-of-education-improvement)
+- [System Software Architecture](#system-software-architecture)
+- [Appendix 1. Probability To Face a Sequence of Bad Lucks](#appendix-1-probability-to-face-a-sequence-of-bad-lucks)
 
 ## Several Educational Models Are Known to Date
 
@@ -345,7 +345,7 @@ However, like any other educational approach, this system faces the challenge of
 
 The idea of paying students for their education may raise ethical concerns, as the traditional view is that education is valuable in and of itself. However, it is essential to acknowledge that all nations invest in education because it ultimately leads to greater economic growth in the long term. Therefore, students who are actively engaged in their studies are contributing to this process and should be compensated for their efforts.
 
-### Comparing the speed of skill acquisition of the Slonigiraf model to the traditional model
+### Comparing the Speed of Skill Acquisition of the Slonigiraf Model to the Traditional Model
 
 In the traditional model, a teacher teaches a group of students all at once, typically spending 22 minutes of their time to teach a skill to the group. The outcome of this method is that only one out of four students will have learned the skill. For example, if a teacher is working with a group of 32 students, this approach will result in 8 students having learned the skill.
 
@@ -353,9 +353,9 @@ In contrast, the Slonigiraf model utilizes individualized instruction, where a t
 
 But why are we arguing that the Slonigiraf model is more efficient than the traditional? The answer is because of other skills and other students. It's true that during 22 minutes only 3 students will get the skill that the teacher has started to introduce to the group. But during the time these 3 students acquire such skill other students will spread the skills that were introduced before. As any student in the Slonigiraf model has the 0.5 probability to get a new skill per session, during 2 sessions of 11 minutes each student is supposed to learn some new skill. Therefore, it is important to compare not just the number of students who acquire a specific skill in the traditional model (8) versus the Slonigiraf model (3), but also the total number of students who acquire any new skill in the Slonigiraf model (32). This shows that the Slonigiraf model is 4 times more efficient than the traditional one. Actually the performance of the Slonigiraf model is only 3 times better than the traditional because some students forget some skills.
 
-## Financial model of the proposed educational reform
+## Financial Model of the Proposed Educational Reform
 
-### We target 2 billion people in the world
+### We Target 2 Billion People in the World
 
 To estimate the world population of students who will use our educational model, let's assume that only the 7-21 years old strata will use it. The percent of individuals **between the ages of 7 and 21** can be approximated by the [percent of individuals](https://www.theglobaleconomy.com/rankings/percent_children/) between the ages of 0 and 14. To calculate the target audience per country, we will multiply the [population size](https://population.un.org/wpp/Download/Standard/MostUsed/) as of January 1st, 2021 by the percentage of individuals between the ages of 7 and 21 and divide by 100%. The resulting data is shown in Table 2. As you can see, India has the largest target audience of 361 million people, and the total world target audience is 2 billion people.
 
@@ -380,7 +380,7 @@ To estimate the world population of students who will use our educational model,
 | Rest world  | 2,911,807,000 | 26.51% | 771,920,036   |
 | TOTAL       | 7,909,294,917 |        | 1,966,096,793 |
 
-### Wages of tutors and experts
+### Wages of Tutors and Experts
 
 When considering the wages of tutors and experts, it's important to note that a student who is skilled at tutoring can earn money by helping other students outside of school or university. Therefore, the wage of a tutor can be approximated by the lowest wage of a teacher in the country where they live. The wage of an expert should be higher than that of a tutor to incentivize highly qualified students to become experts. Since qualified students can find well-paying online tutoring jobs, the maximum teacher wage in the country where the expert lives can be used as an approximation of the market wage for experts. According to data from [salaryexplorer.com](http://www.salaryexplorer.com/?loc=23&loctype=1&job=123&jobtype=3#browsesalaries) as of January 8th, 2022, the maximum teacher wage on average is 3.16 times higher than the minimum teacher wage. Therefore, **an expert should be paid 3.16 times more per minute of work than a tutor**. In Ethiopia, teacher wages are the lowest among the countries listed in the Table 3, so a tutor in Ethiopia will have the lowest wage in comparison to other countries from the table.
 
@@ -404,7 +404,7 @@ When considering the wages of tutors and experts, it's important to note that a 
 | Japan       | 1620.17 | 4762.09 | 2.94    |
 | Average     |         |         | 3.16    |
 
-### Diploma price and reimbursement amount
+### Diploma Price and Reimbursement Amount
 
 Let's calculate the reimbursement amount and mean diploma price by utilizing Ethiopia as an example, as its minimal teacher wages make it easier to work with small numbers in the calculations.
 
@@ -438,7 +438,7 @@ $0.05688/0.04722 = 1.2$
 
 Because all issued diplomas go through verification, it is NOT profitable for a tutor to cheat the system by issuing a large number of fraudulent diplomas. Doing so would result in them losing 1.2 times more money than they would earn.
 
-### Situations leading to earning and spending money
+### Situations Leading To Earning and Spending Money
 
 As we discussed above there are following roles in the Slonigiraf educational system: a teacher, an expert, a tutor of 0 tutees, a tutor of 1 tutees ...
 
@@ -495,7 +495,7 @@ Table 4 summarizes when it can happen.
 | Tutor of 5 tutees | 5  | 4  | 0.2          | Yes          |
 | Tutor of 5 tutees | 5  | 5  | \-1          | Yes          |
 
-### Losing money probability
+### Losing Money Probability
 
 If the student constantly faces money losses he will be bankrupt. Table 4 gives us insights which situations lead to money lost. Let's bring together the probability of playing each role and probability of losing money in each role. We will focus on the situations that lead to money loss. For example a "tutor of 5 tutees" paying 3 reimburses has a positive profit and we will not discuss that probability of such events in this section.
 
@@ -534,7 +534,7 @@ To calculate the probability that a student learning a skill will face a money l
 | Tutor of 5 tutees | 5    | 0.03125 | 0.00097656 | 3.05176E-05 |
 |Total              |      |         |            | **0.62902832**  |
 
-### If we know that student lost money - what happened?
+### If We Know That Student Lost Money - What Happened?
 
 We have calculated the probability to lose money for a student while learning a skill. What if we know he already lost money, can we identify the reason of it? The answer is "No" but we can describe the probability of different scenarios. It's more likely the student was a tutor of 0 mentees, because the probability to play such a role and lose money is 0.5 (see the last column of table 5). And the 0.5 takes the most [share](https://calcworkshop.com/probability/bayes-theorem/) of total 0.629 probability to lose money. This situation is happen in 0.794876771 part of bad cases:
 
@@ -557,7 +557,7 @@ All such shares are calculated and represented in a table 6.
 | Tutor of 5 tutees | 4 | 0.00045776 | 0.00072773 |
 | Tutor of 5 tutees | 5 | 3.0518E-05 | 4.8515E-05 |
 
-### Student starting capital
+### Student Starting Capital
 
 Our educational approach forces a tutee  to pay their tutor for skill-teaching and the issuance of a diploma, and requires the tutor to be responsible for the issued diploma by providing reimbursement when a tutee  forgets the skill certified by the diploma. To make this happen we need to assure that students have enough money for such economic interaction. As we discussed above there is a 62.9% chance that a student will spend more money during learning a skill that earn. For sure in rest 37.1% cases the student gets in sum the same profit as he losing in 62.9% cases, so their profit during years of learning should be near 0. But what if the student has a bad luck and all skills that he studies he is playing roles that lead to losing money? In such case he will start to pay for an education while we still suppose that the education should be a free resource for any person in on the Earth. To solve this problem we need to provide each student at the beginning of such approach enough money to prevent bankruptcy happening at all.
 
@@ -591,7 +591,7 @@ This is done in a table 7 for Ethiopia. We can see that that maximum money that 
 | Tutor of 5 tutees | 5 | 4.8515E-05 | 0.00237726 | 0.09444  | 0.00022451 |
 | Total             |   | 1          | 49         |          | 2.21405352 |
 
-### Total money amount needed to run the Slonigiraf system in a specific country
+### Total Money Amount Needed To Run the Slonigiraf System in a Specific Country
 
 As 2.214 USD is needed for a one student from Ethiopia, and the total number of possible students Ethiopia is 46,974,914 we need 104 million USD for the whole country.
 
@@ -629,7 +629,7 @@ Calculations for other countries in the world is presented in the table 8.
 | Rest world  | 771,920,036   |        |        |          38,611,355,747   |
 | TOTAL       | 3,160,273,551 |        |        |          98,343,946,528   |
 
-## How to give money out to students
+## How To Give Money Out to Students
 
 Giving out money to students is not expected to largely affect inflation as the amount is very tiny in comparison to monetary base. For example we need to give out 13.68B USD to USA students. This amount comprise only 0.25% of [country monetary base as of November 2022](https://www.federalreserve.gov/releases/h6/current/). However this amount of money for sure needs to be approved by national governments that is unlikely to happen in easy way.
 
@@ -639,7 +639,7 @@ We think that a good solution for both these problems is an issuing tokens that 
 
 There are two ways of such token issuing. The fist one is to wait when a government will do so. In such way there will be know players in a private sector who can drive such a reform as all the profit will go straight to the budget. Thus it's possible that will not happen ever as there are other things that governments should do that are more lobbied. The second way is to issue such token and spread the emission between companies who want to make money on driving the educational reform. Let's name such token as SLON.
 
-## SLON token price
+## SLON Token Price
 
 As we discussed above SLON is a token that intended to be used in the Slonigiraf educational model by students instead of real money. We defined before that the diploma price and reimbursements vary between countries. From the most populated ones the minimum price of diploma is in Ethiopia. Let's define how much the diploma should cost in Ethiopia in SLON and what amount of reimbursement will be in SLON nominal.
 
@@ -647,7 +647,7 @@ The calculated diploma in Ethiopia is 0.04722 USD, the reimbursement amount is 0
 
 $0.04722 / 5 = 0.009444$
 
-## Diploma price and reimbursement amount in SLON nominal
+## Diploma Price and Reimbursement Amount in SLON Nominal
 
 As different countries have different teacher salaries, the diploma price and how many SLON should get each student will vary also. The table 8 contains such indicators calculated in USD. Let's present them in SLON by using the SLON price calculated above - see the table 9 below.
 
@@ -670,7 +670,7 @@ As different countries have different teacher salaries, the diploma price and ho
 | Russia      | 17.49  | 4101  | 88  | 105 |
 | Japan       | 53.65  | 12578 | 269 | 322 |
 
-## SLON token monetary base
+## SLON Token Monetary Base
 
 Previously we have calculated an amount of money that is needed to be give out to students at the beginning of the Slonigiraf educational model implementation. It's 98,343,946,528 USD. As the nominal value of 1 SLON is 0.009444 USD, then we need **10.4 trillion of SLON to give out to students**:
 
@@ -682,15 +682,15 @@ In the proposed system, is the total demand for SLON estimated to be just 10.4 t
 
 $8 / 0.009444 = 847$
 
-## Long lasting effect of education improvement
+## Long Lasting Effect of Education Improvement
 
 GDP is closely tied to the workforce. Using a conservative estimate that 1% of labor growth leads to a [0.36% increase in GDP](https://dergipark.org.tr/tr/download/article-file/364734), the improvement in education resulting in a 3Х (or 200%) growth in the workforce would lead to a 72% increase in GDP, equivalent to approximately [69.5](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD) trillion USD in the long term. Based on this calculation, our initial estimation for the total demand for SLON tokens at 8 trillion USD should be revised upwards to 77.5 (69.5+8) trillion USD that could potentially lead to the cryptocurrency 10X price growth (77.5/8). Additionally the demand for SLON tokens could rise due to usage the system for corporate education and HR processes. In order to ensure the price stability, we plan to implement an inflation rate of approximately 10%. This inflation is achieved by generating additional SLON through the process of "stacking" and is a common practice in the current cryptocurrency market as a reward for the hardware maintenance.
 
-## System software architecture
+## System Software Architecture
 
 The proposed system, Slonigiraf, is composed of two interconnected components: [SLON](https://github.com/slonigiraf/whitepaper/blob/main/slon/ENG.md), which functions as a reputation system, and [GIRAF](https://github.com/slonigiraf/whitepaper/blob/main/giraf/ENG.md), which serves as a lobbying and legislation system. Both systems are implemented as distinct blockchains that are linked together through a relay chain. This design allows for the deployment of multiple SLON and GIRAF modules, enabling the system to handle a large scale of users and meet the diverse needs of the population. The GIRAF component is used to facilitate consensus on the types of skills that are necessary for education and the methods for teaching them. The term "SLON" is used both as the name of a Slonigiraf cryptocurrency and as the name of the module that stores information about recommendation letters.
 
-## Appendix 1. Probability to face a sequence of bad lucks
+## Appendix 1. Probability To Face a Sequence of Bad Lucks
 
 | Number of skills in a row that result in spending money  | Probability of such event | % of people who are expected to face it | Affected people in world |
 | -- | ---------- | ------ | ------------- |
