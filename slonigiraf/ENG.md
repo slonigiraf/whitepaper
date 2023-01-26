@@ -158,6 +158,49 @@ Finally, the algorithm is based on the principle of spaced repetition, which is 
 
 In summary, the algorithm is based on pedagogical principles such as mastery learning, formative assessment, and spaced repetition, which are known to be effective in promoting skill acquisition and retention.
 
+| Add numbers                                                        | Show Thumbs Up                                                                                                     |
+| ------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
+| Tutor                                                              |
+| Create a similar task: "What is the result of adding 2 and 3?"     | Create a similar task: "Which gesture should you use to indicate agreement or approval of an idea or suggestion?"  |
+| Tutee                                                              |
+| I don't understand                                                 | I don't understand                                                                                                 |
+| Tutor                                                              |
+| You should say: "What is the result of adding 1 and 5?" Repeat     | You should say: "What gesture should you use to express encouragement or support?" Repeat                          |
+| Tutee                                                              |
+| What is the result of adding 1 and 5?                              | What gesture should you use to express encouragement or support?                                                   |
+| Tutor                                                              |
+| Create a similar task: "What is the result of adding 2 and 6?"     | Create a similar task: "What gesture should you use to indicate that a speaker has made a good point or argument?" |
+| Tutee                                                              |
+| What is the result of adding 4 and 2?                              | What gesture should you use to indicate that you are happy or satisfied with a situation or outcome?               |
+| Tutor                                                              |
+| 3\. Am I right?                                                    | 👎. Am I right?                                                                                                    |
+| Tutee                                                              |
+| I don't know                                                       | I don't know                                                                                                       |
+| Tutor                                                              |
+| You should say: "6". Repeat                                        | You should do: 👍. Repeat                                                                                          |
+| Tutee                                                              |
+| 6                                                                  | 👍                                                                                                                 |
+| Tutor                                                              |
+| Create a similar task: "What is the result of adding 1 and 1?"     | Create a similar task: "What gesture should you use to indicate that you are ready or willing to do something?"    |
+| Tutee                                                              |
+| What is the result of adding 3 and 1?                              | What gesture should you use to show that you are in agreement or on the same page as someone else?                 |
+| Tutor                                                              |
+| 5\. Am I right?                                                    | ✌️. Am I right?                                                                                                    |
+| Tutee                                                              |
+| No! 4                                                              | No! 👍                                                                                                             |
+| Tutor                                                              |
+| Great, let's meet next day.                                        | Great, let's meet next day.                                                                                        |
+| Tutor                                                              |
+| Hi. Create a similar task: "What is the result of adding 1 and 8?" | Hi! Create a similar task: "What gesture should you use to show that you are in favor of a proposal or decision?"  |
+| Tutee                                                              |
+| What is the result of adding 3 and 4?                              | What guesture should you use to show that a task or performance was well done?                                     |
+| Tutor                                                              |
+| 10\. Am I right?                                                   | ✋. Am I right?                                                                                                     |
+| Tutee                                                              |
+| No. 7                                                              | No. 👍                                                                                                             |
+| Tutor                                                              |
+| Great! Buy the diploma from me                                     | Great! Buy the diploma from me                                                                                     |
+
 ### Some Students Become Experts
 
 Holding a diploma does not necessarily mean that a student has fully mastered the skill in question. It simply indicates that the tutor believes they have. However, there are several reasons why this belief may be misguided. For example, the tutor may not possess the skill themselves, may not have adequately assessed the student's proficiency, or the student may have forgotten the skill. To ensure the quality of education, our model employs experts who verify diplomas and have the authority to award students with "A" grades or other types of reward. The primary expert at the start of a lesson is the master teacher who leads and manages the lesson. However, due to time constraints, they may not be able to verify all diplomas. The teacher can delegate this responsibility to select students who have already obtained a diploma in the skill being taught. The teacher will first verify that these students possess the skill. If they fail the verification, the teacher will hold the original tutor accountable. Those who pass the verification will take on **the role of experts** and get a reward from the teacher.
