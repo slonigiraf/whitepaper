@@ -158,6 +158,10 @@ Finally, the algorithm is based on the principle of spaced repetition, which is 
 
 In summary, the algorithm is based on pedagogical principles such as mastery learning, formative assessment, and spaced repetition, which are known to be effective in promoting skill acquisition and retention.
 
+This algorithm can be utilized to train a wide range of skills, regardless of whether they are related to mathematics, linguistics, music, or sports such as tennis. For example, refer to Table 1 for an illustration of its usage:
+
+*Table 1. How tutors use the teaching algorithm.*
+
 <table width="100%">
     <tr>
         <th width="50%">Math skill: "Add numbers"</th>
@@ -353,7 +357,9 @@ But why are we arguing that the Slonigiraf model is more efficient than the trad
 
 ### We target 2 billion people in the world
 
-To estimate the world population of students who will use our educational model, let's assume that only the 7-21 years old strata will use it. The percent of individuals **between the ages of 7 and 21** can be approximated by the [percent of individuals](https://www.theglobaleconomy.com/rankings/percent_children/) between the ages of 0 and 14. To calculate the target audience per country, we will multiply the [population size](https://population.un.org/wpp/Download/Standard/MostUsed/) as of January 1st, 2021 by the percentage of individuals between the ages of 7 and 21 and divide by 100%. The resulting data is shown in Table 1. As you can see, India has the largest target audience of 361 million people, and the total world target audience is 2 billion people.
+To estimate the world population of students who will use our educational model, let's assume that only the 7-21 years old strata will use it. The percent of individuals **between the ages of 7 and 21** can be approximated by the [percent of individuals](https://www.theglobaleconomy.com/rankings/percent_children/) between the ages of 0 and 14. To calculate the target audience per country, we will multiply the [population size](https://population.un.org/wpp/Download/Standard/MostUsed/) as of January 1st, 2021 by the percentage of individuals between the ages of 7 and 21 and divide by 100%. The resulting data is shown in Table 2. As you can see, India has the largest target audience of 361 million people, and the total world target audience is 2 billion people.
+
+*Table 2. Target audience (7-21 years old people). The value of 7-21 strata percent for the rest world was calculated as an average for the countries from the list above.*
 
 |             | Total Population | 7-21 years old, % | 7-21 years old |
 | ----------- | ------------- | ------ | ------------- |
@@ -374,11 +380,11 @@ To estimate the world population of students who will use our educational model,
 | Rest world  | 2,911,807,000 | 26.51% | 771,920,036   |
 | TOTAL       | 7,909,294,917 |        | 1,966,096,793 |
 
-*Table 1. Target audience (7-21 years old people). The value of 7-21 strata percent for the rest world was calculated as an average for the countries from the list above.*
-
 ### Wages of tutors and experts
 
-When considering the wages of tutors and experts, it's important to note that a student who is skilled at tutoring can earn money by helping other students outside of school or university. Therefore, the wage of a tutor can be approximated by the lowest wage of a teacher in the country where they live. The wage of an expert should be higher than that of a tutor to incentivize highly qualified students to become experts. Since qualified students can find well-paying online tutoring jobs, the maximum teacher wage in the country where the expert lives can be used as an approximation of the market wage for experts. According to data from [salaryexplorer.com](http://www.salaryexplorer.com/?loc=23&loctype=1&job=123&jobtype=3#browsesalaries) as of January 8th, 2022, the maximum teacher wage on average is 3.16 times higher than the minimum teacher wage. Therefore, **an expert should be paid 3.16 times more per minute of work than a tutor**. In Ethiopia, teacher wages are the lowest among the countries listed in the Table 2, so a tutor in Ethiopia will have the lowest wage in comparison to other countries from the table.
+When considering the wages of tutors and experts, it's important to note that a student who is skilled at tutoring can earn money by helping other students outside of school or university. Therefore, the wage of a tutor can be approximated by the lowest wage of a teacher in the country where they live. The wage of an expert should be higher than that of a tutor to incentivize highly qualified students to become experts. Since qualified students can find well-paying online tutoring jobs, the maximum teacher wage in the country where the expert lives can be used as an approximation of the market wage for experts. According to data from [salaryexplorer.com](http://www.salaryexplorer.com/?loc=23&loctype=1&job=123&jobtype=3#browsesalaries) as of January 8th, 2022, the maximum teacher wage on average is 3.16 times higher than the minimum teacher wage. Therefore, **an expert should be paid 3.16 times more per minute of work than a tutor**. In Ethiopia, teacher wages are the lowest among the countries listed in the Table 3, so a tutor in Ethiopia will have the lowest wage in comparison to other countries from the table.
+
+*Table 3. Teacher monthly wages in USD per country.*
 
 |             | Min | Max | Max/Min |
 | ----------- | ------- | ------- | ------- |
@@ -397,8 +403,6 @@ When considering the wages of tutors and experts, it's important to note that a 
 | Russia      | 528.28  | 1558.63 | 2.95    |
 | Japan       | 1620.17 | 4762.09 | 2.94    |
 | Average     |         |         | 3.16    |
-
-*Table 2. Teacher monthly wages in USD per country.*
 
 ### Diploma price and reimbursement amount
 
@@ -465,6 +469,8 @@ You can see that $Profit < 0$ only if $(-1 + N{_t} - 1.2 * N{_f}) < 0$, or simpl
 
 Table 4 summarizes when it can happen.
 
+*Table 4. Cash flow outcomes of different roles*
+
 | Role              | $N{_t}$ | $N{_f}$ | $N{_t}-1.2*N{_f}$ | Losing money |
 | ----------------- | -- | -- | ------------ | ------------ |
 | Tutor of 0 tutees | 0  | 0  | 0            | Yes          |
@@ -489,8 +495,6 @@ Table 4 summarizes when it can happen.
 | Tutor of 5 tutees | 5  | 4  | 0.2          | Yes          |
 | Tutor of 5 tutees | 5  | 5  | \-1          | Yes          |
 
-*Table 4. Cash flow outcomes of different roles*
-
 ### Losing money probability
 
 If the student constantly faces money losses he will be bankrupt. Table 4 gives us insights which situations lead to money lost. Let's bring together the probability of playing each role and probability of losing money in each role. We will focus on the situations that lead to money loss. For example a "tutor of 5 tutees" paying 3 reimburses has a positive profit and we will not discuss that probability of such events in this section.
@@ -514,6 +518,8 @@ Other values in the column "Such reimbursement count probability for a role" of 
 
 To calculate the probability that a student learning a skill will face a money loss due to a specific role facing N reimbursements we need to multiply the probability of playing such a role on a probability of such reimbursement count for a role, for example for "tutor of 2 tutees" that pays 1 reimbursements it is: $0.125 * 0.375 = 0.046875$. If we will sum all probabilities for such bad luck situations we will get that a student with a **probability of 0.629** will lose some money during any skill learning.
 
+*Table 5. Probability to lose money playing a certain role*
+
 | Role | Count of reimbursements | Role probability | Such reimbursement count probability for a role | Probability of such situation |
 | ----------------- | ---- | ------- | ---------- | ----------- |
 | Tutor of 0 tutees | 0    | 0.5     | 1          | 0.5         |
@@ -528,8 +534,6 @@ To calculate the probability that a student learning a skill will face a money l
 | Tutor of 5 tutees | 5    | 0.03125 | 0.00097656 | 3.05176E-05 |
 |Total              |      |         |            | **0.62902832**  |
 
-*Table 5. Probability to lose money playing a certain role*
-
 ### If we know that student lost money - what happened?
 
 We have calculated the probability to lose money for a student while learning a skill. What if we know he already lost money, can we identify the reason of it? The answer is "No" but we can describe the probability of different scenarios. It's more likely the student was a tutor of 0 mentees, because the probability to play such a role and lose money is 0.5 (see the last column of table 5). And the 0.5 takes the most [share](https://calcworkshop.com/probability/bayes-theorem/) of total 0.629 probability to lose money. This situation is happen in 0.794876771 part of bad cases:
@@ -537,6 +541,8 @@ We have calculated the probability to lose money for a student while learning a 
 $0.5 / 0.62902832 = 0.794876771$
 
 All such shares are calculated and represented in a table 6.
+
+*Table 6. Probability that a specific situation leaded to the money loss*
 
 | Role | Count of reimbursements | Probability of such situation | Part that such situtation takes in all bad luck cases |
 | ----------------- | - | ---------- | ---------- |
@@ -550,8 +556,6 @@ All such shares are calculated and represented in a table 6.
 | Tutor of 4 tutees | 4 | 0.00012207 | 0.00019406 |
 | Tutor of 5 tutees | 4 | 0.00045776 | 0.00072773 |
 | Tutor of 5 tutees | 5 | 3.0518E-05 | 4.8515E-05 |
-
-*Table 6. Probability that a specific situation leaded to the money loss*
 
 ### Student starting capital
 
@@ -571,6 +575,8 @@ Some of such 49 cases will be happen due to that a student will not having a men
 
 This is done in a table 7 for Ethiopia. We can see that that maximum money that a student from Ethiopia can lose is about 2.214 USD.
 
+*Table 7. Maximum probable money loss, calculated per a student from Ethiopia*
+
 | Role | Count of reimbursements | Part that such situtation takes in all bad luck cases | Number of such situations | Money lost per situation, Ethiopia (USD) | Sum money lost, Ethiopia (USD) |
 | ----------------- | - | ---------- | ---------- | -------- | ---------- |
 | Tutor of 0 tutees | 0 | 0.79487677 | 38.9489618 | 0.04722  | 1.83916998 |
@@ -584,8 +590,6 @@ This is done in a table 7 for Ethiopia. We can see that that maximum money that 
 | Tutor of 5 tutees | 4 | 0.00072773 | 0.03565884 | 0.037776 | 0.00134705 |
 | Tutor of 5 tutees | 5 | 4.8515E-05 | 0.00237726 | 0.09444  | 0.00022451 |
 | Total             |   | 1          | 49         |          | 2.21405352 |
-
-*Table 7. Maximum probable money loss, calculated per a student from Ethiopia*
 
 ### Total money amount needed to run the Slonigiraf system in a specific country
 
@@ -602,6 +606,8 @@ The total number of money needed to drive the Slonigiraf system in USA for 61,37
 $222.87 * 61,376,828 = 13,679,152,692$
 
 Calculations for other countries in the world is presented in the table 8.
+
+*Table 8. Money needed to drive the Slonigiraf system*
 
 |   | 7-21 years old people | Times min teacher wage is larger than Ethiopian counterpart | Min money a student need, USD | The country need, USD |
 | ----------- | ------------- | ------ | ------ | ------------------------- |
@@ -622,8 +628,6 @@ Calculations for other countries in the world is presented in the table 8.
 | SUM         | 1,194,176,758 |        |        |          59,732,590,782   |
 | Rest world  | 771,920,036   |        |        |          38,611,355,747   |
 | TOTAL       | 3,160,273,551 |        |        |          98,343,946,528   |
-
-*Table 8. Money needed to drive the Slonigiraf system*
 
 ## How to give money out to students
 
@@ -647,6 +651,8 @@ $0.04722 / 5 = 0.009444$
 
 As different countries have different teacher salaries, the diploma price and how many SLON should get each student will vary also. The table 8 contains such indicators calculated in USD. Let's present them in SLON by using the SLON price calculated above - see the table 9 below.
 
+*Table 9. SLON token needed to drive the Slonigiraf system. All values are rounded up to the nearest integer.*
+
 |  | Times min teacher wage  is larger than Ethiopian counterpart | Free tokens given to each student, SLON | Diploma price, SLON | Reimbursement amount, SLON |
 | ----------- | ------ | ----- | --- | --- |
 | India       | 4.75   | 1114  | 24  | 29  |
@@ -663,8 +669,6 @@ As different countries have different teacher salaries, the diploma price and ho
 | Mexico      | 22.50  | 5274  | 113 | 135 |
 | Russia      | 17.49  | 4101  | 88  | 105 |
 | Japan       | 53.65  | 12578 | 269 | 322 |
-
-*Table 9. SLON token needed to drive the Slonigiraf system. All values are rounded up to the nearest integer.*
 
 ## SLON token monetary base
 
