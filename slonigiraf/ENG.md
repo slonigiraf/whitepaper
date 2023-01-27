@@ -36,7 +36,10 @@ We explore how education affects economic growth and present an education model 
   - [Diploma Price and Reimbursement Amount in SLON Nominal](#diploma-price-and-reimbursement-amount-in-slon-nominal)
   - [SLON Token Monetary Base](#slon-token-monetary-base)
   - [Long Lasting Effect of Education Improvement](#long-lasting-effect-of-education-improvement)
-- [Private Enterprises Earn Money While Promoting The Educational Reform](#private-enterprises-earn-money-while-promoting-the-educational-reform)
+- [Private Enterprises Earn Revenue by Advocating for Educational Reform](#private-enterprises-earn-revenue-by-advocating-for-educational-reform)
+  - [Educational Organizations Acquire SLON Tokens to Establish Student Starting Capital](#educational-organizations-acquire-slon-tokens-to-establish-student-starting-capital)
+  - [SLON Expected to be Dominant Token in Educational Organizations](#slon-expected-to-be-dominant-token-in-educational-organizations)
+  - [Some Students Stash Tokens Which Leads to an Additional Demand](#some-students-stash-tokens-which-leads-to-an-additional-demand)
   - [SLON Token Demand](#slon-token-demand)
   - [SLON Token Supply](#slon-token-supply)
 - [System Software Architecture](#system-software-architecture)
@@ -641,7 +644,7 @@ Giving out money to students is not expected to largely affect inflation as the 
 
 Another problem to which this approach can face is student behavior. The temptation to spend it immediately is strong for students when they receive free money. It's highly likely that students will spend all money before they will understood the necessity of having money reserve.
 
-We think that a good solution for both these problems is an issuing tokens that are used only inside the Slonigiraf educational model. In such way students will get tokens instead of real money. This cost almost zero from a financial view, and prevents educational money spending before student understanding the value of tokens. Let's note that it's important to ensure students can't exchange tokens for money at the beginning of the educational reform otherwise we will face the same problem.
+We think that a good solution for both these problems is an issuing tokens that are used only inside the Slonigiraf educational model. In such way students will get tokens instead of real money. This cost almost zero from a financial view, and prevents educational money spending before student understanding the value of tokens.
 
 There are two ways of such token issuing. The fist one is to wait when a government will do so. In such way there will be know players in a private sector who can drive such a reform as all the profit will go straight to the budget. Thus it's possible that will not happen ever as there are other things that governments should do that are more lobbied. The second way is to issue such token and spread the emission between companies who want to make money on driving the educational reform. Let's name such token as SLON.
 
@@ -692,7 +695,19 @@ $8 / 0.009444 = 847$
 
 GDP is closely tied to the workforce. Using a conservative estimate that 1% of labor growth leads to a [0.36% increase in GDP](https://dergipark.org.tr/tr/download/article-file/364734), the improvement in education resulting in a 3Х (or 200%) growth in the workforce would lead to a 72% increase in GDP, equivalent to approximately [69.5](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD) trillion USD in the long term. Based on this calculation, our initial estimation for the total demand for SLON tokens at 8 trillion USD should be revised upwards to 77.5 (69.5+8) trillion USD that could potentially lead to the cryptocurrency 10X price growth (77.5/8). Additionally the demand for SLON tokens could rise due to usage the system for corporate education and HR processes. In order to ensure the price stability, we plan to implement an inflation rate of approximately 10%. This inflation is achieved by generating additional SLON through the process of "stacking" and is a common practice in the current cryptocurrency market as a reward for the hardware maintenance.
 
-## Private Enterprises Earn Money While Promoting The Educational Reform
+## Private Enterprises Earn Revenue by Advocating for Educational Reform
+
+### Educational Organizations Acquire SLON Tokens to Establish Student Starting Capital
+
+To utilize the Slonigiraf educational model, schools or universities must ensure that all students have adequate funding. As previously discussed, educational institutions cannot assume that all students are financially well-off and should provide a starting capital for each student (refer to Table 8). Additionally, simply providing money to students is not a viable solution as they may spend it before realizing its importance for new forms of communication and education. To address this, schools or universities should acquire or purchase SLON tokens for students to use instead of money. The cost of purchasing SLON tokens is less than issuing and maintaining new tokens, making it a cost-effective option for any educational organization.
+
+### SLON Expected to be Dominant Token in Educational Organizations
+
+As the Slonigiraf project is open-sourced and the educational model is not protected by any patents, it may appear that other similar tokens will be created by private enterprises looking to compete in the market of selling tokens to educational organizations. However, it is worth noting that history has shown, as in the case of Bitcoin, that if a person or company wants to make money on an asset, they simply need to buy it at a low price and sell it at a high price. Therefore, any private enterprise that wishes to promote the Slonigiraf model would be able to purchase SLON tokens at a low cost and then sell them to educational organizations for a profit that exceeds what they could achieve by promoting and selling their own token.
+
+### Some Students Stash Tokens Which Leads to an Additional Demand
+
+TODO: write
 
 ### SLON Token Demand
 
