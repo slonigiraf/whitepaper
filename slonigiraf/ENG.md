@@ -30,11 +30,15 @@ We explore how education affects economic growth and present an education model 
   - [If We Know That Student Lost Money - What Happened?](#if-we-know-that-student-lost-money---what-happened)
   - [Student Starting Capital](#student-starting-capital)
   - [Total Money Amount Needed To Run the Slonigiraf System in a Specific Country](#total-money-amount-needed-to-run-the-slonigiraf-system-in-a-specific-country)
-- [How To Give Money Out to Students](#how-to-give-money-out-to-students)
-- [SLON Token Price](#slon-token-price)
-- [Diploma Price and Reimbursement Amount in SLON Nominal](#diploma-price-and-reimbursement-amount-in-slon-nominal)
-- [SLON Token Monetary Base](#slon-token-monetary-base)
-- [Long Lasting Effect of Education Improvement](#long-lasting-effect-of-education-improvement)
+- [SLON Token](#slon-token)
+  - [How To Give Money Out to Students](#how-to-give-money-out-to-students)
+  - [SLON Token Price](#slon-token-price)
+  - [Diploma Price and Reimbursement Amount in SLON Nominal](#diploma-price-and-reimbursement-amount-in-slon-nominal)
+  - [SLON Token Monetary Base](#slon-token-monetary-base)
+  - [Long Lasting Effect of Education Improvement](#long-lasting-effect-of-education-improvement)
+- [Private Enterprises Earn Money While Promoting The Educational Reform](#private-enterprises-earn-money-while-promoting-the-educational-reform)
+  - [SLON Token Demand](#slon-token-demand)
+  - [SLON Token Supply](#slon-token-supply)
 - [System Software Architecture](#system-software-architecture)
 - [Appendix 1. Probability To Face a Sequence of Bad Lucks](#appendix-1-probability-to-face-a-sequence-of-bad-lucks)
 
@@ -629,7 +633,9 @@ Calculations for other countries in the world is presented in the table 8.
 | Rest world  | 771,920,036   |        |        |          38,611,355,747   |
 | TOTAL       | 3,160,273,551 |        |        |          98,343,946,528   |
 
-## How To Give Money Out to Students
+## SLON Token
+
+### How To Give Money Out to Students
 
 Giving out money to students is not expected to largely affect inflation as the amount is very tiny in comparison to monetary base. For example we need to give out 13.68B USD to USA students. This amount comprise only 0.25% of [country monetary base as of November 2022](https://www.federalreserve.gov/releases/h6/current/). However this amount of money for sure needs to be approved by national governments that is unlikely to happen in easy way.
 
@@ -639,7 +645,7 @@ We think that a good solution for both these problems is an issuing tokens that 
 
 There are two ways of such token issuing. The fist one is to wait when a government will do so. In such way there will be know players in a private sector who can drive such a reform as all the profit will go straight to the budget. Thus it's possible that will not happen ever as there are other things that governments should do that are more lobbied. The second way is to issue such token and spread the emission between companies who want to make money on driving the educational reform. Let's name such token as SLON.
 
-## SLON Token Price
+### SLON Token Price
 
 As we discussed above SLON is a token that intended to be used in the Slonigiraf educational model by students instead of real money. We defined before that the diploma price and reimbursements vary between countries. From the most populated ones the minimum price of diploma is in Ethiopia. Let's define how much the diploma should cost in Ethiopia in SLON and what amount of reimbursement will be in SLON nominal.
 
@@ -647,7 +653,7 @@ The calculated diploma in Ethiopia is 0.04722 USD, the reimbursement amount is 0
 
 $0.04722 / 5 = 0.009444$
 
-## Diploma Price and Reimbursement Amount in SLON Nominal
+### Diploma Price and Reimbursement Amount in SLON Nominal
 
 As different countries have different teacher salaries, the diploma price and how many SLON should get each student will vary also. The table 8 contains such indicators calculated in USD. Let's present them in SLON by using the SLON price calculated above - see the table 9 below.
 
@@ -670,7 +676,7 @@ As different countries have different teacher salaries, the diploma price and ho
 | Russia      | 17.49  | 4101  | 88  | 105 |
 | Japan       | 53.65  | 12578 | 269 | 322 |
 
-## SLON Token Monetary Base
+### SLON Token Monetary Base
 
 Previously we have calculated an amount of money that is needed to be give out to students at the beginning of the Slonigiraf educational model implementation. It's 98,343,946,528 USD. As the nominal value of 1 SLON is 0.009444 USD, then we need **10.4 trillion of SLON to give out to students**:
 
@@ -682,9 +688,19 @@ In the proposed system, is the total demand for SLON estimated to be just 10.4 t
 
 $8 / 0.009444 = 847$
 
-## Long Lasting Effect of Education Improvement
+### Long Lasting Effect of Education Improvement
 
 GDP is closely tied to the workforce. Using a conservative estimate that 1% of labor growth leads to a [0.36% increase in GDP](https://dergipark.org.tr/tr/download/article-file/364734), the improvement in education resulting in a 3Х (or 200%) growth in the workforce would lead to a 72% increase in GDP, equivalent to approximately [69.5](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD) trillion USD in the long term. Based on this calculation, our initial estimation for the total demand for SLON tokens at 8 trillion USD should be revised upwards to 77.5 (69.5+8) trillion USD that could potentially lead to the cryptocurrency 10X price growth (77.5/8). Additionally the demand for SLON tokens could rise due to usage the system for corporate education and HR processes. In order to ensure the price stability, we plan to implement an inflation rate of approximately 10%. This inflation is achieved by generating additional SLON through the process of "stacking" and is a common practice in the current cryptocurrency market as a reward for the hardware maintenance.
+
+## Private Enterprises Earn Money While Promoting The Educational Reform
+
+### SLON Token Demand
+
+TODO: write
+
+### SLON Token Supply
+
+TODO: write
 
 ## System Software Architecture
 
