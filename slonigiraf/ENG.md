@@ -41,6 +41,7 @@ We explore how education affects economic growth and present an education model 
   - [Long Lasting Effect of Education Improvement](#long-lasting-effect-of-education-improvement)
   - [Total Private Enterprises Profit From The Educational Reform](#total-private-enterprises-profit-from-the-educational-reform)
   - [SLON Token Monetary Base](#slon-token-monetary-base)
+  - [SLON Token Initial Distribution](#slon-token-initial-distribution)
 - [System Software Architecture](#system-software-architecture)
 - [Appendix 1. Probability To Face a Sequence of Bad Lucks](#appendix-1-probability-to-face-a-sequence-of-bad-lucks)
 
@@ -726,6 +727,18 @@ Thus we expect that total private enterprises profit from selling SLON tokens wi
 Based on our estimation, the demand for SLON tokens by educational organizations and corporate education is approximately 8.7 trillion USD. At a price of 0.01 USD per SLON token, the total SLON monetary base at the beginning of the system deployment should be 870 trillion SLON tokens:
 
 $8.7 / 0.01 = 870$
+
+### SLON Token Initial Distribution
+
+As previously noted, there is minimal possibility of issuing tokens to governments, so private businesses will drive the education reform. With several private businesses already established and closely linked to school administrators, it's more advantageous to collaborate with them for SLON token distribution rather than compete for school funding. The SLON tokens are designed to be interchangeable, so distributing them to selling partners should provide the right incentives for them to sell the tokens to schools, instead of holding onto them in anticipation of other companies to do all the marketing.
+
+There are several factors to consider in building this system. Firstly, the price of SLON is rigid because its value is what drives educational organizations to purchase the token. Schools and universities cannot afford to purchase cheap tokens as it would disrupt the underlying economy of their educational process and render the system ineffective. It is therefore intended that schools buy SLON tokens at a price of approximately 0.01 USD per token.
+
+Secondly, while distributing SLON tokens through established distributors who already work with schools, there is a risk of missing demand if efforts are not made to promote the token through known schools, as other companies may reach these schools and universities first.
+
+The third factor to consider is network effects. The SLON tokens serve as collateral for diplomas within the system, so schools prefer to use the same SLON tokens as other schools. This way, students can present diplomas issued by one educational organization to another, as they all utilize the same electronic system and tokens. As a result, after the initial distribution of SLON tokens, there will be a demand solely for SLON tokens and not others.
+
+Considering this factor, it makes sense to collaborate with established sellers who are connected to educational organizations. Offer them SLON tokens at a significant discount to incentivize them to become token distributors. The discount should account for the possibility that these large distributors may potentially pose a threat to the system by issuing their own tokens. To mitigate this, it is crucial to assess the cost of issuing alternative tokens and promoting them over SLON tokens.
 
 ## System Software Architecture
 
