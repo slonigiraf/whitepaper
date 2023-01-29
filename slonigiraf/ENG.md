@@ -34,14 +34,13 @@ We explore how education affects economic growth and present an education model 
   - [How To Give Money Out to Students](#how-to-give-money-out-to-students)
   - [SLON Token Price](#slon-token-price)
   - [Diploma Price and Reimbursement Amount in SLON Nominal](#diploma-price-and-reimbursement-amount-in-slon-nominal)
-  - [SLON Token Monetary Base](#slon-token-monetary-base)
-  - [Long Lasting Effect of Education Improvement](#long-lasting-effect-of-education-improvement)
 - [Private Enterprises Earn Revenue by Advocating for Educational Reform](#private-enterprises-earn-revenue-by-advocating-for-educational-reform)
   - [Educational Organizations Acquire SLON Tokens to Establish Student Starting Capital](#educational-organizations-acquire-slon-tokens-to-establish-student-starting-capital)
-  - [SLON Expected to be Dominant Token in Educational Organizations](#slon-expected-to-be-dominant-token-in-educational-organizations)
   - [Some Students Stash Tokens Which Leads to an Additional Demand](#some-students-stash-tokens-which-leads-to-an-additional-demand)
   - [Corporate Education Could Lead to The Demand Growth](#corporate-education-could-lead-to-the-demand-growth)
+  - [Long Lasting Effect of Education Improvement](#long-lasting-effect-of-education-improvement)
   - [Total Private Enterprises Profit From The Educational Reform](#total-private-enterprises-profit-from-the-educational-reform)
+  - [SLON Token Monetary Base](#slon-token-monetary-base)
 - [System Software Architecture](#system-software-architecture)
 - [Appendix 1. Probability To Face a Sequence of Bad Lucks](#appendix-1-probability-to-face-a-sequence-of-bad-lucks)
 
@@ -646,7 +645,9 @@ Another problem to which this approach can face is student behavior. The temptat
 
 We think that a good solution for both these problems is an issuing tokens that are used only inside the Slonigiraf educational model. In such way students will get tokens instead of real money. This cost almost zero from a financial view, and prevents educational money spending before student understanding the value of tokens.
 
-There are two ways of such token issuing. The fist one is to wait when a government will do so. In such way there will be know players in a private sector who can drive such a reform as all the profit will go straight to the budget. Thus it's possible that will not happen ever as there are other things that governments should do that are more lobbied. The second way is to issue such token and spread the emission between companies who want to make money on driving the educational reform. Let's name such token as SLON.
+There are two ways of such token issuing. The fist one is to wait when a government will do so. In such way there will be no players in a private sector who can drive such a reform as all the profit will go straight to the budget. Thus it's possible that will not happen ever as there are other things that governments should do that are more lobbied. The second way is to issue such token and spread the emission between companies who want to make money on driving the educational reform. Let's name such token as SLON.
+
+As the Slonigiraf project is open-sourced and the educational model is not protected by any patents, it may appear that other similar tokens will be created by private enterprises looking to compete in the market of selling tokens to educational organizations. However, it is worth noting that history has shown, as in the case of Bitcoin, that if a person or company wants to make money on an asset, they simply need to buy it at a low price and sell it at a high price. Therefore, any private enterprise that wishes to promote the Slonigiraf model would be able to purchase SLON tokens at a low cost and then sell them to educational organizations for a profit that exceeds what they could achieve by promoting and selling their own token.
 
 ### SLON Token Price
 
@@ -679,22 +680,6 @@ As different countries have different teacher salaries, the diploma price and ho
 | Russia      | 17.49  | 4101  | 88  | 105 |
 | Japan       | 53.65  | 12578 | 269 | 322 |
 
-### SLON Token Monetary Base
-
-Previously we have calculated an amount of money that is needed to be give out to students at the beginning of the Slonigiraf educational model implementation. It's 98,343,946,528 USD. As the nominal value of 1 SLON is 0.009444 USD, then we need **10.4 trillion of SLON to give out to students**:
-
-$98,343,946,528 / 0.009444 = 1.04134E+13$
-
-10.4 trillion of SLON cost nothing at the moment of issuing, but cost 98.B USD after giving out to students, as they start to use them to exchange for tutoring work, and also for issuing diplomas.
-
-In the proposed system, is the total demand for SLON estimated to be just 10.4 trillion? To answer this question, it is important to note that the supply of cryptocurrencies, such as Bitcoin, is typically compared to M1 supply or narrow money. However, the supply of stacking cryptocurrencies is more closely aligned with M2 supply. The M2 money supply is [roughly equivalent to the GDP](https://data.worldbank.org/indicator/FM.LBL.BMNY.GD.ZS). As the additional GDP is estimated to be 8 trillion USD, the M2 SLON supply should be approximately **8 trillion USD** or **847 trillion SLON**:
-
-$8 / 0.009444 = 847$
-
-### Long Lasting Effect of Education Improvement
-
-GDP is closely tied to the workforce. Using a conservative estimate that 1% of labor growth leads to a [0.36% increase in GDP](https://dergipark.org.tr/tr/download/article-file/364734), the improvement in education resulting in a 3Х (or 200%) growth in the workforce would lead to a 72% increase in GDP, equivalent to approximately [69.5](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD) trillion USD in the long term. Based on this calculation, our initial estimation for the total demand for SLON tokens at 8 trillion USD should be revised upwards to 77.5 (69.5+8) trillion USD that could potentially lead to the cryptocurrency 10X price growth (77.5/8). Additionally the demand for SLON tokens could rise due to usage the system for corporate education and HR processes. In order to ensure the price stability, we plan to implement an inflation rate of approximately 10%. This inflation is achieved by generating additional SLON through the process of "stacking" and is a common practice in the current cryptocurrency market as a reward for the hardware maintenance.
-
 ## Private Enterprises Earn Revenue by Advocating for Educational Reform
 
 ### Educational Organizations Acquire SLON Tokens to Establish Student Starting Capital
@@ -702,10 +687,6 @@ GDP is closely tied to the workforce. Using a conservative estimate that 1% of l
 To utilize the Slonigiraf educational model, schools or universities must ensure that all students have adequate funding. As previously discussed, educational institutions cannot assume that all students are financially well-off and should provide a starting capital for each student (refer to Table 8). Additionally, simply providing money to students is not a viable solution as they may spend it before realizing its importance for new forms of communication and education. To address this, schools or universities should purchase SLON tokens for students to use instead of money. The cost of purchasing SLON tokens is less than issuing and maintaining new tokens, making it a cost-effective option for any educational organization.
 
 As stated in Table 8, the total demand for SLON by educational organizations worldwide is 98.3 billion USD, which is comparable to net profit of largest world companies such as: Apple or Microsoft in [2022](https://www.statista.com/statistics/269857/most-profitable-companies-worldwide/#).
-
-### SLON Expected to be Dominant Token in Educational Organizations
-
-As the Slonigiraf project is open-sourced and the educational model is not protected by any patents, it may appear that other similar tokens will be created by private enterprises looking to compete in the market of selling tokens to educational organizations. However, it is worth noting that history has shown, as in the case of Bitcoin, that if a person or company wants to make money on an asset, they simply need to buy it at a low price and sell it at a high price. Therefore, any private enterprise that wishes to promote the Slonigiraf model would be able to purchase SLON tokens at a low cost and then sell them to educational organizations for a profit that exceeds what they could achieve by promoting and selling their own token.
 
 ### Some Students Stash Tokens Which Leads to an Additional Demand
 
@@ -721,6 +702,10 @@ In summary, we anticipate a demand for tokens from educational organizations to 
 
 $2*345.56 = 691.12$
 
+### Long Lasting Effect of Education Improvement
+
+GDP is closely tied to the workforce. Using a conservative estimate that 1% of labor growth leads to a [0.36% increase in GDP](https://dergipark.org.tr/tr/download/article-file/364734), the improvement in education resulting in a 3Х (or 200%) growth in the workforce would lead to a 72% increase in GDP, equivalent to approximately [69.5](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD) trillion USD in the long term. Based on this calculation, our initial estimation for the total demand for SLON tokens at 8.7 trillion USD should be revised upwards to 78.2 (69.5+8.7) trillion USD that could potentially lead to the cryptocurrency 10X price growth (78.2/8). In order to ensure the price stability, we plan to implement an inflation rate of approximately 10%. This inflation is achieved by generating additional SLON through the process of "stacking" and is a common practice in the current cryptocurrency market as a reward for the hardware maintenance.
+
 ### Total Private Enterprises Profit From The Educational Reform
 
 We estimated the demand of SLON tokens but didn't take into account any expenditures to promote and sell tokens. SLON tokens is a software product and expenditures can be approximated by other software companies. For example [Microsoft EBITDA comprise 49% of the sales in 2022](https://www.wsj.com/market-data/quotes/MSFT/financials/annual/income-statement). Let's produce simple estimations of EBITDA from selling SLON tokens to the different types of customers, see the Table 10:
@@ -735,6 +720,12 @@ We estimated the demand of SLON tokens but didn't take into account any expendit
 | TOTAL                          | 8691.12            | 4258.65             |
 
 Thus we expect that total private enterprises profit from selling SLON tokens will be around 4 trillions of USD.
+
+### SLON Token Monetary Base
+
+Based on our estimation, the demand for SLON tokens by educational organizations and corporate education is approximately 8.7 trillion USD. At a price of 0.01 USD per SLON token, the total SLON monetary base at the beginning of the system deployment should be 870 trillion SLON tokens:
+
+$8.7 / 0.01 = 870$
 
 ## System Software Architecture
 
