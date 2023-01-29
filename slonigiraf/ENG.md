@@ -740,6 +740,12 @@ The third factor to consider is network effects. The SLON tokens serve as collat
 
 Considering this factor, it makes sense to collaborate with established sellers who are connected to educational organizations. Offer them SLON tokens at a significant discount to incentivize them to become token distributors. The discount should account for the possibility that these large distributors may potentially pose a threat to the system by issuing their own tokens. To mitigate this, it is crucial to assess the cost of issuing alternative tokens and promoting them over SLON tokens.
 
+The initial phase of SLON token promotion should focus on creating economic hurdles for the creation and promotion of alternative tokens. This includes the launch of SLON tokens in select educational organizations and extensive advertising to educate administrators of schools and universities on the benefits of using a unified SLON token instead of various substitutes.
+
+The next stage is a trading for the discount rate with distributors. Mean reseller discount rate in a [software industry is about 50%](https://brigex.com/channel-partnership-blog/f/commission-rates-in-software-reselling).
+
+Therefore, our estimate is that the company issuing SLON tokens will receive 50% of token sales and 50% of the profits, resulting in a profit of approximately 2 trillion dollars.
+
 ## System Software Architecture
 
 The proposed system, Slonigiraf, is composed of two interconnected components: [SLON](https://github.com/slonigiraf/whitepaper/blob/main/slon/ENG.md), which functions as a reputation system, and [GIRAF](https://github.com/slonigiraf/whitepaper/blob/main/giraf/ENG.md), which serves as a lobbying and legislation system. Both systems are implemented as distinct blockchains that are linked together through a relay chain. This design allows for the deployment of multiple SLON and GIRAF modules, enabling the system to handle a large scale of users and meet the diverse needs of the population. The GIRAF component is used to facilitate consensus on the types of skills that are necessary for education and the methods for teaching them. The term "SLON" is used both as the name of a Slonigiraf cryptocurrency and as the name of the module that stores information about recommendation letters.
