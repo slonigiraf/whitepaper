@@ -693,15 +693,15 @@ Administrators and politicians running government or educational organizations w
 
 ### SLON Token Price
 
-As we discussed above SLON is a token that intended to be used in the Slonigiraf educational model by students instead of real money. We defined before that the diploma price and reimbursements vary between countries. From the most populated ones the minimum price of diploma is in Ethiopia. Let's define how much the diploma should cost in Ethiopia in SLON and what amount of reimbursement will be in SLON nominal.
+As previously discussed, SLON is a token designed to be used in the Slonigiraf educational model by students instead of actual currency. The cost of a diploma and reimbursements can vary between countries, with Ethiopia having the lowest diploma cost among the most populous countries. Let's determine the cost of a diploma in Ethiopia in SLON and the amount of reimbursement in SLON nominal.
 
-The calculated diploma in Ethiopia is 0.04722 USD, the reimbursement amount is 0.05688 USD (1.2 x bigger than the diploma price). While selecting nominal for SLON token we should be sure that students will be happy using such nominal in transactions. The diploma price in SLON should have as low zeros as possible and it would be nice if the diploma price and the reimbursement would be whole numbers. Number 6 is minimal that is integer and get's an integer after division by 1.2. Thus we propose to use 6 SLON as a reimbursement amount and 5 SLON as a diploma price in Ethiopia. So at the same moment the diploma price in Ethiopia is 0.04722 USD or 5 SLON. This calculation gives us a price of 1 SLON to be around 0.01 USD:
+The calculated diploma cost in Ethiopia is 0.04722 USD, with a reimbursement of 0.05688 USD (1.2 times larger than the diploma cost). When selecting a nominal for the SLON token, it's important to consider if students will be comfortable using it in transactions. The diploma cost in SLON should have as few decimal places as possible and it would be ideal if both the diploma cost and reimbursement were whole numbers. The smallest whole number that gives an integer after division by 1.2 is 6. So, we propose using 6 SLON for the reimbursement and 5 SLON for the diploma cost in Ethiopia. At the same time, the diploma cost in Ethiopia is 0.04722 USD or 5 SLON. This calculation gives us a value of 1 SLON being approximately 0.01 USD:
 
 $0.04722 / 5 = 0.009444$
 
 ### Diploma Price and Reimbursement Amount in SLON Nominal
 
-As different countries have different teacher salaries, the diploma price and how many SLON should get each student will vary also. The table 8 contains such indicators calculated in USD. Let's present them in SLON by using the SLON price calculated above - see the table 9 below.
+Different countries have varying teacher salaries, leading to variations in the diploma cost and the number of SLON each student should receive. Table 8 shows these indicators calculated in USD, while Table 9 presents them in SLON using the previously calculated SLON value of approximately 0.01 USD.
 
 **Table 9**
 
@@ -797,7 +797,9 @@ Therefore, our estimate is that the company issuing SLON tokens will receive 50%
 
 ## System Software Architecture
 
-The proposed system, Slonigiraf, is composed of two interconnected components: [SLON](https://github.com/slonigiraf/whitepaper/blob/main/slon/ENG.md), which functions as a reputation system, and [GIRAF](https://github.com/slonigiraf/whitepaper/blob/main/giraf/ENG.md), which serves as a lobbying and legislation system. Both systems are implemented as distinct blockchains that are linked together through a relay chain. This design allows for the deployment of multiple SLON and GIRAF modules, enabling the system to handle a large scale of users and meet the diverse needs of the population. The GIRAF component is used to facilitate consensus on the types of skills that are necessary for education and the methods for teaching them. The term "SLON" is used both as the name of a Slonigiraf cryptocurrency and as the name of the module that stores information about recommendation letters.
+The proposed system, Slonigiraf, is based on the principles of the Polkadot blockchain platform. It consists of two interconnected components: [SLON](https://github.com/slonigiraf/whitepaper/blob/main/slon/ENG.md), a reputation system, and [GIRAF](https://github.com/slonigiraf/whitepaper/blob/main/giraf/ENG.md), a lobbying and legislation system. These two systems are implemented as separate blockchains that are connected through a relay chain, allowing for the deployment of multiple SLON and GIRAF modules. This design provides scalability and allows the system to accommodate a large number of users while also addressing the varying needs of the population.
+
+The GIRAF component of Slonigiraf utilizes the consensus mechanisms of Polkadot to facilitate agreement on key education skills and teaching methods. The SLON module, which also serves as the name of the Slonigiraf cryptocurrency, stores information about diploma validity and tutors reputation.
 
 ## Appendix 1
 
