@@ -31,7 +31,8 @@ We explore how education affects economic growth and present an education model 
   - [Student Starting Capital](#student-starting-capital)
   - [Total Money Amount Needed To Run the Slonigiraf System in a Specific Country](#total-money-amount-needed-to-run-the-slonigiraf-system-in-a-specific-country)
 - [SLON Token](#slon-token)
-  - [How To Give Money Out to Students](#how-to-give-money-out-to-students)
+  - [Giving money to students is challenging](#giving-money-to-students-is-challenging)
+  - [We Address These Challenges with the Issuance of SLON Token](#we-address-these-challenges-with-the-issuance-of-slon-token)
   - [SLON Token Price](#slon-token-price)
   - [Diploma Price and Reimbursement Amount in SLON Nominal](#diploma-price-and-reimbursement-amount-in-slon-nominal)
 - [Private Enterprises Earn Revenue by Advocating for Educational Reform](#private-enterprises-earn-revenue-by-advocating-for-educational-reform)
@@ -674,17 +675,21 @@ Table 8 displays the calculations for other countries. The Slonigiraf educationa
 
 ## SLON Token
 
-### How To Give Money Out to Students
+### Giving money to students is challenging
 
-Giving out money to students is not expected to largely affect inflation as the amount is very tiny in comparison to monetary base. For example we need to give out 13.68B USD to USA students. This amount comprise only 0.25% of [country monetary base as of November 2022](https://www.federalreserve.gov/releases/h6/current/). However this amount of money for sure needs to be approved by national governments that is unlikely to happen in easy way.
+Giving money to students presents several challenges. Inflation is the first concern. Printing money for educational reform will increase the country's monetary base. For instance, distributing $13.68B to US students will add [0.25%](https://www.federalreserve.gov/releases/h6/current/) to the country's monetary base as of November 2022.
 
-Another problem to which this approach can face is student behavior. The temptation to spend it immediately is strong for students when they receive free money. It's highly likely that students will spend all money before they will understood the necessity of having money reserve.
+The second issue in providing student starting capital is obtaining approval from national governments for the large sum of money involved. Since no politicians benefit personally, it's unlikely to receive support and promotion.
 
-We think that a good solution for both these problems is an issuing tokens that are used only inside the Slonigiraf educational model. In such way students will get tokens instead of real money. This cost almost zero from a financial view, and prevents educational money spending before student understanding the value of tokens.
+Educational organizations could resolve these issues by allocating budget for student aid, but this is unlikely as administrators would not personally benefit and therefore have no incentive to push for such reform.
 
-There are two ways of such token issuing. The fist one is to wait when a government will do so. In such way there will be no players in a private sector who can drive such a reform as all the profit will go straight to the budget. Thus it's possible that will not happen ever as there are other things that governments should do that are more lobbied. The second way is to issue such token and spread the emission between companies who want to make money on driving the educational reform. Let's name such token as SLON.
+This approach may also face challenges with student behavior, as students may have a strong temptation to spend their free money immediately, leading to them spending all of it before they realize the importance of having a reserve.
 
-As the Slonigiraf project is open-sourced and the educational model is not protected by any patents, it may appear that other similar tokens will be created by private enterprises looking to compete in the market of selling tokens to educational organizations. However, it is worth noting that history has shown, as in the case of Bitcoin, that if a person or company wants to make money on an asset, they simply need to buy it at a low price and sell it at a high price. Therefore, any private enterprise that wishes to promote the Slonigiraf model would be able to purchase SLON tokens at a low cost and then sell them to educational organizations for a profit that exceeds what they could achieve by promoting and selling their own token.
+### We Address These Challenges with the Issuance of SLON Token
+
+We propose using tokens specific to the Slonigiraf educational model as a solution to all described challenges. In such way students will get tokens instead of real money which prevents their spending before actual use in education. Furthermore, it presents opportunities for private businesses to generate revenue through selling tokens, thus driving the adoption of the Slonigiraf educational model.
+
+Administrators and politicians running government or educational organizations won't issue tokens because they don't stand to profit from it. A private, profit-driven organization is more likely to issue a token to advance education reform, with emission distributed among companies seeking to profit from it. We will name this token "SLON".
 
 ### SLON Token Price
 
@@ -773,6 +778,8 @@ $8.7 / 0.01 = 870$
 ### SLON Token Initial Distribution
 
 As previously noted, there is minimal possibility of issuing tokens to governments, so private businesses will drive the education reform. With several private businesses already established and closely linked to school administrators, it's more advantageous to collaborate with them for SLON token distribution rather than compete for school funding. The SLON tokens are designed to be interchangeable, so distributing them to selling partners should provide the right incentives for them to sell the tokens to schools, instead of holding onto them in anticipation of other companies to do all the marketing.
+
+Furthermore, the open-source nature and lack of patent protection for the Slonigiraf project means incentives should be structured so that companies considering creating similar tokens would instead choose to become a sales partner for SLON tokens, rather than issuing and promoting their own.
 
 There are several factors to consider in building this system. Firstly, the price of SLON is rigid because its value is what drives educational organizations to purchase the token. Schools and universities cannot afford to purchase cheap tokens as it would disrupt the underlying economy of their educational process and render the system ineffective. It is therefore intended that schools buy SLON tokens at a price of approximately 0.01 USD per token.
 
