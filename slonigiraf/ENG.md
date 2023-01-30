@@ -521,7 +521,7 @@ To determine the probability of both tutees forgetting the skill, we treat them 
 
 The probability for this type of tutor that only the first tutee will forget the skill is calculated similarly: $0.25 * (1 - 0.25) = 0.1875$, where $(1 - 0.25)$ represents the probability that the second tutee will retain the skill. The probability that only the second tutee will forget the skill is: $(1 - 0.25) * 0.25 = 0.1875$. Therefore, the total probability of either of the students forgets the skill is $2 * 0.1875 = 0.375$.
 
-The calculations for the remaining values in the "Reimbursement probability" column of Table 5 follow the same method.
+The calculations for the remaining values in the "Reimbursements' probability" column of Table 5 follow the same method.
 
 To determine the likelihood of a student incurring a monetary loss while acquiring a skill, due to a particular role with N reimbursements, we multiply the probability of occupying that role by the probability of the reimbursement count for that role. For instance, for a "tutor of 2 tutees" role that pays 1 reimbursement, the calculation is: $0.125 * 0.375 = 0.046875$. Adding up all the probabilities of unfavorable outcomes gives us a result that a student has a **0.629 probability** of losing money during the process of acquiring a skill.
 
@@ -531,7 +531,7 @@ To determine the likelihood of a student incurring a monetary loss while acquiri
 
 *\*\* The term "Situation Probability" means the likelihood of a student incurring a money loss while acquiring a skill, due to a particular role with N reimbursements.*
 
-| Student Role | Reimbursements | Role Probability | Reimbursement Probability \* | Situation Probability \*\* |
+| Student Role | Reimbursements | Role Probability | Reimbursements' Probability \* | Situation Probability \*\* |
 | ----------------- | ---- | ------- | ---------- | ----------- |
 | Tutor of 0 tutees | 0    | 0.5     | 1          | 0.5         |
 | Tutor of 1 tutees | 1    | 0.25    | 0.25       | 0.0625      |
