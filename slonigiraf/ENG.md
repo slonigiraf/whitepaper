@@ -117,7 +117,7 @@ As an example: $2^{5} = 32$, meaning that after 5 sessions, 32 students will hav
 
 To estimate what tutor roles student can play in the Slonigiraf educational model and what are probabilities of playing such roles let's examine a class consisting of 32 students. We will explain later why probabilities of different roles are more of less the same in any student group size.
 
-**Tutor of 0 tutees role**: as shown on a Fig. 2. a half of students (16 from 32) gains a skill in a last session. That means they will pay for tutoring and getting a diploma but will not earn money by tutoring such skill as there will be no students left who need the skill. If the class consists of 32 students there will be 16 such students (depicted with a digit "0" on a fig. 2).
+**Tutor of 0 tutees role**: as shown on a Figure 2. a half of students (16 from 32) gains a skill in a last session. That means they will pay for tutoring and getting a diploma but will not earn money by tutoring such skill as there will be no students left who need the skill. If the class consists of 32 students there will be 16 such students (depicted with a digit "0" on a Figure 2).
 
 **Tutor of 1 tutees role**: $1/4$ of students (8 from 32) gain a skill in a preterminal session. These students have 1 tutor and 1 tutee each, resulting in a net profit of zero as the money earned from being a tutor compensates for the money spent on being tutored.
 
@@ -516,7 +516,7 @@ Table 4 summarizes the circumstances in which it can occur.
 
 A student who constantly incurs financial losses will become bankrupt. Table 4 provides insights into the circumstances that result in money loss. We will combine the probability of occupying each role with the probability of losing money in each role, focusing on the scenarios that result in financial loss. For instance, the role of "tutor of 5 tutees" paying 3 reimbursements yields a positive profit, and such scenarios will not be discussed in this section.
 
-The probability of occupying each role can be obtained from Fig. 2 and was calculated by dividing the number of students in each role by the total number of students.
+The probability of occupying each role can be obtained from Figure 2 and was calculated by dividing the number of students in each role by the total number of students.
 
 If a student holds the role of a tutee and does not become a tutor, they will incur a financial loss each time. Thus, the probability of losing money while occupying the role of "tutor with 0 tutee" is 1.
 
