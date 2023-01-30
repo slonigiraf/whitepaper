@@ -43,7 +43,7 @@ We explore how education affects economic growth and present an education model 
   - [SLON Token Monetary Base](#slon-token-monetary-base)
   - [SLON Token Initial Distribution](#slon-token-initial-distribution)
 - [System Software Architecture](#system-software-architecture)
-- [Appendix 1. Probability To Face a Sequence of Bad Lucks](#appendix-1-probability-to-face-a-sequence-of-bad-lucks)
+- [Appendix 1](#appendix-1)
 
 ## Several Educational Models Are Known to Date
 
@@ -167,7 +167,9 @@ In summary, the algorithm is based on pedagogical principles such as mastery lea
 
 This algorithm can be utilized to train a wide range of skills, regardless of whether they are related to mathematics, linguistics, music, or sports such as tennis. For example, refer to Table 1 for an illustration of its usage:
 
-*Table 1. How tutors use the teaching algorithm.*
+**Table 1.**
+
+*How Tutors Use The Teaching Algorithm*
 
 <table width="100%" border="1">
     <tr>
@@ -366,7 +368,9 @@ But why are we arguing that the Slonigiraf model is more efficient than the trad
 
 To estimate the world population of students who will use our educational model, let's assume that only the 7-21 years old strata will use it. The percent of individuals **between the ages of 7 and 21** can be approximated by the [percent of individuals](https://www.theglobaleconomy.com/rankings/percent_children/) between the ages of 0 and 14. To calculate the target audience per country, we will multiply the [population size](https://population.un.org/wpp/Download/Standard/MostUsed/) as of January 1st, 2021 by the percentage of individuals between the ages of 7 and 21 and divide by 100%. The resulting data is shown in Table 2. As you can see, India has the largest target audience of 361 million people, and the total world target audience is 2 billion people.
 
-*Table 2. Target audience (7-21 years old people). The value of 7-21 strata percent for the rest world was calculated as an average for the countries from the list above.*
+**Table 2.**
+
+*Target Audience (7-21 Years Old People)*
 
 |             | Total Population | 7-21 Years Old, % | 7-21 Years Old |
 | ----------- | ------------- | ------ | ------------- |
@@ -387,11 +391,15 @@ To estimate the world population of students who will use our educational model,
 | Rest world  | 2,911,807,000 | 26.51% | 771,920,036   |
 | TOTAL       | 7,909,294,917 |        | 1,966,096,793 |
 
+*Note.* The value of 7-21 strata percent for the rest world was calculated as an average for the countries from the list above.
+
 ### Wages of Tutors and Experts
 
 When considering the wages of tutors and experts, it's important to note that a student who is skilled at tutoring can earn money by helping other students outside of school or university. Therefore, the wage of a tutor can be approximated by the lowest wage of a teacher in the country where they live. The wage of an expert should be higher than that of a tutor to incentivize highly qualified students to become experts. Since qualified students can find well-paying online tutoring jobs, the maximum teacher wage in the country where the expert lives can be used as an approximation of the market wage for experts. According to data from [salaryexplorer.com](http://www.salaryexplorer.com/?loc=23&loctype=1&job=123&jobtype=3#browsesalaries) as of January 8th, 2022, the maximum teacher wage on average is 3.16 times higher than the minimum teacher wage. Therefore, **an expert should be paid 3.16 times more per minute of work than a tutor**. In Ethiopia, teacher wages are the lowest among the countries listed in the Table 3, so a tutor in Ethiopia will have the lowest wage in comparison to other countries from the table.
 
-*Table 3. Teacher monthly wages in USD per country.*
+**Table 3.**
+
+*Teacher Monthly Wages In USD Per Country*
 
 |             | Min | Max | Max/Min |
 | ----------- | ------- | ------- | ------- |
@@ -476,7 +484,9 @@ You can see that $Profit < 0$ only if $(-1 + N{_t} - 1.2 * N{_f}) < 0$, or simpl
 
 Table 4 summarizes the circumstances in which it can occur.
 
-*Table 4. Cash flow results for different roles.*
+**Table 4.**
+
+*Cash Flow Results For Different Roles*
 
 | Student Role      | $N{_t}$ | $N{_f}$ | $N{_t}-1.2*N{_f}$ | Money Loss |
 | ----------------- | -- | -- | ------------ | ------------ |
@@ -525,11 +535,9 @@ The calculations for the remaining values in the "Reimbursements' probability" c
 
 To determine the likelihood of a student incurring a monetary loss while acquiring a skill, due to a particular role with N reimbursements, we multiply the probability of occupying that role by the probability of the reimbursement count for that role. For instance, for a "tutor of 2 tutees" role that pays 1 reimbursement, the calculation is: $0.125 * 0.375 = 0.046875$. Adding up all the probabilities of unfavorable outcomes gives us a result that a student has a **0.629 probability** of losing money during the process of acquiring a skill.
 
-*Table 5. Probability of money loss in various roles.* 
+**Table 5.**
 
-*\* The term "Reimbursements' Probability" refers to the probability of a specific reimbursement count for a role.*
-
-*\*\* The term "Scenario Probability" means the likelihood of a student incurring a money loss while acquiring a skill, due to a particular role with N reimbursements.*
+*Probability Of Money Loss In Various Roles* 
 
 | Student Role | Reimbursements | Role Probability | Reimbursements' Probability \* | Scenario Probability \*\* |
 | ----------------- | ---- | ------- | ---------- | ----------- |
@@ -545,6 +553,10 @@ To determine the likelihood of a student incurring a monetary loss while acquiri
 | Tutor of 5 tutees | 5    | 0.03125 | 0.00097656 | 3.05176E-05 |
 |Total              |      |         |            | **0.62902832**  |
 
+\* The term "Reimbursements' Probability" refers to the probability of a specific reimbursement count for a role.
+
+\*\* The term "Scenario Probability" means the likelihood of a student incurring a money loss while acquiring a skill, due to a particular role with N reimbursements.
+
 ### If We Know That Student Lost Money - What Happened?
 
 We have calculated the likelihood of a student losing money while acquiring a skill. If we know that the student has already incurred a loss, can we determine the cause? The answer is "No", but we can present the probabilities of various scenarios. It's more probable that the student was a tutor of 0 mentees, since the probability of assuming that role and losing money is 0.5 (refer to the last column in Table 5). This 0.5 value [accounts](https://calcworkshop.com/probability/bayes-theorem/) for the majority of the total 0.629 probability of losing money, occurring in 0.794876771 of negative cases:
@@ -553,9 +565,9 @@ $0.5 / 0.62902832 = 0.794876771$
 
 All such shares are calculated and represented in a table 6.
 
-*Table 6. Probabilities of various scenarios that lead to money loss.*
+**Table 6.**
 
-*\* "Share" refers to the portion or fraction of a particular scenario in relation to all negative outcomes.*
+*Probabilities Of Various Scenarios That Lead To Money Loss*
 
 | Student Role | Reimbursements | Scenario Probability | Share \* |
 | ----------------- | - | ---------- | ---------- |
@@ -569,6 +581,8 @@ All such shares are calculated and represented in a table 6.
 | Tutor of 4 tutees | 4 | 0.00012207 | 0.00019406 |
 | Tutor of 5 tutees | 4 | 0.00045776 | 0.00072773 |
 | Tutor of 5 tutees | 5 | 3.0518E-05 | 4.8515E-05 |
+
+\* "Share" refers to the portion or fraction of a particular scenario in relation to all negative outcomes.
 
 ### Student Starting Capital
 
@@ -586,7 +600,9 @@ Some of these 49 cases will be due to the student not having a mentee, others du
 
 The calculation for the maximum money loss for a student in Ethiopia in a sequence of 49 bad luck cases can be found in Table 7. The result shows that the student can potentially lose up to 2.214 USD in Ethiopia.
 
-*Table 7. Calculated maximum probable money loss in USD per student in Ethiopia.*
+**Table 7.**
+
+*Calculated maximum probable money loss in USD per student in Ethiopia.*
 
 | Student Role | Reimbursements | Share | Scenario count | Money loss per a scenario | Sum Money Loss |
 | ----------------- | - | ---------- | ---------- | -------- | ---------- |
@@ -604,23 +620,25 @@ The calculation for the maximum money loss for a student in Ethiopia in a sequen
 
 ### Total Money Amount Needed To Run the Slonigiraf System in a Specific Country
 
-As 2.214 USD is needed for a one student from Ethiopia, and the total number of possible students Ethiopia is 46,974,914 we need 104 million USD for the whole country.
+To cover the maximum probable money loss of all students in Ethiopia (46,974,914), an estimated 104 million USD is required, calculated based on an average loss of 2.214 USD per student:
 
 $2.214 * 46,974,914 = 104,004,973 $
 
-Countries that have bigger teacher salaries than in Ethiopia should give more money to students at the beginning of Slonigiraf system integration. For example, in USA where the minimum teacher salary is 100.66 X higher than in Ethiopia, the student should get 222.87 USD:
+Countries with higher teacher salaries than Ethiopia will require more funds for students at the start of the Slonigiraf system implementation. For example, in the USA, where minimum teacher salaries are 100.66 times higher, students will need 222.87 USD:
 
 $2.214 * 100.66 = 222.87$
 
-The total number of money needed to drive the Slonigiraf system in USA for 61,376,828 students is 13.7 billions USD:
+13.7 billion USD is required to implement the Slonigiraf system for 61,376,828 students in the USA:
 
 $222.87 * 61,376,828 = 13,679,152,692$
 
-Calculations for other countries in the world is presented in the table 8.
+Table 8 displays the calculations for other countries. The Slonigiraf educational model requires a total of 98.3 billion USD to be distributed among students worldwide.
 
-*Table 8. Money needed to drive the Slonigiraf system*
+**Table 8.**
 
-|   | 7-21 years old people | Times min teacher wage is larger than Ethiopian counterpart | Min money a student need, USD | The country need, USD |
+*Student funding required per country*
+
+|   | Students | Multiplier \* | Student Needs, USD | Country Needs, USD |
 | ----------- | ------------- | ------ | ------ | ------------------------- |
 | India       | 361,643,868   | 4.75   | 10.51  |            3,802,524,280  |
 | China       | 250,951,632   | 54.23  | 120.07 |          30,132,468,687   |
@@ -638,7 +656,9 @@ Calculations for other countries in the world is presented in the table 8.
 | Japan       | 15,368,450    | 53.65  | 118.78 |            1,825,457,966  |
 | SUM         | 1,194,176,758 |        |        |          59,732,590,782   |
 | Rest world  | 771,920,036   |        |        |          38,611,355,747   |
-| TOTAL       | 3,160,273,551 |        |        |          98,343,946,528   |
+| TOTAL       | 3,160,273,551 |        |        |          **98,343,946,528**   |
+
+\* The "Multiplier" term represents the factor by which the minimum teacher wage in a country is higher than in Ethiopia.
 
 ## SLON Token
 
@@ -666,7 +686,9 @@ $0.04722 / 5 = 0.009444$
 
 As different countries have different teacher salaries, the diploma price and how many SLON should get each student will vary also. The table 8 contains such indicators calculated in USD. Let's present them in SLON by using the SLON price calculated above - see the table 9 below.
 
-*Table 9. SLON token needed to drive the Slonigiraf system. All values are rounded up to the nearest integer.*
+**Table 9.**
+
+*SLON Token Needed To Drive The Slonigiraf System*
 
 |  | Times min teacher wage  is larger than Ethiopian counterpart | Free tokens given to each student, SLON | Diploma price, SLON | Reimbursement amount, SLON |
 | ----------- | ------ | ----- | --- | --- |
@@ -684,6 +706,8 @@ As different countries have different teacher salaries, the diploma price and ho
 | Mexico      | 22.50  | 5274  | 113 | 135 |
 | Russia      | 17.49  | 4101  | 88  | 105 |
 | Japan       | 53.65  | 12578 | 269 | 322 |
+
+*Note.* All values are rounded up to the nearest integer.
 
 ## Private Enterprises Earn Revenue by Advocating for Educational Reform
 
@@ -715,7 +739,9 @@ GDP is closely tied to the workforce. Using a conservative estimate that 1% of l
 
 We estimated the demand of SLON tokens but didn't take into account any expenditures to promote and sell tokens. SLON tokens is a software product and expenditures can be approximated by other software companies. For example [Microsoft EBITDA comprise 49% of the sales in 2022](https://www.wsj.com/market-data/quotes/MSFT/financials/annual/income-statement). Let's produce simple estimations of EBITDA from selling SLON tokens to the different types of customers, see the Table 10:
 
-**Table 10. Total Private Enterprises Profit From Selling SLON Tokens**
+**Table 10.**
+
+*Total Private Enterprises Profit From Selling SLON Tokens*
 
 | Customers                      | Sales, billion USD | EBITDA, billion USD |
 | ------------------------------ | ------------------ | ------------------- |
@@ -754,7 +780,9 @@ Therefore, our estimate is that the company issuing SLON tokens will receive 50%
 
 The proposed system, Slonigiraf, is composed of two interconnected components: [SLON](https://github.com/slonigiraf/whitepaper/blob/main/slon/ENG.md), which functions as a reputation system, and [GIRAF](https://github.com/slonigiraf/whitepaper/blob/main/giraf/ENG.md), which serves as a lobbying and legislation system. Both systems are implemented as distinct blockchains that are linked together through a relay chain. This design allows for the deployment of multiple SLON and GIRAF modules, enabling the system to handle a large scale of users and meet the diverse needs of the population. The GIRAF component is used to facilitate consensus on the types of skills that are necessary for education and the methods for teaching them. The term "SLON" is used both as the name of a Slonigiraf cryptocurrency and as the name of the module that stores information about recommendation letters.
 
-## Appendix 1. Probability To Face a Sequence of Bad Lucks
+## Appendix 1
+
+*Probability To Face a Sequence of Bad Lucks*
 
 | Number of skills in a row that result in spending money  | Probability of such event | % of people who are expected to face it | Affected people in world |
 | -- | ---------- | ------ | ------------- |
