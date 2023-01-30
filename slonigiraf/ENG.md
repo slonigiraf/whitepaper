@@ -447,11 +447,11 @@ Because all issued diplomas go through verification, it is NOT profitable for a 
 
 ### Situations Leading To Earning and Spending Money
 
-As we discussed above there are following roles in the Slonigiraf educational system: a teacher, an expert, a tutor of 0 tutees, a tutor of 1 tutees ...
+In the Slonigiraf educational system, there are the following roles: teacher, expert, tutor of 0 tutees, tutor of 1 tutees, etc.
 
-Experts don't risk, they just earn. The teacher can lose some money if some of their mentees will forget the skill. But as he teaches only 1 student per a skill and also works as an expert he is always makes more money than he loses.
+Experts make money without taking risks, while tutors may incur a loss if their tutees forget the skill. Teachers only teaches one student per skill and also works as an expert, they always earn more than they lose.
 
-Any tutor spend money to learn a skill, earns money teaching others, and spend money if any their tutees forgets the skill. Thus a tutor profit can be written in formula:
+A tutor invests in learning a skill, earns from teaching others, and may incur a cost if a tutee forgets the skill. Thus, a tutor's profit can be calculated using a formula:
 
 $Profit = -D + D * N{_t} - R * N{_f}$
 
@@ -462,23 +462,23 @@ Where:
 - $N{_t}$ - tutees count of the tutor
 - $N{_f}$ - number of tutees who have forgetten the skill.
 
-If the a student doesn't have tutees then $N{_t}$ and $N{_f}$ are equal to $0$, and the formula gives us a profit value for these student equal to $-D$: they only pay for diploma to their tutors but don't earn anything.
+If the a student doesn't have any tutees then $N{_t}$ and $N{_f}$ are equal to $0$, and the formula gives us a profit value equal to $-D$ for these students: they only pay for diploma to their tutors but don't earn anything.
 
-As we calculated above the $R$ is 1.2 times bigger than $D$, so we can substitute $R$ in the equation above with $1.2*D$:
+As determined above, $R$ is 1.2 times larger than $D$, so we can replace $R$ in the equation with $1.2*D$:
 
 $Profit = -D + D * N{_t} - 1.2 * D * N{_f}$
 
-Then we will put the price of the diploma out of brackets:
+Next, we will remove the price of the diploma from the parentheses:
 
 $Profit = D * (-1 + N{_t} - 1.2 * N{_f})$
 
 You can see that $Profit < 0$ only if $(-1 + N{_t} - 1.2 * N{_f}) < 0$, or simply when $N{_t} - 1.2 * N{_f} < 1$
 
-Table 4 summarizes when it can happen.
+Table 4 summarizes the circumstances in which it can occur.
 
-*Table 4. Cash flow outcomes of different roles*
+*Table 4. Cash Flow Results for Different Roles.*
 
-| Role              | $N{_t}$ | $N{_f}$ | $N{_t}-1.2*N{_f}$ | Losing money |
+| Student Role      | $N{_t}$ | $N{_f}$ | $N{_t}-1.2*N{_f}$ | Money loss |
 | ----------------- | -- | -- | ------------ | ------------ |
 | Tutor of 0 tutees | 0  | 0  | 0            | Yes          |
 | Tutor of 1 tutees | 1  | 0  | 1            | No           |
