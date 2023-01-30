@@ -167,7 +167,7 @@ In summary, the algorithm is based on pedagogical principles such as mastery lea
 
 This algorithm can be utilized to train a wide range of skills, regardless of whether they are related to mathematics, linguistics, music, or sports such as tennis. For example, refer to Table 1 for an illustration of its usage:
 
-**Table 1.**
+**Table 1**
 
 *How Tutors Use The Teaching Algorithm*
 
@@ -368,7 +368,7 @@ But why are we arguing that the Slonigiraf model is more efficient than the trad
 
 To estimate the world population of students who will use our educational model, let's assume that only the 7-21 years old strata will use it. The percent of individuals **between the ages of 7 and 21** can be approximated by the [percent of individuals](https://www.theglobaleconomy.com/rankings/percent_children/) between the ages of 0 and 14. To calculate the target audience per country, we will multiply the [population size](https://population.un.org/wpp/Download/Standard/MostUsed/) as of January 1st, 2021 by the percentage of individuals between the ages of 7 and 21 and divide by 100%. The resulting data is shown in Table 2. As you can see, India has the largest target audience of 361 million people, and the total world target audience is 2 billion people.
 
-**Table 2.**
+**Table 2**
 
 *Target Audience (7-21 Years Old People)*
 
@@ -397,7 +397,7 @@ To estimate the world population of students who will use our educational model,
 
 When considering the wages of tutors and experts, it's important to note that a student who is skilled at tutoring can earn money by helping other students outside of school or university. Therefore, the wage of a tutor can be approximated by the lowest wage of a teacher in the country where they live. The wage of an expert should be higher than that of a tutor to incentivize highly qualified students to become experts. Since qualified students can find well-paying online tutoring jobs, the maximum teacher wage in the country where the expert lives can be used as an approximation of the market wage for experts. According to data from [salaryexplorer.com](http://www.salaryexplorer.com/?loc=23&loctype=1&job=123&jobtype=3#browsesalaries) as of January 8th, 2022, the maximum teacher wage on average is 3.16 times higher than the minimum teacher wage. Therefore, **an expert should be paid 3.16 times more per minute of work than a tutor**. In Ethiopia, teacher wages are the lowest among the countries listed in the Table 3, so a tutor in Ethiopia will have the lowest wage in comparison to other countries from the table.
 
-**Table 3.**
+**Table 3**
 
 *Teacher Monthly Wages In USD Per Country*
 
@@ -484,7 +484,7 @@ You can see that $Profit < 0$ only if $(-1 + N{_t} - 1.2 * N{_f}) < 0$, or simpl
 
 Table 4 summarizes the circumstances in which it can occur.
 
-**Table 4.**
+**Table 4**
 
 *Cash Flow Results For Different Roles*
 
@@ -535,7 +535,7 @@ The calculations for the remaining values in the "Reimbursements' probability" c
 
 To determine the likelihood of a student incurring a monetary loss while acquiring a skill, due to a particular role with N reimbursements, we multiply the probability of occupying that role by the probability of the reimbursement count for that role. For instance, for a "tutor of 2 tutees" role that pays 1 reimbursement, the calculation is: $0.125 * 0.375 = 0.046875$. Adding up all the probabilities of unfavorable outcomes gives us a result that a student has a **0.629 probability** of losing money during the process of acquiring a skill.
 
-**Table 5.**
+**Table 5**
 
 *Probability Of Money Loss In Various Roles* 
 
@@ -565,7 +565,7 @@ $0.5 / 0.62902832 = 0.794876771$
 
 All such shares are calculated and represented in a table 6.
 
-**Table 6.**
+**Table 6**
 
 *Probabilities Of Various Scenarios That Lead To Money Loss*
 
@@ -600,7 +600,7 @@ Some of these 49 cases will be due to the student not having a mentee, others du
 
 The calculation for the maximum money loss for a student in Ethiopia in a sequence of 49 bad luck cases can be found in Table 7. The result shows that the student can potentially lose up to 2.214 USD in Ethiopia.
 
-**Table 7.**
+**Table 7**
 
 *Calculated maximum probable money loss in USD per student in Ethiopia.*
 
@@ -634,7 +634,7 @@ $222.87 * 61,376,828 = 13,679,152,692$
 
 Table 8 displays the calculations for other countries. The Slonigiraf educational model requires a total of 98.3 billion USD to be distributed among students worldwide.
 
-**Table 8.**
+**Table 8**
 
 *Student funding required per country*
 
@@ -686,7 +686,7 @@ $0.04722 / 5 = 0.009444$
 
 As different countries have different teacher salaries, the diploma price and how many SLON should get each student will vary also. The table 8 contains such indicators calculated in USD. Let's present them in SLON by using the SLON price calculated above - see the table 9 below.
 
-**Table 9.**
+**Table 9**
 
 *SLON Token Needed To Drive The Slonigiraf System*
 
@@ -739,7 +739,7 @@ GDP is closely tied to the workforce. Using a conservative estimate that 1% of l
 
 We estimated the demand of SLON tokens but didn't take into account any expenditures to promote and sell tokens. SLON tokens is a software product and expenditures can be approximated by other software companies. For example [Microsoft EBITDA comprise 49% of the sales in 2022](https://www.wsj.com/market-data/quotes/MSFT/financials/annual/income-statement). Let's produce simple estimations of EBITDA from selling SLON tokens to the different types of customers, see the Table 10:
 
-**Table 10.**
+**Table 10**
 
 *Total Private Enterprises Profit From Selling SLON Tokens*
 
