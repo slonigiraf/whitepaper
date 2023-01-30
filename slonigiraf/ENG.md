@@ -547,15 +547,17 @@ To determine the likelihood of a student incurring a monetary loss while acquiri
 
 ### If We Know That Student Lost Money - What Happened?
 
-We have calculated the probability to lose money for a student while learning a skill. What if we know he already lost money, can we identify the reason of it? The answer is "No" but we can describe the probability of different scenarios. It's more likely the student was a tutor of 0 mentees, because the probability to play such a role and lose money is 0.5 (see the last column of table 5). And the 0.5 takes the most [share](https://calcworkshop.com/probability/bayes-theorem/) of total 0.629 probability to lose money. This situation is happen in 0.794876771 part of bad cases:
+We have calculated the likelihood of a student losing money while acquiring a skill. If we know that the student has already incurred a loss, can we determine the cause? The answer is "No", but we can present the probabilities of various scenarios. It's more probable that the student was a tutor of 0 mentees, since the probability of assuming that role and losing money is 0.5 (refer to the last column in Table 5). This 0.5 value [accounts](https://calcworkshop.com/probability/bayes-theorem/) for the majority of the total 0.629 probability of losing money, occurring in 0.794876771 of negative cases:
 
 $0.5 / 0.62902832 = 0.794876771$
 
 All such shares are calculated and represented in a table 6.
 
-*Table 6. Probability that a specific situation leaded to the money loss*
+*Table 6. Probabilities of various scenarios that lead to money loss.*
 
-| Role | Count of reimbursements | Probability of such situation | Part that such situtation takes in all bad luck cases |
+*\* "Share" refers to the portion or fraction of a particular scenario in relation to all negative outcomes.*
+
+| Student Role | Reimbursements | Situation Probability | Share \* |
 | ----------------- | - | ---------- | ---------- |
 | Tutor of 0 tutees | 0 | 0.5        | 0.79487677 |
 | Tutor of 1 tutees | 1 | 0.0625     | 0.0993596  |
