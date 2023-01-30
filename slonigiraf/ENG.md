@@ -527,7 +527,7 @@ To determine the likelihood of a student incurring a monetary loss while acquiri
 
 *Table 5. Probability of money loss in various roles.* 
 
-*\* The term "Reimbursement Probability" refers to the probability of a specific reimbursement count for a role.*
+*\* The term "Reimbursements' Probability" refers to the probability of a specific reimbursement count for a role.*
 
 *\*\* The term "Situation Probability" means the likelihood of a student incurring a money loss while acquiring a skill, due to a particular role with N reimbursements.*
 
