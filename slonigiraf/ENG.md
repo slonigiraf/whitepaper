@@ -91,9 +91,13 @@ To address these issues, we propose using money to incentivize students to serve
 
 ## Slonigiraf Is a New Educational Model More Efficient Than the Traditional
 
+**Figure 1**
+
+*The Proposed Educational Model Is Named "Slonigiraf"*
+
 <img alt="Image" src="https://github.com/slonigiraf/slon-whitepaper/blob/main/img/lesson.png?raw=true" width="500">
 
-*Figure 1. The proposed educational model is named "Slonigiraf". It consists of peer-to-peer tutoring (leftmost pane), expert selection (middle pane) and diplomas verification (last pane).*
+*Note.* The model consists of peer-to-peer tutoring (leftmost pane), expert selection (middle pane) and diplomas verification (last pane).
 
 ### Students Pay Each Other for Issuance of Diplomas After Successful Tutoring
 
@@ -111,9 +115,15 @@ As an example: $2^{5} = 32$, meaning that after 5 sessions, 32 students will hav
 
 ### Tutors Have Different Numbers of Tutees
 
+**Figure 2**
+
+*Student May Have Varying Amounts Of Mentees*
+
 <img alt="Image" src="https://github.com/slonigiraf/slon-whitepaper/blob/main/img/tutees_count.png?raw=true" width="500">
 
-*Figure 2. A student may have varying amounts of mentees. For instance, in a class of 32 students, the maximum number of mentees per student would likely not exceed 5, given that the number of mentors doubles in each session.*
+*Note.* For instance, in a class of 32 students, the maximum number of mentees per student would likely not exceed 5, given that the number of mentors doubles in each session.
+
+&nbsp;
 
 To estimate what tutor roles student can play in the Slonigiraf educational model and what are probabilities of playing such roles let's examine a class consisting of 32 students. We will explain later why probabilities of different roles are more of less the same in any student group size.
 
@@ -151,9 +161,11 @@ The next step is to determine if the tutee can identify and correct errors in pr
 
 When the tutee starts to identify and correct errors in the tutor's answers, the tutor asks him/her to come back the next day to work on this skill to ensure that the skill is ingrained in long-term memory. On the next day, the tutor starts from the beginning of the algorithm. If the student immediately corrects the tutor's error, the tutor awards the tutee a diploma for the skill studied and receives payment for teaching and issuing the diploma. If the tutee is not able to correct the error immediately, the tutor continues working through the algorithm until the tutee is able to identify and correct errors and asks the tutee to come back the next day.
 
-<img alt="Image" src="https://github.com/slonigiraf/slon-whitepaper/blob/main/img/algorithm.png?raw=true" width="500">
+**Figure 3**
 
-*Figure 3. A simple pedagogical algorithm that can be used by tutors to ensure the quality of the skill training.*
+*A simple pedagogical algorithm that can be used by tutors to ensure the quality of the skill training*
+
+<img alt="Image" src="https://github.com/slonigiraf/slon-whitepaper/blob/main/img/algorithm.png?raw=true" width="500">
 
 The pedagogical roots of such an algorithm can be traced back to the concept of error correction and feedback in learning. The algorithm is based on the idea that students learn best when they are actively engaged in the learning process and when they receive immediate feedback on their performance.
 
