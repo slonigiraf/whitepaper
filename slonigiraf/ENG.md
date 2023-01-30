@@ -171,8 +171,8 @@ This algorithm can be utilized to train a wide range of skills, regardless of wh
 
 <table width="100%" border="1">
     <tr>
-        <th width="50%">Math skill: "Add numbers"</th>
-        <th width="50%">Physical skill: "Show Thumbs Up"</th>
+        <th width="50%">Math Skill: "Add Numbers"</th>
+        <th width="50%">Physical Skill: "Show Thumbs Up"</th>
     </tr>
     <tr>
         <td colspan="2" align="center"><i>Tutor:<i></td>
@@ -368,7 +368,7 @@ To estimate the world population of students who will use our educational model,
 
 *Table 2. Target audience (7-21 years old people). The value of 7-21 strata percent for the rest world was calculated as an average for the countries from the list above.*
 
-|             | Total Population | 7-21 years old, % | 7-21 years old |
+|             | Total Population | 7-21 Years Old, % | 7-21 Years Old |
 | ----------- | ------------- | ------ | ------------- |
 | India       | 1,402,807,867 | 25.78% | 361,643,868   |
 | China       | 1,425,861,543 | 17.60% | 250,951,632   |
@@ -476,9 +476,9 @@ You can see that $Profit < 0$ only if $(-1 + N{_t} - 1.2 * N{_f}) < 0$, or simpl
 
 Table 4 summarizes the circumstances in which it can occur.
 
-*Table 4. Cash Flow Results for Different Roles.*
+*Table 4. Cash flow results for different roles.*
 
-| Student Role      | $N{_t}$ | $N{_f}$ | $N{_t}-1.2*N{_f}$ | Money loss |
+| Student Role      | $N{_t}$ | $N{_f}$ | $N{_t}-1.2*N{_f}$ | Money Loss |
 | ----------------- | -- | -- | ------------ | ------------ |
 | Tutor of 0 tutees | 0  | 0  | 0            | Yes          |
 | Tutor of 1 tutees | 1  | 0  | 1            | No           |
@@ -525,7 +525,7 @@ The calculations for the remaining values in the "Reimbursement probability" col
 
 To determine the likelihood of a student incurring a monetary loss while acquiring a skill, due to a particular role with N reimbursements, we multiply the probability of occupying that role by the probability of the reimbursement count for that role. For instance, for a "tutor of 2 tutees" role that pays 1 reimbursement, the calculation is: $0.125 * 0.375 = 0.046875$. Adding up all the probabilities of unfavorable outcomes gives us a result that a student has a **0.629 probability** of losing money during the process of acquiring a skill.
 
-*Table 5. Probability of Money Loss in Various Roles.* 
+*Table 5. Probability of money loss in various roles.* 
 
 *\* The term "Reimbursement Probability" refers to the probability of a specific reimbursement count for a role.*
 
