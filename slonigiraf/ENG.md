@@ -797,7 +797,13 @@ Therefore, our estimate is that the company issuing SLON tokens will receive 50%
 
 ## System Software Architecture
 
-The proposed system, Slonigiraf, is based on the principles of the Polkadot blockchain platform. It consists of two interconnected components: [SLON](https://github.com/slonigiraf/whitepaper/blob/main/slon/ENG.md), a reputation system, and [GIRAF](https://github.com/slonigiraf/whitepaper/blob/main/giraf/ENG.md), a lobbying and legislation system. These two systems are implemented as separate blockchains that are connected through a relay chain, allowing for the deployment of multiple SLON and GIRAF modules. This design provides scalability and allows the system to accommodate a large number of users while also addressing the varying needs of the population.
+**Figure 4**
+
+*Slonigiraf System Software Architecture*
+
+<img alt="Image" src="https://github.com/slonigiraf/slon-whitepaper/blob/main/img/blockchain.png?raw=true" width="500">
+
+The proposed system, Slonigiraf, is based on the principles of the Polkadot blockchain platform. It consists of two interconnected components: [SLON](https://github.com/slonigiraf/whitepaper/blob/main/slon/ENG.md), a reputation system, and [GIRAF](https://github.com/slonigiraf/whitepaper/blob/main/giraf/ENG.md), a lobbying and legislation system. These two systems are implemented as separate blockchains that are connected through a relay chain, allowing for the deployment of multiple SLON and GIRAF modules (see the Figure 4). This design provides scalability and allows the system to accommodate a large number of users while also addressing the varying needs of the population.
 
 The GIRAF component of Slonigiraf utilizes the consensus mechanisms of Polkadot to facilitate agreement on key education skills and teaching methods. The SLON module, which also serves as the name of the Slonigiraf cryptocurrency, stores information about diploma validity and tutors reputation.
 
