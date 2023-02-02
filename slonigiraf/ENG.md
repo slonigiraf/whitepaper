@@ -4,7 +4,7 @@ _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmai
 
 ## Annotation <!-- omit from toc -->
 
-We explore how education affects economic growth and present an education model that aims to outperform current models threefold. The model seeks to increase the number of acquired skills and has been implemented in several secondary schools with reported success. Our educational approach emphasizes peer-to-peer learning and addresses issues commonly encountered in this method. The model is expected to positively impact the world economy, potentially adding 8 trillion USD to the world economy each year. We also investigate how private enterprises can globally expand the proposed educational model, realizing profits from the reform, and examine the potential connection to AI training and future use in education.
+We explore how education affects economic growth and present an education model that aims to outperform current models threefold. The model seeks to increase the number of acquired skills and has been implemented in several secondary schools with reported success. Our educational approach emphasizes peer-to-peer learning and addresses issues commonly encountered in this method. The model is expected to positively impact the world economy, potentially adding 8 trillion USD to the world economy each year. We also investigate how private enterprises can globally expand the proposed educational model, realizing profits from the reform, and examine the potential connection to artificial intelligence training and future use of it in education.
 
 ## Table of Contents <!-- omit from toc -->
 
@@ -21,6 +21,8 @@ We explore how education affects economic growth and present an education model 
   - [Teacher Salary Can Be Adjusted to the Quality of Teaching](#teacher-salary-can-be-adjusted-to-the-quality-of-teaching)
   - [Linking Education to the Real World by Paying Students for Learning](#linking-education-to-the-real-world-by-paying-students-for-learning)
   - [Comparing the Speed of Skill Acquisition of the Slonigiraf Model to the Traditional Model](#comparing-the-speed-of-skill-acquisition-of-the-slonigiraf-model-to-the-traditional-model)
+  - [The Slonigiraf Model Produces Training Data for Artificial Intelligence](#the-slonigiraf-model-produces-training-data-for-artificial-intelligence)
+  - [Artificial Intelligence Bots Can Be Integrated As Tutors in Slonigiraf Model](#artificial-intelligence-bots-can-be-integrated-as-tutors-in-slonigiraf-model)
 - [Financial Model of the Proposed Educational Reform](#financial-model-of-the-proposed-educational-reform)
   - [We Target 2 Billion People in the World](#we-target-2-billion-people-in-the-world)
   - [Wages of Tutors and Experts](#wages-of-tutors-and-experts)
@@ -376,6 +378,14 @@ In the traditional model, a teacher teaches a group of students all at once, typ
 In contrast, the Slonigiraf model utilizes individualized instruction, where a teacher works with students one-on-one. At first glance, it may appear that the traditional model results in more skills being acquired in the same amount of time. However, in 22 minutes, a teacher using the Slonigiraf model will be able to teach 2 students (11 minutes per student) and the first student taught by the teacher will then teach another student. This results in a total of 3 students acquiring the skill, whereas another teacher using a traditional model in the same amount of time would have taught 8 students.
 
 But why are we arguing that the Slonigiraf model is more efficient than the traditional? The answer is because of other skills and other students. It's true that during 22 minutes only 3 students will get the skill that the teacher has started to introduce to the group. But during the time these 3 students acquire such skill other students will spread the skills that were introduced before. As any student in the Slonigiraf model has the 0.5 probability to get a new skill per session, during 2 sessions of 11 minutes each student is supposed to learn some new skill. Therefore, it is important to compare not just the number of students who acquire a specific skill in the traditional model (8) versus the Slonigiraf model (3), but also the total number of students who acquire any new skill in the Slonigiraf model (32). This shows that the Slonigiraf model is 4 times more efficient than the traditional one. Actually the performance of the Slonigiraf model is only 3 times better than the traditional because some students forget some skills.
+
+### The Slonigiraf Model Produces Training Data for Artificial Intelligence
+
+TODO: write
+
+### Artificial Intelligence Bots Can Be Integrated As Tutors in Slonigiraf Model
+
+TODO: write
 
 ## Financial Model of the Proposed Educational Reform
 
