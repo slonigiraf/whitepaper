@@ -44,6 +44,8 @@ We explore how education affects economic growth and present an education model 
   - [SLON Token Monetary Base](#slon-token-monetary-base)
   - [SLON Token Initial Distribution](#slon-token-initial-distribution)
 - [System Software Architecture](#system-software-architecture)
+  - [The Polkadot Blockchain Design is Well-Suited for The Slonigiraf Software Layer](#the-polkadot-blockchain-design-is-well-suited-for-the-slonigiraf-software-layer)
+  - [The Slonigiraf network is comprised of validators that ensure security and collators that facilitate scaling](#the-slonigiraf-network-is-comprised-of-validators-that-ensure-security-and-collators-that-facilitate-scaling)
 - [Appendix 1](#appendix-1)
 
 ## Several Educational Models Are Known to Date
@@ -796,6 +798,28 @@ The next stage is a trading for the discount rate with distributors. Mean resell
 Therefore, our estimate is that the company issuing SLON tokens will receive 50% of token sales and 50% of the profits, resulting in a profit of approximately 2 trillion dollars.
 
 ## System Software Architecture
+
+### The Polkadot Blockchain Design is Well-Suited for The Slonigiraf Software Layer
+
+The Slonigiraf educational model requires a transparent and fraud-resistant system for managing SLON token transactions. Currently, blockchain solutions meet these requirements but face scalability issues for handling billions of users' transactions. Ongoing research aims to increase blockchain transaction per second rates to match current industry standards of Visa and Mastercard networks. Approaches to improve blockchain transaction rate are developed by Cosmos Network, Ethereum, Bitcoin, Polkadot, Telegram Open Network, Solana, EOS.IO, Polygon etc. It's tough to determine a clear winner at first glance, so we delved deeper by comparing Ethereum, Polkadot, Solana, Bitcoin, and Cosmos, which have the largest developer communities.
+
+During the analysis, Solana was excluded from the list due to numerous reports suggesting that its transaction rate per second and developer count [may have been falsified](https://medium.com/@CryptoSavingExpert/solana-tps-is-fake-and-massively-inflated-cyber-capital-founder-da2ff27b1ed4).
+
+According to the listed blockchains, Polkadot emerges as the clear winner with its current transaction rate of 1,000 per second and a goal to reach 1,000,000 in a span of one year, as illustrated in Table 11. Therefore, we made the decision to utilize the Polkadot architecture design for the creation of the software layer that will manage SLON tokens in the Slonigiraf educational model.
+
+**Table 11**
+
+*Transactions Per Second Rate*
+
+|          | Current TPS        | Speculated TPS      |
+| -------- | ------------------ | ------------------- |
+| Visa     |           1,736    |              [24,000](https://usa.visa.com/run-your-business/small-business-tools/retail.html) |
+| Ethereum |                86  |            [100,000](https://ethtps.info/)  |
+| Polkadot |           1,000    |         [1,000,000](https://www.binance.com/en/news/top/7218201)   |
+| Cosmos   |  ???               |              [10,000](https://learn.bybit.com/blockchain/fastest-cryptocurrencies-high-tps/) |
+| Bitcoin  |                  7 |         [1,000,000](https://bakkt.com/blog/bitcoin-lightning-network)   |
+
+### The Slonigiraf network is comprised of validators that ensure security and collators that facilitate scaling
 
 **Figure 4**
 
