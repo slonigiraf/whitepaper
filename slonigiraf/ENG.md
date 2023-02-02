@@ -18,9 +18,9 @@ We explore how education affects economic growth and present an education model 
   - [Some Students Become Experts](#some-students-become-experts)
   - [Experts Earn Money Through Identification of Low-Quality Skills](#experts-earn-money-through-identification-of-low-quality-skills)
   - [A Tutee Can Allow a Tutor to Review a Diploma Issued by Another Tutor](#a-tutee-can-allow-a-tutor-to-review-a-diploma-issued-by-another-tutor)
+  - [Comparing the Speed of Skill Acquisition of the Slonigiraf Model to the Traditional Model](#comparing-the-speed-of-skill-acquisition-of-the-slonigiraf-model-to-the-traditional-model)
   - [Teacher Salary Can Be Adjusted to the Quality of Teaching](#teacher-salary-can-be-adjusted-to-the-quality-of-teaching)
   - [Linking Education to the Real World by Paying Students for Learning](#linking-education-to-the-real-world-by-paying-students-for-learning)
-  - [Comparing the Speed of Skill Acquisition of the Slonigiraf Model to the Traditional Model](#comparing-the-speed-of-skill-acquisition-of-the-slonigiraf-model-to-the-traditional-model)
   - [The Slonigiraf Model Produces Training Data for Artificial Intelligence](#the-slonigiraf-model-produces-training-data-for-artificial-intelligence)
   - [Artificial Intelligence Bots Can Be Integrated As Tutors in Slonigiraf Model](#artificial-intelligence-bots-can-be-integrated-as-tutors-in-slonigiraf-model)
 - [Financial Model of the Proposed Educational Reform](#financial-model-of-the-proposed-educational-reform)
@@ -351,6 +351,14 @@ Skills that are acquired but not used are prone to be forgotten. To combat this,
 
 It is possible that a student and a tutor may conspire against a previous tutor to receive reimbursement while the student has not actually forgotten the skill. This type of deception is not prohibited in any administrative way, but it is almost impossible in the long term - such a student would be banned from the community of tutors as dishonest and would lose the ability to receive new diplomas.
 
+### Comparing the Speed of Skill Acquisition of the Slonigiraf Model to the Traditional Model
+
+In the traditional model, a teacher teaches a group of students all at once, typically spending 22 minutes of their time to teach a skill to the group. The outcome of this method is that only one out of four students will have learned the skill. For example, if a teacher is working with a group of 32 students, this approach will result in 8 students having learned the skill.
+
+In contrast, the Slonigiraf model utilizes individualized instruction, where a teacher works with students one-on-one. At first glance, it may appear that the traditional model results in more skills being acquired in the same amount of time. However, in 22 minutes, a teacher using the Slonigiraf model will be able to teach 2 students (11 minutes per student) and the first student taught by the teacher will then teach another student. This results in a total of 3 students acquiring the skill, whereas another teacher using a traditional model in the same amount of time would have taught 8 students.
+
+But why are we arguing that the Slonigiraf model is more efficient than the traditional? The answer is because of other skills and other students. It's true that during 22 minutes only 3 students will get the skill that the teacher has started to introduce to the group. But during the time these 3 students acquire such skill other students will spread the skills that were introduced before. As any student in the Slonigiraf model has the 0.5 probability to get a new skill per session, during 2 sessions of 11 minutes each student is supposed to learn some new skill. Therefore, it is important to compare not just the number of students who acquire a specific skill in the traditional model (8) versus the Slonigiraf model (3), but also the total number of students who acquire any new skill in the Slonigiraf model (32). This shows that the Slonigiraf model is 4 times more efficient than the traditional one. Actually the performance of the Slonigiraf model is only 3 times better than the traditional because some students forget some skills.
+
 ### Teacher Salary Can Be Adjusted to the Quality of Teaching
 
 **The role of a teacher** differs from that of a student in three ways:
@@ -371,21 +379,15 @@ However, like any other educational approach, this system faces the challenge of
 
 The idea of paying students for their education may raise ethical concerns, as the traditional view is that education is valuable in and of itself. However, it is essential to acknowledge that all nations invest in education because it ultimately leads to greater economic growth in the long term. Therefore, students who are actively engaged in their studies are contributing to this process and should be compensated for their efforts.
 
-### Comparing the Speed of Skill Acquisition of the Slonigiraf Model to the Traditional Model
-
-In the traditional model, a teacher teaches a group of students all at once, typically spending 22 minutes of their time to teach a skill to the group. The outcome of this method is that only one out of four students will have learned the skill. For example, if a teacher is working with a group of 32 students, this approach will result in 8 students having learned the skill.
-
-In contrast, the Slonigiraf model utilizes individualized instruction, where a teacher works with students one-on-one. At first glance, it may appear that the traditional model results in more skills being acquired in the same amount of time. However, in 22 minutes, a teacher using the Slonigiraf model will be able to teach 2 students (11 minutes per student) and the first student taught by the teacher will then teach another student. This results in a total of 3 students acquiring the skill, whereas another teacher using a traditional model in the same amount of time would have taught 8 students.
-
-But why are we arguing that the Slonigiraf model is more efficient than the traditional? The answer is because of other skills and other students. It's true that during 22 minutes only 3 students will get the skill that the teacher has started to introduce to the group. But during the time these 3 students acquire such skill other students will spread the skills that were introduced before. As any student in the Slonigiraf model has the 0.5 probability to get a new skill per session, during 2 sessions of 11 minutes each student is supposed to learn some new skill. Therefore, it is important to compare not just the number of students who acquire a specific skill in the traditional model (8) versus the Slonigiraf model (3), but also the total number of students who acquire any new skill in the Slonigiraf model (32). This shows that the Slonigiraf model is 4 times more efficient than the traditional one. Actually the performance of the Slonigiraf model is only 3 times better than the traditional because some students forget some skills.
-
 ### The Slonigiraf Model Produces Training Data for Artificial Intelligence
 
-TODO: write
+Large language models, such as OpenAI's Chat, have shown the capability of generating text that resembles human-written text. However, the quality of these systems is contingent on the training data used, and the answers provided by OpenAI Chat may not be reliable enough for use as a student tutor.
+
+The Slonigiraf model employs tutors to educate students on specific skills. By allowing tutors to communicate with the language model through dedicated skill-based conversations, a significant amount of text data can be generated for AI enhancement. The use of recommendation letters as proof of tutor completion can further improve the quality of these dialogs. In essence, the AI can be seen as a student in the Slonigiraf model, learning directly from tutors, while experts can assess the quality of the tutor's work.
 
 ### Artificial Intelligence Bots Can Be Integrated As Tutors in Slonigiraf Model
 
-TODO: write
+When AI language models attain a diploma from a tutor, they will be able to teach other human students and award them with diplomas. This vision provides a straightforward economic incentive for major tech companies to invest in training AI with the assistance of human tutors who are students from educational institutions.
 
 ## Financial Model of the Proposed Educational Reform
 
