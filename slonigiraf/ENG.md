@@ -52,29 +52,27 @@ We explore how education affects economic growth and present an education model 
 
 ## Several Educational Models Are Known to Date
 
-The most widely used educational model in the world is the **traditional model**, also known as "didactic" approach. This model is characterized by a teacher-centered approach, where the teacher is the primary source of information and the focus is on rote learning and memorization. It is the oldest and most prevalent model of education, and is still used in many schools around the world.
+The world's most widely used educational model is the **traditional model**, also known as the "didactic" approach. This model is characterized by a teacher-centered approach, where the teacher is the primary source of information and focuses on rote learning and memorization. It is the oldest and most prevalent model of education and is still used in many schools around the world.
 
-In this model, the teacher is responsible for delivering information to the students, and students are expected to memorize and regurgitate that information on exams and assessments. The curriculum is based on textbooks, lectures, and direct instruction, and there is a strong emphasis on standardized testing and assessments.
+The curriculum is based on textbooks, lectures, and direct instruction, strongly emphasizing standardized testing and assessments. In this model, the teacher delivers information to the students. Students are expected to memorize and regurgitate that information on exams and assessments.
+This model is still widely used in many countries, particularly developing countries and some parts of the developed world. Still, it has been criticized for not providing students with the critical thinking and problem-solving skills they need to be successful in the modern world. As a result, increasing calls have been for adopting more student-centered, interactive, and creative educational models that help develop the whole person.
 
-This model is still widely used in many countries, particularly in developing countries and in some parts of the developed world, but it has been criticized for not providing students with the critical thinking and problem-solving skills they need to be successful in the modern world. As a result, there have been increasing calls for the adoption of more student-centered, interactive and creative educational models that help to develop the whole person.
+Many other education models have been developed and implemented over time; some of the most well-known include:
 
-There are many other education models that have been developed and implemented over time, some of the most well-known include:
+**Montessori**: Developed by Maria Montessori, this model emphasizes a child-centered approach, emphasizing self-directed learning and hands-on activities.
 
-**Montessori**: Developed by Maria Montessori, this model emphasizes a child-centered approach, with an emphasis on self-directed learning and hands-on activities.
+**Waldorf**: This model, developed by Rudolf Steiner, emphasizes a holistic approach to education, with a strong emphasis on the arts, practical skills, and a solid connection to nature.
 
-**Waldorf**: This model, developed by Rudolf Steiner, emphasizes a holistic approach to education, with a strong emphasis on the arts, practical skills, and a strong connection to nature.
+**Reggio Emilia**: This Italian model is characterized by a project-based approach, where children learn through exploration, discovery, and collaboration.
 
-**Reggio Emilia**: This Italian model is characterized by a project-based approach, where children learn through exploration, discovery and collaboration.
+**Homeschooling**: This model of education is when the parents or guardians provide education to the child at home.
 
-**Homeschooling**: This model of education is when the parents or guardians provide the education to the child at home.
+**Online learning**: This model of education is when the students learn through internet-based platforms; it can be synchronous or asynchronous.
 
-**Online learning**: This model of education is when the students learn through internet-based platforms, it can be synchronous or asynchronous.
+**Peer-to-peer learning**, or P2P learning, is an educational model where students learn from and with each other rather than from a teacher or instructor. In a peer-to-peer learning environment, students actively participate as learners and teachers, working together to share knowledge, skills, and resources.
 
-**Peer-to-peer learning**, also known as P2P learning, is an educational model in which students learn from and with each other, rather than from a teacher or instructor. In a peer-to-peer learning environment, students take on active roles as both learners and teachers, working together to share knowledge, skills, and resources.
-
-**Private tutoring** is an educational model in which a student receives one-on-one instruction from a tutor outside of a traditional classroom setting. The tutor can be a certified teacher, a retired teacher or a subject matter expert. The tutor and student typically meet on a regular basis, either in person or online, to work on specific subjects or skills. Private tutoring can be costly and not accessible to everyone. It also requires a high level of commitment and responsibility from both the student and the tutor in order to be successful.
-
-Each model has its own strengths and weaknesses, and the effectiveness of a model can depend on factors such as the context in which it is implemented and the specific implementation of the model.
+**Private tutoring** is an educational model in which a student receives one-on-one instruction from a tutor outside of a traditional classroom setting. The tutor can be a certified teacher, a retired teacher, or a subject matter expert. The tutor and student typically meet in person or online to work on specific subjects or skills. Private tutoring can be costly and not accessible to everyone. It also requires a high level of commitment and responsibility from the student and the tutor to succeed.
+Each model has its strengths and weaknesses, and the effectiveness of a model can depend on factors such as the context in which it is implemented and the specific implementation of the model.
 
 ## The Traditional Model Is the Most Efficient Among the Known Alternatives
 
