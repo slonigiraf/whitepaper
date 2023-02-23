@@ -748,9 +748,9 @@ Countries have varying teacher salaries, leading to variations in the diploma co
 
 ### Educational Organizations Acquire SLON Tokens to Establish Student Starting Capital
 
-To utilize the Slonigiraf educational model, schools or universities must ensure that all students have adequate funding. As previously discussed, educational institutions cannot assume that all students are financially well-off and should provide a starting capital for each student (refer to Table 8). Additionally, simply providing money to students is not a viable solution as they may spend it before realizing its importance for new forms of communication and education. To address this, schools or universities should purchase SLON tokens for students to use instead of money. The cost of purchasing SLON tokens is less than issuing and maintaining new tokens, making it a cost-effective option for any educational organization.
+To utilize the Slonigiraf educational model, schools or universities must ensure that all students have adequate funding. As previously discussed, educational institutions cannot assume that all students are financially well-off and should provide starting capital for each student (refer to Table 8). Additionally, simply giving money to students is not a viable solution as they may spend it before realizing its importance for new forms of communication and education. To address this, schools or universities should purchase SLON tokens for students to use instead of money. The cost of purchasing SLON tokens is less than issuing and maintaining new tokens, making it a cost-effective option for any educational organization.
 
-As stated in Table 8, the total demand for SLON by educational organizations worldwide is 98.3 billion USD, which is comparable to net profit of largest world companies such as: Apple or Microsoft in [2022](https://www.statista.com/statistics/269857/most-profitable-companies-worldwide/#).
+As stated in Table 8, the total demand for SLON by educational organizations worldwide is 98.3 billion USD, comparable to the net profit of the largest companies such as Apple or Microsoft in [2022](https://www.statista.com/statistics/269857/most-profitable-companies-worldwide/#).
 
 ### Some Students Stash Tokens Which Leads to an Additional Demand
 
