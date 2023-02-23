@@ -663,7 +663,7 @@ $2.214 * 100.66 = 222.87$
 
 $222.87 * 61,376,828 = 13,679,152,692$
 
-Table 8 displays the calculations for other countries. The Slonigiraf educational model requires a total of 98.3 billion USD to be distributed among students worldwide.
+Table 8 displays the calculations for other countries. The Slonigiraf educational model requires 98.3 billion USD to be distributed among students worldwide.
 
 **Table 8**
 
