@@ -762,7 +762,7 @@ $8000 - 98.3 = 7901.7$
 
 ### Corporate Education Could Lead to The Demand Growth
 
-In summary, we anticipate a demand for tokens from educational organizations to be 98.3 billion USD, and 7.9 trillion USD from students from wealthy families. Throughout our analysis, we have primarily focused on students aged 7-21, but it is worth noting that adults also continue their education. We see potential for the Slonigiraf educational model to be implemented in corporate training, which could generate an additional demand for tokens. The global Corporate Training market was [valued at USD 345.56 Billion in 2021](https://skyquestt.com/report/corporate-training-market). If we estimate that the Slonigiraf educational model can triple the educational efficiency, the additional GDP as well as token demand could reach approximately 691 billion USD:
+In summary, we anticipate a demand for tokens from educational organizations to be 98.3 billion USD and 7.9 trillion USD from students from wealthy families. Throughout our analysis, we have primarily focused on students aged 7-21. Still, it is worth noting that adults also continue their education. We see the potential for implementing the Slonigiraf educational model in corporate training, which could generate additional demand for tokens. The global Corporate Training market was [valued at USD 345.56 Billion in 2021](https://skyquestt.com/report/corporate-training-market). We estimate that the Slonigiraf educational model can triple the educational efficiency. In that case, the additional GDP, as well as token demand, could reach approximately 691 billion USD:
 
 $2*345.56 = 691.12$
 
