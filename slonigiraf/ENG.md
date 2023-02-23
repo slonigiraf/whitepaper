@@ -339,9 +339,9 @@ Holding a diploma does not necessarily mean that a student has fully mastered th
 
 ### Experts Earn Money Through Identification of Low-Quality Skills
 
-Why do students want to become experts? The expert status enables them to verify a large number of diplomas and potentially identify ones that are not of high quality, resulting in reimbursement from the instructors who issued such diplomas. However, to prevent experts from falsely identifying all diplomas as low-quality in order to receive more rewards, students are allowed to choose which expert they want to work with. This creates competition among experts and promotes honesty.
+Why do students want to become experts? The expert status enables them to verify many diplomas and potentially identify ones not of high quality, resulting in reimbursement from the instructors who issued such diplomas. However, to prevent experts from falsely identifying all diplomas as low-quality to receive more rewards, students can choose which expert to contact. Such design creates competition among experts and promotes honesty.
 
-The teacher is also able to re-verify diplomas that have already been verified by an expert if they suspect any cheating, such as the expert verifying a diploma that they themselves issued. In the event of cheating, the teacher can prohibit the student from being an expert for a certain period of time, and also receive reimbursement from the instructor who issued the diploma used in the cheating.
+The teacher can also re-verify diplomas that an expert has already verified if they suspect any cheating, such as the expert verifying a diploma they issued. In the event of cheating, the teacher can prohibit the student from being an expert for a certain period and also receive reimbursement from the instructor who issued the diploma used in the cheating.
 
 ### A Tutee Can Allow a Tutor to Review a Diploma Issued by Another Tutor
 
