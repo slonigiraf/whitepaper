@@ -705,9 +705,9 @@ This approach may also need help with student behavior, as students may be tempt
 
 ### We Address These Challenges with the Issuance of SLON Token
 
-We propose using tokens specific to the Slonigiraf educational model as a solution to all described challenges. In such way students will get tokens instead of real money which prevents their spending before actual use in education. Furthermore, it presents opportunities for private businesses to generate revenue through selling tokens, thus driving the adoption of the Slonigiraf educational model.
+We propose using tokens specific to the Slonigiraf educational model to solve all described challenges. In such a way, students will get tokens instead of real money, preventing their spending before actual use in education. Furthermore, it presents opportunities for private businesses to generate revenue through selling tokens, thus driving the adoption of the Slonigiraf educational model.
 
-Administrators and politicians running government or educational organizations won't issue tokens because they don't stand to profit from it. A private, profit-driven organization is more likely to issue a token to advance education reform, with emission distributed among companies seeking to profit from it. We will name this token "SLON".
+Administrators and politicians running government or educational organizations won't issue tokens because they don't stand to profit from it. A private, profit-driven organization is likelier to issue a token to advance education reform, with emission distributed among companies seeking to profit from it. We will name this token "SLON."
 
 ### SLON Token Price
 
