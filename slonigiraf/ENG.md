@@ -545,26 +545,26 @@ Table 4 summarizes the circumstances in which it can occur.
 
 ### Money Loss Probability
 
-A student who constantly incurs financial losses will become bankrupt. Table 4 provides insights into the circumstances that result in money loss. We will combine the probability of occupying each role with the probability of losing money in each role, focusing on the scenarios that result in financial loss. For instance, the role of "tutor of 5 tutees" paying 3 reimbursements yields a positive profit, and such scenarios will not be discussed in this section.
+A student who constantly incurs financial losses will become bankrupt. Table 4 provides insights into the circumstances that result in money loss. We will combine the probability of occupying each role with the probability of losing money in each role, focusing on the scenarios that result in financial loss. For instance, the role of "tutor of 5 tutees" paying three reimbursements yields a positive profit, and such scenarios will not be discussed in this section.
 
 The probability of occupying each role can be obtained from Figure 2 and was calculated by dividing the number of students in each role by the total number of students.
 
-If a student holds the role of a tutee and does not become a tutor, they will incur a financial loss each time. Thus, the probability of losing money while occupying the role of "tutor with 0 tutee" is 1.
+If a student holds the role of a tutee and does not become a tutor, they will incur a financial loss each time. Thus, the probability of losing money while occupying the role of "tutor with 0 tutees" is 1.
 
-A tutee pays their tutor not only for studying a skill, but also for obtaining a diploma. The diploma serves a similar purpose to an insurance policy, as the tutor promises to reimburse the expert if the tutee forgets the skill. Like in the insurance industry, unfavorable events can occur more frequently than expected, causing the tutor to run out of money from reimbursements. The probability of a tutee forgetting a skill is [0.25](https://pubmed.ncbi.nlm.nih.gov/21574747/). Hence, if a tutor has only one tutee, they face a 0.25 probability of paying a reimbursement.
+A tutee pays their tutor not only for studying a skill but also for obtaining a diploma. The diploma serves a similar purpose to an insurance policy, as the tutor promises to reimburse the expert if the tutee forgets the skill. Like in the insurance industry, unfavorable events can occur more frequently than expected, causing the tutor to run out of money from reimbursements. The probability of a tutee forgetting a skill is [0.25](https://pubmed.ncbi.nlm.nih.gov/21574747/). Hence, if a tutor has only one tutee, they face a 0.25 probability of paying a reimbursement.
 
-A tutor with 2 tutees has two scenarios that result in a financial loss:
+A tutor with two tutees has two scenarios that result in a financial loss:
 
 - Both tutees forget the skill
 - Either of the students forgets the skill
 
-To determine the probability of both tutees forgetting the skill, we treat them as independent events. Therefore, we [multiply the probability](https://en.wikipedia.org/wiki/Independence_(probability_theory)) of the first event by the probability of the second. Hence, the probability of a tutor with 2 tutees paying 2 reimbursements is $0.25 * 0.25 = 0.0625$.
+To determine the probability of both tutees forgetting the skill, we treat them as independent events. Therefore, we [multiply the probability](https://en.wikipedia.org/wiki/Independence_(probability_theory)) of the first event by the probability of the second. Hence, the probability of a tutor with two tutees paying two reimbursements is $0.25 * 0.25 = 0.0625$.
 
-The probability for this type of tutor that only the first tutee will forget the skill is calculated similarly: $0.25 * (1 - 0.25) = 0.1875$, where $(1 - 0.25)$ represents the probability that the second tutee will retain the skill. The probability that only the second tutee will forget the skill is: $(1 - 0.25) * 0.25 = 0.1875$. Therefore, the total probability of either of the students forgets the skill is $2 * 0.1875 = 0.375$.
+The probability for this type of tutor that only the first tutee will forget the skill is calculated similarly: $0.25 * (1 - 0.25) = 0.1875$, where $(1 - 0.25)$ represents the probability that the second tutee will retain the skill. The probability that only the second tutee will forget the skill is $(1 - 0.25) * 0.25 = 0.1875$. Therefore, the total probability of either of the students forgetting the skill is $2 * 0.1875 = 0.375$.
 
 The calculations for the remaining values in the "Reimbursements' probability" column of Table 5 follow the same method.
 
-To determine the likelihood of a student incurring a monetary loss while acquiring a skill, due to a particular role with N reimbursements, we multiply the probability of occupying that role by the probability of the reimbursement count for that role. For instance, for a "tutor of 2 tutees" role that pays 1 reimbursement, the calculation is: $0.125 * 0.375 = 0.046875$. Adding up all the probabilities of unfavorable outcomes gives us a result that a student has a **0.629 probability** of losing money during the process of acquiring a skill.
+To determine the likelihood of a student incurring a monetary loss while acquiring a skill due to a particular role with N reimbursements, we multiply the probability of occupying that role by the probability of the reimbursement count for that role. For instance, for a "tutor of 2 tutees" role that pays one reimbursement, the calculation is $0.125 * 0.375 = 0.046875$. Adding up all the probabilities of unfavorable outcomes gives us a result that a student has a **0.629 probability** of losing money while acquiring a skill.
 
 **Table 5**
 
@@ -573,7 +573,7 @@ To determine the likelihood of a student incurring a monetary loss while acquiri
 | Student Role | Reimbursements | Role Probability | Reimbursements' Probability \* | Scenario Probability \*\* |
 | ----------------- | ---- | ------- | ---------- | ----------- |
 | Tutor of 0 tutees | 0    | 0.5     | 1          | 0.5         |
-| Tutor of 1 tutees | 1    | 0.25    | 0.25       | 0.0625      |
+| Tutor of 1 tutee | 1    | 0.25    | 0.25       | 0.0625      |
 | Tutor of 2 tutees | 1    | 0.125   | 0.375      | 0.046875    |
 | Tutor of 2 tutees | 2    | 0.125   | 0.0625     | 0.0078125   |
 | Tutor of 3 tutees | 2    | 0.0625  | 0.140625   | 0.008789063 |
@@ -584,9 +584,9 @@ To determine the likelihood of a student incurring a monetary loss while acquiri
 | Tutor of 5 tutees | 5    | 0.03125 | 0.00097656 | 3.05176E-05 |
 |Total              |      |         |            | **0.62902832**  |
 
-\* The term "Reimbursements' Probability" refers to the probability of a specific reimbursement count for a role.
+\* "Reimbursements' Probability" refers to the probability of a specific reimbursement count for a role.
 
-\*\* The term "Scenario Probability" means the likelihood of a student incurring a money loss while acquiring a skill, due to a particular role with N reimbursements.
+\*\* "Scenario Probability" means the likelihood of a student losing money while acquiring a skill due to a particular role with N reimbursements.
 
 ### If We Know That Student Lost Money - What Happened?
 
