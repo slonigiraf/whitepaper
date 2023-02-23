@@ -345,9 +345,15 @@ The teacher can also re-verify diplomas that an expert has already verified if t
 
 ### A Tutee Can Allow a Tutor to Review a Diploma Issued by Another Tutor
 
-Skills that are acquired but not used are prone to be forgotten. To combat this, many educational systems rely on repetition. The Slonigiraf educational model utilizes repetition in three ways. Firstly, by allowing students who have acquired a skill to teach it to other students. In this way, the student reinforces their understanding of the skill by teaching it to others. Secondly, our system uses repetition through expert verification of diplomas. And thirdly, tutors can work with their students to verify previous diplomas issued by other tutors. If a skill has been forgotten, the tutor who identifies the problem receives reimbursement from the tutor who issued the diploma, in the same way as an expert. This process is beneficial for both the current tutor, as they potentially receive reimbursement, and for the student, as they receive information about their current educational problems.
+Skills that are acquired but not used are prone to be forgotten. So, many educational systems rely on repetition. The Slonigiraf educational model utilizes repetition in three ways:
 
-It is possible that a student and a tutor may conspire against a previous tutor to receive reimbursement while the student has not actually forgotten the skill. This type of deception is not prohibited in any administrative way, but it is almost impossible in the long term - such a student would be banned from the community of tutors as dishonest and would lose the ability to receive new diplomas.
+- Allow students who have acquired a skill to teach it to other students. In this way, the student reinforces their understanding of the skill by teaching it to others.
+- Our system uses repetition through expert verification of diplomas.
+- Tutors can work with their students to verify previous diplomas issued by other tutors.
+
+If a skill has been forgotten, the tutor who identifies the problem receives reimbursement from the tutor who issued the diploma in the same way as an expert. This process benefits both the current tutor, as they potentially receive reimbursement, and the student, as they receive information about their current educational problems.
+
+A student and a tutor may conspire against a previous tutor to receive reimbursement while the student still remembers the skill. This type of deception is not prohibited in any administrative way. Still, it is almost impossible in the long term - such a student would be banned from the community of tutors as dishonest and would lose the ability to receive new diplomas.
 
 ### Comparing the Speed of Skill Acquisition of the Slonigiraf Model to the Traditional Model
 
