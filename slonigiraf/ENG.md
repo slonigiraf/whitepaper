@@ -385,13 +385,13 @@ The idea of paying students for their education may raise ethical concerns, as t
 
 ### The Slonigiraf Model Produces Training Data for Artificial Intelligence
 
-Large language models, such as OpenAI's Chat, have shown the capability of generating text that resembles human-written text. However, the quality of these systems is contingent on the training data used, and the answers provided by OpenAI Chat may not be reliable enough for use as a student tutor.
+Large language models, such as OpenAI's Chat, have shown the capability of generating text that resembles human-written text. However, the quality of these systems is contingent on the training data used, and the answers provided by OpenAI Chat may need to be more reliable for use as a student tutor.
 
-The Slonigiraf model employs tutors to educate students on specific skills. By allowing tutors to communicate with the language model through dedicated skill-based conversations, a significant amount of text data can be generated for AI enhancement. The use of recommendation letters as proof of tutor completion can further improve the quality of these dialogs. In essence, the AI can be seen as a student in the Slonigiraf model, learning directly from tutors, while experts can assess the quality of the tutor's work.
+The Slonigiraf model employs tutors to educate students on specific skills. By allowing tutors to communicate with the language model through dedicated skill-based conversations, a significant amount of text data can be generated for AI enhancement. Using recommendation letters as proof of tutor completion can further improve the quality of these dialogs. In essence, the AI can be seen as a student in the Slonigiraf model, learning directly from tutors, while experts can assess the quality of the tutor's work.
 
 ### Artificial Intelligence Bots Can Be Integrated As Tutors in Slonigiraf Model
 
-When AI language models attain a diploma from a tutor, they will be able to teach other human students and award them with diplomas. This vision provides a straightforward economic incentive for major tech companies to invest in training AI with the assistance of human tutors who are students from educational institutions.
+When AI language models attain a diploma from a tutor, they can teach other human students and award them with diplomas. This vision provides a clear economic incentive for major tech companies to invest in training AI with the assistance of human tutors who are students from educational institutions.
 
 ## Financial Model of the Proposed Educational Reform
 
