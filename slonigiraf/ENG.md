@@ -114,7 +114,7 @@ Let's examine how a lesson proceeds when only one tutor is present. In Figure 1,
 
 $2^{sessions} = diplomas$
 
-As an example: $2^{5} = 32$, meaning that 32 students will have acquired the skill after five sessions. But what if the lesson takes place in a university setting, and the goal is to teach 512 students? Using the formula above, we can determine the number of sessions required by solving for $x$ in the equation: $2^{x} = 512$. Using a simple internet search or logarithm, we can find that $x=9$. Therefore, only nine sessions are needed to teach 512 individuals the skill.
+For example, $2^{5} = 32$, meaning that 32 students will have acquired the skill after five sessions. But what if the lesson takes place in a university setting, and the goal is to teach 512 students? Using the formula above, we can determine the number of sessions required by solving for $x$ in the equation: $2^{x} = 512$. Using a simple internet search or logarithm, we can find that $x=9$. Therefore, only nine sessions are needed to teach 512 individuals the skill.
 
 ### Tutors Have Different Numbers of Tutees
 
@@ -124,29 +124,29 @@ As an example: $2^{5} = 32$, meaning that 32 students will have acquired the ski
 
 <img alt="Image" src="https://github.com/slonigiraf/slon-whitepaper/blob/main/img/tutees_count.png?raw=true" width="500">
 
-*Note.* For instance, in a class of 32 students, the maximum number of mentees per student would likely not exceed 5, given that the number of mentors doubles in each session.
+*Note.* For instance, in a class of 32 students, the maximum number of mentees per student would likely be 5, given that the number of mentors doubles in each session.
 
 &nbsp;
 
-To estimate what tutor roles student can play in the Slonigiraf educational model and what are probabilities of playing such roles let's examine a class consisting of 32 students. We will explain later why probabilities of different roles are more of less the same in any student group size.
+To estimate what tutor roles students can play in the Slonigiraf educational model and what are probabilities of playing such roles let's examine a class consisting of 32 students. We will explain later why the chances of different roles are more or less the same in any student group size.
 
-**Tutor of 0 tutees role**: as shown on a Figure 2. a half of students (16 from 32) gains a skill in a last session. That means they will pay for tutoring and getting a diploma but will not earn money by tutoring such skill as there will be no students left who need the skill. If the class consists of 32 students there will be 16 such students (depicted with a digit "0" on a Figure 2).
+**Tutor of 0 tutees role**: as shown in Figure 2. half of the students (16 from 32) gains a skill in the last session. That means they will pay for tutoring and getting a diploma but will not earn money by tutoring such skill as there will be no students who need it. If the class consists of 32 students, there will be 16 such students (depicted with the digit "0" in Figure 2).
 
-**Tutor of 1 tutees role**: $1/4$ of students (8 from 32) gain a skill in a preterminal session. These students have 1 tutor and 1 tutee each, resulting in a net profit of zero as the money earned from being a tutor compensates for the money spent on being tutored.
+**Tutor of 1 tutees role**: $1/4$ of students (8 from 32) gain skill in a preterminal session. These students have one tutor and one tutee each, resulting in a zero net profit as the money earned from being a tutor compensates for the money spent on being tutored.
 
-**Tutor of 2 tutees role**: $1/8$ of students (4 from 32) have 2 tutees.
+**Tutor of 2 tutees role**: $1/8$ of students (4 from 32) have two tutees.
 
-**Tutor of 3 tutees role**: $1/16$ of students (2 from 32) have 3 tutees.
+**Tutor of 3 tutees role**: $1/16$ of students (2 from 32) have three tutees.
 
-**Tutor of 4 tutees role**: $1/32$ of students (1 from 32) have 4 tutees.
+**Tutor of 4 tutees role**: $1/32$ of students (1 from 32) have four tutees.
 
-**Tutor of 5 tutees role**: $1/32$ of students (1 from 32) have 5 tutees.
+**Tutor of 5 tutees role**: $1/32$ of students (1 from 32) have five tutees.
 
-As the number of mentees increases, the probability of taking on such a role decreases significantly. We will not delve into the probability of having more than 5 mentees in larger classes, as the chances of such roles are minimal and would not significantly impact the calculations of our model economy.
+As the number of mentees increases, the probability of taking on such a role decreases significantly. We will not delve into the likelihood of having more than five mentees in larger classes, as the chances of such positions are minimal and would not significantly impact the calculations of our model economy.
 
-Increasing class size has little effect on the probabilities of different roles. For instance, in a class of 64 students, half of the students will take on the role of "tutor of 0 tutees", which is the same probability as in a class of 32 students. This suggests that our estimations of role probabilities are generally accurate.
+Increasing class size has little effect on the probabilities of different roles. For instance, in a class of 64 students, half of the students will take on the role of "tutor of 0 tutees", which is the same probability as in a class of 32 students.
 
-All students have a tutor as all are required to obtain a diploma. The student with 5 tutees may receive their diploma by communicating with a tutor outside the group, such as a teacher or parent. As previously discussed, it is permitted to be a tutor without a diploma in the relevant skill, however, this increases the risk of failure, so students typically choose to first study the skill, obtain the diploma, and then teach others.
+All students have a tutor, as all are required to obtain a diploma. The student with five tutees may receive their diploma by communicating with a tutor outside the group, such as a teacher or parent. As previously discussed, it is permitted to be a tutor without a diploma in the relevant skill; however, this increases the risk of failure. Hence, students typically choose first to study the skill, obtain the diploma and then teach others.
 
 ### Each Tutoring Interaction Is Focused on a Specific Skill
 
