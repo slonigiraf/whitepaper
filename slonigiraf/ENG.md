@@ -590,11 +590,11 @@ To determine the likelihood of a student incurring a monetary loss while acquiri
 
 ### If We Know That Student Lost Money - What Happened?
 
-We have calculated the likelihood of a student losing money while acquiring a skill. If we know that the student has already incurred a loss, can we determine the cause? The answer is "No", but we can present the probabilities of various scenarios. It's more probable that the student was a tutor of 0 mentees, since the probability of assuming that role and losing money is 0.5 (refer to the last column in Table 5). This 0.5 value [accounts](https://calcworkshop.com/probability/bayes-theorem/) for the majority of the total 0.629 probability of losing money, occurring in 0.794876771 of negative cases:
+We have calculated the likelihood of a student losing money while acquiring a skill. If we know that the student has already incurred a loss, can we determine the cause? The answer is "No," but we can present the probabilities of various scenarios. It's more probable that the student was a tutor of 0 mentees since the probability of assuming that role and losing money is 0.5 (refer to the last column in Table 5). This 0.5 value [accounts](https://calcworkshop.com/probability/bayes-theorem/) for the majority of the total 0.629 probability of losing money, occurring in 0.794876771 of negative cases:
 
 $0.5 / 0.62902832 = 0.794876771$
 
-All such shares are calculated and represented in a table 6.
+All such shares are calculated and represented in Table 6.
 
 **Table 6**
 
@@ -603,7 +603,7 @@ All such shares are calculated and represented in a table 6.
 | Student Role | Reimbursements | Scenario Probability | Share \* |
 | ----------------- | - | ---------- | ---------- |
 | Tutor of 0 tutees | 0 | 0.5        | 0.79487677 |
-| Tutor of 1 tutees | 1 | 0.0625     | 0.0993596  |
+| Tutor of 1 tutee | 1 | 0.0625     | 0.0993596  |
 | Tutor of 2 tutees | 1 | 0.046875   | 0.0745197  |
 | Tutor of 2 tutees | 2 | 0.0078125  | 0.01241995 |
 | Tutor of 3 tutees | 2 | 0.00878906 | 0.01397244 |
@@ -613,7 +613,7 @@ All such shares are calculated and represented in a table 6.
 | Tutor of 5 tutees | 4 | 0.00045776 | 0.00072773 |
 | Tutor of 5 tutees | 5 | 3.0518E-05 | 4.8515E-05 |
 
-\* "Share" refers to the portion or fraction of a particular scenario in relation to all negative outcomes.
+\* "Share" refers to the fraction of a particular scenario of all negative outcomes.
 
 ### Student Starting Capital
 
