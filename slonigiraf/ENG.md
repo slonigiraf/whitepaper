@@ -522,8 +522,8 @@ Table 4 summarizes the circumstances in which it can occur.
 | Student Role      | $N{_t}$ | $N{_f}$ | $N{_t}-1.2*N{_f}$ | Money Loss |
 | ----------------- | -- | -- | ------------ | ------------ |
 | Tutor of 0 tutees | 0  | 0  | 0            | Yes          |
-| Tutor of 1 tutee | 1  | 0  | 1            | No           |
-| Tutor of 1 tutee | 1  | 1  | \-0.2        | Yes          |
+| Tutor of 1 tutee  | 1  | 0  | 1            | No           |
+| Tutor of 1 tutee  | 1  | 1  | \-0.2        | Yes          |
 | Tutor of 2 tutees | 2  | 0  | 2            | No           |
 | Tutor of 2 tutees | 2  | 1  | 0.8          | Yes          |
 | Tutor of 2 tutees | 2  | 2  | \-0.4        | Yes          |
@@ -573,7 +573,7 @@ To determine the likelihood of a student incurring a monetary loss while acquiri
 | Student Role | Reimbursements | Role Probability | Reimbursements' Probability \* | Scenario Probability \*\* |
 | ----------------- | ---- | ------- | ---------- | ----------- |
 | Tutor of 0 tutees | 0    | 0.5     | 1          | 0.5         |
-| Tutor of 1 tutee | 1    | 0.25    | 0.25       | 0.0625      |
+| Tutor of 1 tutee  | 1    | 0.25    | 0.25       | 0.0625      |
 | Tutor of 2 tutees | 1    | 0.125   | 0.375      | 0.046875    |
 | Tutor of 2 tutees | 2    | 0.125   | 0.0625     | 0.0078125   |
 | Tutor of 3 tutees | 2    | 0.0625  | 0.140625   | 0.008789063 |
@@ -603,7 +603,7 @@ All such shares are calculated and represented in Table 6.
 | Student Role | Reimbursements | Scenario Probability | Share \* |
 | ----------------- | - | ---------- | ---------- |
 | Tutor of 0 tutees | 0 | 0.5        | 0.79487677 |
-| Tutor of 1 tutee | 1 | 0.0625     | 0.0993596  |
+| Tutor of 1 tutee  | 1 | 0.0625     | 0.0993596  |
 | Tutor of 2 tutees | 1 | 0.046875   | 0.0745197  |
 | Tutor of 2 tutees | 2 | 0.0078125  | 0.01241995 |
 | Tutor of 3 tutees | 2 | 0.00878906 | 0.01397244 |
@@ -617,13 +617,13 @@ All such shares are calculated and represented in Table 6.
 
 ### Student Starting Capital
 
-Our educational model requires tutees to pay their tutors for skill-teaching and diploma issuance and obligates tutors to provide reimbursement if a tutee forgets the skill certified by the diploma. To make this work, we need to ensure that students have sufficient funds for these financial interactions. As previously discussed, there is a 62.9% chance that a student will spend more money while learning a skill than they earn. However, in the remaining 37.1% of cases, the student earns the same or more than they spend. This should result in a near-zero profit for the student over time. But what if a student has an unlucky streak and all the skills they study involve roles that result in money loss? In that case, the student would end up paying for their education, contrary to our belief that education should be a free resource for all people on Earth. To address this issue, we must provide each student with sufficient funds at the outset of this model to prevent bankruptcy from occurring.
+Our educational model requires tutees to pay their tutors for skill-teaching and diploma issuance and obligates tutors to provide reimbursement if a tutee forgets the skill certified by the diploma. To make this work, we must ensure that students have sufficient funds for these financial interactions. As previously discussed, there is a 62.9% chance that a student will spend more money while learning a skill than they earn. However, in the remaining 37.1% of cases, the student makes the same or more than they spend. It should result in a near-zero profit for the student over time. But what if a student has an unlucky streak and all the skills they study involve roles that result in money loss? In that case, the student would end up paying for their education, contrary to our belief that education should be a free resource for all people on Earth. To address this issue, we must provide each student with sufficient funds at the outset of this model to prevent bankruptcy from occurring.
 
-The probability of experiencing bad luck while studying the first skill is 0.629. If our target audience is 1,966,096,793 people, then $0.629 * 1,966,096,793 = 1,236,730,563$ of them will experience it. A sequence of 2 bad luck events starting from the implementation of our approach will affect $0.629 * 1,236,730,563 = 777,938,548$ people, and so on (see appendix 1 for all calculation values). Approximately 19 million people will experience a sequence of 10 bad luck events while learning the first 10 skills.
+The probability of experiencing bad luck while studying the first skill is 0.629. If our target audience is 1,966,096,793 people, then $0.629 * 1,966,096,793 = 1,236,730,563$ of them will experience it. A sequence of 2 bad luck events starting from the implementation of our approach will affect $0.629 * 1,236,730,563 = 777,938,548$ people, and so on (see appendix 1 for all calculation values). Approximately 19 million people will experience a sequence of 10 bad luck events while learning the first ten skills.
 
-It is expected that only 1 person in the world will experience a series of 48 bad luck events from the start, and no one is expected to experience 49 bad luck events while learning the first 49 skills. As stated, education should be free, so the amount of money given to each student should be sufficient to withstand a sequence of 49 bad luck events.
+Only one person in the world is expected to experience a series of 48 bad luck events from the start, and no one is expected to experience 49 bad luck events while learning the first 49 skills. Education should be free, so the amount of money given to each student should be sufficient to withstand a sequence of 49 bad luck events.
 
-Some of these 49 cases will be due to the student not having a mentee, others due to reimbursements. We know the exact proportion of each situation in these 49 cases (refer to the last column of table 6) and the amount of money the student is expected to lose in each scenario. To calculate the total money loss in a sequence of 49 bad luck events, we need to:
+Some of these 49 cases will be due to the student not having a mentee, and others due to reimbursements. We know the exact proportion of each situation in these 49 cases (refer to the last column of table 6) and the amount of money the student is expected to lose in each scenario. To calculate the total money loss in a sequence of 49 bad luck events, we need to:
 
 - Determine the number of each scenario by multiplying 49 by the proportion of each scenario among bad luck events.
 - Calculate the total loss in each scenario by multiplying the number of events by the amount of money lost in each scenario.
@@ -638,7 +638,7 @@ The calculation for the maximum money loss for a student in Ethiopia in a sequen
 | Student Role | Reimbursements | Share | Scenario count | Money loss per a scenario | Sum Money Loss |
 | ----------------- | - | ---------- | ---------- | -------- | ---------- |
 | Tutor of 0 tutees | 0 | 0.79487677 | 38.9489618 | 0.04722  | 1.83916998 |
-| Tutor of 1 tutees | 1 | 0.0993596  | 4.86862022 | 0.056664 | 0.2758755  |
+| Tutor of 1 tutee  | 1 | 0.0993596  | 4.86862022 | 0.056664 | 0.2758755  |
 | Tutor of 2 tutees | 1 | 0.0745197  | 3.65146517 | 0.009444 | 0.03448444 |
 | Tutor of 2 tutees | 2 | 0.01241995 | 0.60857753 | 0.066108 | 0.04023184 |
 | Tutor of 3 tutees | 2 | 0.01397244 | 0.68464972 | 0.018888 | 0.01293166 |
