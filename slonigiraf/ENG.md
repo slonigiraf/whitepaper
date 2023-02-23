@@ -422,7 +422,7 @@ To estimate the world population of students using our educational model, let's 
 | Rest world  | 2,911,807,000 | 26.51% | 771,920,036   |
 | TOTAL       | 7,909,294,917 |        | 1,966,096,793 |
 
-*Note.* The value of 7-21 strata percent for the rest world was calculated as an average for the countries from the list above.
+*Note.* The 7-21 strata percent value for the rest world was calculated as an average for the countries from the list above.
 
 ### Wages of Tutors and Experts
 
