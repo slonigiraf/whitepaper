@@ -170,17 +170,17 @@ When the tutee starts to identify and correct errors in the tutor's answers, the
 
 <img alt="Image" src="https://github.com/slonigiraf/slon-whitepaper/blob/main/img/algorithm.png?raw=true" width="500">
 
-The pedagogical roots of such an algorithm can be traced back to the concept of error correction and feedback in learning. The algorithm is based on the idea that students learn best when they are actively engaged in the learning process and when they receive immediate feedback on their performance.
+The pedagogical roots of such an algorithm can be traced back to error correction and feedback in learning. The algorithm is based on the idea that students learn best when actively engaged in the learning process and when they receive immediate feedback on their performance.
 
-One of the main principles of this algorithm is to provide the tutee with a problem to solve, and then to ask them to rephrase the problem in order to ensure that they have understood it correctly. This is a key aspect of the "mastery learning" approach, which emphasizes the importance of ensuring that students understand and master a skill before moving on to the next one.
+One of the main principles of this algorithm is to provide the tutee with a problem to solve and then ask them to rephrase the situation to ensure that they have understood it correctly. It is a crucial aspect of the "mastery learning" approach, which emphasizes ensuring students understand and master a skill before moving on to the next one.
 
-Another key aspect of this algorithm is the focus on error correction. By providing the tutee with an incorrect answer and then asking them to identify and correct the error, the tutor is providing them with an opportunity to practice the skill and to receive immediate feedback on their performance. This is in line with the "formative assessment" approach, which emphasizes the importance of ongoing assessment and feedback throughout the learning process.
+Another key aspect of this algorithm is the focus on error correction. By providing the tutee with an incorrect answer and then asking them to identify and correct the error, the tutor allows them to practice the skill and receive immediate feedback on their performance, which is in line with the "formative assessment" approach that emphasizes the importance of ongoing assessment and feedback throughout the learning process.
 
-Finally, the algorithm is based on the principle of spaced repetition, which is widely accepted as an effective way to promote long-term retention of information. By scheduling follow-up sessions and reviewing the same material multiple times, the algorithm aims to help the tutee to internalize the skill and to make it a permanent part of their knowledge base.
+Finally, the algorithm is based on the principle of spaced repetition, which is widely accepted as an effective way to promote the long-term retention of information. By scheduling follow-up sessions and reviewing the same material multiple times, the algorithm aims to help the tutee to internalize the skill and to make it a permanent part of their knowledge base.
 
-In summary, the algorithm is based on pedagogical principles such as mastery learning, formative assessment, and spaced repetition, which are known to be effective in promoting skill acquisition and retention.
+The algorithm uses pedagogical principles such as mastery learning, formative assessment, and spaced repetition, effectively promoting skill acquisition and retention.
 
-This algorithm can be utilized to train a wide range of skills, regardless of whether they are related to mathematics, linguistics, music, or sports such as tennis. For example, refer to Table 1 for an illustration of its usage:
+This algorithm can be utilized to train a wide range of skills, regardless of whether they relate to mathematics, linguistics, music, or sports such as tennis. For example, refer to Table 1 for an illustration of its usage:
 
 **Table 1**
 
