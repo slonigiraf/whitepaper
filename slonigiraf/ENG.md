@@ -699,9 +699,9 @@ Giving money to students presents several challenges. Inflation is the first con
 
 The second issue in providing student starting capital is obtaining approval from national governments for the large sum of money involved. Since no politicians benefit personally, it's unlikely to receive support and promotion.
 
-Educational organizations could resolve these issues by allocating budget for student aid, but this is unlikely as administrators would not personally benefit and therefore have no incentive to push for such reform.
+Educational organizations could resolve these issues by allocating a budget for student aid. However, this is unlikely as administrators would not personally benefit and therefore have no incentive to push for such reform.
 
-This approach may also face challenges with student behavior, as students may have a strong temptation to spend their free money immediately, leading to them spending all of it before they realize the importance of having a reserve.
+This approach may also need help with student behavior, as students may be tempted to spend their free money immediately, leading to spending all of it before they realize the importance of having a reserve.
 
 ### We Address These Challenges with the Issuance of SLON Token
 
