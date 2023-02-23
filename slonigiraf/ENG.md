@@ -150,9 +150,9 @@ All students have a tutor, as all are required to obtain a diploma. The student 
 
 ### Each Tutoring Interaction Is Focused on a Specific Skill
 
-An important aspect of pedagogy is the structure and objectives of lessons, as well as the expected outcome. However, in traditional education, there is no guarantee that teachers will have a well-defined plan or clear learning objectives for their students each lesson. Allowing students to provide tutoring to their peers may exacerbate the problem as none of these student-mentors have received formal training in pedagogy.
+An important aspect of pedagogy is the structure and objectives of lessons and the expected outcome. However, in traditional education, there is no guarantee that teachers will have a well-defined plan or clear learning objectives for their students in each lesson. Allowing students to tutor their peers may exacerbate the problem as these student-mentors have yet to receive formal training in pedagogy.
 
-We have implemented a simple solution for this problem. In this approach, every tutoring interaction focuses on only one skill per interaction. Tutors can easily access a method for teaching the skill from a database recommended by the teacher. Once the tutor determines that the student has mastered the skill, they can award a diploma that is specific to that skill. By using this approach, we can ensure that each tutoring interaction is focused on a specific skill and that the tutor understands the objectives of the interaction.
+We have implemented a simple solution to this problem. In this approach, every tutoring interaction focuses on only one skill per interaction. Tutors can easily access a method for teaching the skill from a database recommended by the teacher. Once the tutor determines that the student has mastered the skill, they can award a diploma that is specific to that skill. By using this approach, we can ensure that each tutoring interaction is focused on one particular skill and that the tutor understands the objectives of the interaction.
 
 ### Tutors Use a Simple Teaching Algorithm
 
