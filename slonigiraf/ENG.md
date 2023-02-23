@@ -397,7 +397,7 @@ When AI language models attain a diploma from a tutor, they can teach other huma
 
 ### We Target 2 Billion People in the World
 
-To estimate the world population of students who will use our educational model, let's assume that only the 7-21 years old strata will use it. The percent of individuals **between the ages of 7 and 21** can be approximated by the [percent of individuals](https://www.theglobaleconomy.com/rankings/percent_children/) between the ages of 0 and 14. To calculate the target audience per country, we will multiply the [population size](https://population.un.org/wpp/Download/Standard/MostUsed/) as of January 1st, 2021 by the percentage of individuals between the ages of 7 and 21 and divide by 100%. The resulting data is shown in Table 2. As you can see, India has the largest target audience of 361 million people, and the total world target audience is 2 billion people.
+To estimate the world population of students using our educational model, let's assume that only the 7-21 years old strata will use it. The percentage of individuals **between the ages of 7 and 21** can be approximated by the [rate of individuals](https://www.theglobaleconomy.com/rankings/percent_children/) between 0 and 14. To calculate the target audience per country, we will multiply the [population size](https://population.un.org/wpp/Download/Standard/MostUsed/) as of January 1st, 2021, by the percentage of individuals between the ages of 7 and 21 and divide by 100%. The resulting data is shown in Table 2. As you can see, India has the largest target audience of 361 million people, and the world's target audience is 2 billion.
 
 **Table 2**
 
