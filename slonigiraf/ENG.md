@@ -772,7 +772,7 @@ GDP is closely tied to the workforce. Using a conservative estimate that 1% of l
 
 ### Total Private Enterprises Profit From The Educational Reform
 
-We estimated the demand of SLON tokens but didn't take into account any expenditures to promote and sell tokens. SLON tokens is a software product and expenditures can be approximated by other software companies. For example [Microsoft EBITDA comprise 49% of the sales in 2022](https://www.wsj.com/market-data/quotes/MSFT/financials/annual/income-statement). Let's produce simple estimations of EBITDA from selling SLON tokens to the different types of customers, see the Table 10:
+We estimated the demand for SLON tokens but didn't consider any expenditures to promote and sell tokens. SLON token is a software product; other software companies can approximate costs; for example [Microsoft's EBITDA comprised 49% of the sales in 2022](https://www.wsj.com/market-data/quotes/MSFT/financials/annual/income-statement). Let's produce simple estimations of EBITDA from selling SLON tokens to the different types of customers; see Table 10:
 
 **Table 10**
 
@@ -785,7 +785,7 @@ We estimated the demand of SLON tokens but didn't take into account any expendit
 | Companies                      | 691.12             | 338.65              |
 | TOTAL                          | 8691.12            | 4258.65             |
 
-Thus we expect that total private enterprises profit from selling SLON tokens will be around 4 trillions of USD.
+Thus we expect total private enterprises' profit from selling SLON tokens to be around 4 trillion USD.
 
 ### SLON Token Monetary Base
 
