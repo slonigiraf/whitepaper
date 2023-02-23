@@ -719,7 +719,7 @@ $0.04722 / 5 = 0.009444$
 
 ### Diploma Price and Reimbursement Amount in SLON Nominal
 
-Different countries have varying teacher salaries, leading to variations in the diploma cost and the number of SLON each student should receive. Table 8 shows these indicators calculated in USD, while Table 9 presents them in SLON using the previously calculated SLON value of approximately 0.01 USD.
+Countries have varying teacher salaries, leading to variations in the diploma cost and the number of SLON each student should receive. Table 8 shows these indicators calculated in USD. In contrast, Table 9 presents them in SLON using the previously estimated SLON value of approximately 0.01 USD.
 
 **Table 9**
 
