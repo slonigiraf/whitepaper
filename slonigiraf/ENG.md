@@ -486,9 +486,9 @@ Because all issued diplomas go through verification, it is NOT profitable for a 
 
 ### Situations Leading To Earning and Spending Money
 
-In the Slonigiraf educational system, there are the following roles: teacher, expert, tutor of 0 tutees, tutor of 1 tutees, etc.
+The Slonigiraf educational system has the following roles: teacher, expert, tutor of 0 tutees, tutor of 1 tutee, etc.
 
-Experts make money without taking risks, while tutors may incur a loss if their tutees forget the skill. Teachers only teaches one student per skill and also works as an expert, they always earn more than they lose.
+Experts make money without taking risks, while tutors may incur a loss if their tutees forget the skill. Teachers only teach one student per skill and work as experts, so they consistently earn more than they lose.
 
 A tutor invests in learning a skill, earns from teaching others, and may incur a cost if a tutee forgets the skill. Thus, a tutor's profit can be calculated using a formula:
 
@@ -499,9 +499,9 @@ Where:
 - $D$ - diploma price
 - $R$ - reimbursement amount
 - $N{_t}$ - tutees count of the tutor
-- $N{_f}$ - number of tutees who have forgetten the skill.
+- $N{_f}$ - number of tutees who have forgotten the skill.
 
-If the a student doesn't have any tutees then $N{_t}$ and $N{_f}$ are equal to $0$, and the formula gives us a profit value equal to $-D$ for these students: they only pay for diploma to their tutors but don't earn anything.
+If a student has no tutees, then $N{_t}$​ and $N{_f}$​ are equal to 0. The formula gives us a profit value equal to $-D$ for these students: they only pay for a diploma to their tutors but don't earn anything.
 
 As determined above, $R$ is 1.2 times larger than $D$, so we can replace $R$ in the equation with $1.2*D$:
 
@@ -522,8 +522,8 @@ Table 4 summarizes the circumstances in which it can occur.
 | Student Role      | $N{_t}$ | $N{_f}$ | $N{_t}-1.2*N{_f}$ | Money Loss |
 | ----------------- | -- | -- | ------------ | ------------ |
 | Tutor of 0 tutees | 0  | 0  | 0            | Yes          |
-| Tutor of 1 tutees | 1  | 0  | 1            | No           |
-| Tutor of 1 tutees | 1  | 1  | \-0.2        | Yes          |
+| Tutor of 1 tutee | 1  | 0  | 1            | No           |
+| Tutor of 1 tutee | 1  | 1  | \-0.2        | Yes          |
 | Tutor of 2 tutees | 2  | 0  | 2            | No           |
 | Tutor of 2 tutees | 2  | 1  | 0.8          | Yes          |
 | Tutor of 2 tutees | 2  | 2  | \-0.4        | Yes          |
