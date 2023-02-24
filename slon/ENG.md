@@ -18,18 +18,18 @@ The proposed reputation system resists Big Brother surveillance and any form of 
 
 ## Recommendation Letter as an Insurance
 
-Insurances are needed to protect from financial loss. Recommendations backed by SLON are [insurances](https://en.wikipedia.org/wiki/Insurance) in fact.
+Insurance is needed to protect from financial loss. Recommendations backed by SLON are [insurances](https://en.wikipedia.org/wiki/Insurance).
 
-An organization which provides insurance known as an underwriter. A person who buys insurance is known as a policyholder, and a person covered under the policy is called an insured.
-In case of SLON recommendation letters the refeeree is the underwriter, the worker is the policyholder and the employer is the insured.
+An organization that provides insurance is known as an underwriter. A person who buys insurance is known as a policyholder, and a person covered under the policy is called an insured.
+In the case of the SLON recommendation letter, the referee is the underwriter, the worker is the policyholder, and the employer is the insured.
 
-The insurance creation requires a payment from the policyholder to the insurer known as premium in exchange for the insurer's obligartion to provide a reimbursement to the insured in the event of a covered loss. SLON recommendation letter creation also requires the premium which is paid by the worker to the referee.
+The insurance creation requires a payment from the policyholder to the insurer, known as a premium, in exchange for the insurer's obligation to reimburse the insured in case of a covered loss. SLON recommendation letter creation also requires the premium which the worker pays to the referee.
 
-A contract provided to the policyholder is called the insurance policy, which explains in which case the insurer will compensate the insured. The recommendation letter is the the insurance policy.
+A contract provided to the policyholder is called the insurance policy, which explains in which case the insurer will compensate the insured. The recommendation letter is the insurance policy.
 
-Note, that the worker can optionally charge money from the employer for the insurance policy (recommendation letter) usage.
+Note that the worker can optionally charge money from the employer for the insurance policy (recommendation letter) usage.
 
-In a case of a loss the insured submits a claim to the insurer for processing by a [claims adjuster](https://www.investopedia.com/terms/c/claims-adjuster.asp). The claims adjuster determines the extent of the underwriter liability. In case of SLON recommendation letters the employer itself is a claims adjuster. However the employer can't do unfair decisions because it will ruin its public creditability and hiring process: no new workers will wish to provide recommendation letters to such employer.
+In a case of a loss, the insured submits a claim to the insurer for processing by a [claims adjuster](https://www.investopedia.com/terms/c/claims-adjuster.asp). The claims adjuster determines the extent of the underwriter's liability. In the case of the SLON recommendation letter, the employer itself is a claims adjuster. However, the employer can't make unfair decisions because it will ruin its public creditability and hiring process: no new workers will wish to provide recommendation letters to such an employer.
 
 **Table 1**
 
@@ -37,13 +37,13 @@ In a case of a loss the insured submits a claim to the insurer for processing by
 
 | Insurances | SLON Recommendation Letters |
 | ----------- | ----------- |
-| Underwriter | Refeeree |
+| Underwriter | Referee |
 | Policyholder | Worker |
 | Insured | Employer |
 | Insurance policy | Recommendation letter |
 | Premium | A payment from a worker to the referee for a recommendation creation |
 | Covered loss | Employer's financial loss due to a lack of skills of the worker |
-| Claims Adjuster | The employer itself monitored by the worker and the refeeree |
+| Claims Adjuster | The employer itself that monitored by the worker and the referee |
 | Reimbursement | SLON token transfer from the referee to the employer |
 
 ## SLON and Recommendation Letter Markets
