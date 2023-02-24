@@ -16,7 +16,7 @@ This system was initially developed at the Slonigiraf private school to motivate
 
 The proposed reputation system resists Big Brother surveillance and any form of discrimination. All recommendation letters are stored privately on personal devices and are only shown to organizations that the person trusts. Additionally, accounts are pseudonymous, like in Bitcoin, and a person can have multiple accounts to store SLON tokens. The SLON token balance cannot be transformed into a discriminatory social credit system (e.g., the Chinese system) because anyone can buy SLON. If a criminal buys SLON and has a high SLON balance, it does not make them good or socially acceptable.
 
-## Recommendation letter as an insurance
+## Recommendation Letter as an Insurance
 
 Insurances are needed to protect from financial loss. Recommendations backed by SLON are [insurances](https://en.wikipedia.org/wiki/Insurance) in fact.
 
@@ -31,7 +31,11 @@ Note, that the worker can optionally charge money from the employer for the insu
 
 In a case of a loss the insured submits a claim to the insurer for processing by a [claims adjuster](https://www.investopedia.com/terms/c/claims-adjuster.asp). The claims adjuster determines the extent of the underwriter liability. In case of SLON recommendation letters the employer itself is a claims adjuster. However the employer can't do unfair decisions because it will ruin its public creditability and hiring process: no new workers will wish to provide recommendation letters to such employer.
 
-| Insurances | SLON recommendation letters |
+**Table 1**
+
+*SLON Recommendation Letters in Terms of Insurances*
+
+| Insurances | SLON Recommendation Letters |
 | ----------- | ----------- |
 | Underwriter | Refeeree |
 | Policyholder | Worker |
@@ -42,13 +46,15 @@ In a case of a loss the insured submits a claim to the insurer for processing by
 | Claims Adjuster | The employer itself monitored by the worker and the refeeree |
 | Reimbursement | SLON token transfer from the referee to the employer |
 
-*Table 1. SLON recommendation letters in terms of insurances*
+## SLON and Recommendation Letter Markets
 
-## SLON and recommendation letter markets
+**Figure 1**
+
+*SLON and Recommendation Letter Markets Connection*
 
 <img alt="Image" src="https://github.com/slonigiraf/slon-whitepaper/blob/main/img/SLON-market-ENG.jpg?raw=true" width="500">
 
-*Figure 1. SLON and recommendation letter markets connection*
+&nbsp;
 
 - A refeeree buys SLON tokens to issue recommendations
 - The refeeree sell a recommendation letter to a trusted worker about the worker
@@ -57,7 +63,7 @@ In a case of a loss the insured submits a claim to the insurer for processing by
 
 Paid interview is a known instrument to recruit a specialist when there is a deficit of qualified candidates. The recommendation letter market can save a budget for paid interviews because employers can get a reimbursement for a weak candidate.
 
-## Corporate education
+## Corporate Education
 
 In the proposed model, corporate education can be transformed by allowing employees to act as mentors and issue recommendations about their mentees, who would then pay the mentor for teaching and issuing a recommendation. This approach could replace traditional training programs and allow for a more personalized and tailored learning experience for employees.
 
@@ -65,7 +71,7 @@ In this system, the HR manager or company director could buy recommendation lett
 
 Overall, this model has the potential to create a more efficient and effective corporate education system that is tailored to the needs and goals of individual employees. It could also foster a culture of continuous learning and development within the organization.
 
-## School and university education
+## School and University Education
 
 Education is lagging behind the changes in the world. Companies need new skills, and educational organizations don't have time to teach them. Often, education does not even know about their relevance.
 
@@ -89,39 +95,13 @@ Most often, teachers act as guarantors, and students buy guarantees in the hope 
 
 To issue a guarantee, the teacher must create an account within the Slonigiraf system and transfer the required amount of SLON there. The number of SLONs on this account is known to all Slonigiraf users. Thanks to this information, they know that the guarantee can be used and the amount of SLON specified in the guarantee can be debited from the teacher's account. SLONs on the teacher's account are not blocked in any way. You can, for example, put 100 SLON on your account and issue 5 guarantees, each of which will allow you to fine the teacher by 100 SLON. After the execution of the penalty on the first guarantee, the account will be reset to zero, and everyone will know that the other 4 guarantees are not valid yet. If the teacher refills his account with 100 SLON, these 4 guarantees will become invalid again. An example of the application of the Slonigiraf methodology in a public school can be seen in Fig. 2.
 
+**Figure 2**
+
+*An Example of the Application of the Slonigiraf Methodology in a Public School*
+
 <img alt="Image" src="https://github.com/slonigiraf/slon-whitepaper/blob/main/img/SLON-in-school-ENG.jpg?raw=true" width="500">
 
-*Figure 2. An example of the application of the Slonigiraf methodology in a public school*
-
-## Adoption
-
-At the moment, we know 4 examples of using this educational format in practice: Family school Slonigiraf (Moscow), Group study of biology online without a teacher, In the work of tutors, Teaching the values of SLON.
-
-**Family school Slonigiraf (Moscow)**
-
-The entire educational format of Slonigiraf was conceived in a private family school while looking for a way to motivate teachers to work for the result. At Slonigiraf, children buy skill guarantees from teachers and resell them to their parents. Children themselves can act as teachers. The quality of this interaction is monitored through guarantees. Poor skills are exposed by parents who penalize teachers, as well as by teachers themselves, who can double-check student guarantees from previous teachers. Teachers do not receive any wages, they earn only by selling guarantees.
-
-**In public schools and universities**
-
-We have created a paper version of the Slonigiraf methodology so that teachers can quickly try out this methodology in their lessons. The teacher just needs to follow the link: [https://slon-i-giraf.ru/app/work?view=paperGameView&amp;language=ENG](https://slon-i-giraf.ru/app/work?view=paperGameView&amp;language=ENG)
-
-write 3 skills that you need to pass in the lesson, click on the &quot;download&quot; button and print the resulting file. This file contains step-by-step instructions on how to conduct the lesson.
-
-So far, this version of the methodology has been used by teachers in 6 public schools in Russia.
-
-**Online group study of biology without a teacher**
-
-Every week, more than 30 high school students gather for an online meeting at Zoom in order to issue guarantees to each other on biology skills. At each of the meetings, they are divided into teacher-student pairs, the teacher asks the student for half an hour on a selected topic from biology and issues guarantees. Then, inside the pair, they change roles. The quality of teaching is controlled by the fact that every week the student selects a new teacher, who selectively checks the guarantees issued by the previous teachers. Coordination of meetings takes place in the [Telegram group](https://t.me/bio_slonigiraf)
-
-**In the work of tutors**
-
-Tutors issue guarantees for the skills they have taught their students. Pupils sell these guarantees to their parents for money. The parent can fine the teacher if the skill is lost. When the tutor runs out of SLONs, he buys them from the parent.
-
-**SLON value training**
-
-To make people learn how to use Slonigiraf in teaching, we buy guarantees for the &quot;SLON Value&quot; skill. Teachers who understand our format, teach their friends, issue them a guarantee, in exchange for the student's promise to pay off SLON. New users receive 600,000 SLON for this skill from the creators of Slonigiraf. Students give 200 thousand SLON to their teachers for writing a guarantee. You can get SLON in the [Telegram group of the project](https://t.me/slonigiraf)
-
-## Data storage
+## Data Storage
 
 In order for the Slonigiraf system to be used to train a large number of people, we need to process a huge number of transactions per second.
 
@@ -129,25 +109,7 @@ We chose a well-known network architecture [Polkadot](https://polkadot.network/)
 
 The relay chain also protects the parachains from attacks.
 
-## Join Slonigiraf
-
-- SLON balances, transfer and receipt are available on the page:
-
-[https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fwss1.slonigiraf.org#/accounts](https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fwss1.slonigiraf.org#/accounts)
-
-- Issuance of guarantees and their verification:
-
-[https://slon-i-giraf.ru/app/work?language=ENG](https://slon-i-giraf.ru/app/work?language=ENG)
-
-- Project news group:
-
-[https://t.me/slonigiraf](https://t.me/slonigiraf)
-
-- Chat:
-
-[https://t.me/slonigiraf\_chat](https://t.me/slonigiraf_chat)
-
-## Appendix 1 - Protocol design
+## Appendix 1 - Protocol Design
 
 1. A student finds a teacher - somewhere offline based on a knowledge field, personal considerations and amount of SLON at the teacher's escrow account.
 2. The student and teacher trade with each other on the price of insurance issuing during this session and a number of insurances that the student gives to the teacher for revalidation.
