@@ -32,19 +32,19 @@ We explore how education affects economic growth and present an education model 
   - [If We Know That Student Lost Money - What Happened?](#if-we-know-that-student-lost-money---what-happened)
   - [Student Starting Capital](#student-starting-capital)
   - [Total Money Amount Needed To Run the Slonigiraf System in a Specific Country](#total-money-amount-needed-to-run-the-slonigiraf-system-in-a-specific-country)
-- [SLON Token](#slon-token)
+- [Slon Token](#slon-token)
   - [Giving money to students is challenging](#giving-money-to-students-is-challenging)
-  - [We Address These Challenges with the Issuance of SLON Token](#we-address-these-challenges-with-the-issuance-of-slon-token)
-  - [SLON Token Price](#slon-token-price)
-  - [Diploma Price and Reimbursement Amount in SLON Nominal](#diploma-price-and-reimbursement-amount-in-slon-nominal)
+  - [We Address These Challenges with the Issuance of Slon Token](#we-address-these-challenges-with-the-issuance-of-slon-token)
+  - [Slon Token Price](#slon-token-price)
+  - [Diploma Price and Reimbursement Amount in Slon Nominal](#diploma-price-and-reimbursement-amount-in-slon-nominal)
 - [Private Enterprises Earn Revenue by Advocating for Educational Reform](#private-enterprises-earn-revenue-by-advocating-for-educational-reform)
-  - [Educational Organizations Acquire SLON Tokens to Establish Student Starting Capital](#educational-organizations-acquire-slon-tokens-to-establish-student-starting-capital)
+  - [Educational Organizations Acquire Slon Tokens to Establish Student Starting Capital](#educational-organizations-acquire-slon-tokens-to-establish-student-starting-capital)
   - [Some Students Stash Tokens Which Leads to an Additional Demand](#some-students-stash-tokens-which-leads-to-an-additional-demand)
   - [Corporate Education Could Lead to The Demand Growth](#corporate-education-could-lead-to-the-demand-growth)
   - [Long Lasting Effect of Education Improvement](#long-lasting-effect-of-education-improvement)
   - [Total Private Enterprises Profit From The Educational Reform](#total-private-enterprises-profit-from-the-educational-reform)
-  - [SLON Token Monetary Base](#slon-token-monetary-base)
-  - [SLON Token Initial Distribution](#slon-token-initial-distribution)
+  - [Slon Token Monetary Base](#slon-token-monetary-base)
+  - [Slon Token Initial Distribution](#slon-token-initial-distribution)
 - [System Software Architecture](#system-software-architecture)
   - [The Polkadot Blockchain Design is Well-Suited for The Slonigiraf Software Layer](#the-polkadot-blockchain-design-is-well-suited-for-the-slonigiraf-software-layer)
   - [The Slonigiraf network is comprised of validators that ensure security and collators that facilitate scaling](#the-slonigiraf-network-is-comprised-of-validators-that-ensure-security-and-collators-that-facilitate-scaling)
@@ -691,7 +691,7 @@ Table 8 displays the calculations for other countries. The Slonigiraf educationa
 
 \* The "Multiplier" term represents the factor by which the minimum teacher wage in a country is higher than in Ethiopia.
 
-## SLON Token
+## Slon Token
 
 ### Giving money to students is challenging
 
@@ -703,29 +703,29 @@ Educational organizations could resolve these issues by allocating a budget for 
 
 This approach may also need help with student behavior, as students may be tempted to spend their free money immediately, leading to spending all of it before they realize the importance of having a reserve.
 
-### We Address These Challenges with the Issuance of SLON Token
+### We Address These Challenges with the Issuance of Slon Token
 
 We propose using tokens specific to the Slonigiraf educational model to solve all described challenges. In such a way, students will get tokens instead of real money, preventing their spending before actual use in education. Furthermore, it presents opportunities for private businesses to generate revenue through selling tokens, thus driving the adoption of the Slonigiraf educational model.
 
-Administrators and politicians running government or educational organizations won't issue tokens because they don't stand to profit from it. A private, profit-driven organization is likelier to issue a token to advance education reform, with emission distributed among companies seeking to profit from it. We will name this token "SLON."
+Administrators and politicians running government or educational organizations won't issue tokens because they don't stand to profit from it. A private, profit-driven organization is likelier to issue a token to advance education reform, with emission distributed among companies seeking to profit from it. We will name this token "Slon."
 
-### SLON Token Price
+### Slon Token Price
 
-As previously discussed, SLON is a token designed to be used by students in the Slonigiraf educational model instead of actual currency. The diploma cost and reimbursements can vary between countries, with Ethiopia having the lowest diploma cost among the most populous countries. Let's determine the price of a diploma in Ethiopia in SLON and the amount of reimbursement in SLON nominal.
+As previously discussed, Slon is a token designed to be used by students in the Slonigiraf educational model instead of actual currency. The diploma cost and reimbursements can vary between countries, with Ethiopia having the lowest diploma cost among the most populous countries. Let's determine the price of a diploma in Ethiopia in Slon and the amount of reimbursement in Slon nominal.
 
-The calculated diploma cost in Ethiopia is 0.04722 USD, with a reimbursement of 0.05688 USD (1.2 times larger than the diploma cost). When selecting a nominal for the SLON token, it's essential to consider if students will be comfortable using it in transactions. The diploma cost in SLON should have as few decimal places as possible. It would be ideal if the diploma cost and reimbursement were whole numbers. The smallest whole number that gives an integer after division by 1.2 is 6. So, we propose using 6 SLON for the reimbursement and 5 SLON for the diploma cost in Ethiopia. At the same time, the diploma cost in Ethiopia is 0.04722 USD or 5 SLON. This calculation gives us a value of 1 SLON, being approximately 0.01 USD:
+The calculated diploma cost in Ethiopia is 0.04722 USD, with a reimbursement of 0.05688 USD (1.2 times larger than the diploma cost). When selecting a nominal for the Slon token, it's essential to consider if students will be comfortable using it in transactions. The diploma cost in Slon should have as few decimal places as possible. It would be ideal if the diploma cost and reimbursement were whole numbers. The smallest whole number that gives an integer after division by 1.2 is 6. So, we propose using 6 Slon for the reimbursement and 5 Slon for the diploma cost in Ethiopia. At the same time, the diploma cost in Ethiopia is 0.04722 USD or 5 Slon. This calculation gives us a value of 1 Slon, being approximately 0.01 USD:
 
 $0.04722 / 5 = 0.009444$
 
-### Diploma Price and Reimbursement Amount in SLON Nominal
+### Diploma Price and Reimbursement Amount in Slon Nominal
 
-Countries have varying teacher salaries, leading to variations in the diploma cost and the number of SLON each student should receive. Table 8 shows these indicators calculated in USD. In contrast, Table 9 presents them in SLON using the previously estimated SLON value of approximately 0.01 USD.
+Countries have varying teacher salaries, leading to variations in the diploma cost and the number of Slon each student should receive. Table 8 shows these indicators calculated in USD. In contrast, Table 9 presents them in Slon using the previously estimated Slon value of approximately 0.01 USD.
 
 **Table 9**
 
-*SLON Token Needed To Drive The Slonigiraf System*
+*Slon Token Needed To Drive The Slonigiraf System*
 
-|  | Times min teacher wage  is larger than Ethiopian counterpart | Free tokens given to each student, SLON | Diploma price, SLON | Reimbursement amount, SLON |
+|  | Times min teacher wage  is larger than Ethiopian counterpart | Free tokens given to each student, Slon | Diploma price, Slon | Reimbursement amount, Slon |
 | ----------- | ------ | ----- | --- | --- |
 | India       | 4.75   | 1114  | 24  | 29  |
 | China       | 54.23  | 12715 | 272 | 326 |
@@ -746,15 +746,15 @@ Countries have varying teacher salaries, leading to variations in the diploma co
 
 ## Private Enterprises Earn Revenue by Advocating for Educational Reform
 
-### Educational Organizations Acquire SLON Tokens to Establish Student Starting Capital
+### Educational Organizations Acquire Slon Tokens to Establish Student Starting Capital
 
-To utilize the Slonigiraf educational model, schools or universities must ensure that all students have adequate funding. As previously discussed, educational institutions cannot assume that all students are financially well-off and should provide starting capital for each student (refer to Table 8). Additionally, simply giving money to students is not a viable solution as they may spend it before realizing its importance for new forms of communication and education. To address this, schools or universities should purchase SLON tokens for students to use instead of money. The cost of purchasing SLON tokens is less than issuing and maintaining new tokens, making it a cost-effective option for any educational organization.
+To utilize the Slonigiraf educational model, schools or universities must ensure that all students have adequate funding. As previously discussed, educational institutions cannot assume that all students are financially well-off and should provide starting capital for each student (refer to Table 8). Additionally, simply giving money to students is not a viable solution as they may spend it before realizing its importance for new forms of communication and education. To address this, schools or universities should purchase Slon tokens for students to use instead of money. The cost of purchasing Slon tokens is less than issuing and maintaining new tokens, making it a cost-effective option for any educational organization.
 
-As stated in Table 8, the total demand for SLON by educational organizations worldwide is 98.3 billion USD, comparable to the net profit of the largest companies such as Apple or Microsoft in [2022](https://www.statista.com/statistics/269857/most-profitable-companies-worldwide/#).
+As stated in Table 8, the total demand for Slon by educational organizations worldwide is 98.3 billion USD, comparable to the net profit of the largest companies such as Apple or Microsoft in [2022](https://www.statista.com/statistics/269857/most-profitable-companies-worldwide/#).
 
 ### Some Students Stash Tokens Which Leads to an Additional Demand
 
-Individuals have different tendencies when it comes to saving money. Some students may earn more SLON tokens than spend and save them for a "rainy day." It should lead to additional token demand by those students who spend more than they earn. These could be students from wealthy families with enough pocket money to buy SLON tokens out of the educational organization.
+Individuals have different tendencies when it comes to saving money. Some students may earn more Slon tokens than spend and save them for a "rainy day." It should lead to additional token demand by those students who spend more than they earn. These could be students from wealthy families with enough pocket money to buy Slon tokens out of the educational organization.
 
 To estimate the tendency to save money, we can examine the monetary base in various countries and determine that the value of funds held in individuals' pockets and bank accounts roughly equals the country's GDP. Using this information, we estimate that students will likely need 8 trillion USD worth of tokens, as this is the additional GDP generated by this type of education. Therefore, we anticipate an extra demand of tokens totaling 7.9 trillion USD:
 
@@ -768,15 +768,15 @@ $2*345.56 = 691.12$
 
 ### Long Lasting Effect of Education Improvement
 
-GDP is closely tied to the workforce. Using a conservative estimate that 1% of labor growth leads to a [0.36% increase in GDP](https://dergipark.org.tr/tr/download/article-file/364734), the improvement in education resulting in a 3Х (or 200%) growth in the workforce would lead to a 72% increase in GDP, equivalent to approximately [69.5](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD) trillion USD in the long term. Based on this calculation, our initial estimation for the total demand for SLON tokens at 8.7 trillion USD should be revised upwards to 78.2 (69.5+8.7) trillion USD which could potentially lead to the cryptocurrency 10X price growth (78.2/8). We plan to implement an inflation rate of approximately 10% to ensure price stability. This inflation is achieved by generating additional SLON through the process of "stacking" and is a common practice in the current cryptocurrency market as a reward for hardware maintenance.
+GDP is closely tied to the workforce. Using a conservative estimate that 1% of labor growth leads to a [0.36% increase in GDP](https://dergipark.org.tr/tr/download/article-file/364734), the improvement in education resulting in a 3Х (or 200%) growth in the workforce would lead to a 72% increase in GDP, equivalent to approximately [69.5](https://data.worldbank.org/indicator/NY.GDP.MKTP.CD) trillion USD in the long term. Based on this calculation, our initial estimation for the total demand for Slon tokens at 8.7 trillion USD should be revised upwards to 78.2 (69.5+8.7) trillion USD which could potentially lead to the cryptocurrency 10X price growth (78.2/8). We plan to implement an inflation rate of approximately 10% to ensure price stability. This inflation is achieved by generating additional Slon through the process of "stacking" and is a common practice in the current cryptocurrency market as a reward for hardware maintenance.
 
 ### Total Private Enterprises Profit From The Educational Reform
 
-We estimated the demand for SLON tokens but didn't consider any expenditures to promote and sell tokens. SLON token is a software product; other software companies can approximate costs; for example [Microsoft's EBITDA comprised 49% of the sales in 2022](https://www.wsj.com/market-data/quotes/MSFT/financials/annual/income-statement). Let's produce simple estimations of EBITDA from selling SLON tokens to the different types of customers; see Table 10:
+We estimated the demand for Slon tokens but didn't consider any expenditures to promote and sell tokens. Slon token is a software product; other software companies can approximate costs; for example [Microsoft's EBITDA comprised 49% of the sales in 2022](https://www.wsj.com/market-data/quotes/MSFT/financials/annual/income-statement). Let's produce simple estimations of EBITDA from selling Slon tokens to the different types of customers; see Table 10:
 
 **Table 10**
 
-*Total Private Enterprises Profit From Selling SLON Tokens*
+*Total Private Enterprises Profit From Selling Slon Tokens*
 
 | Customers                      | Sales, billion USD | EBITDA, billion USD |
 | ------------------------------ | ------------------ | ------------------- |
@@ -785,43 +785,43 @@ We estimated the demand for SLON tokens but didn't consider any expenditures to 
 | Companies                      | 691.12             | 338.65              |
 | TOTAL                          | 8691.12            | 4258.65             |
 
-Thus we expect total private enterprises' profit from selling SLON tokens to be around 4 trillion USD.
+Thus we expect total private enterprises' profit from selling Slon tokens to be around 4 trillion USD.
 
-### SLON Token Monetary Base
+### Slon Token Monetary Base
 
-Based on our estimation, the demand for SLON tokens by educational organizations and corporate education is approximately 8.7 trillion USD. At a price of 0.01 USD per SLON token, the total SLON monetary base at the beginning of the system deployment should be 870 trillion SLON tokens:
+Based on our estimation, the demand for Slon tokens by educational organizations and corporate education is approximately 8.7 trillion USD. At a price of 0.01 USD per Slon token, the total Slon monetary base at the beginning of the system deployment should be 870 trillion Slon tokens:
 
 $8.7 / 0.01 = 870$
 
-### SLON Token Initial Distribution
+### Slon Token Initial Distribution
 
-As previously noted, there is minimal possibility of issuing tokens by governments and private businesses will drive the education reform. With several private companies already established and closely linked to school administrators, it's more advantageous to collaborate with them for SLON token distribution rather than compete for school funding. The SLON tokens are designed to be interchangeable, so distributing them to selling partners should provide the right incentives for them to sell the tokens to schools instead of holding onto them in anticipation of other companies doing all the marketing.
+As previously noted, there is minimal possibility of issuing tokens by governments and private businesses will drive the education reform. With several private companies already established and closely linked to school administrators, it's more advantageous to collaborate with them for Slon token distribution rather than compete for school funding. The Slon tokens are designed to be interchangeable, so distributing them to selling partners should provide the right incentives for them to sell the tokens to schools instead of holding onto them in anticipation of other companies doing all the marketing.
 
-Furthermore, the open-source nature and lack of patent protection for the Slonigiraf project means incentives should be structured so that companies considering creating similar tokens would instead choose to become a sales partner for SLON tokens rather than issuing and promoting their own.
+Furthermore, the open-source nature and lack of patent protection for the Slonigiraf project means incentives should be structured so that companies considering creating similar tokens would instead choose to become a sales partner for Slon tokens rather than issuing and promoting their own.
 
-There are several factors to consider in building this system. Firstly, the price of SLON is rigid because its value is what drives educational organizations to purchase the token. Schools and universities cannot afford to buy cheap tokens as it would disrupt the underlying economy of their educational process and render the system ineffective. Therefore, schools intend to buy SLON tokens at a price of approximately 0.01 USD per token.
+There are several factors to consider in building this system. Firstly, the price of Slon is rigid because its value is what drives educational organizations to purchase the token. Schools and universities cannot afford to buy cheap tokens as it would disrupt the underlying economy of their educational process and render the system ineffective. Therefore, schools intend to buy Slon tokens at a price of approximately 0.01 USD per token.
 
-Secondly, while distributing SLON tokens through established distributors who already work with schools, there is a risk of missing demand if efforts are not made to promote the token through known schools, as other companies may reach these schools and universities first.
+Secondly, while distributing Slon tokens through established distributors who already work with schools, there is a risk of missing demand if efforts are not made to promote the token through known schools, as other companies may reach these schools and universities first.
 
-The third factor to consider is network effects. The SLON tokens serve as collateral for diplomas within the system, so schools prefer to use the same SLON tokens as other schools. This way, students can present diplomas from one educational organization to another, as they all utilize the same electronic system and tokens. As a result, after the initial distribution of SLON tokens, there will be a demand solely for SLON tokens and not others.
+The third factor to consider is network effects. The Slon tokens serve as collateral for diplomas within the system, so schools prefer to use the same Slon tokens as other schools. This way, students can present diplomas from one educational organization to another, as they all utilize the same electronic system and tokens. As a result, after the initial distribution of Slon tokens, there will be a demand solely for Slon tokens and not others.
 
-Considering this factor, it makes sense to collaborate with established sellers who are connected to educational organizations. Offer them SLON tokens at a significant discount to incentivize them to become token distributors. The discount should account for the possibility that these large distributors may threaten the system by issuing their tokens. It is essential to increase the cost of issuing alternative tokens and their promotion compared to SLON tokens.
+Considering this factor, it makes sense to collaborate with established sellers who are connected to educational organizations. Offer them Slon tokens at a significant discount to incentivize them to become token distributors. The discount should account for the possibility that these large distributors may threaten the system by issuing their tokens. It is essential to increase the cost of issuing alternative tokens and their promotion compared to Slon tokens.
 
-The initial phase of SLON token promotion should focus on creating economic hurdles for creating and promoting alternative tokens. It includes the launch of SLON tokens in select educational organizations and extensive advertising to educate administrators of schools and universities on the benefits of using a unified SLON token instead of various substitutes.
+The initial phase of Slon token promotion should focus on creating economic hurdles for creating and promoting alternative tokens. It includes the launch of Slon tokens in select educational organizations and extensive advertising to educate administrators of schools and universities on the benefits of using a unified Slon token instead of various substitutes.
 
 The next stage is trading for the discount rate with distributors. Mean reseller discount rate in a [software industry is about 50%](https://brigex.com/channel-partnership-blog/f/commission-rates-in-software-reselling).
 
-Therefore, we estimate that the company issuing SLON tokens will receive 50% of token sales and 50% of the profits, resulting in a profit of approximately 2 trillion dollars.
+Therefore, we estimate that the company issuing Slon tokens will receive 50% of token sales and 50% of the profits, resulting in a profit of approximately 2 trillion dollars.
 
 ## System Software Architecture
 
 ### The Polkadot Blockchain Design is Well-Suited for The Slonigiraf Software Layer
 
-The Slonigiraf educational model requires a transparent and fraud-resistant system for managing SLON token transactions. Blockchain solutions meet these requirements but face scalability issues for handling billions of user transactions. Ongoing research aims to increase blockchain transaction per second rates to match current industry standards of Visa and Mastercard networks. Approaches to improve blockchain transaction rates are developed by Cosmos Network, Ethereum, Bitcoin, Polkadot, Telegram Open Network, Solana, EOS.IO, Polygon, etc. It's tough to determine a clear winner at first glance, so we delved deeper by comparing Ethereum, Polkadot, Solana, Bitcoin, and Cosmos, which have the largest developer communities.
+The Slonigiraf educational model requires a transparent and fraud-resistant system for managing Slon token transactions. Blockchain solutions meet these requirements but face scalability issues for handling billions of user transactions. Ongoing research aims to increase blockchain transaction per second rates to match current industry standards of Visa and Mastercard networks. Approaches to improve blockchain transaction rates are developed by Cosmos Network, Ethereum, Bitcoin, Polkadot, Telegram Open Network, Solana, EOS.IO, Polygon, etc. It's tough to determine a clear winner at first glance, so we delved deeper by comparing Ethereum, Polkadot, Solana, Bitcoin, and Cosmos, which have the largest developer communities.
 
 During the analysis, Solana was excluded from the list due to numerous reports suggesting its transaction rate per second and developer count [may have been falsified](https://medium.com/@CryptoSavingExpert/solana-tps-is-fake-and-massively-inflated-cyber-capital-founder-da2ff27b1ed4).
 
-According to the listed blockchains, Polkadot emerges as the clear winner with its current transaction rate of 1,000 per second and a goal to reach 1,000,000 in one year, as illustrated in Table 11. Therefore, we decided to utilize the Polkadot architecture design to create the software layer that will manage SLON tokens in the Slonigiraf educational model.
+According to the listed blockchains, Polkadot emerges as the clear winner with its current transaction rate of 1,000 per second and a goal to reach 1,000,000 in one year, as illustrated in Table 11. Therefore, we decided to utilize the Polkadot architecture design to create the software layer that will manage Slon tokens in the Slonigiraf educational model.
 
 **Table 11**
 
@@ -843,9 +843,9 @@ According to the listed blockchains, Polkadot emerges as the clear winner with i
 
 <img alt="Image" src="https://github.com/slonigiraf/slon-whitepaper/blob/main/img/blockchain.png?raw=true" width="500">
 
-The proposed system, Slonigiraf, is based on the principles of the [Polkadot blockchain platform](https://polkadot.network/PolkaDotPaper.pdf). It consists of two interconnected components: [SLON](https://github.com/slonigiraf/whitepaper/blob/main/slon/ENG.md), a reputation system, and [GIRAF](https://github.com/slonigiraf/whitepaper/blob/main/giraf/ENG.md), a lobbying and legislation system. These two systems are implemented as separate blockchains connected through a relay chain, allowing for the deployment of multiple SLON and GIRAF modules (see Figure 4). This design provides scalability and allows the system to accommodate many users while also addressing the varying needs of the population.
+The proposed system, Slonigiraf, is based on the principles of the [Polkadot blockchain platform](https://polkadot.network/PolkaDotPaper.pdf). It consists of two interconnected components: [Slon](https://github.com/slonigiraf/whitepaper/blob/main/slon/ENG.md), a reputation system, and [GIRAF](https://github.com/slonigiraf/whitepaper/blob/main/giraf/ENG.md), a lobbying and legislation system. These two systems are implemented as separate blockchains connected through a relay chain, allowing for the deployment of multiple Slon and GIRAF modules (see Figure 4). This design provides scalability and allows the system to accommodate many users while also addressing the varying needs of the population.
 
-The GIRAF component of Slonigiraf utilizes the consensus mechanisms of Polkadot to facilitate agreement on essential education skills and teaching methods. The SLON module, which also serves as the name of the Slonigiraf cryptocurrency, stores information about diploma validity and tutors' reputation.
+The GIRAF component of Slonigiraf utilizes the consensus mechanisms of Polkadot to facilitate agreement on essential education skills and teaching methods. The Slon module, which also serves as the name of the Slonigiraf cryptocurrency, stores information about diploma validity and tutors' reputation.
 
 ## Appendix 1
 
