@@ -1,4 +1,4 @@
-# Slonigiraf - education improvement using market instruments <!-- omit from toc -->
+# Slonig - education improvement using market instruments <!-- omit from toc -->
 
 _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmail.com) _/ Telegram:_ [_@denisreshetov_](https://t.me/denisreshetov)
 
@@ -10,7 +10,7 @@ We explore how education affects economic growth and present an education model 
 
 - [Several Educational Models Are Known to Date](#several-educational-models-are-known-to-date)
 - [The Traditional Model Is the Most Efficient Among the Known Alternatives](#the-traditional-model-is-the-most-efficient-among-the-known-alternatives)
-- [Slonigiraf Is a New Educational Model More Efficient Than the Traditional](#slonigiraf-is-a-new-educational-model-more-efficient-than-the-traditional)
+- [Slonig Is a New Educational Model More Efficient Than the Traditional](#slonig-is-a-new-educational-model-more-efficient-than-the-traditional)
   - [Students Pay Each Other for Issuance of Diplomas After Successful Tutoring](#students-pay-each-other-for-issuance-of-diplomas-after-successful-tutoring)
   - [Tutors Have Different Numbers of Tutees](#tutors-have-different-numbers-of-tutees)
   - [Each Tutoring Interaction Is Focused on a Specific Skill](#each-tutoring-interaction-is-focused-on-a-specific-skill)
@@ -18,11 +18,11 @@ We explore how education affects economic growth and present an education model 
   - [Some Students Become Experts](#some-students-become-experts)
   - [Experts Earn Money Through Identification of Low-Quality Skills](#experts-earn-money-through-identification-of-low-quality-skills)
   - [A Tutee Can Allow a Tutor to Review a Diploma Issued by Another Tutor](#a-tutee-can-allow-a-tutor-to-review-a-diploma-issued-by-another-tutor)
-  - [Comparing the Speed of Skill Acquisition of the Slonigiraf Model to the Traditional Model](#comparing-the-speed-of-skill-acquisition-of-the-slonigiraf-model-to-the-traditional-model)
+  - [Comparing the Speed of Skill Acquisition of the Slonig Model to the Traditional Model](#comparing-the-speed-of-skill-acquisition-of-the-slonig-model-to-the-traditional-model)
   - [Teacher Salary Can Be Adjusted to the Quality of Teaching](#teacher-salary-can-be-adjusted-to-the-quality-of-teaching)
   - [Linking Education to the Real World by Paying Students for Learning](#linking-education-to-the-real-world-by-paying-students-for-learning)
-  - [The Slonigiraf Model Produces Training Data for Artificial Intelligence](#the-slonigiraf-model-produces-training-data-for-artificial-intelligence)
-  - [Artificial Intelligence Bots Can Be Integrated As Tutors in Slonigiraf Model](#artificial-intelligence-bots-can-be-integrated-as-tutors-in-slonigiraf-model)
+  - [The Slonig Model Produces Training Data for Artificial Intelligence](#the-slonig-model-produces-training-data-for-artificial-intelligence)
+  - [Artificial Intelligence Bots Can Be Integrated As Tutors in Slonig Model](#artificial-intelligence-bots-can-be-integrated-as-tutors-in-slonig-model)
 - [Financial Model of the Proposed Educational Reform](#financial-model-of-the-proposed-educational-reform)
   - [We Target 2 Billion People in the World](#we-target-2-billion-people-in-the-world)
   - [Wages of Tutors and Experts](#wages-of-tutors-and-experts)
@@ -31,7 +31,7 @@ We explore how education affects economic growth and present an education model 
   - [Money Loss Probability](#money-loss-probability)
   - [If We Know That Student Lost Money - What Happened?](#if-we-know-that-student-lost-money---what-happened)
   - [Student Starting Capital](#student-starting-capital)
-  - [Total Money Amount Needed To Run the Slonigiraf System in a Specific Country](#total-money-amount-needed-to-run-the-slonigiraf-system-in-a-specific-country)
+  - [Total Money Amount Needed To Run the Slonig System in a Specific Country](#total-money-amount-needed-to-run-the-slonig-system-in-a-specific-country)
 - [Slon Token](#slon-token)
   - [Giving money to students is challenging](#giving-money-to-students-is-challenging)
   - [We Address These Challenges with the Issuance of Slon Token](#we-address-these-challenges-with-the-issuance-of-slon-token)
@@ -46,8 +46,8 @@ We explore how education affects economic growth and present an education model 
   - [Slon Token Monetary Base](#slon-token-monetary-base)
   - [Slon Token Initial Distribution](#slon-token-initial-distribution)
 - [System Software Architecture](#system-software-architecture)
-  - [The Polkadot Blockchain Design is Well-Suited for The Slonigiraf Software Layer](#the-polkadot-blockchain-design-is-well-suited-for-the-slonigiraf-software-layer)
-  - [The Slonigiraf network is comprised of validators that ensure security and collators that facilitate scaling](#the-slonigiraf-network-is-comprised-of-validators-that-ensure-security-and-collators-that-facilitate-scaling)
+  - [The Polkadot Blockchain Design is Well-Suited for The Slonig Software Layer](#the-polkadot-blockchain-design-is-well-suited-for-the-slonig-software-layer)
+  - [The Slonig network is comprised of validators that ensure security and collators that facilitate scaling](#the-slonig-network-is-comprised-of-validators-that-ensure-security-and-collators-that-facilitate-scaling)
 - [Appendix 1](#appendix-1)
 
 ## Several Educational Models Are Known to Date
@@ -92,11 +92,11 @@ Another way to measure the efficiency of an education model daily is by determin
 
 To address these issues, we propose using money to incentivize students to serve as tutors and require them to use a recommendation letter system to ensure the quality of such lessons. We have implemented this approach in several schools and observed increased education efficiency by up to 75%, with students having ample time for learning and teaching within their existing secondary education programs.
 
-## Slonigiraf Is a New Educational Model More Efficient Than the Traditional
+## Slonig Is a New Educational Model More Efficient Than the Traditional
 
 **Figure 1**
 
-*The Proposed Educational Model Is Named "Slonigiraf"*
+*The Proposed Educational Model Is Named "Slonig"*
 
 <img alt="Image" src="https://github.com/slonigiraf/slon-whitepaper/blob/main/img/lesson.png?raw=true" width="500">
 
@@ -104,7 +104,7 @@ To address these issues, we propose using money to incentivize students to serve
 
 ### Students Pay Each Other for Issuance of Diplomas After Successful Tutoring
 
-**The Slonigiraf lesson** does not include a traditional lecture component. Instead, it begins with students working in pairs. Students can act as tutors for a specific skill or as a tutee. Tutees have the freedom to choose their tutors based on personal preference. **Tutors are typically peers of the tutees** who have previously acquired the same knowledge through self-study or other means. A tutor, in the case that their tutee masters the skill, charges him **tuition fees** and **provides a diploma** certifying the acquired skill. If the student does not reach the skill, the tutor receives nothing.
+**The Slonig lesson** does not include a traditional lecture component. Instead, it begins with students working in pairs. Students can act as tutors for a specific skill or as a tutee. Tutees have the freedom to choose their tutors based on personal preference. **Tutors are typically peers of the tutees** who have previously acquired the same knowledge through self-study or other means. A tutor, in the case that their tutee masters the skill, charges him **tuition fees** and **provides a diploma** certifying the acquired skill. If the student does not reach the skill, the tutor receives nothing.
 
 Each diploma is a unique electronic document that can be invalidated at any time if an **expert** determines that the holder does not possess the skill. As such, each diploma includes information on the trained skill, the tutor, the holder, and the possible reimbursement amount. The expert will be reimbursed for identifying a fake diploma, with the reimbursement paid by the tutor who issued the diploma. The amount of refund is specified at the time of diploma issuance.
 
@@ -128,7 +128,7 @@ For example, $2^{5} = 32$, meaning that 32 students will have acquired the skill
 
 &nbsp;
 
-To estimate what tutor roles students can play in the Slonigiraf educational model and what are probabilities of playing such roles let's examine a class consisting of 32 students. We will explain later why the chances of different roles are more or less the same in any student group size.
+To estimate what tutor roles students can play in the Slonig educational model and what are probabilities of playing such roles let's examine a class consisting of 32 students. We will explain later why the chances of different roles are more or less the same in any student group size.
 
 **Tutor of 0 tutees role**: as shown in Figure 2. half of the students (16 from 32) gains a skill in the last session. That means they will pay for tutoring and getting a diploma but will not earn money by tutoring such skill as there will be no students who need it. If the class consists of 32 students, there will be 16 such students (depicted with the digit "0" in Figure 2).
 
@@ -345,7 +345,7 @@ The teacher can also re-verify diplomas that an expert has already verified if t
 
 ### A Tutee Can Allow a Tutor to Review a Diploma Issued by Another Tutor
 
-Skills that are acquired but not used are prone to be forgotten. So, many educational systems rely on repetition. The Slonigiraf educational model utilizes repetition in three ways:
+Skills that are acquired but not used are prone to be forgotten. So, many educational systems rely on repetition. The Slonig educational model utilizes repetition in three ways:
 
 - Allow students who have acquired a skill to teach it to other students. In this way, the student reinforces their understanding of the skill by teaching it to others.
 - Our system uses repetition through expert verification of diplomas.
@@ -355,13 +355,13 @@ If a skill has been forgotten, the tutor who identifies the problem receives rei
 
 A student and a tutor may conspire against a previous tutor to receive reimbursement while the student still remembers the skill. This type of deception is not prohibited in any administrative way. Still, it is almost impossible in the long term - such a student would be banned from the community of tutors as dishonest and would lose the ability to receive new diplomas.
 
-### Comparing the Speed of Skill Acquisition of the Slonigiraf Model to the Traditional Model
+### Comparing the Speed of Skill Acquisition of the Slonig Model to the Traditional Model
 
 In the traditional model, a teacher teaches a group of students all at once, typically spending 22 minutes. The outcome of this method is that only one out of four students will have learned the skill. For example, if a teacher is working with a group of 32 students, this approach will result in 8 students having learned the skill.
 
-In contrast, the Slonigiraf model utilizes individualized instruction, where a teacher works with students one-on-one. In 22 minutes, a teacher using the Slonigiraf model can teach two students (11 minutes per student). The first student taught by the teacher will then teach another student. This results in 3 students acquiring the skill, whereas another teacher using a traditional model having the same time would have taught eight students.
+In contrast, the Slonig model utilizes individualized instruction, where a teacher works with students one-on-one. In 22 minutes, a teacher using the Slonig model can teach two students (11 minutes per student). The first student taught by the teacher will then teach another student. This results in 3 students acquiring the skill, whereas another teacher using a traditional model having the same time would have taught eight students.
 
-But why do we argue that the Slonigiraf model is more efficient than the traditional one? The answer is because of other skills and other students. During 22 minutes, only three students will get the skill the teacher has started introducing to the group. But when these three students acquire such skill, other students will spread the skills that were introduced before. As any student in the Slonigiraf model has a 0.5 probability of getting a new skill per session, each student should learn some new skill during two sessions of 11 minutes. Therefore, it is important to compare not just the number of students who acquire a specific skill in the traditional model (8) versus the Slonigiraf model (3) but also the total number of students who acquire any new skill in the Slonigiraf model (32). It shows that the Slonigiraf model is four times more efficient than the traditional one. However, the performance of the Slonigiraf model is only three times better than the traditional because some students forget some skills.
+But why do we argue that the Slonig model is more efficient than the traditional one? The answer is because of other skills and other students. During 22 minutes, only three students will get the skill the teacher has started introducing to the group. But when these three students acquire such skill, other students will spread the skills that were introduced before. As any student in the Slonig model has a 0.5 probability of getting a new skill per session, each student should learn some new skill during two sessions of 11 minutes. Therefore, it is important to compare not just the number of students who acquire a specific skill in the traditional model (8) versus the Slonig model (3) but also the total number of students who acquire any new skill in the Slonig model (32). It shows that the Slonig model is four times more efficient than the traditional one. However, the performance of the Slonig model is only three times better than the traditional because some students forget some skills.
 
 ### Teacher Salary Can Be Adjusted to the Quality of Teaching
 
@@ -371,7 +371,7 @@ But why do we argue that the Slonigiraf model is more efficient than the traditi
 - They automatically play the role of an expert
 - They have the authority to allow students to become experts
 
-This allows for two different models of teacher salary calculation. The first is a more traditional approach, where the teacher receives a salary from the school budget. This model is likely to be more prevalent during the transition from traditional education to the Slonigiraf model. Under this option, the teacher does not receive any additional pay for tutoring or issuing diplomas. They teach 1-2 students for free and these students then spread the skill to other students for a fee. However, the teacher is still able to receive reimbursement from mentors in the same way as any expert, but the money received is added to the school budget and distributed among all students on an equal basis every month.
+This allows for two different models of teacher salary calculation. The first is a more traditional approach, where the teacher receives a salary from the school budget. This model is likely to be more prevalent during the transition from traditional education to the Slonig model. Under this option, the teacher does not receive any additional pay for tutoring or issuing diplomas. They teach 1-2 students for free and these students then spread the skill to other students for a fee. However, the teacher is still able to receive reimbursement from mentors in the same way as any expert, but the money received is added to the school budget and distributed among all students on an equal basis every month.
 
 The second approach is more market-oriented, where the teacher does not receive any salary from the school budget. Instead, they are allowed to earn money both as a mentor and as an expert. The money that was allocated in the school budget for the teacher's salary is instead distributed among students on an equal basis every month.
 
@@ -383,13 +383,13 @@ However, like any other educational approach, this system is not directly linked
 
 The idea of paying students for their education may raise ethical concerns, as the traditional view is that education is valuable in and of itself. However, it is essential to acknowledge that all nations invest in education because it ultimately leads to greater economic growth in the long term. Therefore, students actively engaged in their studies contribute to this process and should be compensated for their efforts.
 
-### The Slonigiraf Model Produces Training Data for Artificial Intelligence
+### The Slonig Model Produces Training Data for Artificial Intelligence
 
 Large language models, such as OpenAI's Chat, have shown the capability of generating text that resembles human-written text. However, the quality of these systems is contingent on the training data used, and the answers provided by OpenAI Chat may need to be more reliable for use as a student tutor.
 
-The Slonigiraf model employs tutors to educate students on specific skills. By allowing tutors to communicate with the language model through dedicated skill-based conversations, a significant amount of text data can be generated for AI enhancement. Using recommendation letters as proof of tutor completion can further improve the quality of these dialogs. In essence, the AI can be seen as a student in the Slonigiraf model, learning directly from tutors, while experts can assess the quality of the tutor's work.
+The Slonig model employs tutors to educate students on specific skills. By allowing tutors to communicate with the language model through dedicated skill-based conversations, a significant amount of text data can be generated for AI enhancement. Using recommendation letters as proof of tutor completion can further improve the quality of these dialogs. In essence, the AI can be seen as a student in the Slonig model, learning directly from tutors, while experts can assess the quality of the tutor's work.
 
-### Artificial Intelligence Bots Can Be Integrated As Tutors in Slonigiraf Model
+### Artificial Intelligence Bots Can Be Integrated As Tutors in Slonig Model
 
 When AI language models attain a diploma from a tutor, they can teach other human students and award them with diplomas. This vision provides a clear economic incentive for major tech companies to invest in training AI with the assistance of human tutors who are students from educational institutions.
 
@@ -470,7 +470,7 @@ $0.00948 * 6 = 0.05688$
 
 Therefore, to incentivize students to engage in expert work, **the reimbursement amount in Ethiopia should be approximately 0.05688 USD**.
 
-During 4-year testing of the Slonigiraf educational model in different schools, we have identified experimentally that a tutor needs, on average, 11 minutes to teach a tutee one skill. Since a minute of the tutor's work costs 0.003 USD in Ethiopia, the tutor's work per skill costs 0.033 USD:
+During 4-year testing of the Slonig educational model in different schools, we have identified experimentally that a tutor needs, on average, 11 minutes to teach a tutee one skill. Since a minute of the tutor's work costs 0.003 USD in Ethiopia, the tutor's work per skill costs 0.033 USD:
 
 $0.003*11 = 0.033$
 
@@ -486,7 +486,7 @@ Because all issued diplomas go through verification, it is NOT profitable for a 
 
 ### Situations Leading To Earning and Spending Money
 
-The Slonigiraf educational system has the following roles: teacher, expert, tutor of 0 tutees, tutor of 1 tutee, etc.
+The Slonig educational system has the following roles: teacher, expert, tutor of 0 tutees, tutor of 1 tutee, etc.
 
 Experts make money without taking risks, while tutors may incur a loss if their tutees forget the skill. Teachers only teach one student per skill and work as experts, so they consistently earn more than they lose.
 
@@ -649,21 +649,21 @@ The calculation for the maximum money loss for a student in Ethiopia in a sequen
 | Tutor of 5 tutees | 5 | 4.8515E-05 | 0.00237726 | 0.09444  | 0.00022451 |
 | Total             |   | 1          | 49         |          | **2.21405352** |
 
-### Total Money Amount Needed To Run the Slonigiraf System in a Specific Country
+### Total Money Amount Needed To Run the Slonig System in a Specific Country
 
 To cover the maximum probable money loss of all students in Ethiopia (46,974,914), an estimated 104 million USD is required, calculated based on an average loss of 2.214 USD per student:
 
 $2.214 * 46,974,914 = 104,004,973 $
 
-Countries with higher teacher salaries than Ethiopia will require more funds for students at the start of the Slonigiraf system implementation. For example, in the USA, where minimum teacher salaries are 100.66 times higher, students will need 222.87 USD:
+Countries with higher teacher salaries than Ethiopia will require more funds for students at the start of the Slonig system implementation. For example, in the USA, where minimum teacher salaries are 100.66 times higher, students will need 222.87 USD:
 
 $2.214 * 100.66 = 222.87$
 
-13.7 billion USD is required to implement the Slonigiraf system for 61,376,828 students in the USA:
+13.7 billion USD is required to implement the Slonig system for 61,376,828 students in the USA:
 
 $222.87 * 61,376,828 = 13,679,152,692$
 
-Table 8 displays the calculations for other countries. The Slonigiraf educational model requires 98.3 billion USD to be distributed among students worldwide.
+Table 8 displays the calculations for other countries. The Slonig educational model requires 98.3 billion USD to be distributed among students worldwide.
 
 **Table 8**
 
@@ -705,13 +705,13 @@ This approach may also need help with student behavior, as students may be tempt
 
 ### We Address These Challenges with the Issuance of Slon Token
 
-We propose using tokens specific to the Slonigiraf educational model to solve all described challenges. In such a way, students will get tokens instead of real money, preventing their spending before actual use in education. Furthermore, it presents opportunities for private businesses to generate revenue through selling tokens, thus driving the adoption of the Slonigiraf educational model.
+We propose using tokens specific to the Slonig educational model to solve all described challenges. In such a way, students will get tokens instead of real money, preventing their spending before actual use in education. Furthermore, it presents opportunities for private businesses to generate revenue through selling tokens, thus driving the adoption of the Slonig educational model.
 
 Administrators and politicians running government or educational organizations won't issue tokens because they don't stand to profit from it. A private, profit-driven organization is likelier to issue a token to advance education reform, with emission distributed among companies seeking to profit from it. We will name this token "Slon."
 
 ### Slon Token Price
 
-As previously discussed, Slon is a token designed to be used by students in the Slonigiraf educational model instead of actual currency. The diploma cost and reimbursements can vary between countries, with Ethiopia having the lowest diploma cost among the most populous countries. Let's determine the price of a diploma in Ethiopia in Slon and the amount of reimbursement in Slon nominal.
+As previously discussed, Slon is a token designed to be used by students in the Slonig educational model instead of actual currency. The diploma cost and reimbursements can vary between countries, with Ethiopia having the lowest diploma cost among the most populous countries. Let's determine the price of a diploma in Ethiopia in Slon and the amount of reimbursement in Slon nominal.
 
 The calculated diploma cost in Ethiopia is 0.04722 USD, with a reimbursement of 0.05688 USD (1.2 times larger than the diploma cost). When selecting a nominal for the Slon token, it's essential to consider if students will be comfortable using it in transactions. The diploma cost in Slon should have as few decimal places as possible. It would be ideal if the diploma cost and reimbursement were whole numbers. The smallest whole number that gives an integer after division by 1.2 is 6. So, we propose using 6 Slon for the reimbursement and 5 Slon for the diploma cost in Ethiopia. At the same time, the diploma cost in Ethiopia is 0.04722 USD or 5 Slon. This calculation gives us a value of 1 Slon, being approximately 0.01 USD:
 
@@ -723,7 +723,7 @@ Countries have varying teacher salaries, leading to variations in the diploma co
 
 **Table 9**
 
-*Slon Token Needed To Drive The Slonigiraf System*
+*Slon Token Needed To Drive The Slonig System*
 
 |  | Times min teacher wage  is larger than Ethiopian counterpart | Free tokens given to each student, Slon | Diploma price, Slon | Reimbursement amount, Slon |
 | ----------- | ------ | ----- | --- | --- |
@@ -748,7 +748,7 @@ Countries have varying teacher salaries, leading to variations in the diploma co
 
 ### Educational Organizations Acquire Slon Tokens to Establish Student Starting Capital
 
-To utilize the Slonigiraf educational model, schools or universities must ensure that all students have adequate funding. As previously discussed, educational institutions cannot assume that all students are financially well-off and should provide starting capital for each student (refer to Table 8). Additionally, simply giving money to students is not a viable solution as they may spend it before realizing its importance for new forms of communication and education. To address this, schools or universities should purchase Slon tokens for students to use instead of money. The cost of purchasing Slon tokens is less than issuing and maintaining new tokens, making it a cost-effective option for any educational organization.
+To utilize the Slonig educational model, schools or universities must ensure that all students have adequate funding. As previously discussed, educational institutions cannot assume that all students are financially well-off and should provide starting capital for each student (refer to Table 8). Additionally, simply giving money to students is not a viable solution as they may spend it before realizing its importance for new forms of communication and education. To address this, schools or universities should purchase Slon tokens for students to use instead of money. The cost of purchasing Slon tokens is less than issuing and maintaining new tokens, making it a cost-effective option for any educational organization.
 
 As stated in Table 8, the total demand for Slon by educational organizations worldwide is 98.3 billion USD, comparable to the net profit of the largest companies such as Apple or Microsoft in [2022](https://www.statista.com/statistics/269857/most-profitable-companies-worldwide/#).
 
@@ -762,7 +762,7 @@ $8000 - 98.3 = 7901.7$
 
 ### Corporate Education Could Lead to The Demand Growth
 
-In summary, we anticipate a demand for tokens from educational organizations to be 98.3 billion USD and 7.9 trillion USD from students from wealthy families. Throughout our analysis, we have primarily focused on students aged 7-21. Still, it is worth noting that adults also continue their education. We see the potential for implementing the Slonigiraf educational model in corporate training, which could generate additional demand for tokens. The global Corporate Training market was [valued at USD 345.56 Billion in 2021](https://skyquestt.com/report/corporate-training-market). We estimate that the Slonigiraf educational model can triple the educational efficiency. In that case, the additional GDP, as well as token demand, could reach approximately 691 billion USD:
+In summary, we anticipate a demand for tokens from educational organizations to be 98.3 billion USD and 7.9 trillion USD from students from wealthy families. Throughout our analysis, we have primarily focused on students aged 7-21. Still, it is worth noting that adults also continue their education. We see the potential for implementing the Slonig educational model in corporate training, which could generate additional demand for tokens. The global Corporate Training market was [valued at USD 345.56 Billion in 2021](https://skyquestt.com/report/corporate-training-market). We estimate that the Slonig educational model can triple the educational efficiency. In that case, the additional GDP, as well as token demand, could reach approximately 691 billion USD:
 
 $2*345.56 = 691.12$
 
@@ -797,7 +797,7 @@ $8.7 / 0.01 = 870$
 
 As previously noted, there is minimal possibility of issuing tokens by governments and private businesses will drive the education reform. With several private companies already established and closely linked to school administrators, it's more advantageous to collaborate with them for Slon token distribution rather than compete for school funding. The Slon tokens are designed to be interchangeable, so distributing them to selling partners should provide the right incentives for them to sell the tokens to schools instead of holding onto them in anticipation of other companies doing all the marketing.
 
-Furthermore, the open-source nature and lack of patent protection for the Slonigiraf project means incentives should be structured so that companies considering creating similar tokens would instead choose to become a sales partner for Slon tokens rather than issuing and promoting their own.
+Furthermore, the open-source nature and lack of patent protection for the Slonig project means incentives should be structured so that companies considering creating similar tokens would instead choose to become a sales partner for Slon tokens rather than issuing and promoting their own.
 
 There are several factors to consider in building this system. Firstly, the price of Slon is rigid because its value is what drives educational organizations to purchase the token. Schools and universities cannot afford to buy cheap tokens as it would disrupt the underlying economy of their educational process and render the system ineffective. Therefore, schools intend to buy Slon tokens at a price of approximately 0.01 USD per token.
 
@@ -815,13 +815,13 @@ Therefore, we estimate that the company issuing Slon tokens will receive 50% of 
 
 ## System Software Architecture
 
-### The Polkadot Blockchain Design is Well-Suited for The Slonigiraf Software Layer
+### The Polkadot Blockchain Design is Well-Suited for The Slonig Software Layer
 
-The Slonigiraf educational model requires a transparent and fraud-resistant system for managing Slon token transactions. Blockchain solutions meet these requirements but face scalability issues for handling billions of user transactions. Ongoing research aims to increase blockchain transaction per second rates to match current industry standards of Visa and Mastercard networks. Approaches to improve blockchain transaction rates are developed by Cosmos Network, Ethereum, Bitcoin, Polkadot, Telegram Open Network, Solana, EOS.IO, Polygon, etc. It's tough to determine a clear winner at first glance, so we delved deeper by comparing Ethereum, Polkadot, Solana, Bitcoin, and Cosmos, which have the largest developer communities.
+The Slonig educational model requires a transparent and fraud-resistant system for managing Slon token transactions. Blockchain solutions meet these requirements but face scalability issues for handling billions of user transactions. Ongoing research aims to increase blockchain transaction per second rates to match current industry standards of Visa and Mastercard networks. Approaches to improve blockchain transaction rates are developed by Cosmos Network, Ethereum, Bitcoin, Polkadot, Telegram Open Network, Solana, EOS.IO, Polygon, etc. It's tough to determine a clear winner at first glance, so we delved deeper by comparing Ethereum, Polkadot, Solana, Bitcoin, and Cosmos, which have the largest developer communities.
 
 During the analysis, Solana was excluded from the list due to numerous reports suggesting its transaction rate per second and developer count [may have been falsified](https://medium.com/@CryptoSavingExpert/solana-tps-is-fake-and-massively-inflated-cyber-capital-founder-da2ff27b1ed4).
 
-According to the listed blockchains, Polkadot emerges as the clear winner with its current transaction rate of 1,000 per second and a goal to reach 1,000,000 in one year, as illustrated in Table 11. Therefore, we decided to utilize the Polkadot architecture design to create the software layer that will manage Slon tokens in the Slonigiraf educational model.
+According to the listed blockchains, Polkadot emerges as the clear winner with its current transaction rate of 1,000 per second and a goal to reach 1,000,000 in one year, as illustrated in Table 11. Therefore, we decided to utilize the Polkadot architecture design to create the software layer that will manage Slon tokens in the Slonig educational model.
 
 **Table 11**
 
@@ -835,17 +835,17 @@ According to the listed blockchains, Polkadot emerges as the clear winner with i
 | Cosmos   |  ???               |              [10,000](https://learn.bybit.com/blockchain/fastest-cryptocurrencies-high-tps/) |
 | Bitcoin  |                  7 |         [1,000,000](https://bakkt.com/blog/bitcoin-lightning-network)   |
 
-### The Slonigiraf network is comprised of validators that ensure security and collators that facilitate scaling
+### The Slonig network is comprised of validators that ensure security and collators that facilitate scaling
 
 **Figure 4**
 
-*Slonigiraf System Software Architecture*
+*Slonig System Software Architecture*
 
 <img alt="Image" src="https://github.com/slonigiraf/slon-whitepaper/blob/main/img/blockchain.png?raw=true" width="500">
 
-The proposed system, Slonigiraf, is based on the principles of the [Polkadot blockchain platform](https://polkadot.network/PolkaDotPaper.pdf). It consists of two interconnected components: [Slon](https://github.com/slonigiraf/whitepaper/blob/main/slon/ENG.md), a reputation system, and [GIRAF](https://github.com/slonigiraf/whitepaper/blob/main/giraf/ENG.md), a lobbying and legislation system. These two systems are implemented as separate blockchains connected through a relay chain, allowing for the deployment of multiple Slon and GIRAF modules (see Figure 4). This design provides scalability and allows the system to accommodate many users while also addressing the varying needs of the population.
+The proposed system, Slonig, is based on the principles of the [Polkadot blockchain platform](https://polkadot.network/PolkaDotPaper.pdf). It consists of two interconnected components: [Slon](https://github.com/slonigiraf/whitepaper/blob/main/slon/ENG.md), a reputation system, and [GIRAF](https://github.com/slonigiraf/whitepaper/blob/main/giraf/ENG.md), a lobbying and legislation system. These two systems are implemented as separate blockchains connected through a relay chain, allowing for the deployment of multiple Slon and GIRAF modules (see Figure 4). This design provides scalability and allows the system to accommodate many users while also addressing the varying needs of the population.
 
-The GIRAF component of Slonigiraf utilizes the consensus mechanisms of Polkadot to facilitate agreement on essential education skills and teaching methods. The Slon module, which also serves as the name of the Slonigiraf cryptocurrency, stores information about diploma validity and tutors' reputation.
+The GIRAF component of Slonig utilizes the consensus mechanisms of Polkadot to facilitate agreement on essential education skills and teaching methods. The Slon module, which also serves as the name of the Slonig cryptocurrency, stores information about diploma validity and tutors' reputation.
 
 ## Appendix 1
 
