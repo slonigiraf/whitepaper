@@ -11,9 +11,8 @@
 
 | Id | Description | Example |
 | -- | ----------- | ------- |
-| 0  | Basic list  | {"t" : 0, "h" : "Example header", "e": [...]} |
-| 1  | List of courses  | {"t" : 1, "h" : "USA school curriculum", "e": [...]} |
-| 2  | List of modules  | {"t" : 2, "h" : "Math for 5th grade", "e": [...]} |
-| 3  | List of skills  | {"t" : 3, "h" : "Working with fractions", "e": [...]} |
-| 4  | Skill  | {"t" : 4, "h" : "Adding two fractions", "e": [...]} |
-| 5  | Task for skill training  | {"t" : 5, "q" : {"h" : "What is a result of 1/3+1/3?", f: "answer optional file id"}, "a" : {"h": "2/3", f: "answer optional file id"}} |
+| 0  | List  | {"t" : 0, "h" : "USA school curriculum", "e": [...]} |
+| 1  | Course  | {"t" : 1, "h" : "Math for 5th grade", "e": [...]} |
+| 2  | Module  | {"t" : 2, "h" : "Working with fractions", "e": [...]} |
+| 3  | Skill  | {"t" : 3, "h" : "Adding two fractions", "e": [...]} |
+| 4  | Exercise  | {"t" : 4, "q" : {"h" : "What is a result of 1/3+1/3?", f: "answer optional file id"}, "a" : {"h": "2/3", f: "answer optional file id"}} |
