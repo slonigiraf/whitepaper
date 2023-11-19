@@ -98,7 +98,7 @@ To address these issues, we propose using money to incentivize students to serve
 
 *The Proposed Educational Model Is Named "Slonig"*
 
-<img alt="Image" src="https://github.com/slonigiraf/slon-whitepaper/blob/main/img/lesson.png?raw=true" width="500">
+<img alt="Image" src="https://github.com/slonigiraf/whitepaper/blob/main/img/lesson.png?raw=true" width="500">
 
 *Note.* The model consists of peer-to-peer tutoring (leftmost pane), expert selection (middle pane), and diplomas verification (last pane).
 
@@ -122,7 +122,7 @@ For example, $2^{5} = 32$, meaning that 32 students will have acquired the skill
 
 *Student May Have Varying Amounts Of Mentees*
 
-<img alt="Image" src="https://github.com/slonigiraf/slon-whitepaper/blob/main/img/tutees_count.png?raw=true" width="500">
+<img alt="Image" src="https://github.com/slonigiraf/whitepaper/blob/main/img/tutees_count.png?raw=true" width="500">
 
 *Note.* For instance, in a class of 32 students, the maximum number of mentees per student would likely be 5, given that the number of mentors doubles in each session.
 
@@ -168,7 +168,7 @@ When the tutee starts to identify and correct errors in the tutor's answers, the
 
 *A simple pedagogical algorithm that can be used by tutors to ensure the quality of the skill training*
 
-<img alt="Image" src="https://github.com/slonigiraf/slon-whitepaper/blob/main/img/algorithm.png?raw=true" width="500">
+<img alt="Image" src="https://github.com/slonigiraf/whitepaper/blob/main/img/algorithm.png?raw=true" width="500">
 
 The pedagogical roots of such an algorithm can be traced back to error correction and feedback in learning. The algorithm is based on the idea that students learn best when actively engaged in the learning process and when they receive immediate feedback on their performance.
 
@@ -841,7 +841,7 @@ According to the listed blockchains, Polkadot emerges as the clear winner with i
 
 *Slonig System Software Architecture*
 
-<img alt="Image" src="https://github.com/slonigiraf/slon-whitepaper/blob/main/img/blockchain.png?raw=true" width="500">
+<img alt="Image" src="https://github.com/slonigiraf/whitepaper/blob/main/img/blockchain.png?raw=true" width="500">
 
 The proposed system, Slonig, is based on the principles of the [Polkadot blockchain platform](https://polkadot.network/PolkaDotPaper.pdf). It consists of two interconnected components: [Slon](https://github.com/slonigiraf/whitepaper/blob/main/slon/ENG.md), a reputation system, and [GIRAF](https://github.com/slonigiraf/whitepaper/blob/main/giraf/ENG.md), a lobbying and legislation system. These two systems are implemented as separate blockchains connected through a relay chain, allowing for the deployment of multiple Slon and GIRAF modules (see Figure 4). This design provides scalability and allows the system to accommodate many users while also addressing the varying needs of the population.
 

@@ -52,7 +52,7 @@ In a case of a loss, the insured submits a claim to the insurer for processing b
 
 *Slon and Recommendation Letter Markets Connection*
 
-<img alt="Image" src="https://github.com/slonigiraf/slon-whitepaper/blob/main/img/Slon-market-ENG.jpg?raw=true" width="500">
+<img alt="Image" src="https://github.com/slonigiraf/whitepaper/blob/main/img/Slon-market-ENG.jpg?raw=true" width="500">
 
 *Note.*
 
@@ -99,7 +99,7 @@ To issue a guarantee, the tutor must create an account within the Slonigiraf sys
 
 *An Example of the Application of the Slonigiraf Methodology in a Public School*
 
-<img alt="Image" src="https://github.com/slonigiraf/slon-whitepaper/blob/main/img/Slon-in-school-ENG.jpg?raw=true" width="500">
+<img alt="Image" src="https://github.com/slonigiraf/whitepaper/blob/main/img/Slon-in-school-ENG.jpg?raw=true" width="500">
 
 ## Data Storage
 
