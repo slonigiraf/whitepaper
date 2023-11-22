@@ -124,7 +124,7 @@ For example, $2^{5} = 32$, meaning that 32 students will have acquired the skill
 
 <img alt="Image" src="https://github.com/slonigiraf/whitepaper/blob/main/img/tutees_count.png?raw=true" width="500">
 
-*Note.* For instance, in a class of 32 students, the maximum number of mentees per student would likely be 5, given that the number of mentors doubles in each session.
+*Note.* For instance, in a class of 32 students, the maximum number of mentees per student would likely be 5, given that the number of tutors doubles in each session.
 
 &nbsp;
 
@@ -150,7 +150,7 @@ All students have a tutor, as all are required to obtain a diploma. The student 
 
 ### Each Tutoring Interaction Is Focused on a Specific Skill
 
-An important aspect of pedagogy is the structure and objectives of lessons and the expected outcome. However, in traditional education, there is no guarantee that teachers will have a well-defined plan or clear learning objectives for their students in each lesson. Allowing students to tutor their peers may exacerbate the problem as these student-mentors have yet to receive formal training in pedagogy.
+An important aspect of pedagogy is the structure and objectives of lessons and the expected outcome. However, in traditional education, there is no guarantee that teachers will have a well-defined plan or clear learning objectives for their students in each lesson. Allowing students to tutor their peers may exacerbate the problem as these student-tutors have yet to receive formal training in pedagogy.
 
 We have implemented a simple solution to this problem. In this approach, every tutoring interaction focuses on only one skill per interaction. Tutors can easily access a method for teaching the skill from a database recommended by the teacher. Once the tutor determines that the student has mastered the skill, they can award a diploma that is specific to that skill. By using this approach, we can ensure that each tutoring interaction is focused on one particular skill and that the tutor understands the objectives of the interaction.
 
@@ -371,9 +371,9 @@ But why do we argue that the Slonig model is more efficient than the traditional
 - They automatically play the role of an expert
 - They have the authority to allow students to become experts
 
-This allows for two different models of teacher salary calculation. The first is a more traditional approach, where the teacher receives a salary from the school budget. This model is likely to be more prevalent during the transition from traditional education to the Slonig model. Under this option, the teacher does not receive any additional pay for tutoring or issuing diplomas. They teach 1-2 students for free and these students then spread the skill to other students for a fee. However, the teacher is still able to receive reimbursement from mentors in the same way as any expert, but the money received is added to the school budget and distributed among all students on an equal basis every month.
+This allows for two different models of teacher salary calculation. The first is a more traditional approach, where the teacher receives a salary from the school budget. This model is likely to be more prevalent during the transition from traditional education to the Slonig model. Under this option, the teacher does not receive any additional pay for tutoring or issuing diplomas. They teach 1-2 students for free and these students then spread the skill to other students for a fee. However, the teacher is still able to receive reimbursement from tutors in the same way as any expert, but the money received is added to the school budget and distributed among all students on an equal basis every month.
 
-The second approach is more market-oriented, where the teacher does not receive any salary from the school budget. Instead, they are allowed to earn money both as a mentor and as an expert. The money that was allocated in the school budget for the teacher's salary is instead distributed among students on an equal basis every month.
+The second approach is more market-oriented, where the teacher does not receive any salary from the school budget. Instead, they are allowed to earn money both as a tutor and as an expert. The money that was allocated in the school budget for the teacher's salary is instead distributed among students on an equal basis every month.
 
 ### Linking Education to the Real World by Paying Students for Learning
 

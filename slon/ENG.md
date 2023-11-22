@@ -12,7 +12,7 @@ To address this problem, I propose splitting a person's reputation into two part
 
 A good referee may be penalized if a worker forgets the skills mentioned in the recommendation. To mitigate this risk, the worker should pay a premium to the referee, similar to an insurance model. In this way, the referee will retain money in the long term.
 
-This system was initially developed at the Slonigiraf private school to motivate teachers to perform well and eventually led to a peer-to-peer learning model. Every student can act as a mentor and issue a recommendation about their mentee. The mentee pays the mentor for teaching and issuing a recommendation letter (diploma). The senior teacher buys recommendation letters about mentees giving them high grades (or money). This approach has the potential to transform all types of education.
+This system was initially developed at the Slonigiraf private school to motivate teachers to perform well and eventually led to a peer-to-peer learning model. Every student can act as a tutor and issue a recommendation about their mentee. The mentee pays the tutor for teaching and issuing a recommendation letter (diploma). The senior teacher buys recommendation letters about mentees giving them high grades (or money). This approach has the potential to transform all types of education.
 
 The proposed reputation system resists Big Brother surveillance and any form of discrimination. All recommendation letters are stored privately on personal devices and are only shown to organizations that the person trusts. Additionally, accounts are pseudonymous, like in Bitcoin, and a person can have multiple accounts to store Slon tokens. The Slon token balance cannot be transformed into a discriminatory social credit system (e.g., the Chinese system) because anyone can buy Slon. If a criminal buys Slon and has a high Slon balance, it does not make them good or socially acceptable.
 
@@ -65,7 +65,7 @@ The paid interview is a known instrument to recruit a specialist when there is a
 
 ## Corporate Education
 
-In the proposed model, corporate education can be transformed by allowing employees to act as mentors and issue recommendations about their mentees, who would then pay the mentor for teaching and issuing a recommendation. This approach could replace traditional training programs and allow employees a more personalized and tailored learning experience.
+In the proposed model, corporate education can be transformed by allowing employees to act as tutors and issue recommendations about their mentees, who would then pay the tutor for teaching and issuing a recommendation. This approach could replace traditional training programs and allow employees a more personalized and tailored learning experience.
 
 The HR manager or company director could buy recommendation letters about mentees in this system. It would create a financial incentive for mentees to learn and perform well and a financial incentive for employees to share their knowledge and skills with their colleagues.
 
@@ -93,7 +93,7 @@ Anyone can use a Slon reputation to issue a guarantee (diploma) for another pers
 
 Most often, tutors act as guarantors, and tutees buy guarantees to resell them to future employers or patrons.
 
-To issue a guarantee, the tutor must create an account within the Slonigiraf system and transfer the required amount of Slon there. The number of Slons on this account is known to all Slonigiraf users. Thanks to this information, they know that the guarantee can be used, and the amount of Slon specified in the guarantee can be debited from the tutor's account. Slons on the tutor's account are not blocked in any way. A tutor, for example, can put 100 Slon on their account and issue 5 guarantees, each allowing to fine the mentor by 100 Slon. After the execution of the penalty on the first guarantee, the account will be reset to zero, and everyone will know that the other four guarantees are not valid yet. If the tutor refills their account with 100 Slon, these four guarantees will become valid again. An example of applying the Slonigiraf methodology in a public school can be seen in Figure 2.
+To issue a guarantee, the tutor must create an account within the Slonigiraf system and transfer the required amount of Slon there. The number of Slons on this account is known to all Slonigiraf users. Thanks to this information, they know that the guarantee can be used, and the amount of Slon specified in the guarantee can be debited from the tutor's account. Slons on the tutor's account are not blocked in any way. A tutor, for example, can put 100 Slon on their account and issue 5 guarantees, each allowing to fine the tutor by 100 Slon. After the execution of the penalty on the first guarantee, the account will be reset to zero, and everyone will know that the other four guarantees are not valid yet. If the tutor refills their account with 100 Slon, these four guarantees will become valid again. An example of applying the Slonigiraf methodology in a public school can be seen in Figure 2.
 
 **Figure 2**
 
