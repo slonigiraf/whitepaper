@@ -435,7 +435,7 @@ When considering the wages of tutors and experts, it's important to note that a 
 |             | Min | Max | Max/Min |
 | ----------- | ------- | ------- | ------- |
 | India       | 143.42  | 458.21  | 3.19    |
-| China       | 1637.81 | 4796.44 | 2.93    |
+| China       | 827.8 | 2425.45 | 2.93    |
 | Nigeria     | 282.07  | 831.02  | 2.95    |
 | Pakistan    | 142.57  | 419.79  | 2.94    |
 | Indonesia   | 313.31  | 922.63  | 2.94    |
