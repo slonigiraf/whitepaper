@@ -11,13 +11,13 @@ We explore how education affects economic growth and present an education model 
 - [Several Educational Models Are Known to Date](#several-educational-models-are-known-to-date)
 - [The Traditional Model Is the Most Efficient Among the Known Alternatives](#the-traditional-model-is-the-most-efficient-among-the-known-alternatives)
 - [Slonig Is a New Educational Model More Efficient Than the Traditional](#slonig-is-a-new-educational-model-more-efficient-than-the-traditional)
-  - [Students Pay Each Other for Issuance of Diplomas After Successful Tutoring](#students-pay-each-other-for-issuance-of-diplomas-after-successful-tutoring)
+  - [Students Pay Each Other for Issuance of Badges After Successful Tutoring](#students-pay-each-other-for-issuance-of-badges-after-successful-tutoring)
   - [Tutors Have Different Numbers of Tutees](#tutors-have-different-numbers-of-tutees)
   - [Each Tutoring Interaction Is Focused on a Specific Skill](#each-tutoring-interaction-is-focused-on-a-specific-skill)
   - [Tutors Use a Simple Teaching Algorithm](#tutors-use-a-simple-teaching-algorithm)
   - [Some Students Become Experts](#some-students-become-experts)
   - [Experts Earn Money Through Identification of Low-Quality Skills](#experts-earn-money-through-identification-of-low-quality-skills)
-  - [A Tutee Can Allow a Tutor to Review a Diploma Issued by Another Tutor](#a-tutee-can-allow-a-tutor-to-review-a-diploma-issued-by-another-tutor)
+  - [A Tutee Can Allow a Tutor to Review a Badge Issued by Another Tutor](#a-tutee-can-allow-a-tutor-to-review-a-badge-issued-by-another-tutor)
   - [Comparing the Speed of Skill Acquisition of the Slonig Model to the Traditional Model](#comparing-the-speed-of-skill-acquisition-of-the-slonig-model-to-the-traditional-model)
   - [Teacher Salary Can Be Adjusted to the Quality of Teaching](#teacher-salary-can-be-adjusted-to-the-quality-of-teaching)
   - [Linking Education to the Real World by Paying Students for Learning](#linking-education-to-the-real-world-by-paying-students-for-learning)
@@ -26,7 +26,7 @@ We explore how education affects economic growth and present an education model 
 - [Financial Model of the Proposed Educational Reform](#financial-model-of-the-proposed-educational-reform)
   - [We Target 2 Billion People in the World](#we-target-2-billion-people-in-the-world)
   - [Wages of Tutors and Experts](#wages-of-tutors-and-experts)
-  - [Diploma Price and Reimbursement Amount](#diploma-price-and-reimbursement-amount)
+  - [Badge Price and Reimbursement Amount](#badge-price-and-reimbursement-amount)
   - [Situations Leading To Earning and Spending Money](#situations-leading-to-earning-and-spending-money)
   - [Money Loss Probability](#money-loss-probability)
   - [If We Know That Student Lost Money - What Happened?](#if-we-know-that-student-lost-money---what-happened)
@@ -36,7 +36,7 @@ We explore how education affects economic growth and present an education model 
   - [Giving money to students is challenging](#giving-money-to-students-is-challenging)
   - [We Address These Challenges with the Issuance of Slon Token](#we-address-these-challenges-with-the-issuance-of-slon-token)
   - [Slon Token Price](#slon-token-price)
-  - [Diploma Price and Reimbursement Amount in Slon Nominal](#diploma-price-and-reimbursement-amount-in-slon-nominal)
+  - [Badge Price and Reimbursement Amount in Slon Nominal](#badge-price-and-reimbursement-amount-in-slon-nominal)
 - [Private Enterprises Earn Revenue by Advocating for Educational Reform](#private-enterprises-earn-revenue-by-advocating-for-educational-reform)
   - [Educational Organizations Acquire Slon Tokens to Establish Student Starting Capital](#educational-organizations-acquire-slon-tokens-to-establish-student-starting-capital)
   - [Some Students Stash Tokens Which Leads to an Additional Demand](#some-students-stash-tokens-which-leads-to-an-additional-demand)
@@ -100,19 +100,19 @@ To address these issues, we propose using money to incentivize students to serve
 
 <img alt="Image" src="https://github.com/slonigiraf/whitepaper/blob/main/img/lesson.png?raw=true" width="500">
 
-*Note.* The model consists of peer-to-peer tutoring (leftmost pane), expert selection (middle pane), and diplomas verification (last pane).
+*Note.* The model consists of peer-to-peer tutoring (leftmost pane), expert selection (middle pane), and badges verification (last pane).
 
-### Students Pay Each Other for Issuance of Diplomas After Successful Tutoring
+### Students Pay Each Other for Issuance of Badges After Successful Tutoring
 
-**The Slonig lesson** does not include a traditional lecture component. Instead, it begins with students working in pairs. Students can act as tutors for a specific skill or as a tutee. Tutees have the freedom to choose their tutors based on personal preference. **Tutors are typically peers of the tutees** who have previously acquired the same knowledge through self-study or other means. A tutor, in the case that their tutee masters the skill, charges him **tuition fees** and **provides a diploma** certifying the acquired skill. If the student does not reach the skill, the tutor receives nothing.
+**The Slonig lesson** does not include a traditional lecture component. Instead, it begins with students working in pairs. Students can act as tutors for a specific skill or as a tutee. Tutees have the freedom to choose their tutors based on personal preference. **Tutors are typically peers of the tutees** who have previously acquired the same knowledge through self-study or other means. A tutor, in the case that their tutee masters the skill, charges him **tuition fees** and **provides a badge** certifying the acquired skill. If the student does not reach the skill, the tutor receives nothing.
 
-Each diploma is a unique electronic document that can be invalidated at any time if an **expert** determines that the holder does not possess the skill. As such, each diploma includes information on the trained skill, the tutor, the holder, and the possible reimbursement amount. The expert will be reimbursed for identifying a fake diploma, with the reimbursement paid by the tutor who issued the diploma. The amount of refund is specified at the time of diploma issuance.
+Each badge is a unique electronic document that can be invalidated at any time if an **expert** determines that the holder does not possess the skill. As such, each badge includes information on the trained skill, the tutor, the holder, and the possible reimbursement amount. The expert will be reimbursed for identifying a fake badge, with the reimbursement paid by the tutor who issued the badge. The amount of refund is specified at the time of badge issuance.
 
 At the start of a lesson, there are frequently multiple tutors for a skill as they may have self-studied or learned it from their parents or prior schooling. As a result, the lesson begins with multiple tutor-student pairs.
 
-Let's examine how a lesson proceeds when only one tutor is present. In Figure 1, the tutor is denoted as "A" in the leftmost panel. The tutor chooses a student who offers the most money or is based on any other criteria of their choosing. This session is marked as "session 1" in Figure 1. After this session, the student may then become a tutor themselves. Then, these two tutors can teach the skill to two more students. This process is called "session 2." Each session doubles the number of tutors. After session 1, there are two students with diplomas; after session 2, there are 4; and after session 3, there are 16. It can be briefly stated as follows:
+Let's examine how a lesson proceeds when only one tutor is present. In Figure 1, the tutor is denoted as "A" in the leftmost panel. The tutor chooses a student who offers the most money or is based on any other criteria of their choosing. This session is marked as "session 1" in Figure 1. After this session, the student may then become a tutor themselves. Then, these two tutors can teach the skill to two more students. This process is called "session 2." Each session doubles the number of tutors. After session 1, there are two students with badges; after session 2, there are 4; and after session 3, there are 16. It can be briefly stated as follows:
 
-$2^{sessions} = diplomas$
+$2^{sessions} = badges$
 
 For example, $2^{5} = 32$, meaning that 32 students will have acquired the skill after five sessions. But what if the lesson takes place in a university setting, and the goal is to teach 512 students? Using the formula above, we can determine the number of sessions required by solving for $x$ in the equation: $2^{x} = 512$. Using a simple internet search or logarithm, we can find that $x=9$. Therefore, only nine sessions are needed to teach 512 individuals the skill.
 
@@ -130,7 +130,7 @@ For example, $2^{5} = 32$, meaning that 32 students will have acquired the skill
 
 To estimate what tutor roles students can play in the Slonig educational model and what are probabilities of playing such roles let's examine a class consisting of 32 students. We will explain later why the chances of different roles are more or less the same in any student group size.
 
-**Tutor of 0 tutees role**: as shown in Figure 2. half of the students (16 from 32) gains a skill in the last session. That means they will pay for tutoring and getting a diploma but will not earn money by tutoring such skill as there will be no students who need it. If the class consists of 32 students, there will be 16 such students (depicted with the digit "0" in Figure 2).
+**Tutor of 0 tutees role**: as shown in Figure 2. half of the students (16 from 32) gains a skill in the last session. That means they will pay for tutoring and getting a badge but will not earn money by tutoring such skill as there will be no students who need it. If the class consists of 32 students, there will be 16 such students (depicted with the digit "0" in Figure 2).
 
 **Tutor of 1 tutees role**: $1/4$ of students (8 from 32) gain skill in a preterminal session. These students have one tutor and one tutee each, resulting in a zero net profit as the money earned from being a tutor compensates for the money spent on being tutored.
 
@@ -146,13 +146,13 @@ As the number of mentees increases, the probability of taking on such a role dec
 
 Increasing class size has little effect on the probabilities of different roles. For instance, in a class of 64 students, half of the students will take on the role of "tutor of 0 tutees", which is the same probability as in a class of 32 students.
 
-All students have a tutor, as all are required to obtain a diploma. The student with five tutees may receive their diploma by communicating with a tutor outside the group, such as a teacher or parent. As previously discussed, it is permitted to be a tutor without a diploma in the relevant skill; however, this increases the risk of failure. Hence, students typically choose first to study the skill, obtain the diploma and then teach others.
+All students have a tutor, as all are required to obtain a badge. The student with five tutees may receive their badge by communicating with a tutor outside the group, such as a teacher or parent. As previously discussed, it is permitted to be a tutor without a badge in the relevant skill; however, this increases the risk of failure. Hence, students typically choose first to study the skill, obtain the badge and then teach others.
 
 ### Each Tutoring Interaction Is Focused on a Specific Skill
 
 An important aspect of pedagogy is the structure and objectives of lessons and the expected outcome. However, in traditional education, there is no guarantee that teachers will have a well-defined plan or clear learning objectives for their students in each lesson. Allowing students to tutor their peers may exacerbate the problem as these student-tutors have yet to receive formal training in pedagogy.
 
-We have implemented a simple solution to this problem. In this approach, every tutoring interaction focuses on only one skill per interaction. Tutors can easily access a method for teaching the skill from a database recommended by the teacher. Once the tutor determines that the student has mastered the skill, they can award a diploma that is specific to that skill. By using this approach, we can ensure that each tutoring interaction is focused on one particular skill and that the tutor understands the objectives of the interaction.
+We have implemented a simple solution to this problem. In this approach, every tutoring interaction focuses on only one skill per interaction. Tutors can easily access a method for teaching the skill from a database recommended by the teacher. Once the tutor determines that the student has mastered the skill, they can award a badge that is specific to that skill. By using this approach, we can ensure that each tutoring interaction is focused on one particular skill and that the tutor understands the objectives of the interaction.
 
 ### Tutors Use a Simple Teaching Algorithm
 
@@ -162,7 +162,7 @@ The first step in the algorithm is to formulate a problem that the skill is mean
 
 The next step is to determine if the tutee can identify and correct errors in problem-solving. The tutor answers a problem formulated by the tutee incorrectly. For example: "The result of adding 4 and 2 is 3. Am I right?" If the tutee fails to detect and correct the error, the tutor provides the correct answer: "The result of adding 4 and 2 is 6. Repeat." After the tutee repeats the solution, the tutor asks them to formulate another similar problem.
 
-When the tutee starts to identify and correct errors in the tutor's answers, the tutor asks them to come back the next day to work on this skill to ensure that it is ingrained in long-term memory. The next day, the tutor starts from the beginning of the algorithm. Suppose the student immediately corrects the tutor's error. In that case, the tutor awards the tutee a diploma for the skill and receives payment for teaching and issuing the diploma. If the tutee cannot correct the error immediately, the tutor continues working through the algorithm until the tutee can identify and fix mistakes and asks the tutee to return the next day.
+When the tutee starts to identify and correct errors in the tutor's answers, the tutor asks them to come back the next day to work on this skill to ensure that it is ingrained in long-term memory. The next day, the tutor starts from the beginning of the algorithm. Suppose the student immediately corrects the tutor's error. In that case, the tutor awards the tutee a badge for the skill and receives payment for teaching and issuing the badge. If the tutee cannot correct the error immediately, the tutor continues working through the algorithm until the tutee can identify and fix mistakes and asks the tutee to return the next day.
 
 **Figure 3**
 
@@ -328,32 +328,32 @@ This algorithm can be utilized to train a wide range of skills, regardless of wh
         <td colspan="2" align="center"><i>Tutor:<i></td>
     </tr>
     <tr>
-        <td>Great! Buy the diploma from me</td>
-        <td>Great! Buy the diploma from me</td>
+        <td>Great! Buy the badge from me</td>
+        <td>Great! Buy the badge from me</td>
     </tr>
 </table>
 
 ### Some Students Become Experts
 
-Holding a diploma does not necessarily mean that a student has fully mastered the skill in question. It simply indicates that the tutor believes they have. However, there are several reasons why this belief may be misguided. For example, the tutor may not possess the skill themselves, may not have adequately assessed the student's proficiency, or the student may have forgotten the skill. To ensure the quality of education, our model employs experts who verify diplomas and have the authority to award students with "A" grades or other types of rewards. The primary expert at the start of a lesson is the master teacher, who leads and manages the class. However, due to time constraints, they may need help to verify all diplomas. The teacher can delegate this responsibility to select students who have already obtained a diploma in the skill being taught. The teacher will first verify that these students possess the skill. If they fail the verification, the teacher will hold the original tutor accountable. Those who pass the verification will take on **the role of experts** and get a reward from the teacher.
+Holding a badge does not necessarily mean that a student has fully mastered the skill in question. It simply indicates that the tutor believes they have. However, there are several reasons why this belief may be misguided. For example, the tutor may not possess the skill themselves, may not have adequately assessed the student's proficiency, or the student may have forgotten the skill. To ensure the quality of education, our model employs experts who verify badges and have the authority to award students with "A" grades or other types of rewards. The primary expert at the start of a lesson is the master teacher, who leads and manages the class. However, due to time constraints, they may need help to verify all badges. The teacher can delegate this responsibility to select students who have already obtained a badge in the skill being taught. The teacher will first verify that these students possess the skill. If they fail the verification, the teacher will hold the original tutor accountable. Those who pass the verification will take on **the role of experts** and get a reward from the teacher.
 
 ### Experts Earn Money Through Identification of Low-Quality Skills
 
-Why do students want to become experts? The expert status enables them to verify many diplomas and potentially identify ones not of high quality, resulting in reimbursement from the instructors who issued such diplomas. However, to prevent experts from falsely identifying all diplomas as low-quality to receive more rewards, students can choose which expert to contact. Such design creates competition among experts and promotes honesty.
+Why do students want to become experts? The expert status enables them to verify many badges and potentially identify ones not of high quality, resulting in reimbursement from the instructors who issued such badges. However, to prevent experts from falsely identifying all badges as low-quality to receive more rewards, students can choose which expert to contact. Such design creates competition among experts and promotes honesty.
 
-The teacher can also re-verify diplomas that an expert has already verified if they suspect any cheating, such as the expert verifying a diploma they issued. In the event of cheating, the teacher can prohibit the student from being an expert for a certain period and also receive reimbursement from the instructor who issued the diploma used in the cheating.
+The teacher can also re-verify badges that an expert has already verified if they suspect any cheating, such as the expert verifying a badge they issued. In the event of cheating, the teacher can prohibit the student from being an expert for a certain period and also receive reimbursement from the instructor who issued the badge used in the cheating.
 
-### A Tutee Can Allow a Tutor to Review a Diploma Issued by Another Tutor
+### A Tutee Can Allow a Tutor to Review a Badge Issued by Another Tutor
 
 Skills that are acquired but not used are prone to be forgotten. So, many educational systems rely on repetition. The Slonig educational model utilizes repetition in three ways:
 
 - Allow students who have acquired a skill to teach it to other students. In this way, the student reinforces their understanding of the skill by teaching it to others.
-- Our system uses repetition through expert verification of diplomas.
-- Tutors can work with their students to verify previous diplomas issued by other tutors.
+- Our system uses repetition through expert verification of badges.
+- Tutors can work with their students to verify previous badges issued by other tutors.
 
-If a skill has been forgotten, the tutor who identifies the problem receives reimbursement from the tutor who issued the diploma in the same way as an expert. This process benefits both the current tutor, as they potentially receive reimbursement, and the student, as they receive information about their current educational problems.
+If a skill has been forgotten, the tutor who identifies the problem receives reimbursement from the tutor who issued the badge in the same way as an expert. This process benefits both the current tutor, as they potentially receive reimbursement, and the student, as they receive information about their current educational problems.
 
-A student and a tutor may conspire against a previous tutor to receive reimbursement while the student still remembers the skill. This type of deception is not prohibited in any administrative way. Still, it is almost impossible in the long term - such a student would be banned from the community of tutors as dishonest and would lose the ability to receive new diplomas.
+A student and a tutor may conspire against a previous tutor to receive reimbursement while the student still remembers the skill. This type of deception is not prohibited in any administrative way. Still, it is almost impossible in the long term - such a student would be banned from the community of tutors as dishonest and would lose the ability to receive new badges.
 
 ### Comparing the Speed of Skill Acquisition of the Slonig Model to the Traditional Model
 
@@ -371,15 +371,15 @@ But why do we argue that the Slonig model is more efficient than the traditional
 - They automatically play the role of an expert
 - They have the authority to allow students to become experts
 
-This allows for two different models of teacher salary calculation. The first is a more traditional approach, where the teacher receives a salary from the school budget. This model is likely to be more prevalent during the transition from traditional education to the Slonig model. Under this option, the teacher does not receive any additional pay for tutoring or issuing diplomas. They teach 1-2 students for free and these students then spread the skill to other students for a fee. However, the teacher is still able to receive reimbursement from tutors in the same way as any expert, but the money received is added to the school budget and distributed among all students on an equal basis every month.
+This allows for two different models of teacher salary calculation. The first is a more traditional approach, where the teacher receives a salary from the school budget. This model is likely to be more prevalent during the transition from traditional education to the Slonig model. Under this option, the teacher does not receive any additional pay for tutoring or issuing badges. They teach 1-2 students for free and these students then spread the skill to other students for a fee. However, the teacher is still able to receive reimbursement from tutors in the same way as any expert, but the money received is added to the school budget and distributed among all students on an equal basis every month.
 
 The second approach is more market-oriented, where the teacher does not receive any salary from the school budget. Instead, they are allowed to earn money both as a tutor and as an expert. The money that was allocated in the school budget for the teacher's salary is instead distributed among students on an equal basis every month.
 
 ### Linking Education to the Real World by Paying Students for Learning
 
-The initial transition phase to the new educational system involves replacing traditional lectures with peer-to-peer tutoring and issuing diplomas. This change does not affect the salary of teachers and reduces their workload thus can be implemented smoothly. As a reward, students will get "A" grades as in the usual educational system. These grades are a form of payment for the opportunity to review their diplomas.
+The initial transition phase to the new educational system involves replacing traditional lectures with peer-to-peer tutoring and issuing badges. This change does not affect the salary of teachers and reduces their workload thus can be implemented smoothly. As a reward, students will get "A" grades as in the usual educational system. These grades are a form of payment for the opportunity to review their badges.
 
-However, like any other educational approach, this system is not directly linked to the real economy and job market. Thus the next step is to pay students not with grades but with actual money. It would involve educational organizations purchasing the option to review students' diplomas. This approach aims to regulate educational content through the supply and demand market mechanism. This stage also divides the teacher's salary into two parts: the fixed salary they receive from the educational organization and the student payment for serving as tutors and experts.
+However, like any other educational approach, this system is not directly linked to the real economy and job market. Thus the next step is to pay students not with grades but with actual money. It would involve educational organizations purchasing the option to review students' badges. This approach aims to regulate educational content through the supply and demand market mechanism. This stage also divides the teacher's salary into two parts: the fixed salary they receive from the educational organization and the student payment for serving as tutors and experts.
 
 The idea of paying students for their education may raise ethical concerns, as the traditional view is that education is valuable in and of itself. However, it is essential to acknowledge that all nations invest in education because it ultimately leads to greater economic growth in the long term. Therefore, students actively engaged in their studies contribute to this process and should be compensated for their efforts.
 
@@ -391,7 +391,7 @@ The Slonig model employs tutors to educate students on specific skills. By allow
 
 ### Artificial Intelligence Bots Can Be Integrated As Tutors in Slonig Model
 
-When AI language models attain a diploma from a tutor, they can teach other human students and award them with diplomas. This vision provides a clear economic incentive for major tech companies to invest in training AI with the assistance of human tutors who are students from educational institutions.
+When AI language models attain a badge from a tutor, they can teach other human students and award them with badges. This vision provides a clear economic incentive for major tech companies to invest in training AI with the assistance of human tutors who are students from educational institutions.
 
 ## Financial Model of the Proposed Educational Reform
 
@@ -450,9 +450,9 @@ When considering the wages of tutors and experts, it's important to note that a 
 | Japan       | 1620.17 | 4762.09 | 2.94    |
 | Average     |         |         | 3.16    |
 
-### Diploma Price and Reimbursement Amount
+### Badge Price and Reimbursement Amount
 
-Let's calculate the reimbursement amount and mean diploma price by utilizing Ethiopia as an example, as its minimal teacher wages make it easier to work with small numbers in the calculations.
+Let's calculate the reimbursement amount and mean badge price by utilizing Ethiopia as an example, as its minimal teacher wages make it easier to work with small numbers in the calculations.
 
 The minimum teacher wage in Ethiopia is 30.20 USD per month. To calculate the cost per minute of work, we must consider that a teacher works 21 days per month, 8 hours per day, and each hour is 60 minutes. Using these figures, we can determine that each minute of a teacher's work in Ethiopia costs 0.003 USD:
 
@@ -460,7 +460,7 @@ $30.20 / (21 * 8 * 60) = 0.003$
 
 As previously discussed, we use the minimum teacher wage of a country as an approximation for the cost of tutor work. Therefore, in Ethiopia, a minute of tutor work costs 0.003 USD.
 
-A reimbursement is financial compensation paid by a tutor to an expert who discovers that a student does not possess a skill listed on their diploma. Experts must verify multiple diplomas to find one missing a skill, so we need to estimate how many diplomas are necessary. It is known that students forget [one skill out of the four studied](https://link.springer.com/article/10.1007/s10643-022-01332-3). Hence, an expert typically must verify four diplomas on average to get one reimbursement. Our experiments have shown that it takes an expert 1.5 minutes to verify one diploma; thus, they spend 6 minutes (4*1.5) to get one reimbursement. Therefore, reimbursement is equivalent to the cost of six minutes of an expert's work. As mentioned, an expert's salary is, on average, 3.16 times higher than the minimum teacher wage. Thus 1 minute of an expert work price should equal 0.00948 USD in Ethiopia:
+A reimbursement is financial compensation paid by a tutor to an expert who discovers that a student does not possess a skill listed on their badge. Experts must verify multiple badges to find one missing a skill, so we need to estimate how many badges are necessary. It is known that students forget [one skill out of the four studied](https://link.springer.com/article/10.1007/s10643-022-01332-3). Hence, an expert typically must verify four badges on average to get one reimbursement. Our experiments have shown that it takes an expert 1.5 minutes to verify one badge; thus, they spend 6 minutes (4*1.5) to get one reimbursement. Therefore, reimbursement is equivalent to the cost of six minutes of an expert's work. As mentioned, an expert's salary is, on average, 3.16 times higher than the minimum teacher wage. Thus 1 minute of an expert work price should equal 0.00948 USD in Ethiopia:
 
 $0.003 * 3.16 = 0.00948$
 
@@ -474,15 +474,15 @@ During 4-year testing of the Slonig educational model in different schools, we h
 
 $0.003*11 = 0.033$
 
-The tutor receives compensation from the tutee for their time and issuing a diploma that an expert can verify. Without a premium for giving the diploma, the tutor would incur a loss, as it is impossible to eliminate the possibility of the tutee forgetting the skill. As previously stated, tutees forget one skill out of every four studied. Therefore, the tutor should add a premium of 1 reimbursement for every four skills taught, or $1/4$ of that amount for each diploma issued. As a result, **the total cost of a diploma in Ethiopia would be 0.04722 USD**:
+The tutor receives compensation from the tutee for their time and issuing a badge that an expert can verify. Without a premium for giving the badge, the tutor would incur a loss, as it is impossible to eliminate the possibility of the tutee forgetting the skill. As previously stated, tutees forget one skill out of every four studied. Therefore, the tutor should add a premium of 1 reimbursement for every four skills taught, or $1/4$ of that amount for each badge issued. As a result, **the total cost of a badge in Ethiopia would be 0.04722 USD**:
 
 $0.033+0.05688*1/4=0.04722$
 
-Suppose we divide the calculated reimbursement amount by the diploma price. In that case, we can conclude that the reimbursement is 1.2 times greater than the diploma price:
+Suppose we divide the calculated reimbursement amount by the badge price. In that case, we can conclude that the reimbursement is 1.2 times greater than the badge price:
 
 $0.05688/0.04722 = 1.2$
 
-Because all issued diplomas go through verification, it is NOT profitable for a tutor to cheat the system by issuing many fraudulent diplomas. Doing so would result in them losing 1.2 times more money than they would earn.
+Because all issued badges go through verification, it is NOT profitable for a tutor to cheat the system by issuing many fraudulent badges. Doing so would result in them losing 1.2 times more money than they would earn.
 
 ### Situations Leading To Earning and Spending Money
 
@@ -496,18 +496,18 @@ $Profit = -D + D * N{_t} - R * N{_f}$
 
 Where:
 
-- $D$ - diploma price
+- $D$ - badge price
 - $R$ - reimbursement amount
 - $N{_t}$ - tutees count of the tutor
 - $N{_f}$ - number of tutees who have forgotten the skill.
 
-If a student has no tutees, then $N{_t}$​ and $N{_f}$​ are equal to 0. The formula gives us a profit value equal to $-D$ for these students: they only pay for a diploma to their tutors but don't earn anything.
+If a student has no tutees, then $N{_t}$​ and $N{_f}$​ are equal to 0. The formula gives us a profit value equal to $-D$ for these students: they only pay for a badge to their tutors but don't earn anything.
 
 As determined above, $R$ is 1.2 times larger than $D$, so we can replace $R$ in the equation with $1.2*D$:
 
 $Profit = -D + D * N{_t} - 1.2 * D * N{_f}$
 
-Next, we will remove the price of the diploma from the parentheses:
+Next, we will remove the price of the badge from the parentheses:
 
 $Profit = D * (-1 + N{_t} - 1.2 * N{_f})$
 
@@ -551,7 +551,7 @@ The probability of occupying each role can be obtained from Figure 2 and was cal
 
 If a student holds the role of a tutee and does not become a tutor, they will incur a financial loss each time. Thus, the probability of losing money while occupying the role of "tutor with 0 tutees" is 1.
 
-A tutee pays their tutor not only for studying a skill but also for obtaining a diploma. The diploma serves a similar purpose to an insurance policy, as the tutor promises to reimburse the expert if the tutee forgets the skill. Like in the insurance industry, unfavorable events can occur more frequently than expected, causing the tutor to run out of money from reimbursements. The probability of a tutee forgetting a skill is [0.25](https://pubmed.ncbi.nlm.nih.gov/21574747/). Hence, if a tutor has only one tutee, they face a 0.25 probability of paying a reimbursement.
+A tutee pays their tutor not only for studying a skill but also for obtaining a badge. The badge serves a similar purpose to an insurance policy, as the tutor promises to reimburse the expert if the tutee forgets the skill. Like in the insurance industry, unfavorable events can occur more frequently than expected, causing the tutor to run out of money from reimbursements. The probability of a tutee forgetting a skill is [0.25](https://pubmed.ncbi.nlm.nih.gov/21574747/). Hence, if a tutor has only one tutee, they face a 0.25 probability of paying a reimbursement.
 
 A tutor with two tutees has two scenarios that result in a financial loss:
 
@@ -617,7 +617,7 @@ All such shares are calculated and represented in Table 6.
 
 ### Student Starting Capital
 
-Our educational model requires tutees to pay their tutors for skill-teaching and diploma issuance and obligates tutors to provide reimbursement if a tutee forgets the skill certified by the diploma. To make this work, we must ensure that students have sufficient funds for these financial interactions. As previously discussed, there is a 62.9% chance that a student will spend more money while learning a skill than they earn. However, in the remaining 37.1% of cases, the student makes the same or more than they spend. It should result in a near-zero profit for the student over time. But what if a student has an unlucky streak and all the skills they study involve roles that result in money loss? In that case, the student would end up paying for their education, contrary to our belief that education should be a free resource for all people on Earth. To address this issue, we must provide each student with sufficient funds at the outset of this model to prevent bankruptcy from occurring.
+Our educational model requires tutees to pay their tutors for skill-teaching and badge issuance and obligates tutors to provide reimbursement if a tutee forgets the skill certified by the badge. To make this work, we must ensure that students have sufficient funds for these financial interactions. As previously discussed, there is a 62.9% chance that a student will spend more money while learning a skill than they earn. However, in the remaining 37.1% of cases, the student makes the same or more than they spend. It should result in a near-zero profit for the student over time. But what if a student has an unlucky streak and all the skills they study involve roles that result in money loss? In that case, the student would end up paying for their education, contrary to our belief that education should be a free resource for all people on Earth. To address this issue, we must provide each student with sufficient funds at the outset of this model to prevent bankruptcy from occurring.
 
 The probability of experiencing bad luck while studying the first skill is 0.629. If our target audience is 1,966,096,793 people, then $0.629 * 1,966,096,793 = 1,236,730,563$ of them will experience it. A sequence of 2 bad luck events starting from the implementation of our approach will affect $0.629 * 1,236,730,563 = 777,938,548$ people, and so on (see appendix 1 for all calculation values). Approximately 19 million people will experience a sequence of 10 bad luck events while learning the first ten skills.
 
@@ -711,21 +711,21 @@ Administrators and politicians running government or educational organizations w
 
 ### Slon Token Price
 
-As previously discussed, Slon is a token designed to be used by students in the Slonig educational model instead of actual currency. The diploma cost and reimbursements can vary between countries, with Ethiopia having the lowest diploma cost among the most populous countries. Let's determine the price of a diploma in Ethiopia in Slon and the amount of reimbursement in Slon nominal.
+As previously discussed, Slon is a token designed to be used by students in the Slonig educational model instead of actual currency. The badge cost and reimbursements can vary between countries, with Ethiopia having the lowest badge cost among the most populous countries. Let's determine the price of a badge in Ethiopia in Slon and the amount of reimbursement in Slon nominal.
 
-The calculated diploma cost in Ethiopia is 0.04722 USD, with a reimbursement of 0.05688 USD (1.2 times larger than the diploma cost). When selecting a nominal for the Slon token, it's essential to consider if students will be comfortable using it in transactions. The diploma cost in Slon should have as few decimal places as possible. It would be ideal if the diploma cost and reimbursement were whole numbers. The smallest whole number that gives an integer after division by 1.2 is 6. So, we propose using 6 Slon for the reimbursement and 5 Slon for the diploma cost in Ethiopia. At the same time, the diploma cost in Ethiopia is 0.04722 USD or 5 Slon. This calculation gives us a value of 1 Slon, being approximately 0.01 USD:
+The calculated badge cost in Ethiopia is 0.04722 USD, with a reimbursement of 0.05688 USD (1.2 times larger than the badge cost). When selecting a nominal for the Slon token, it's essential to consider if students will be comfortable using it in transactions. The badge cost in Slon should have as few decimal places as possible. It would be ideal if the badge cost and reimbursement were whole numbers. The smallest whole number that gives an integer after division by 1.2 is 6. So, we propose using 6 Slon for the reimbursement and 5 Slon for the badge cost in Ethiopia. At the same time, the badge cost in Ethiopia is 0.04722 USD or 5 Slon. This calculation gives us a value of 1 Slon, being approximately 0.01 USD:
 
 $0.04722 / 5 = 0.009444$
 
-### Diploma Price and Reimbursement Amount in Slon Nominal
+### Badge Price and Reimbursement Amount in Slon Nominal
 
-Countries have varying teacher salaries, leading to variations in the diploma cost and the number of Slon each student should receive. Table 8 shows these indicators calculated in USD. In contrast, Table 9 presents them in Slon using the previously estimated Slon value of approximately 0.01 USD.
+Countries have varying teacher salaries, leading to variations in the badge cost and the number of Slon each student should receive. Table 8 shows these indicators calculated in USD. In contrast, Table 9 presents them in Slon using the previously estimated Slon value of approximately 0.01 USD.
 
 **Table 9**
 
 *Slon Token Needed To Drive The Slonig System*
 
-|  | Times min teacher wage  is larger than Ethiopian counterpart | Free tokens given to each student, Slon | Diploma price, Slon | Reimbursement amount, Slon |
+|  | Times min teacher wage  is larger than Ethiopian counterpart | Free tokens given to each student, Slon | Badge price, Slon | Reimbursement amount, Slon |
 | ----------- | ------ | ----- | --- | --- |
 | India       | 4.75   | 1114  | 24  | 29  |
 | China       | 54.23  | 12715 | 272 | 326 |
@@ -803,7 +803,7 @@ There are several factors to consider in building this system. Firstly, the pric
 
 Secondly, while distributing Slon tokens through established distributors who already work with schools, there is a risk of missing demand if efforts are not made to promote the token through known schools, as other companies may reach these schools and universities first.
 
-The third factor to consider is network effects. The Slon tokens serve as collateral for diplomas within the system, so schools prefer to use the same Slon tokens as other schools. This way, students can present diplomas from one educational organization to another, as they all utilize the same electronic system and tokens. As a result, after the initial distribution of Slon tokens, there will be a demand solely for Slon tokens and not others.
+The third factor to consider is network effects. The Slon tokens serve as collateral for badges within the system, so schools prefer to use the same Slon tokens as other schools. This way, students can present badges from one educational organization to another, as they all utilize the same electronic system and tokens. As a result, after the initial distribution of Slon tokens, there will be a demand solely for Slon tokens and not others.
 
 Considering this factor, it makes sense to collaborate with established sellers who are connected to educational organizations. Offer them Slon tokens at a significant discount to incentivize them to become token distributors. The discount should account for the possibility that these large distributors may threaten the system by issuing their tokens. It is essential to increase the cost of issuing alternative tokens and their promotion compared to Slon tokens.
 
@@ -845,7 +845,7 @@ According to the listed blockchains, Polkadot emerges as the clear winner with i
 
 The proposed system, Slonig, is based on the principles of the [Polkadot blockchain platform](https://polkadot.network/PolkaDotPaper.pdf). It consists of two interconnected components: [Slon](https://github.com/slonigiraf/whitepaper/blob/main/slon/ENG.md), a reputation system, and [GIRAF](https://github.com/slonigiraf/whitepaper/blob/main/giraf/ENG.md), a lobbying and legislation system. These two systems are implemented as separate blockchains connected through a relay chain, allowing for the deployment of multiple Slon and GIRAF modules (see Figure 4). This design provides scalability and allows the system to accommodate many users while also addressing the varying needs of the population.
 
-The GIRAF component of Slonig utilizes the consensus mechanisms of Polkadot to facilitate agreement on essential education skills and teaching methods. The Slon module, which also serves as the name of the Slonig cryptocurrency, stores information about diploma validity and tutors' reputation.
+The GIRAF component of Slonig utilizes the consensus mechanisms of Polkadot to facilitate agreement on essential education skills and teaching methods. The Slon module, which also serves as the name of the Slonig cryptocurrency, stores information about badge validity and tutors' reputation.
 
 ## Appendix 1
 

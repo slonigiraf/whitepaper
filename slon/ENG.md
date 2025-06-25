@@ -12,7 +12,7 @@ To address this problem, I propose splitting a person's reputation into two part
 
 A good referee may be penalized if a worker forgets the skills mentioned in the recommendation. To mitigate this risk, the worker should pay a premium to the referee, similar to an insurance model. In this way, the referee will retain money in the long term.
 
-This system was initially developed at the Slonigiraf private school to motivate teachers to perform well and eventually led to a peer-to-peer learning model. Every student can act as a tutor and issue a recommendation about their mentee. The mentee pays the tutor for teaching and issuing a recommendation letter (diploma). The senior teacher buys recommendation letters about mentees giving them high grades (or money). This approach has the potential to transform all types of education.
+This system was initially developed at the Slonigiraf private school to motivate teachers to perform well and eventually led to a peer-to-peer learning model. Every student can act as a tutor and issue a recommendation about their mentee. The mentee pays the tutor for teaching and issuing a recommendation letter (badge). The senior teacher buys recommendation letters about mentees giving them high grades (or money). This approach has the potential to transform all types of education.
 
 The proposed reputation system resists Big Brother surveillance and any form of discrimination. All recommendation letters are stored privately on personal devices and are only shown to organizations that the person trusts. Additionally, accounts are pseudonymous, like in Bitcoin, and a person can have multiple accounts to store Slon tokens. The Slon token balance cannot be transformed into a discriminatory social credit system (e.g., the Chinese system) because anyone can buy Slon. If a criminal buys Slon and has a high Slon balance, it does not make them good or socially acceptable.
 
@@ -89,7 +89,7 @@ The digital reputation of Slon is free from this drawback. It does not lead to d
 
 ## Guarantees
 
-Anyone can use a Slon reputation to issue a guarantee (diploma) for another person's skill. Because the issuance of a guarantee can lead to a decrease in reputation, the guarantor asks for a certain amount of money from the guarantee recipient in exchange for its issuance.
+Anyone can use a Slon reputation to issue a guarantee (badge) for another person's skill. Because the issuance of a guarantee can lead to a decrease in reputation, the guarantor asks for a certain amount of money from the guarantee recipient in exchange for its issuance.
 
 Most often, tutors act as guarantors, and tutees buy guarantees to resell them to future employers or patrons.
 
