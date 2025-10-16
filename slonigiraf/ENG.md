@@ -2,6 +2,10 @@
 
 _Denis Reshetov / E-mail:_ [_reshetovdenis@gmail.com_](mailto:reshetovdenis@gmail.com) _/ Telegram:_ [_@denisreshetov_](https://t.me/denisreshetov)
 
+## DISCLAIMER <!-- omit from toc -->
+
+This document is provided for research and informational purposes only and remains under active development. It does not constitute financial, legal, or investment advice, nor does it represent any form of offer, solicitation, or contractual obligation. All information herein is provided “as is”, without any warranty or guarantee of accuracy, completeness, or fitness for a particular purpose. Any actions taken based on this document are at the reader’s own risk.
+
 ## Annotation <!-- omit from toc -->
 
 We explore how education affects economic growth and present an education model that aims to outperform current models threefold. The model seeks to increase the number of acquired skills and has been implemented in several secondary schools with reported success. Our educational approach emphasizes peer-to-peer learning and addresses issues commonly encountered in this method. The model is expected to positively impact the world economy, potentially adding 8 trillion USD to the world economy each year. We also investigate how private enterprises can globally expand the proposed educational model, realizing profits from the reform, and examine the potential connection to artificial intelligence training and future use of it in education.
